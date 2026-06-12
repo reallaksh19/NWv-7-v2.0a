@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781296690076,
-  "contentHash": "89b08e6cc33d",
+  "fetchedAt": 1781302463848,
+  "contentHash": "b52c809f8d3c",
   "breaking": [
     {
       "title": "Midland Texas mass shooting: Mayor says shooter who killed 1, injured 11 was dead after hourslong standoff",
@@ -16,7 +16,7 @@
       "id": "92c7db6736a46976",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.86,
+      "breakingScore": 6.726,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,6 +25,29 @@
         "times_of_india"
       ],
       "firstSeen": 1781290623000
+    },
+    {
+      "title": "Jaishankar speaks to Rubio, lodges strong protest over U.S. Navy attacks that killed three Indians",
+      "summary": "“Spoke to U.S. Secretary of State Marco Rubio this evening. I reiterated India’s strong protest at the attacks by the U.S. Navy in the Gulf that killed three Indian mariners,” Mr. Jaishankar said.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/jaishankar-speaks-to-rubio-lodges-strong-protest-over-us-navy-attacks-that-killed-three-indians/article71095295.ece",
+      "publishedAt": 1781296569000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "6bd7dcd8654c66a5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.864,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781296569000
     },
     {
       "title": "West Asia War LIVE: Abbas Araghchi says draft U.S. deal includes ending naval blockade, Hormuz arrangements",
@@ -39,7 +62,7 @@
       "id": "06987a5dd39bae2b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.96,
+      "breakingScore": 3.827,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,7 +70,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781260779000
+      "firstSeen": 1781294975000
     },
     {
       "title": "Bhopal Man Arrested, Was Allegedly Planning Lone-Wolf Attacks",
@@ -62,7 +85,7 @@
       "id": "6eb8343836b507e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.675,
+      "breakingScore": 3.541,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,19 +96,19 @@
       "firstSeen": 1781282635000
     },
     {
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781276980000,
-      "category": "world",
+      "title": "FIFA World Cup 2026: Canada’s Larin salvages 1-1 draw against Bosnia in Group B opener",
+      "summary": "Cyle Larin, when ​introduced in the 76th minute, made an immediate ⁠impact, swivelling in the box and ⁠firing home a deflected strike less than three minutes ‌later to equalise and send the home crowd into ​raptures.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-canadas-larin-salvages-1-1-draw-against-bosnia-in-group-b-opener/article71095340.ece",
+      "publishedAt": 1781300193000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "a986f9e29beb4e9d",
+      "id": "38bb5ea84811aadc",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.544,
+      "breakingScore": 2.447,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -94,31 +117,7 @@
         "bbc",
         "the_hindu"
       ],
-      "firstSeen": 1781265688000
-    },
-    {
-      "title": "SpaceX shares rise 11% in strong Nasdaq debut after $75 billion IPO",
-      "summary": "SpaceX shares surged on their Nasdaq debut, valuing the company at nearly $1.96 trillion. This historic Initial Public Offering made Elon Musk the world's first trillionaire. The rocket maker raised substantial funds, surpassing Saudi Aramco's IPO. Investors are watching closely as SpaceX aims for Mars and beyond, with Starlink driving its growth.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-rise-11-in-strong-nasdaq-debut-after-75-billion-ipo/articleshow/131691269.cms",
-      "publishedAt": 1781287563000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4ff53405dc50369b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.789,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "ndtv"
-      ],
-      "firstSeen": 1781284593000
+      "firstSeen": 1781276339000
     },
     {
       "title": "Police propose measures to tackle Kochi city’s traffic woes on a war footing",
@@ -133,7 +132,7 @@
       "id": "fb28824eeac9c49c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.457,
+      "breakingScore": 2.323,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -144,42 +143,19 @@
       "firstSeen": 1781294819000
     },
     {
-      "title": "US stocks: US market ends up on Iran war peace deal hopes, SpaceX's historic debut",
-      "summary": "U.S. stocks climbed Friday, buoyed by hopes of a U.S.-Iran peace deal and the historic debut of SpaceX, which surged past its IPO price. Progress in peace talks eased inflation and interest rate concerns, while SpaceX's strong opening captivated investors despite its recent losses. Other space stocks saw a slight pullback.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-up-on-iran-war-peace-deal-hopes-spacexs-historic-debut/articleshow/131693450.cms",
-      "publishedAt": 1781294541000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "1b0d0f4a300fadcd",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.45,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "economic_times"
-      ],
-      "firstSeen": 1781270766000
-    },
-    {
       "title": "Undertrial accused in Bengaluru serial blasts case dies after health complications",
       "summary": "",
-      "source": "The Hindu",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/cities/bangalore/undertrial-accused-in-bengaluru-serial-blasts-case-dies-after-health-complications/article71095113.ece",
       "publishedAt": 1781293050000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "32a887cc97ad5cbd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.416,
+      "breakingScore": 2.282,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -188,6 +164,29 @@
         "the_hindu"
       ],
       "firstSeen": 1781293050000
+    },
+    {
+      "title": "Sai University executive council member Sriram Panchu resigns over sexual and academic misconduct of Vice-Chancellor",
+      "summary": "",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/sai-university-executive-council-member-sriram-panchu-resigns-over-sexual-and-academic-misconduct-of-vice-chancellor/article71093070.ece",
+      "publishedAt": 1781292791000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "17b3906c808bd187",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.276,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781292791000
     }
   ]
 }
