@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781358396275,
-  "contentHash": "b5b46cf74e65",
+  "fetchedAt": 1781364517347,
+  "contentHash": "aa562a6a12e5",
   "breaking": [
     {
       "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July, as deal to end war nears",
@@ -16,7 +16,7 @@
       "id": "98015981cc9a83a2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.407,
+      "breakingScore": 5.266,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +39,7 @@
       "id": "e8cfbee0b54575d3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.361,
+      "breakingScore": 5.219,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -62,7 +62,7 @@
       "id": "0bc1e5c9197e6385",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.217,
+      "breakingScore": 5.075,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,44 +73,43 @@
       "firstSeen": 1781346157000
     },
     {
-      "title": "Watch: IAF AN-32 aircraft crashes in Assam’s Jorhat",
-      "summary": "An Indian Air Force (IAF) Antonov AN-32 transport aircraft met with a fatal accident while attempting to land at the Rowriah airbase in Jorhat district on June 13. The IAF has confirmed that all five personnel on board tragically lost their lives in the line of duty.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/videos/watch-iaf-an-32-aircraft-crashes-in-assams-jorhat/article71097854.ece",
-      "publishedAt": 1781357789000,
-      "category": "topStories",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "summary": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781364265000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "a8aed2fb5e1eb3e3",
+      "id": "ed49145d64382dd4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.486,
+      "breakingScore": 3.994,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "bbc",
+        "ndtv"
       ],
-      "firstSeen": 1781354122000
+      "firstSeen": 1781356803000
     },
     {
-      "title": "Two Kerala nursing students killed in motorcycle crash in Kengeri",
-      "summary": "",
+      "title": "Death toll in Vizag steel plant blast rises to 10; RINL initiates disciplinary action, suspends 22",
+      "summary": "Gokivada Suribabu, a contract worker, succumbs to burns while undergoing treatment in a private hospital in Visakhapatnam",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/two-nursing-students-killed-in-road-accident/article71096624.ece",
-      "publishedAt": 1781357417000,
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/death-toll-in-vizag-steel-plant-blast-rises-to-10/article71097030.ece",
+      "publishedAt": 1781363712000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "f41e1b306d5a5c74",
+      "id": "f2914c118b45c319",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.977,
+      "breakingScore": 3.981,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -118,22 +117,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781357417000
+      "firstSeen": 1781363712000
     },
     {
-      "title": "Siachen Runs To Deadly Accidents: History Of AN-32 Which Crashed Today",
-      "summary": "The AN-32 has served as a key part of India's military air transport for decades.",
-      "source": "NDTV",
+      "title": "Indian Air Force's AN-32 Transport Aircraft Crashes In Assam's Jorhat, Five Killed",
+      "summary": "The Indian Air Force confirmed the incident and said investigation is underway",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/indian-air-force-crash-an-32-jorhat-assam-siachen-runs-to-deadly-accidents-history-of-an-32-which-crashed-today-11631716#publisher=newsstand",
-      "publishedAt": 1781348476000,
-      "category": "topStories",
+      "url": "https://www.ndtv.com/india-news/indian-air-forces-an-32-transport-aircraft-crashes-in-assams-jorhat-11630853#publisher=newsstand",
+      "publishedAt": 1781354122000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "84d49d9a8d50179b",
+      "id": "f8b01297c3f2996f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.77,
+      "breakingScore": 3.759,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -141,7 +140,7 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1781348476000
+      "firstSeen": 1781354122000
     },
     {
       "title": "Ukrainian strike kills one, wounds three in southern Russia",
@@ -156,7 +155,7 @@
       "id": "ab74df0af76853a5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.663,
+      "breakingScore": 3.522,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -179,7 +178,7 @@
       "id": "aeea570a806b1e89",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.835,
+      "breakingScore": 2.693,
       "breakingReasons": [
         "multi_source_velocity"
       ],
