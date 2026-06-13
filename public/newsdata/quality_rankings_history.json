@@ -678,5 +678,22 @@
     "generatedAt": 1781330480233,
     "overallScore": 0.3268,
     "overallStatus": "FAIL"
+  },
+  {
+    "destinationScores": {
+      "buzz": 0.0,
+      "insight": 0.4637,
+      "localTravel": 0.0,
+      "upAhead": 0.8501
+    },
+    "destinationStatuses": {
+      "buzz": "FAIL",
+      "insight": "WARN",
+      "localTravel": "FAIL",
+      "upAhead": "WARN"
+    },
+    "generatedAt": 1781343929777,
+    "overallScore": 0.3285,
+    "overallStatus": "FAIL"
   }
 ]
