@@ -1,47 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781344459874,
-  "contentHash": "b5b50304571d",
+  "fetchedAt": 1781351467016,
+  "contentHash": "ce8fdf1c3b45",
   "breaking": [
-    {
-      "title": "Five IAF personnel killed in AN-32 aircraft crash in Assam's Jorhat",
-      "summary": "A court of inquiry is being constituted to ascertain the cause of the accident, the IAF says",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/assam/iaf-aircraft-an-32-crashes-while-landing-in-assams-jorhat/article71096781.ece",
-      "publishedAt": 1781342434000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "8fef002368a50be0",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.953,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781341444000
-    },
     {
       "title": "Lebanon reports Israeli strikes in south after evacuation warning",
       "summary": "Israeli airstrikes hit several areas covered by the warning, including the villages of Rihan and Sujud, located not far from Nabatieh",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
-      "publishedAt": 1781343531000,
-      "category": "topStories",
+      "publishedAt": 1781346157000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "0bc1e5c9197e6385",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.478,
+      "breakingScore": 5.377,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -49,45 +24,68 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781343073000
+      "firstSeen": 1781346157000
     },
     {
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781323747000,
-      "category": "world",
+      "title": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
+      "summary": "Khamenei, was ‌killed in ​Israeli and U.S. strikes ⁠on Iran in February",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-burial-set-for-july-9/article71097431.ece",
+      "publishedAt": 1781351210000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "dab54f307d371e12",
+      "id": "98015981cc9a83a2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.021,
+      "breakingScore": 3.994,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "bbc"
+        "the_hindu"
       ],
-      "firstSeen": 1781323747000
+      "firstSeen": 1781351210000
+    },
+    {
+      "title": "Siachen Runs To Deadly Accidents: History Of AN-32 Which Crashed Today",
+      "summary": "The AN-32 has served as a key part of India's military air transport for decades.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/indian-air-force-crash-an-32-jorhat-assam-siachen-runs-to-deadly-accidents-history-of-an-32-which-crashed-today-11631716#publisher=newsstand",
+      "publishedAt": 1781348476000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "84d49d9a8d50179b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.931,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781348476000
     },
     {
       "title": "Ukrainian strike kills one, wounds three in southern Russia",
       "summary": "The attack damaged port installations in the Temryuk district and as a result of falling drone debris, a fire broke out at a maritime terminal, killing one person",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/ukrainian-strike-kills-one-wounds-three-in-southern-russia/article71096830.ece",
       "publishedAt": 1781343848000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "ab74df0af76853a5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.986,
+      "breakingScore": 3.824,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -96,29 +94,6 @@
         "the_hindu"
       ],
       "firstSeen": 1781343848000
-    },
-    {
-      "title": "DRDO demonstrates advanced missile defence, anti-ship strike capabilities in three successful flight tests",
-      "summary": "It further mentioned that the multi-layered BMD capability was successfully demonstrated with interceptor missiles engaging and destroying their designated targets.",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/drdo-demonstrates-advanced-missile-defence-anti-ship-strike-capabilities-in-three-successful-flight-tests/article71096810.ece",
-      "publishedAt": 1781341751000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "acc55942e4997bbb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.937,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781341751000
     },
     {
       "title": "Opinion: Opinion | Why No 'Law' Can Bring Justice For 3 Indian Sailors Killed In US Attack",
@@ -133,7 +108,7 @@
       "id": "d8ed5dc96c7d1e9b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.854,
+      "breakingScore": 3.692,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -156,7 +131,7 @@
       "id": "ec8a2f7dbbc7b783",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.795,
+      "breakingScore": 3.633,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -167,27 +142,52 @@
       "firstSeen": 1781335600000
     },
     {
-      "title": "Mission Sudarshan Chakra To Boost India's Missile Defence: Rajnath Singh",
-      "summary": "India's new missile defence system promises strategic autonomy and enhanced national security.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/mission-sudarshan-chakra-set-to-become-multi-level-missile-defence-system-rajnath-singh-11629418#publisher=newsstand",
-      "publishedAt": 1781342897000,
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781351262000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "aeea570a806b1e89",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.995,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1781346559000
+    },
+    {
+      "title": "Lt. Gen. Dhiraj Seth appointed next Army Chief",
+      "summary": "The present Chief of the Army Staff General Upendra Dwivedi retires from service on June 30",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/lt-gen-dhiraj-seth-appointed-next-army-chief/article71097261.ece",
+      "publishedAt": 1781349632000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "f8511536b621551b",
+      "id": "55d166a987135f0c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.464,
+      "breakingScore": 2.958,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "ndtv"
+        "ndtv",
+        "the_hindu"
       ],
-      "firstSeen": 1781342897000
+      "firstSeen": 1781346674000
     }
   ]
 }
