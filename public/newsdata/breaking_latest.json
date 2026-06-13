@@ -1,8 +1,54 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781351467016,
-  "contentHash": "ce8fdf1c3b45",
+  "fetchedAt": 1781358396275,
+  "contentHash": "b5b46cf74e65",
   "breaking": [
+    {
+      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July, as deal to end war nears",
+      "summary": "Khamenei, was ‌killed in ​Israeli and U.S. strikes ⁠on Iran in February",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-burial-set-for-july-9/article71097431.ece",
+      "publishedAt": 1781354395000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "98015981cc9a83a2",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.407,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781354395000
+    },
+    {
+      "title": "15 Weeks, 5,000 Strikes: How US-Iran War Spiralled Across Middle East",
+      "summary": "Countries that were counted among the safest in the world have been sending incoming missile alerts.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-15-weeks-5-000-strikes-how-us-iran-war-spiralled-across-middle-east-11631934#publisher=newsstand",
+      "publishedAt": 1781352372000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "e8cfbee0b54575d3",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.361,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781352372000
+    },
     {
       "title": "Lebanon reports Israeli strikes in south after evacuation warning",
       "summary": "Israeli airstrikes hit several areas covered by the warning, including the villages of Rihan and Sujud, located not far from Nabatieh",
@@ -16,7 +62,7 @@
       "id": "0bc1e5c9197e6385",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.377,
+      "breakingScore": 5.217,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,19 +73,44 @@
       "firstSeen": 1781346157000
     },
     {
-      "title": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
-      "summary": "Khamenei, was ‌killed in ​Israeli and U.S. strikes ⁠on Iran in February",
+      "title": "Watch: IAF AN-32 aircraft crashes in Assam’s Jorhat",
+      "summary": "An Indian Air Force (IAF) Antonov AN-32 transport aircraft met with a fatal accident while attempting to land at the Rowriah airbase in Jorhat district on June 13. The IAF has confirmed that all five personnel on board tragically lost their lives in the line of duty.",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-burial-set-for-july-9/article71097431.ece",
-      "publishedAt": 1781351210000,
+      "url": "https://www.thehindu.com/videos/watch-iaf-an-32-aircraft-crashes-in-assams-jorhat/article71097854.ece",
+      "publishedAt": 1781357789000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "98015981cc9a83a2",
+      "id": "a8aed2fb5e1eb3e3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.994,
+      "breakingScore": 4.486,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781354122000
+    },
+    {
+      "title": "Two Kerala nursing students killed in motorcycle crash in Kengeri",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/two-nursing-students-killed-in-road-accident/article71096624.ece",
+      "publishedAt": 1781357417000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f41e1b306d5a5c74",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.977,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,22 +118,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781351210000
+      "firstSeen": 1781357417000
     },
     {
       "title": "Siachen Runs To Deadly Accidents: History Of AN-32 Which Crashed Today",
       "summary": "The AN-32 has served as a key part of India's military air transport for decades.",
-      "source": "NDTV India",
+      "source": "NDTV",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/indian-air-force-crash-an-32-jorhat-assam-siachen-runs-to-deadly-accidents-history-of-an-32-which-crashed-today-11631716#publisher=newsstand",
       "publishedAt": 1781348476000,
-      "category": "india",
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "84d49d9a8d50179b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.931,
+      "breakingScore": 3.77,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -85,7 +156,7 @@
       "id": "ab74df0af76853a5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.824,
+      "breakingScore": 3.663,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -94,52 +165,6 @@
         "the_hindu"
       ],
       "firstSeen": 1781343848000
-    },
-    {
-      "title": "Opinion: Opinion | Why No 'Law' Can Bring Justice For 3 Indian Sailors Killed In US Attack",
-      "summary": "This is Trump's war, and he will do whatever it is that he wants with his 'big beautiful' navy.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/opinion/why-no-law-can-bring-justice-for-3-indian-sailors-killed-by-us-11631220#publisher=newsstand",
-      "publishedAt": 1781338159000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d8ed5dc96c7d1e9b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.692,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781338159000
-    },
-    {
-      "title": "Woman critically injured in shark attack off Sydney’s Coogee Beach",
-      "summary": "Australia has averaged between two and three fatal shark attacks a year since 2000, according to the Australian Shark Incident Database",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/woman-critically-injured-in-shark-attack-off-sydneys-coogee-beach/article71096816.ece",
-      "publishedAt": 1781335600000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "ec8a2f7dbbc7b783",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.633,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781335600000
     },
     {
       "title": "Switzerland to vote on plan to cap population at 10 million",
@@ -154,7 +179,7 @@
       "id": "aeea570a806b1e89",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.995,
+      "breakingScore": 2.835,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -164,30 +189,6 @@
         "the_hindu"
       ],
       "firstSeen": 1781346559000
-    },
-    {
-      "title": "Lt. Gen. Dhiraj Seth appointed next Army Chief",
-      "summary": "The present Chief of the Army Staff General Upendra Dwivedi retires from service on June 30",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/lt-gen-dhiraj-seth-appointed-next-army-chief/article71097261.ece",
-      "publishedAt": 1781349632000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "55d166a987135f0c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.958,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781346674000
     }
   ]
 }
