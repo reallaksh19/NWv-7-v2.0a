@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781318904865,
-  "contentHash": "e71857b0b43c",
+  "fetchedAt": 1781333696827,
+  "contentHash": "9e7c2c91aa10",
   "breaking": [
     {
       "title": "West Asia war LIVE: U.S. forces shoot down Iranian attack drones, source says",
       "summary": "Meanwhile, in Lebanon, Hezbollah said its fighters confronted Israeli forces advancing towards a southern Lebanese town, as Israel pressed on with its strikes",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
-      "publishedAt": 1781318542000,
-      "category": "topStories",
+      "publishedAt": 1781325475000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "81ad59ec171f1151",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.492,
+      "breakingScore": 5.31,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,7 +24,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781310688000
+      "firstSeen": 1781319489000
     },
     {
       "title": "1 Dead, 10 Injured In Texas Shooting, Suspect Fired At Cop Days Earlier",
@@ -39,79 +39,7 @@
       "id": "85dad555d8c0cfd2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.465,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "ndtv",
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1781290623000
-    },
-    {
-      "title": "Leader Of \"Bloodthirsty\" Terror Outfit Tren De Aragua Killed In US Strike",
-      "summary": "Trump have consistently blamed Tren de Aragua for being at the root of the violence",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/donald-trump-says-nino-guerrero-alias-hector-rusthenford-guerrero-flores-leader-of-bloodthirsty-venezuelan-gang-tren-de-aragua-killed-in-us-strike-11630237#publisher=newsstand",
-      "publishedAt": 1781317547000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9a55b13a988f243f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.969,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781317547000
-    },
-    {
-      "title": "'Driven to London by masked men': Indian-origin man Gagandeep Singh sentenced to 34-years for kidnaping, raping woman",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131696224.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />An Indian-origin man, Gagandeep Singh, has been sentenced to 34 years in prison in the UK for kidnapping, torturing, and raping a woman. The 34-year-old was convicted of multiple serious offenses after a trial. He will serve 28 years in custody, followed by an extended license period, and will be deported after completing his sentence.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/nri/driven-to-london-by-masked-men-indian-origin-man-gagandeep-singh-sentenced-to-34-years-for-kidnaping-raping-woman/articleshow/131696224.cms",
-      "publishedAt": 1781316036000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "f6c45497173b1b90",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.934,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "times_of_india"
-      ],
-      "firstSeen": 1781313264000
-    },
-    {
-      "title": "Morning Digest: Jaishankar speaks to Rubio on U.S. attacks on ship with Indian crew; Canada draws with Bosnia-Herzegovina to earn first-ever World Cup point, and more",
-      "summary": "Here is a select list of stories to start the day.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/the-hindu-morning-digest-june-13-2026/article71095512.ece",
-      "publishedAt": 1781314566000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "cde2421b83984bce",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.4,
+      "breakingScore": 5.123,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -120,22 +48,71 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781296569000
+      "firstSeen": 1781307208000
     },
     {
-      "title": "Trump Claims Iran Tried To Attack Indian Ships With Drones, Slams Deal 'Leak'",
-      "summary": "After an attack on a Palau-flagged tanker MT Settebello, three Indian sailors died",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-donald-trump-claims-iran-tried-to-attack-indian-ships-with-drones-slams-deal-leak-11628724#publisher=newsstand",
-      "publishedAt": 1781314335000,
+      "title": "IAF aircraft AN-32 crashes while landing in Assam's Jorhat",
+      "summary": "The incident occurred while the aircraft was landing at the IAF's airbase in the Rowriah area.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/assam/iaf-aircraft-an-32-crashes-while-landing-in-assams-jorhat/article71096781.ece",
+      "publishedAt": 1781332022000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ef6a1d01d2d976da",
+      "id": "8fef002368a50be0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.394,
+      "breakingScore": 4.461,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781331472000
+    },
+    {
+      "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang with help from Venezuela",
+      "summary": "Tren de Aragua has been labelled by the United States as a terrorist organisation; Guerrero Flores was charged in a New York federal court with racketeering conspiracy and other crimes, including lending support to terrorists",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/trump-says-us-military-strike-killed-leader-of-tren-de-aragua-gang-with-help-from-venezuela/article71096454.ece",
+      "publishedAt": 1781328691000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "14f085f96ecc532a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.884,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781317547000
+    },
+    {
+      "title": "3 Indians Died In US Strikes. 10 Others Were Killed When A Jet Fell From Sky",
+      "summary": "Illustration by Prapti Upadhayay.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-killed-3-indians-in-2026-ten-indians-died-in-its-1988-error-too-11629525#publisher=newsstand",
+      "publishedAt": 1781323297000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "7a79137ce2d27697",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.759,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,46 +120,69 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1781314335000
+      "firstSeen": 1781323297000
     },
     {
-      "title": "US-Iran War Live: Iran, US Say Deal Close, But Disagreements Persist Over Terms",
-      "summary": "US-Israel-Iran War News Live Updates: Trump said key points of a potential agreement have been worked out with support from several countries, raising hopes of a deal soon.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-trump-cancels-iran-strikes-after-high-level-approval-of-talks-naval-blockade-to-continue-us-iran-ceasefire-talks-11625401#publisher=newsstand",
-      "publishedAt": 1781313997000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "272b4654f3db0fc1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.386,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "ndtv"
-      ],
-      "firstSeen": 1781294541000
-    },
-    {
-      "title": "Who is Chanida Natalie? Marlon’s proposal puts influencer girlfriend in spotlight with xQc weighing in",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131695691.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Chanida Natalie is an influencer known for lifestyle and fashion content and for her relationship with streamer Marlon. The couple, reportedly together since 2025, recently got engaged. Natalie shared the proposal video on Instagram, drawing attention from fans and creators. Felix “xQc” Lengyel praised the engagement, while Twitch streamer Cinna reacted with surprise to the news.",
+      "title": "Paraguay's president will be at USA's FIFA World Cup 2026 opener, but is Donald Trump attending?",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131696028.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />As the United States prepare to open their FIFA World Cup 2026 campaign against Paraguay, attention has shifted off the pitch after Paraguayan president Santiago Peña confirmed he will attend the match in Los Angeles while US president Donald Trump will not. Trump instead offered support via a phone call to the squad, adding a political subplot to a high-profile opener between the hosts and returning South Americans.",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-chanida-natalie-marlons-proposal-puts-influencer-girlfriend-in-spotlight-with-xqc-weighing-in/articleshow/131695691.cms",
-      "publishedAt": 1781305601000,
+      "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/paraguays-president-will-be-at-usas-fifa-world-cup-2026-opener-but-is-donald-trump-attending/articleshow/131696028.cms",
+      "publishedAt": 1781312334000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "d04dbcc1c27b0c09",
+      "id": "0f33eab3a30afbc4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.192,
+      "breakingScore": 2.505,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1781310382000
+    },
+    {
+      "title": "The human cost of a deadly weed killer: banning of  paraquat in Telangana",
+      "summary": "In March, Telangana banned paraquat, one of the world’s most widely used and highly toxic weedicides, becoming only the third State in India to do so. The herbicide is responsible for hundreds of deaths each year, most of them by taking their own lives, and some accidental. Serish Nanisetti reports on the campaign that led to the ban and why much more remains to be done",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/the-human-cost-of-a-deadly-weed-killer-banning-of-paraqua-in-telangana/article71094620.ece",
+      "publishedAt": 1781332336000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "1e2f47193471a57e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.468,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781332336000
+    },
+    {
+      "title": "Indus Waters Treaty fallout? Nearly a third of Pakistan reels as Sindh, Balochistan face water crisis",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131698486.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Pakistan grapples with a severe water shortage affecting one-third of its population.  Last year, India suspended the Indus Waters Treaty after terror attacks.  This has intensified water scarcity in Sindh and Balochistan.  Irrigation canals face significant deficits.  Allegations of unequal water distribution fuel political disputes.  Farmers struggle as cultivation is hampered.  The crisis highlights vulnerabilities in Pakistan's water management.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/indus-waters-treaty-fallout-nearly-a-third-of-pakistan-reels-as-sindh-balochistan-face-water-crisis/articleshow/131698486.cms",
+      "publishedAt": 1781330592000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "6afb156f2bfe5457",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.428,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -190,7 +190,7 @@
       "allSources": [
         "times_of_india"
       ],
-      "firstSeen": 1781305601000
+      "firstSeen": 1781330592000
     }
   ]
 }
