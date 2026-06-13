@@ -1,21 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781299623116,
+  "generatedAt": 1781309708868,
   "days": [
-    {
-      "date": "2026-05-27",
-      "generatedAt": 1779892762004,
-      "insightGrade": "B",
-      "insightScore": 0,
-      "totalStories": 0,
-      "usableStories36h": 0,
-      "sourceGroups": 0,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 9,
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0
-    },
     {
       "date": "2026-06-07",
       "generatedAt": 1780866582781,
@@ -113,6 +99,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3126,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-13",
+      "generatedAt": 1781309708868,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 575,
+      "usableStories36h": 567,
+      "sourceGroups": 9,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3172,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

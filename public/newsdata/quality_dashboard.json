@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781299623116,
+  "generatedAt": 1781309708868,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 625,
-    "usableStories36h": 613,
+    "totalStories": 575,
+    "usableStories36h": 567,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3126,
+    "rankingOverallScore": 0.3172,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3126,
+    "overallScore": 0.3172,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781299622323,
+    "generatedAt": 1781309707472,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4031,
+      "insight": 0.419,
       "localTravel": 0,
-      "upAhead": 0.8472
+      "upAhead": 0.85
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4031,
+        "score": 0.419,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8472,
+        "score": 0.85,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,8 +74,8 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 7,
-        "strongParents": 7,
+        "parentClusters": 6,
+        "strongParents": 6,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
         "baseReportHeavyParents": 1,
@@ -92,15 +92,14 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 25,
-        "events": 1,
-        "onlineOffers": 1,
+        "suppressedItemCount": 26,
+        "events": 0,
+        "onlineOffers": 2,
         "offlineOffers": 1,
         "alerts": 27,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
-          "muscat",
           "online",
           "trichy"
         ]
@@ -121,7 +120,8 @@
       "Pipeline work to disrupt water supply in three zones this weekend - The Times of India: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "25 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "26 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -131,8 +131,7 @@
       "no ranked local/travel item for trichy",
       "1 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set",
-      "buzz: no travel Buzz item in ranked set",
-      "insight: 1 base-report-heavy Insight parent(s) demoted"
+      "buzz: no travel Buzz item in ranked set"
     ]
   },
   "sourceHealth": {
@@ -154,20 +153,6 @@
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-05-27",
-      "generatedAt": 1779892762004,
-      "insightGrade": "B",
-      "insightScore": 0,
-      "totalStories": 0,
-      "usableStories36h": 0,
-      "sourceGroups": 0,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 9,
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0
-    },
     {
       "date": "2026-06-07",
       "generatedAt": 1780866582781,
@@ -265,6 +250,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3126,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-13",
+      "generatedAt": 1781309708868,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 575,
+      "usableStories36h": 567,
+      "sourceGroups": 9,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3172,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
