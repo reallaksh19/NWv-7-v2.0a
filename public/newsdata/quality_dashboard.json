@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781343930556,
+  "generatedAt": 1781352690638,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 543,
-    "usableStories36h": 532,
+    "totalStories": 575,
+    "usableStories36h": 570,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3285,
+    "rankingOverallScore": 0.3222,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3285,
+    "overallScore": 0.3222,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781343929777,
+    "generatedAt": 1781352689170,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4637,
+      "insight": 0.4312,
       "localTravel": 0,
-      "upAhead": 0.8501
+      "upAhead": 0.8574
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4637,
+        "score": 0.4312,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8501,
+        "score": 0.8574,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 5,
-        "strongParents": 5,
+        "parentClusters": 7,
+        "strongParents": 7,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 0,
+        "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,35 +92,35 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 18,
+        "suppressedItemCount": 13,
         "events": 0,
-        "onlineOffers": 1,
-        "offlineOffers": 1,
-        "alerts": 28,
+        "onlineOffers": 0,
+        "offlineOffers": 0,
+        "alerts": 30,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
-          "online",
           "trichy"
         ]
       }
     },
     "topFindings": [
+      "Why did Amazon Prime Day shift to June? Here's what the company has said (and not said). - Mashable: location failed — offline/local item lacks configured location match",
+      "Oprah, 72, Is My Summer Style Icon—I'm Shopping Her Favorite Jeans, Sneakers, and Bags From $6 at Amazon - instyle.com: location failed — offline/local item lacks configured location match",
       "Shop Amazon’s Ultimate Summer Sale Early With the Best Prime Day 2026 Tech Deals We've Found So Far - PCMag: location failed — offline/local item lacks configured location match",
+      "Amazon Prime Day 2026: When You Can Start Shopping, Early Deals and More - TODAY.com: location failed — offline/local item lacks configured location match",
       "You don’t have to wait — here are 51+ Prime Day early deals you can already shop - NBC News: location failed — offline/local item lacks configured location match",
-      "Impose fine on those littering beaches, National Green Tribunal directs local bodies in Tamil Nadu: futureValidity failed — expired display window",
-      "Impose fine on those littering beaches, National Green Tribunal directs local bodies in Tamil Nadu: alertUrgency failed — alert expired",
-      "Water bells initiative forgotten by most government schools in Chennai: futureValidity failed — expired display window",
-      "Water bells initiative forgotten by most government schools in Chennai: alertUrgency failed — alert expired",
-      "Around 70% of overbridge work near Fort Railway Station completed, says Tiruchi Mayor: futureValidity failed — expired display window",
-      "Around 70% of overbridge work near Fort Railway Station completed, says Tiruchi Mayor: alertUrgency failed — alert expired",
-      "Pozhichalur Thangal gets new lease of life after EFI-led restoration: futureValidity failed — expired display window",
-      "Pozhichalur Thangal gets new lease of life after EFI-led restoration: alertUrgency failed — alert expired",
-      "Nearly 80% of Chennai residents near Kodungaiyur incinerator report health issues: survey: futureValidity failed — expired display window",
-      "Nearly 80% of Chennai residents near Kodungaiyur incinerator report health issues: survey: alertUrgency failed — alert expired"
+      "Amazon's 3 for $33 4K Blu-ray Sale Has a Bunch of Classic Dad Movies for Father's Day - IGN: location failed — offline/local item lacks configured location match",
+      "Blackout at Papanasam railway station leaves passengers exasperated: futureValidity failed — expired display window",
+      "Blackout at Papanasam railway station leaves passengers exasperated: alertUrgency failed — alert expired",
+      "Fisheries varsity extends UG application deadline: futureValidity failed — expired display window",
+      "Fisheries varsity extends UG application deadline: alertUrgency failed — alert expired",
+      "The Best Early 2026 Prime Day Deals ELLE Editors Are Already Buying - ELLE: location failed — offline/local item lacks configured location match",
+      "Our Editors' Favorite Products Are On Sale Ahead of Prime Day 2026 - Good Housekeeping: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "18 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
@@ -129,9 +129,8 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "Insight event/angle ranking has no critical demotion finding",
-      "buzz: no local Buzz item in ranked set",
-      "buzz: no travel Buzz item in ranked set"
+      "1 base-report-heavy Insight parent(s) demoted",
+      "buzz: no local Buzz item in ranked set"
     ]
   },
   "sourceHealth": {
@@ -257,16 +256,16 @@
     },
     {
       "date": "2026-06-13",
-      "generatedAt": 1781343930556,
+      "generatedAt": 1781352690638,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 543,
-      "usableStories36h": 532,
+      "totalStories": 575,
+      "usableStories36h": 570,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3285,
+      "rankingOverallScore": 0.3222,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
