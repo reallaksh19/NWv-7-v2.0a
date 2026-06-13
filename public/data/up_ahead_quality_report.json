@@ -1,19 +1,19 @@
 {
   "categoryCounts": {
     "airlines": 1,
-    "alerts": 33,
-    "shopping": 19,
+    "alerts": 34,
+    "shopping": 18,
     "weather_alerts": 1
   },
   "contentClassCounts": {
-    "upahead_alert": 34,
-    "upahead_offer": 20
+    "upahead_alert": 35,
+    "upahead_offer": 19
   },
-  "contentHash": "53df4a88c2ad",
+  "contentHash": "9224a71d5b06",
   "contractVersion": "upahead-lifecycle-v1",
   "errors": [],
-  "fetchedAt": 1781355986832,
-  "generatedAt": 1781356002724,
+  "fetchedAt": 1781363806169,
+  "generatedAt": 1781363826076,
   "horizon": {
     "alertFallbackHours": 24,
     "eventPastGraceHours": 24,
@@ -25,13 +25,13 @@
   "lifecycleSummary": {
     "categoryCounts": {
       "airlines": 1,
-      "alerts": 33,
-      "shopping": 19,
+      "alerts": 34,
+      "shopping": 18,
       "weather_alerts": 1
     },
     "contentClassCounts": {
-      "upahead_alert": 34,
-      "upahead_offer": 20
+      "upahead_alert": 35,
+      "upahead_offer": 19
     },
     "horizonViolationCount": 0,
     "horizonViolationSample": [],

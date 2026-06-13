@@ -11,6 +11,6 @@
 ## Category counts
 
 - airlines: 1
-- alerts: 33
-- shopping: 19
+- alerts: 34
+- shopping: 18
 - weather_alerts: 1
