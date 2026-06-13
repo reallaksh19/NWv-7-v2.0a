@@ -1,69 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781333696827,
-  "contentHash": "9e7c2c91aa10",
+  "fetchedAt": 1781344459874,
+  "contentHash": "b5b50304571d",
   "breaking": [
     {
-      "title": "West Asia war LIVE: U.S. forces shoot down Iranian attack drones, source says",
-      "summary": "Meanwhile, in Lebanon, Hezbollah said its fighters confronted Israeli forces advancing towards a southern Lebanese town, as Israel pressed on with its strikes",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
-      "publishedAt": 1781325475000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "81ad59ec171f1151",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.31,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781319489000
-    },
-    {
-      "title": "1 Dead, 10 Injured In Texas Shooting, Suspect Fired At Cop Days Earlier",
-      "summary": "Police have provided limited details about how the shooting unfolded",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/1-dead-10-injured-in-texas-shooting-suspect-fired-at-cop-days-earlier-11630211#publisher=newsstand",
-      "publishedAt": 1781317414000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "85dad555d8c0cfd2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.123,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781307208000
-    },
-    {
-      "title": "IAF aircraft AN-32 crashes while landing in Assam's Jorhat",
-      "summary": "The incident occurred while the aircraft was landing at the IAF's airbase in the Rowriah area.",
-      "source": "The Hindu",
+      "title": "Five IAF personnel killed in AN-32 aircraft crash in Assam's Jorhat",
+      "summary": "A court of inquiry is being constituted to ascertain the cause of the accident, the IAF says",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/assam/iaf-aircraft-an-32-crashes-while-landing-in-assams-jorhat/article71096781.ece",
-      "publishedAt": 1781332022000,
-      "category": "topStories",
+      "publishedAt": 1781342434000,
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "8fef002368a50be0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.461,
+      "breakingScore": 5.953,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -73,46 +26,114 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781331472000
+      "firstSeen": 1781341444000
     },
     {
-      "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang with help from Venezuela",
-      "summary": "Tren de Aragua has been labelled by the United States as a terrorist organisation; Guerrero Flores was charged in a New York federal court with racketeering conspiracy and other crimes, including lending support to terrorists",
-      "source": "The Hindu International",
+      "title": "Lebanon reports Israeli strikes in south after evacuation warning",
+      "summary": "Israeli airstrikes hit several areas covered by the warning, including the villages of Rihan and Sujud, located not far from Nabatieh",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/trump-says-us-military-strike-killed-leader-of-tren-de-aragua-gang-with-help-from-venezuela/article71096454.ece",
-      "publishedAt": 1781328691000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "14f085f96ecc532a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.884,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781317547000
-    },
-    {
-      "title": "3 Indians Died In US Strikes. 10 Others Were Killed When A Jet Fell From Sky",
-      "summary": "Illustration by Prapti Upadhayay.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-killed-3-indians-in-2026-ten-indians-died-in-its-1988-error-too-11629525#publisher=newsstand",
-      "publishedAt": 1781323297000,
+      "url": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
+      "publishedAt": 1781343531000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "7a79137ce2d27697",
+      "id": "0bc1e5c9197e6385",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.759,
+      "breakingScore": 5.478,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781343073000
+    },
+    {
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781323747000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "dab54f307d371e12",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.021,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781323747000
+    },
+    {
+      "title": "Ukrainian strike kills one, wounds three in southern Russia",
+      "summary": "The attack damaged port installations in the Temryuk district and as a result of falling drone debris, a fire broke out at a maritime terminal, killing one person",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/ukrainian-strike-kills-one-wounds-three-in-southern-russia/article71096830.ece",
+      "publishedAt": 1781343848000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "ab74df0af76853a5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.986,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781343848000
+    },
+    {
+      "title": "DRDO demonstrates advanced missile defence, anti-ship strike capabilities in three successful flight tests",
+      "summary": "It further mentioned that the multi-layered BMD capability was successfully demonstrated with interceptor missiles engaging and destroying their designated targets.",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/drdo-demonstrates-advanced-missile-defence-anti-ship-strike-capabilities-in-three-successful-flight-tests/article71096810.ece",
+      "publishedAt": 1781341751000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "acc55942e4997bbb",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.937,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781341751000
+    },
+    {
+      "title": "Opinion: Opinion | Why No 'Law' Can Bring Justice For 3 Indian Sailors Killed In US Attack",
+      "summary": "This is Trump's war, and he will do whatever it is that he wants with his 'big beautiful' navy.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/opinion/why-no-law-can-bring-justice-for-3-indian-sailors-killed-by-us-11631220#publisher=newsstand",
+      "publishedAt": 1781338159000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d8ed5dc96c7d1e9b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.854,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -120,46 +141,22 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1781323297000
+      "firstSeen": 1781338159000
     },
     {
-      "title": "Paraguay's president will be at USA's FIFA World Cup 2026 opener, but is Donald Trump attending?",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131696028.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />As the United States prepare to open their FIFA World Cup 2026 campaign against Paraguay, attention has shifted off the pitch after Paraguayan president Santiago Peña confirmed he will attend the match in Los Angeles while US president Donald Trump will not. Trump instead offered support via a phone call to the squad, adding a political subplot to a high-profile opener between the hosts and returning South Americans.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/paraguays-president-will-be-at-usas-fifa-world-cup-2026-opener-but-is-donald-trump-attending/articleshow/131696028.cms",
-      "publishedAt": 1781312334000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "0f33eab3a30afbc4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.505,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "times_of_india"
-      ],
-      "firstSeen": 1781310382000
-    },
-    {
-      "title": "The human cost of a deadly weed killer: banning of  paraquat in Telangana",
-      "summary": "In March, Telangana banned paraquat, one of the world’s most widely used and highly toxic weedicides, becoming only the third State in India to do so. The herbicide is responsible for hundreds of deaths each year, most of them by taking their own lives, and some accidental. Serish Nanisetti reports on the campaign that led to the ban and why much more remains to be done",
-      "source": "The Hindu",
+      "title": "Woman critically injured in shark attack off Sydney’s Coogee Beach",
+      "summary": "Australia has averaged between two and three fatal shark attacks a year since 2000, according to the Australian Shark Incident Database",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/the-human-cost-of-a-deadly-weed-killer-banning-of-paraqua-in-telangana/article71094620.ece",
-      "publishedAt": 1781332336000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/woman-critically-injured-in-shark-attack-off-sydneys-coogee-beach/article71096816.ece",
+      "publishedAt": 1781335600000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "1e2f47193471a57e",
+      "id": "ec8a2f7dbbc7b783",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.468,
+      "breakingScore": 3.795,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -167,30 +164,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781332336000
+      "firstSeen": 1781335600000
     },
     {
-      "title": "Indus Waters Treaty fallout? Nearly a third of Pakistan reels as Sindh, Balochistan face water crisis",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131698486.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Pakistan grapples with a severe water shortage affecting one-third of its population.  Last year, India suspended the Indus Waters Treaty after terror attacks.  This has intensified water scarcity in Sindh and Balochistan.  Irrigation canals face significant deficits.  Allegations of unequal water distribution fuel political disputes.  Farmers struggle as cultivation is hampered.  The crisis highlights vulnerabilities in Pakistan's water management.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/indus-waters-treaty-fallout-nearly-a-third-of-pakistan-reels-as-sindh-balochistan-face-water-crisis/articleshow/131698486.cms",
-      "publishedAt": 1781330592000,
+      "title": "Mission Sudarshan Chakra To Boost India's Missile Defence: Rajnath Singh",
+      "summary": "India's new missile defence system promises strategic autonomy and enhanced national security.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/mission-sudarshan-chakra-set-to-become-multi-level-missile-defence-system-rajnath-singh-11629418#publisher=newsstand",
+      "publishedAt": 1781342897000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "6afb156f2bfe5457",
+      "id": "f8511536b621551b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.428,
+      "breakingScore": 2.464,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "times_of_india"
+        "ndtv"
       ],
-      "firstSeen": 1781330592000
+      "firstSeen": 1781342897000
     }
   ]
 }
