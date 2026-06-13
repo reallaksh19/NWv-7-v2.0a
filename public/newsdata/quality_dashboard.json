@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781367014514,
+  "generatedAt": 1781373905622,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 609,
-    "usableStories36h": 600,
+    "totalStories": 632,
+    "usableStories36h": 615,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3181,
+    "rankingOverallScore": 0.3172,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3181,
+    "overallScore": 0.3172,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781367013468,
+    "generatedAt": 1781373904190,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4129,
+      "insight": 0.4094,
       "localTravel": 0,
       "upAhead": 0.8595
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4129,
+        "score": 0.4094,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 12,
+        "suppressedItemCount": 11,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -105,21 +105,21 @@
       }
     },
     "topFindings": [
+      "Amazon Is Getting a Head Start on Prime Day With Secret Early Deals Up to 76% Off—Shop Travel Staples From $8 - Travel + Leisure: location failed — offline/local item lacks configured location match",
       "Why did Amazon Prime Day shift to June? Here's what the company has said (and not said). - Mashable: location failed — offline/local item lacks configured location match",
       "Oprah, 72, Is My Summer Style Icon—I'm Shopping Her Favorite Jeans, Sneakers, and Bags From $6 at Amazon - instyle.com: location failed — offline/local item lacks configured location match",
       "Shop Amazon’s Ultimate Summer Sale Early With the Best Prime Day 2026 Tech Deals We've Found So Far - PCMag: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026: When You Can Start Shopping, Early Deals and More - TODAY.com: location failed — offline/local item lacks configured location match",
       "You don’t have to wait — here are 51+ Prime Day early deals you can already shop - NBC News: location failed — offline/local item lacks configured location match",
       "Amazon's 3 for $33 4K Blu-ray Sale Has a Bunch of Classic Dad Movies for Father's Day - IGN: location failed — offline/local item lacks configured location match",
-      "In-charge Vice-Chancellor takes charge at CUTN: futureValidity failed — expired display window",
-      "In-charge Vice-Chancellor takes charge at CUTN: alertUrgency failed — alert expired",
       "The Best Early 2026 Prime Day Deals ELLE Editors Are Already Buying - ELLE: location failed — offline/local item lacks configured location match",
       "Our Editors' Favorite Products Are On Sale Ahead of Prime Day 2026 - Good Housekeeping: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026 is June 23–26. Get a $200 Amazon gift card and extra rewards with the right credit card - CNBC: location failed — offline/local item lacks configured location match",
-      "Everything We’re Shopping In Lululemon’s “We Made Too Much” Section This Week - Forbes: futureValidity failed — expired display window"
+      "Air India launches ‘Namaste World’ sale with up to 20% discount - The News Mill: futureValidity failed — expired display window",
+      "Air India launches ‘Namaste World’ sale with up to 20% discount - The News Mill: offerValidity failed — offer expired"
     ],
     "actionRequired": [
-      "12 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "11 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-13",
-      "generatedAt": 1781367014514,
+      "generatedAt": 1781373905622,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 609,
-      "usableStories36h": 600,
+      "totalStories": 632,
+      "usableStories36h": 615,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3181,
+      "rankingOverallScore": 0.3172,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
