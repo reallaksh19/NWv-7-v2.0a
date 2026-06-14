@@ -1,22 +1,45 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781439685207,
-  "contentHash": "08aa2045fc98",
+  "fetchedAt": 1781447909091,
+  "contentHash": "bd6dff9b5b17",
   "breaking": [
     {
-      "title": "Deadly Philippine Quake Raised Seabed By Up To Two Metres",
-      "summary": "The 7.8-magnitude tremor in southern Mindanao island on Monday killed at least 61 people.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/deadly-philippine-quake-raised-seabed-by-up-to-two-metres-11634458#publisher=newsstand",
-      "publishedAt": 1781428920000,
+      "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
+      "summary": "Over 1,73,200 people have been wounded since the start of the war, which was ignited by the Hamas-led October 7, 2023 attack into Israel. That attack killed some 1,200 people and took 251 others hostage",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/palestinian-death-toll-in-gaza-tops-73000-officials-say-as-israel-strikes-despite-ceasefire/article71101517.ece",
+      "publishedAt": 1781446991000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "519d59b7d61311a2",
+      "id": "f079538fe06f99f3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.751,
+      "breakingScore": 6.979,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781446991000
+    },
+    {
+      "title": "Israeli military strikes Beirut suburbs in lead-up to anticipated U.S.-Iran deal",
+      "summary": "Iran has long made the ​cessation of fighting in Lebanon a condition for any wider agreement with ⁠the United States",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/israeli-military-strikes-beirut-suburbs-in-lead-up-to-anticipated-us-iran-deal/article71101032.ece",
+      "publishedAt": 1781444159000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "bcdbfcc24f009cc1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.413,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -26,70 +49,45 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781428887000
+      "firstSeen": 1781441007000
     },
     {
-      "title": "Ukrainian drone strikes kill one, spark fire at oil facility in Russia",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said his country's forces had “struck an oil facility that was important for the reserve of the aggressor state” in the Yaroslavl region",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/ukraine-drone-attack-on-russia-june-14-2026/article71100942.ece",
-      "publishedAt": 1781435112000,
-      "category": "world",
+      "title": "US-Iran War LIVE Updates: Iran Says No Point Talking To US After Israel Strikes Lebanon",
+      "summary": "US Iran War LIVE Updates",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand",
+      "publishedAt": 1781443681000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "c3196803ffaf3b92",
+      "id": "770b2bc3e04e3569",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.394,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1781432473000
-    },
-    {
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
-      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781419169000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "dab54f307d371e12",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.525,
+      "breakingScore": 3.902,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "bbc"
+        "ndtv"
       ],
-      "firstSeen": 1781419169000
+      "firstSeen": 1781443681000
     },
     {
-      "title": "Mechanised sailing vessel  with Indian crew experiences engine failure off Oman",
-      "summary": "Virat was sailing off the coast of Oman, reportedly with 14 Indian crew members; rescue operation is currently under way with ships in the vicinity",
-      "source": "The Hindu",
+      "title": "Kakoli claims 22 Lok Sabha MPs now in dissident TMC camp, meeting scheduled with Speaker",
+      "summary": "Sources in the dissident camp said a meeting of the group, initially scheduled to be held in Kolkata, has been shifted to Delhi",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/mechanised-sailing-vessel-experiences-engine-failure-off-coast-of-oman/article71100829.ece",
-      "publishedAt": 1781438553000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/kakoli-claims-22-lok-sabha-mps-now-in-dissident-tmc-camp-meeting-scheduled-with-speaker/article71100968.ece",
+      "publishedAt": 1781444591000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "e7f5a64fda8f464e",
+      "id": "0588e6d2a7bd17c4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.974,
+      "breakingScore": 2.923,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -98,91 +96,22 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781435689000
+      "firstSeen": 1781444083000
     },
     {
-      "title": "Eye surgeon couple from Mysuru lead camp in Ghana",
-      "summary": "Highlighting the urgent need for paediatric eye care in Sub Saharan Africa, Dr. K.V. Ravishankar an estimated 80,000 children require cataract surgery in the region",
+      "title": "CJP protest in Bengaluru LIVE: 'When we try to expose the broken system, we are called cockroaches,' Abhijeet Dipke says",
+      "summary": "Actor Prakash Raj says he has wish that Sonam Wangchuk should be Education Minister; The Cockroach Janta Party protest in Bengaluru is part of its nationwide campaign demanding the resignation of Union Minister Dharmendra Pradhan",
       "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/eye-surgeon-couple-from-mysuru-lead-camp-in-ghana/article71100503.ece",
-      "publishedAt": 1781438358000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "22902bbc369a473f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.469,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781438358000
-    },
-    {
-      "title": "Israeli military strikes Beirut suburbs in lead-up to anticipated U.S.-Iran deal",
-      "summary": "Iran has long made the ​cessation of fighting in Lebanon a condition for any wider agreement with ⁠the United States",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/israeli-military-strikes-beirut-suburbs-in-lead-up-to-anticipated-us-iran-deal/article71101032.ece",
-      "publishedAt": 1781437499000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "bcdbfcc24f009cc1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.449,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781437499000
-    },
-    {
-      "title": "\"Situation Very Bad\": Seafarers Claim \"Only Indians\" Being Attacked In Gulf",
-      "summary": "Crew members have alleged that vessels carrying Indian sailors are being repeatedly hit.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/situation-very-bad-seafarers-claim-only-indians-being-attacked-in-gulf-11634887#publisher=newsstand",
-      "publishedAt": 1781437323000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "9291ef46370fb3e0",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.445,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781437323000
-    },
-    {
-      "title": "CJP protest in Bengaluru LIVE: Prakash Raj joins protest; We are challenging everyone, including SC and CJI, says spokesperson",
-      "summary": "Cockroach Janta Party is holding a peaceful protest in Bengaluru today, as part of its nationwide campaign demanding the resignation of Union Minister Dharmendra Pradhan",
-      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/karnataka/cjp-protest-in-bengaluru-live-updates-karnataka-on-june-14-2026/article71100627.ece",
-      "publishedAt": 1781436695000,
-      "category": "india",
+      "publishedAt": 1781447489000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "c084ef2e9a1d272b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.431,
+      "breakingScore": 2.49,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -190,7 +119,76 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781436074000
+      "firstSeen": 1781447489000
+    },
+    {
+      "title": "One dead, two missing at Shettihalli in Hassan",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/one-dead-two-missing-at-shettihalli-in-hassan/article71101510.ece",
+      "publishedAt": 1781447414000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "3d90d91c7d962ac7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.489,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781447414000
+    },
+    {
+      "title": "Ganja peddler arrested; 26 kg contraband seized in Gachibowli",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ganja-peddler-arrested-26-kg-contraband-seized-in-gachibowli/article71101283.ece",
+      "publishedAt": 1781446926000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "b950f7a6d762dbf5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.477,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781446926000
+    },
+    {
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781446083000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "88acf5cc9fb04e40",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.458,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781446083000
     }
   ]
 }
