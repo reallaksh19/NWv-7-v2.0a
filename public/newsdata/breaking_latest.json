@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781447909091,
-  "contentHash": "bd6dff9b5b17",
+  "fetchedAt": 1781453486718,
+  "contentHash": "599d94bf6b61",
   "breaking": [
     {
       "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
       "summary": "Over 1,73,200 people have been wounded since the start of the war, which was ignited by the Hamas-led October 7, 2023 attack into Israel. That attack killed some 1,200 people and took 251 others hostage",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/palestinian-death-toll-in-gaza-tops-73000-officials-say-as-israel-strikes-despite-ceasefire/article71101517.ece",
       "publishedAt": 1781446991000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "f079538fe06f99f3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.979,
+      "breakingScore": 6.85,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,44 +27,65 @@
       "firstSeen": 1781446991000
     },
     {
-      "title": "Israeli military strikes Beirut suburbs in lead-up to anticipated U.S.-Iran deal",
-      "summary": "Iran has long made the ​cessation of fighting in Lebanon a condition for any wider agreement with ⁠the United States",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/israeli-military-strikes-beirut-suburbs-in-lead-up-to-anticipated-us-iran-deal/article71101032.ece",
-      "publishedAt": 1781444159000,
+      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+      "summary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781451272000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "bcdbfcc24f009cc1",
+      "id": "8a9091d74ac78fac",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.413,
+      "breakingScore": 5.449,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "bbc"
       ],
-      "firstSeen": 1781441007000
+      "firstSeen": 1781451272000
     },
     {
-      "title": "US-Iran War LIVE Updates: Iran Says No Point Talking To US After Israel Strikes Lebanon",
+      "title": "Eight killed in lightning strikes in Jharkhand",
+      "summary": "Three of the deceased were women and two boys. Of the eight dead, two each were killed in Ranchi and Garhwa districts, while the remaining deaths were reported in Chatra, Giridih, Seraikela-Kharsawan, and Jamtara districts.",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/eight-killed-in-lightning-strikes-in-jharkhand/article71101684.ece",
+      "publishedAt": 1781451097000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "2a1405b58d2f6abf",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.445,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781451097000
+    },
+    {
+      "title": "US-Iran War LIVE Updates: Trump Slams Israel Attack On Lebanon As Iran Sees 'No Point' Of US Talks",
       "summary": "US Iran War LIVE Updates",
       "source": "NDTV",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand",
-      "publishedAt": 1781443681000,
+      "publishedAt": 1781452892000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "770b2bc3e04e3569",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.902,
+      "breakingScore": 3.986,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -72,22 +93,45 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1781443681000
+      "firstSeen": 1781451807000
     },
     {
-      "title": "Kakoli claims 22 Lok Sabha MPs now in dissident TMC camp, meeting scheduled with Speaker",
-      "summary": "Sources in the dissident camp said a meeting of the group, initially scheduled to be held in Kolkata, has been shifted to Delhi",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/kakoli-claims-22-lok-sabha-mps-now-in-dissident-tmc-camp-meeting-scheduled-with-speaker/article71100968.ece",
-      "publishedAt": 1781444591000,
-      "category": "world",
+      "title": "Six killed after two helicopters collide mid-air in Rio de Janeiro; video",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131723137.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Tragedy struck western Rio de Janeiro as two helicopters collided mid-air, claiming at least six lives. The devastating crash ignited a massive fire at an electric car dealership, engulfing numerous vehicles. Firefighters battled the blaze, which spread rapidly after one aircraft reportedly exploded on impact. The incident occurred in the Recreio dos Bandeirantes suburb.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/six-killed-after-two-helicopters-collide-mid-air-in-rio-de-janeiro-video/articleshow/131723137.cms",
+      "publishedAt": 1781448476000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "0588e6d2a7bd17c4",
+      "id": "30e8e35570615a2f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.923,
+      "breakingScore": 3.884,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1781448476000
+    },
+    {
+      "title": "Trinamool Rebel Bloc To Merge With Nationalist Citizens Party: Kakoli Ghosh",
+      "summary": "Trinamool Rebel Bloc To Merge With Nationalist Citizens Party: Kakoli Ghosh",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/trinamool-rebel-bloc-to-merge-with-nationalist-citizens-party-kakoli-ghosh-11635562#publisher=newsstand",
+      "publishedAt": 1781452930000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "6df4caae5e4e3a4f",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.987,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -96,99 +140,55 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781444083000
+      "firstSeen": 1781450395000
     },
     {
-      "title": "CJP protest in Bengaluru LIVE: 'When we try to expose the broken system, we are called cockroaches,' Abhijeet Dipke says",
-      "summary": "Actor Prakash Raj says he has wish that Sonam Wangchuk should be Education Minister; The Cockroach Janta Party protest in Bengaluru is part of its nationwide campaign demanding the resignation of Union Minister Dharmendra Pradhan",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/cjp-protest-in-bengaluru-live-updates-karnataka-on-june-14-2026/article71100627.ece",
-      "publishedAt": 1781447489000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "c084ef2e9a1d272b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.49,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781447489000
-    },
-    {
-      "title": "One dead, two missing at Shettihalli in Hassan",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/one-dead-two-missing-at-shettihalli-in-hassan/article71101510.ece",
-      "publishedAt": 1781447414000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "3d90d91c7d962ac7",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.489,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781447414000
-    },
-    {
-      "title": "Ganja peddler arrested; 26 kg contraband seized in Gachibowli",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/ganja-peddler-arrested-26-kg-contraband-seized-in-gachibowli/article71101283.ece",
-      "publishedAt": 1781446926000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "b950f7a6d762dbf5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.477,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781446926000
-    },
-    {
-      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
       "source": "BBC World",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781446083000,
+      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781448755000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "88acf5cc9fb04e40",
+      "id": "b55dd2fd170f4546",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.458,
+      "breakingScore": 2.89,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "bbc"
+        "bbc",
+        "times_of_india"
       ],
-      "firstSeen": 1781446083000
+      "firstSeen": 1781446322000
+    },
+    {
+      "title": "List Of Rebel Trinamool MPs Who Met Lok Sabha Speaker Om Birla",
+      "summary": "A group of rebel Trinamool MPs in Delhi",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/list-of-rebel-trinamool-mps-who-are-expected-to-meet-lok-sabha-speaker-on-birla-soon-11635346#publisher=newsstand",
+      "publishedAt": 1781446173000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a76ff9a2c91948d1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.831,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781443924000
     }
   ]
 }
