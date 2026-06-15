@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1781470849178,
+  "generatedAt": 1781481771640,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -16,32 +16,32 @@
       ],
       "topSources": [
         {
-          "count": 16,
+          "count": 15,
           "sourceGroup": "business_line"
         },
         {
-          "count": 8,
+          "count": 11,
           "sourceGroup": "google_news"
         },
         {
-          "count": 6,
+          "count": 4,
           "sourceGroup": "economic_times"
         }
       ]
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 20,
+      "storyCount": 19,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 20
+          "count": 19
         }
       ],
       "topSources": [
         {
-          "count": 20,
+          "count": 19,
           "sourceGroup": "google_news"
         }
       ]
@@ -104,11 +104,11 @@
       ],
       "topSources": [
         {
-          "count": 15,
+          "count": 13,
           "sourceGroup": "bbc"
         },
         {
-          "count": 10,
+          "count": 12,
           "sourceGroup": "the_hindu"
         },
         {
@@ -119,21 +119,21 @@
     },
     "technology": {
       "sourceGroupCount": 3,
-      "storyCount": 28,
+      "storyCount": 25,
       "thin": false,
       "topCategories": [
         {
           "category": "technology",
-          "count": 28
+          "count": 25
         }
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 17,
           "sourceGroup": "google_news"
         },
         {
-          "count": 9,
+          "count": 7,
           "sourceGroup": "gadgets360"
         },
         {
@@ -186,17 +186,17 @@
     },
     "trichy": {
       "sourceGroupCount": 2,
-      "storyCount": 25,
+      "storyCount": 24,
       "thin": false,
       "topCategories": [
         {
           "category": "trichy",
-          "count": 25
+          "count": 24
         }
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
@@ -217,11 +217,11 @@
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 20,
           "sourceGroup": "bbc"
         },
         {
-          "count": 13,
+          "count": 10,
           "sourceGroup": "the_hindu"
         }
       ]
