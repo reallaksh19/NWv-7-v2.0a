@@ -1,69 +1,117 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781489072687,
-  "contentHash": "67246a647308",
+  "fetchedAt": 1781509035078,
+  "contentHash": "a47b22210cf0",
   "breaking": [
     {
-      "title": "11 skydivers and pilot killed in US plane crash",
-      "summary": "The plane had just taken off in the US state of Missouri, but failed to gain altitude, according to local emergency responders.",
-      "source": "BBC",
+      "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others.",
+      "source": "BBC World",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c74ym4j40gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781469120000,
+      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781508032000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "9bc16dff37fe8cba",
+      "id": "e74a6e8f3d3479ed",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.538,
+      "breakingScore": 8.977,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1781504523000
+    },
+    {
+      "title": "2 BJP Workers Injured In Attack In Kerala's Malappuram, Party Blames CPM",
+      "summary": "Police have begun an investigation into the incident.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/2-bjp-workers-injured-in-attack-in-keralas-malappuram-party-blames-cpm-11637667#publisher=newsstand",
+      "publishedAt": 1781506979000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "42325cfbf07a6c03",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.952,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781506979000
+    },
+    {
+      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+      "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781506043000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "71c2fce90d63a1e5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.931,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
         "bbc",
-        "ndtv"
+        "times_of_india"
       ],
-      "firstSeen": 1781462841000
+      "firstSeen": 1781471987000
     },
     {
-      "title": "Fed and BoE stay guarded after 100 days of Iran war",
-      "summary": "Global central banks are poised to maintain current interest rates this week. The Iran war's impact on inflation and growth remains a key concern. Policymakers are waiting for more data. The Bank of Japan is expected to raise rates. Norway's decision is a close call. The US Federal Reserve and its peers are likely to hold steady.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-and-boe-stay-guarded-after-100-days-of-iran-war/articleshow/131730721.cms",
-      "publishedAt": 1781481888000,
+      "title": "Out-Of-Control Bus Crashes Into Karnataka Bus Stand, Leaves Man Injured",
+      "summary": "The injured has been identified as Manjunath, a resident of Chikkamagaluru",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/karnataka-news/karnataka-bus-accident-out-of-control-ksrtc-bus-crashes-into-karnataka-bus-stand-leaves-man-injured-11637442#publisher=newsstand",
+      "publishedAt": 1781503247000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "3cf52c9c5035ff94",
+      "id": "9017407b9d76d17c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.334,
+      "breakingScore": 3.866,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "economic_times"
+        "ndtv"
       ],
-      "firstSeen": 1781481888000
+      "firstSeen": 1781503247000
     },
     {
-      "title": "\"No F*cking Judgement\": Trump Fumes At Netanyahu As Israel Strikes Lebanon",
-      "summary": "Trump said he let netanyahu know about his displeasure.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-peace-deal-no-f-cking-judgement-trump-fumes-at-netanyahu-as-israel-strikes-lebanon-11636062#publisher=newsstand",
-      "publishedAt": 1781460161000,
+      "title": "Kerala launches ‘Priyadarshini’ free bus travel scheme for women, transgenders",
+      "summary": "Chief Minister V.D. Satheesan inaugurates UDF govt’s flagship scheme at Thampanoor. Inaugural journey carrying CM and other dignitaries to Secretariat operated by women crew",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-launches-priyadarshini-free-bus-travel-scheme-for-women/article71103460.ece",
+      "publishedAt": 1781508724000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "b728eebaf43f6b22",
+      "id": "0181f50c7e87d46c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.331,
+      "breakingScore": 2.993,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -72,22 +120,46 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781457499000
+      "firstSeen": 1781507332000
     },
     {
-      "title": "Sunday Bloody Sunday: Trump warns Israel not to blow up Iran deal",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131726036.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "title": "Taiwan launches website to collect intelligence on China",
+      "summary": "Taiwan’s National Security Bureau introduced the platform with a one-minute AI-generated video showing a Chinese civil servant witnessing colleagues being removed and investigated, “reflecting a pervasive atmosphere that everyone is on edge under China’s totalitarian regime”, it said in a statement",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/taiwan-launches-website-to-collect-intelligence-on-china/article71103698.ece",
+      "publishedAt": 1781503697000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "110302dd895ab2df",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.876,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781501377000
+    },
+    {
+      "title": "Watch: Stanford students boo Sundar Pichai, walk out during Google CEO's commencement speech",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131734541.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/sunday-bloody-sunday-trump-warns-israel-not-to-blow-up-iran-deal/articleshow/131726036.cms",
-      "publishedAt": 1781457967000,
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-stanford-students-boo-sundar-pichai-walk-out-during-google-ceos-commencement-speech/articleshow/131734541.cms",
+      "publishedAt": 1781503268000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "b86c3f57f7eb4882",
+      "id": "8aea396f5f40d7e3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.28,
+      "breakingScore": 2.867,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -96,31 +168,31 @@
         "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1781455444000
+      "firstSeen": 1781500873000
     },
     {
-      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781448755000,
-      "category": "world",
+      "title": "Elon Musk says SpaceX could bring $1 trillion in revenue by 2030",
+      "summary": "Elon Musk predicts SpaceX could generate over $1 trillion in revenue by 2030, a bold statement following the company's valuation exceeding $2 trillion. Despite recent revenue growth, SpaceX reported a net loss in 2025, prompting caution from some Wall Street analysts whose projections fall significantly short of Musk's ambitious target.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-says-spacex-could-bring-1-trillion-in-revenue-by-2030/articleshow/131734730.cms",
+      "publishedAt": 1781502606000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "b55dd2fd170f4546",
+      "id": "5598fe20b2f1828b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.067,
+      "breakingScore": 2.851,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
+        "economic_times",
         "times_of_india"
       ],
-      "firstSeen": 1781446322000
+      "firstSeen": 1781497416000
     }
   ]
 }
