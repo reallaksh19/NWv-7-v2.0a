@@ -1,95 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781530737831,
-  "contentHash": "473661dc3018",
+  "fetchedAt": 1781547376548,
+  "contentHash": "a65e40f6d41a",
   "breaking": [
     {
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781525256000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "e74a6e8f3d3479ed",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 8.873,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "ndtv"
-      ],
-      "firstSeen": 1781524932000
-    },
-    {
-      "title": "Russia Unleashes Major Attack On Ukraine, 11 Dead, Historic Site Damaged",
-      "summary": "Zelensky said that the Russian strikes killed 11 civilians and emergency workers and wounded 53.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/russia-unleashes-major-attack-on-ukraine-11-dead-historic-site-damaged-11639034#publisher=newsstand",
-      "publishedAt": 1781523600000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0df0537cb1b6e3b1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.835,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781523600000
-    },
-    {
-      "title": "6.2-magnitude quake strikes off southern Philippines: USGS",
-      "summary": "The quake hit off the coast of Mindanao island at 5:18 p.m. (0918 GMT) at a depth of 112 kilometres (69.5 miles), the USGS reported; no tsunami warning has been issued.",
+      "title": "China says growing its military helps world peace",
+      "summary": "A Lowy Institute report said that China is capable of a direct missile strike on Australia and the threat of such a move is growing as Beijing amasses long-range and hypersonic weapons",
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/62-magnitude-quake-strikes-off-southern-philippines-usgs/article71104413.ece",
-      "publishedAt": 1781521072000,
+      "url": "https://www.thehindu.com/news/international/china-says-growing-its-military-helps-world-peace/article71106308.ece",
+      "publishedAt": 1781542950000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "ca256126b84dab12",
+      "id": "498b1be5b63d8d94",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.776,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1781520471000
-    },
-    {
-      "title": "Two killed, five others injured in fire at restobar in Mysuru",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/two-killed-five-others-injured-in-fire-at-restobar-in-mysuru/article71105145.ece",
-      "publishedAt": 1781530606000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "1647a89bc05c6ebd",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.997,
+      "breakingScore": 3.898,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -97,45 +24,92 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781530606000
+      "firstSeen": 1781542950000
     },
     {
-      "title": "Boy, 2, seriously hurt in nursery playground car crash",
-      "summary": "A 63-year-old woman is arrested on suspicion of causing serious injury by dangerous driving.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781530048000,
+      "title": "At least 31 dead after bus crashes in Ethiopia",
+      "summary": "The road where the accident occurred winds through hilly terrain and is widely known as hazardous. The cause of the crash remains under investigation",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/ethiopia-accident-death-toll-june-15-2026/article71105371.ece",
+      "publishedAt": 1781532565000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "629f87bddf4c408f",
+      "id": "d48629926acaad59",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.984,
+      "breakingScore": 3.657,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "bbc"
+        "the_hindu"
       ],
-      "firstSeen": 1781530048000
+      "firstSeen": 1781532565000
     },
     {
-      "title": "Palestine Action ban is lawful, Court of Appeal rules",
-      "summary": "The Home Office had challenged a High Court ruling that the group's proscription should be quashed.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781527444000,
+      "title": "Video: 2 killed, Owner Among 6 Injured In Massive Fire At Mysuru Pub",
+      "summary": "The victims are 26-year-old Sahin from Darjeeling and 24-year-old Prakash from Nepal.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/video-2-killed-5-including-owner-injured-in-massive-fire-at-mysuru-pub-11639504#publisher=newsstand",
+      "publishedAt": 1781530921000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "ca2b648c540c35fe",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.619,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781530921000
+    },
+    {
+      "title": "Trump Celebrates 80th Birthday As White House Turns Into Cage Fight Arena",
+      "summary": "A series of UFC combatants paid tribute to the president after winning",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/trump-celebrates-80th-birthday-as-white-house-turns-into-cage-fight-arena-11640137#publisher=newsstand",
+      "publishedAt": 1781535479000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "912d3eedf2d83e80",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.725,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1781533549000
+    },
+    {
+      "title": "Britain wins appeal that Palestine Action ban was unlawful",
+      "summary": "Palestine Action, which had increasingly targeted Israel-linked ​defence ‌companies in Britain with a particular focus on Israel's ‌largest defence ​firm Elbit Systems, was proscribed under ⁠terrorism laws last year",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/britain-wins-appeal-that-palestine-action-ban-was-unlawful/article71104479.ece",
+      "publishedAt": 1781530870000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "fb0d431aff14d40e",
+      "id": "10dd1ad74bb2ccd6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.924,
+      "breakingScore": 2.618,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -144,7 +118,7 @@
         "bbc",
         "the_hindu"
       ],
-      "firstSeen": 1781523206000
+      "firstSeen": 1781527444000
     },
     {
       "title": "Quote of the day by Benjamin Graham: \"It is important to make sure that one is not lured by rash enthusiasm into commitments at levels greatly above those soundly warranted by the financial set-up and the earnings record\"",
@@ -159,7 +133,7 @@
       "id": "fef5508d002dc7b4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.904,
+      "breakingScore": 2.519,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -171,19 +145,19 @@
       "firstSeen": 1781523283000
     },
     {
-      "title": "Over 15 students taken ill at Gulbarga University hostel",
-      "summary": "Dead lizard found in storage tank leads to the suspicion that water they drank may have been contaminated",
-      "source": "The Hindu",
+      "title": "Russian barrage in Ukraine kills 11, damages a sacred landmark, officials say",
+      "summary": "Ukrainian air force said that Russia launched 70 missiles and 611 drones, mainly targeting the capital, adding that Ukrainian air defence units had downed 50 missiles and 582 drones",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/over-15-students-taken-ill-at-gulbarga-university-hostel/article71105160.ece",
-      "publishedAt": 1781530612000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-drone-attack-on-kyiv-lavra-monastery-june-15-2026/article71103897.ece",
+      "publishedAt": 1781544285000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "e583154598f232e5",
+      "id": "dfdf7a40e36cd06e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.497,
+      "breakingScore": 2.428,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -191,7 +165,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781530612000
+      "firstSeen": 1781544285000
+    },
+    {
+      "title": "20 Years, 128 Witnesses: Ex-Congress Leader's Murder Trial Nears Verdict",
+      "summary": "Padmasinh Patil, the main accused in the Pawan Raje Nimbalkar murder case.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/pawanraje-nimbalkar-20-years-128-witnesses-ex-congress-leaders-murder-trial-nears-verdict-11640847#publisher=newsstand",
+      "publishedAt": 1781544114000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "8cf6f0e09a7c4cdc",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.424,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781544114000
     }
   ]
 }
