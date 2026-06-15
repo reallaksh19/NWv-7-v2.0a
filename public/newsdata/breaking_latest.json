@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781558989656,
-  "contentHash": "7ac3f3577272",
+  "fetchedAt": 1781565564528,
+  "contentHash": "cc879f6a7b40",
   "breaking": [
     {
       "title": "Over 1,000 Civilians Died In Sudan Drone Strikes In First 5 Months Of 2026",
@@ -16,7 +16,7 @@
       "id": "b6a1944400e2fd19",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.252,
+      "breakingScore": 5.1,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,27 +27,52 @@
       "firstSeen": 1781548272000
     },
     {
-      "title": "China says growing its military helps world peace",
-      "summary": "A Lowy Institute report said that China is capable of a direct missile strike on Australia and the threat of such a move is growing as Beijing amasses long-range and hypersonic weapons",
-      "source": "The Hindu International",
+      "title": "8 presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
+      "summary": "There was no information yet on the crew, however aerial footage showed virtually nothing left of an aircraft",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/china-says-growing-its-military-helps-world-peace/article71106308.ece",
-      "publishedAt": 1781542950000,
-      "category": "world",
+      "url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece",
+      "publishedAt": 1781564550000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "498b1be5b63d8d94",
+      "id": "0b5d560f3aa42ebe",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.629,
+      "breakingScore": 3.977,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781542950000
+      "firstSeen": 1781555751000
+    },
+    {
+      "title": "Russian Drone Hits Zoo In Ukraine's Kharkiv, Kills Animals",
+      "summary": "There were no casualties among staff or visitors.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-drone-hits-zoo-in-ukraines-kharkiv-kills-animals-11641438#publisher=newsstand",
+      "publishedAt": 1781559589000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "26b0c45f5e50baa6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.362,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781544285000
     },
     {
       "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
@@ -62,14 +87,13 @@
       "id": "8002d77b4367de97",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.422,
+      "breakingScore": 2.27,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "allSources": [
         "bbc",
-        "ndtv",
         "the_hindu"
       ],
       "firstSeen": 1781533588000
@@ -87,7 +111,7 @@
       "id": "10dd1ad74bb2ccd6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.349,
+      "breakingScore": 2.197,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -111,7 +135,7 @@
       "id": "64030b745d7fee7e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.334,
+      "breakingScore": 2.182,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -134,7 +158,7 @@
       "id": "075e69e23f98b5bc",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.27,
+      "breakingScore": 2.118,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,29 +167,6 @@
         "ndtv"
       ],
       "firstSeen": 1781549068000
-    },
-    {
-      "title": "Russian barrage in Ukraine kills 11, damages a sacred landmark, officials say",
-      "summary": "Ukrainian air force said that Russia launched 70 missiles and 611 drones, mainly targeting the capital, adding that Ukrainian air defence units had downed 50 missiles and 582 drones",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-drone-attack-on-kyiv-lavra-monastery-june-15-2026/article71103897.ece",
-      "publishedAt": 1781544285000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "dfdf7a40e36cd06e",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.16,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781544285000
     },
     {
       "title": "20 Years, 128 Witnesses: Ex-Congress Leader's Murder Trial Nears Verdict",
@@ -180,7 +181,7 @@
       "id": "8cf6f0e09a7c4cdc",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.156,
+      "breakingScore": 2.003,
       "breakingReasons": [
         "severity_lexicon"
       ],
