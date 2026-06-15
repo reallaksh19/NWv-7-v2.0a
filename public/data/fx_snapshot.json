@@ -1,58 +1,19 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-06-14T21:18:48.743670Z",
+  "generatedAt": "2026-06-15T08:51:42.670003Z",
   "currencies": [
-    {
-      "name": "USD/INR",
-      "pair": "USDINR",
-      "symbol": "USDINR=X",
-      "value": "₹95.1000",
-      "rate": 95.0999984741211,
-      "change": "-0.6601",
-      "changePercent": "-0.69",
-      "direction": "down",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-14T21:17:04.843564Z"
-    },
-    {
-      "name": "GBP/INR",
-      "pair": "GBPINR",
-      "symbol": "GBPINR=X",
-      "value": "₹127.4888",
-      "rate": 127.48880004882812,
-      "change": "0.6798",
-      "changePercent": "0.54",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-14T21:17:04.866189Z"
-    },
     {
       "name": "EUR/INR",
       "pair": "EURINR",
       "symbol": "EURINR=X",
-      "value": "₹110.0413",
-      "rate": 110.04129791259766,
-      "change": "0.2233",
-      "changePercent": "0.20",
-      "direction": "up",
+      "value": "₹109.8216",
+      "rate": 109.82160186767578,
+      "change": "-0.9494",
+      "changePercent": "-0.86",
+      "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-14T21:17:04.882111Z"
-    },
-    {
-      "name": "JPY/INR",
-      "pair": "JPYINR",
-      "symbol": "JPYINR=X",
-      "value": "₹0.5934",
-      "rate": 0.5933899879455566,
-      "change": "0.0004",
-      "changePercent": "0.06",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-14T21:17:04.906860Z"
+      "asOf": "2026-06-15T08:50:00.822197Z"
     },
     {
       "name": "OMR/INR",
@@ -65,7 +26,46 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-14T21:17:04.932633Z"
+      "asOf": "2026-06-15T08:50:00.827791Z"
+    },
+    {
+      "name": "JPY/INR",
+      "pair": "JPYINR",
+      "symbol": "JPYINR=X",
+      "value": "₹0.5910",
+      "rate": 0.5910300016403198,
+      "change": "-0.0066",
+      "changePercent": "-1.10",
+      "direction": "down",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-15T08:50:00.877560Z"
+    },
+    {
+      "name": "GBP/INR",
+      "pair": "GBPINR",
+      "symbol": "GBPINR=X",
+      "value": "₹127.0878",
+      "rate": 127.08779907226562,
+      "change": "0.2788",
+      "changePercent": "0.22",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-15T08:50:00.902616Z"
+    },
+    {
+      "name": "USD/INR",
+      "pair": "USDINR",
+      "symbol": "USDINR=X",
+      "value": "₹94.6950",
+      "rate": 94.69499969482422,
+      "change": "-1.0651",
+      "changePercent": "-1.11",
+      "direction": "down",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-15T08:50:00.917911Z"
     }
   ],
   "sourceHealth": {
@@ -78,7 +78,7 @@
         "status": "failed",
         "latencyMs": null,
         "count": 0,
-        "message": "RBI reference scrape failed: unknown"
+        "message": "RBI reference scrape failed: 418 Client Error: Unknown Code for url: https://www.rbi.org.in/scripts/ReferenceRateArchive.aspx"
       },
       {
         "provider": "yahoo_yfinance",
