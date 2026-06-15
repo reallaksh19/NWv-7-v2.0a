@@ -1,8 +1,31 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781547376548,
-  "contentHash": "a65e40f6d41a",
+  "fetchedAt": 1781558989656,
+  "contentHash": "7ac3f3577272",
   "breaking": [
+    {
+      "title": "Over 1,000 Civilians Died In Sudan Drone Strikes In First 5 Months Of 2026",
+      "summary": "The war killed at least 59,000 people over the course of three years",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/over-1-000-civilians-died-in-sudan-drone-strikes-in-first-5-months-of-2026-11641129#publisher=newsstand",
+      "publishedAt": 1781548272000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "b6a1944400e2fd19",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.252,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781548272000
+    },
     {
       "title": "China says growing its military helps world peace",
       "summary": "A Lowy Institute report said that China is capable of a direct missile strike on Australia and the threat of such a move is growing as Beijing amasses long-range and hypersonic weapons",
@@ -16,7 +39,7 @@
       "id": "498b1be5b63d8d94",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.898,
+      "breakingScore": 3.629,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,74 +50,29 @@
       "firstSeen": 1781542950000
     },
     {
-      "title": "At least 31 dead after bus crashes in Ethiopia",
-      "summary": "The road where the accident occurred winds through hilly terrain and is widely known as hazardous. The cause of the crash remains under investigation",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/ethiopia-accident-death-toll-june-15-2026/article71105371.ece",
-      "publishedAt": 1781532565000,
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781555634000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "d48629926acaad59",
+      "id": "8002d77b4367de97",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.657,
+      "breakingScore": 2.422,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781532565000
-    },
-    {
-      "title": "Video: 2 killed, Owner Among 6 Injured In Massive Fire At Mysuru Pub",
-      "summary": "The victims are 26-year-old Sahin from Darjeeling and 24-year-old Prakash from Nepal.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/video-2-killed-5-including-owner-injured-in-massive-fire-at-mysuru-pub-11639504#publisher=newsstand",
-      "publishedAt": 1781530921000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "ca2b648c540c35fe",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.619,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781530921000
-    },
-    {
-      "title": "Trump Celebrates 80th Birthday As White House Turns Into Cage Fight Arena",
-      "summary": "A series of UFC combatants paid tribute to the president after winning",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/trump-celebrates-80th-birthday-as-white-house-turns-into-cage-fight-arena-11640137#publisher=newsstand",
-      "publishedAt": 1781535479000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "912d3eedf2d83e80",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.725,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "allSources": [
         "bbc",
-        "ndtv"
+        "ndtv",
+        "the_hindu"
       ],
-      "firstSeen": 1781533549000
+      "firstSeen": 1781533588000
     },
     {
       "title": "Britain wins appeal that Palestine Action ban was unlawful",
@@ -109,7 +87,7 @@
       "id": "10dd1ad74bb2ccd6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.618,
+      "breakingScore": 2.349,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -121,28 +99,50 @@
       "firstSeen": 1781527444000
     },
     {
-      "title": "Quote of the day by Benjamin Graham: \"It is important to make sure that one is not lured by rash enthusiasm into commitments at levels greatly above those soundly warranted by the financial set-up and the earnings record\"",
-      "summary": "Benjamin Graham’s quote cautions investors against overpaying for stocks during periods of market enthusiasm. The piece explains how strong financials and earnings records should guide investment decisions, highlighting risks of overvaluation and behavioural biases. It reinforces the importance of discipline, fundamentals and long-term thinking in investing.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-benjamin-graham-it-is-important-to-make-sure-that-one-is-not-lured-by-rash-enthusiasm-into-commitments-at-levels-greatly-above-those-soundly-warranted-by-the-financial-set-up-and-the-earnings-record/articleshow/131734321.cms",
-      "publishedAt": 1781526600000,
+      "title": "Man arrested under POCSO Act in Poonamallee",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/man-arrested-under-pocso-act-in-poonamallee/article71105020.ece",
+      "publishedAt": 1781551813000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "fef5508d002dc7b4",
+      "id": "64030b745d7fee7e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.519,
+      "breakingScore": 2.334,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "economic_times",
-        "times_of_india"
+        "the_hindu"
       ],
-      "firstSeen": 1781523283000
+      "firstSeen": 1781551813000
+    },
+    {
+      "title": "Netanyahu Says Will Run In Upcoming Israeli Elections",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu on Monday said he intended to run in elections scheduled for later this year, as he faced domestic criticism over his handling of the Middle East war and its aftermath.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/benjamin-netanyahu-says-will-run-in-upcoming-israeli-elections-11641158#publisher=newsstand",
+      "publishedAt": 1781549068000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "075e69e23f98b5bc",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.27,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781549068000
     },
     {
       "title": "Russian barrage in Ukraine kills 11, damages a sacred landmark, officials say",
@@ -157,7 +157,7 @@
       "id": "dfdf7a40e36cd06e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.428,
+      "breakingScore": 2.16,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -170,17 +170,17 @@
     {
       "title": "20 Years, 128 Witnesses: Ex-Congress Leader's Murder Trial Nears Verdict",
       "summary": "Padmasinh Patil, the main accused in the Pawan Raje Nimbalkar murder case.",
-      "source": "NDTV India",
+      "source": "NDTV",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/pawanraje-nimbalkar-20-years-128-witnesses-ex-congress-leaders-murder-trial-nears-verdict-11640847#publisher=newsstand",
       "publishedAt": 1781544114000,
-      "category": "india",
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "8cf6f0e09a7c4cdc",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.424,
+      "breakingScore": 2.156,
       "breakingReasons": [
         "severity_lexicon"
       ],
