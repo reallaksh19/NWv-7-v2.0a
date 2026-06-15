@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781509035078,
-  "contentHash": "a47b22210cf0",
+  "fetchedAt": 1781530737831,
+  "contentHash": "473661dc3018",
   "breaking": [
     {
-      "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others.",
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781508032000,
+      "publishedAt": 1781525256000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "e74a6e8f3d3479ed",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 8.977,
+      "breakingScore": 8.873,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -24,24 +24,24 @@
       "sourceCount": 2,
       "allSources": [
         "bbc",
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1781504523000
+      "firstSeen": 1781524932000
     },
     {
-      "title": "2 BJP Workers Injured In Attack In Kerala's Malappuram, Party Blames CPM",
-      "summary": "Police have begun an investigation into the incident.",
+      "title": "Russia Unleashes Major Attack On Ukraine, 11 Dead, Historic Site Damaged",
+      "summary": "Zelensky said that the Russian strikes killed 11 civilians and emergency workers and wounded 53.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/2-bjp-workers-injured-in-attack-in-keralas-malappuram-party-blames-cpm-11637667#publisher=newsstand",
-      "publishedAt": 1781506979000,
+      "url": "https://www.ndtv.com/world-news/russia-unleashes-major-attack-on-ukraine-11-dead-historic-site-damaged-11639034#publisher=newsstand",
+      "publishedAt": 1781523600000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "42325cfbf07a6c03",
+      "id": "0df0537cb1b6e3b1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.952,
+      "breakingScore": 6.835,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -49,141 +49,117 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1781506979000
+      "firstSeen": 1781523600000
     },
     {
-      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-      "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781506043000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "71c2fce90d63a1e5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.931,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "times_of_india"
-      ],
-      "firstSeen": 1781471987000
-    },
-    {
-      "title": "Out-Of-Control Bus Crashes Into Karnataka Bus Stand, Leaves Man Injured",
-      "summary": "The injured has been identified as Manjunath, a resident of Chikkamagaluru",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/karnataka-news/karnataka-bus-accident-out-of-control-ksrtc-bus-crashes-into-karnataka-bus-stand-leaves-man-injured-11637442#publisher=newsstand",
-      "publishedAt": 1781503247000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9017407b9d76d17c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.866,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781503247000
-    },
-    {
-      "title": "Kerala launches ‘Priyadarshini’ free bus travel scheme for women, transgenders",
-      "summary": "Chief Minister V.D. Satheesan inaugurates UDF govt’s flagship scheme at Thampanoor. Inaugural journey carrying CM and other dignitaries to Secretariat operated by women crew",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-launches-priyadarshini-free-bus-travel-scheme-for-women/article71103460.ece",
-      "publishedAt": 1781508724000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0181f50c7e87d46c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.993,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781507332000
-    },
-    {
-      "title": "Taiwan launches website to collect intelligence on China",
-      "summary": "Taiwan’s National Security Bureau introduced the platform with a one-minute AI-generated video showing a Chinese civil servant witnessing colleagues being removed and investigated, “reflecting a pervasive atmosphere that everyone is on edge under China’s totalitarian regime”, it said in a statement",
+      "title": "6.2-magnitude quake strikes off southern Philippines: USGS",
+      "summary": "The quake hit off the coast of Mindanao island at 5:18 p.m. (0918 GMT) at a depth of 112 kilometres (69.5 miles), the USGS reported; no tsunami warning has been issued.",
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/taiwan-launches-website-to-collect-intelligence-on-china/article71103698.ece",
-      "publishedAt": 1781503697000,
+      "url": "https://www.thehindu.com/news/international/62-magnitude-quake-strikes-off-southern-philippines-usgs/article71104413.ece",
+      "publishedAt": 1781521072000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "110302dd895ab2df",
+      "id": "ca256126b84dab12",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.876,
+      "breakingScore": 5.776,
       "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781501377000
-    },
-    {
-      "title": "Watch: Stanford students boo Sundar Pichai, walk out during Google CEO's commencement speech",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131734541.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/watch-stanford-students-boo-sundar-pichai-walk-out-during-google-ceos-commencement-speech/articleshow/131734541.cms",
-      "publishedAt": 1781503268000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "8aea396f5f40d7e3",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.867,
-      "breakingReasons": [
-        "multi_source_velocity"
+        "multi_source_velocity",
+        "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
         "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1781500873000
+      "firstSeen": 1781520471000
     },
     {
-      "title": "Elon Musk says SpaceX could bring $1 trillion in revenue by 2030",
-      "summary": "Elon Musk predicts SpaceX could generate over $1 trillion in revenue by 2030, a bold statement following the company's valuation exceeding $2 trillion. Despite recent revenue growth, SpaceX reported a net loss in 2025, prompting caution from some Wall Street analysts whose projections fall significantly short of Musk's ambitious target.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-says-spacex-could-bring-1-trillion-in-revenue-by-2030/articleshow/131734730.cms",
-      "publishedAt": 1781502606000,
+      "title": "Two killed, five others injured in fire at restobar in Mysuru",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/two-killed-five-others-injured-in-fire-at-restobar-in-mysuru/article71105145.ece",
+      "publishedAt": 1781530606000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "5598fe20b2f1828b",
+      "id": "1647a89bc05c6ebd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.851,
+      "breakingScore": 3.997,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781530606000
+    },
+    {
+      "title": "Boy, 2, seriously hurt in nursery playground car crash",
+      "summary": "A 63-year-old woman is arrested on suspicion of causing serious injury by dangerous driving.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781530048000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "629f87bddf4c408f",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.984,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781530048000
+    },
+    {
+      "title": "Palestine Action ban is lawful, Court of Appeal rules",
+      "summary": "The Home Office had challenged a High Court ruling that the group's proscription should be quashed.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781527444000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "fb0d431aff14d40e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.924,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1781523206000
+    },
+    {
+      "title": "Quote of the day by Benjamin Graham: \"It is important to make sure that one is not lured by rash enthusiasm into commitments at levels greatly above those soundly warranted by the financial set-up and the earnings record\"",
+      "summary": "Benjamin Graham’s quote cautions investors against overpaying for stocks during periods of market enthusiasm. The piece explains how strong financials and earnings records should guide investment decisions, highlighting risks of overvaluation and behavioural biases. It reinforces the importance of discipline, fundamentals and long-term thinking in investing.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-benjamin-graham-it-is-important-to-make-sure-that-one-is-not-lured-by-rash-enthusiasm-into-commitments-at-levels-greatly-above-those-soundly-warranted-by-the-financial-set-up-and-the-earnings-record/articleshow/131734321.cms",
+      "publishedAt": 1781526600000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "fef5508d002dc7b4",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.904,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -192,7 +168,30 @@
         "economic_times",
         "times_of_india"
       ],
-      "firstSeen": 1781497416000
+      "firstSeen": 1781523283000
+    },
+    {
+      "title": "Over 15 students taken ill at Gulbarga University hostel",
+      "summary": "Dead lizard found in storage tank leads to the suspicion that water they drank may have been contaminated",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/over-15-students-taken-ill-at-gulbarga-university-hostel/article71105160.ece",
+      "publishedAt": 1781530612000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "e583154598f232e5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.497,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781530612000
     }
   ]
 }
