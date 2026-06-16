@@ -1,172 +1,194 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781575542749,
-  "contentHash": "e10e6b984835",
+  "fetchedAt": 1781595716907,
+  "contentHash": "54bca6b69870",
   "breaking": [
     {
-      "title": "Eight people dead after US Air Force B-52 bomber crashes in California",
-      "summary": "The Boeing B-52 Stratofortress has been used by the US military since the 1950s.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781574543000,
-      "category": "world",
+      "title": "Delhi woman on vacation with husband found dead in Mussoorie homestay",
+      "summary": "The couple, originally from Visakhapatnam, arrived at the homestay in Tipridhar late Sunday",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/delhi-woman-on-vacation-with-husband-found-dead-in-mussoorie-homestay/article71108138.ece",
+      "publishedAt": 1781594893000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "9ee048b6b7de25a4",
+      "id": "21a5240320d1e880",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.977,
+      "breakingScore": 5.981,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "allSources": [
-        "bbc",
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781564550000
+      "firstSeen": 1781593348000
     },
     {
-      "title": "Morning Digest: Export duty on diesel, ATF hiked with petrol unchanged; Centre warns of potential drone attacks on vital installations, and more",
-      "summary": "Here is a select list of stories to start the day",
-      "source": "The Hindu",
+      "title": "Eight presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
+      "summary": "There was no information yet on the crew, however aerial footage showed virtually nothing left of an aircraft",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/the-hindu-morning-digest-june-16-2026/article71106428.ece",
-      "publishedAt": 1781571661000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4490b5e71a68cd75",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.91,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781571661000
-    },
-    {
-      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
-      "summary": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781565999000,
+      "url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece",
+      "publishedAt": 1781594467000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "7ad448c4a12f49e1",
+      "id": "0b5d560f3aa42ebe",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.779,
+      "breakingScore": 3.971,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "bbc"
+        "bbc",
+        "the_hindu"
       ],
-      "firstSeen": 1781565999000
+      "firstSeen": 1781574543000
     },
     {
-      "title": "Dollar sways near 10-day lows as attention turns to BOJ and RBA",
-      "summary": "A preliminary deal to end the Middle East war boosted global risk appetite, sending oil prices down and the U.S. dollar near 10-day lows. Investors now await central bank meetings in Japan and Australia for inflation outlooks, with the Bank of Japan expected to raise rates.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sways-near-10-day-lows-as-attention-turns-to-boj-and-rba/articleshow/131757227.cms",
-      "publishedAt": 1781574382000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "3544fb37f2d0734f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.473,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "economic_times"
-      ],
-      "firstSeen": 1781574382000
-    },
-    {
-      "title": "'Sometimes Trump &amp; I don't see eye to eye': Netanyahu admits fallout with US prez over Iran war",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131757146.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/sometimes-trump-and-i-dont-see-eye-to-eye-netanyahu-admits-fallout-with-us-president-over-iran-war/articleshow/131757146.cms",
-      "publishedAt": 1781573960000,
+      "title": "Three killed, three injured as car runs over people after hitting multiple vehicles in Bhubaneswar",
+      "summary": "The mishap took place in the Gajapati Nagar area under the Maitree Vihar Police Station limit, on the road connecting Acharya Vihar to Nalco Square in the city, on June 15",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/people-killed-and-injured-as-car-runs-over-people-after-hitting-multiple-vehicles-in-bhubaneswar/article71108068.ece",
+      "publishedAt": 1781594001000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "cfcc5569b74b3b2c",
+      "id": "4749b41d879dc324",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.463,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "times_of_india"
-      ],
-      "firstSeen": 1781533588000
-    },
-    {
-      "title": "GIFT Nifty signals muted start for Dalal Street amid cautious trade",
-      "summary": "Indian stock markets saw a rally mirroring global trends. Investors reacted positively to news of a US-Iran ceasefire agreement and the reopening of the Strait of Hormuz. The Nifty closed higher, though trading remained within a narrow range. Analysts are watching the 24,000 mark as a key resistance level.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/131749365.cms",
-      "publishedAt": 1781569800000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "68c2089bab0a6fc5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.367,
+      "breakingScore": 3.96,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "economic_times"
+        "the_hindu"
       ],
-      "firstSeen": 1781569800000
+      "firstSeen": 1781594001000
     },
     {
-      "title": "Russian Drone Hits Zoo In Ukraine's Kharkiv, Kills Animals",
-      "summary": "There were no casualties among staff or visitors.",
+      "title": "2 Nuke-Delivery Bombers Of Biggest Cold War Enemies Crash On Same Day",
+      "summary": "Only H models of the B-52 remain in the Air Force inventory.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-drone-hits-zoo-in-ukraines-kharkiv-kills-animals-11641438#publisher=newsstand",
-      "publishedAt": 1781559589000,
+      "url": "https://www.ndtv.com/world-news/2-nuke-delivery-bombers-us-b-52-russian-tu-22m3-of-biggest-cold-war-enemies-crash-on-same-day-11642261#publisher=newsstand",
+      "publishedAt": 1781586654000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "26b0c45f5e50baa6",
+      "id": "43c62cc8263a45e9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.131,
+      "breakingScore": 3.79,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
+        "ndtv"
+      ],
+      "firstSeen": 1781586654000
+    },
+    {
+      "title": "Elite Skydiver With 6,800 Jumps In 36 Years Among 11 Killed In US Crash",
+      "summary": "Weather did not appear to be a factor behind the crash.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/some-of-11-skydivers-killed-in-missouri-plane-crash-were-experienced-jumpers-11641984#publisher=newsstand",
+      "publishedAt": 1781585521000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "56f15cd3acb16021",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.764,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781585521000
+    },
+    {
+      "title": "Watch: Lebanese journalist attacked by Israeli drones while reporting",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131758558.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A journalist, Hadi Hoteit, was injured by Israeli drone shrapnel while reporting in Kfar Tebnit, southern Lebanon. Despite clear press markings on his vest, helmet, and car, he was targeted in an open area.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-lebanese-journalist-attacked-by-israeli-drones-while-reporting/articleshow/131758558.cms",
+      "publishedAt": 1781582787000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "8941a9e43381b9c5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.701,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1781582787000
+    },
+    {
+      "title": "6.7 magnitude earthquake shakes part of Indonesia, causing scattered damage",
+      "summary": "The quake was centred 46 kilometers east-southeast of Palu, the capital of Central Sulawesi province",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/67-magnitude-earthquake-shakes-part-of-indonesia/article71107725.ece",
+      "publishedAt": 1781595056000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "2c3a8df2fa3180a5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.485,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781544285000
+      "firstSeen": 1781595056000
+    },
+    {
+      "title": "G7 leaders meet in France after U.S. and Iran declare agreement to end war",
+      "summary": "Discussing next steps on Iran ⁠will be one of several issues the global leaders will wrestle with during the June 15-17 summit, which will also seek common ground on the war in Ukraine",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/g7-leaders-meet-in-france-after-us-and-iran-declare-agreement-to-end-war/article71103501.ece",
+      "publishedAt": 1781594801000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "ba260c017db2345c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.479,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781594801000
     }
   ]
 }
