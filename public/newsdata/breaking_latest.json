@@ -1,45 +1,70 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781632159618,
-  "contentHash": "038183b5a43c",
+  "fetchedAt": 1781642630639,
+  "contentHash": "072c65d1ce1b",
   "breaking": [
     {
-      "title": "At least one killed, four injured as 6.3-magnitude earthquake hits northwestern China",
-      "summary": "The earthquake struck ‌the high-altitude area at 5:06 p.m. Beijing time (0906 GMT) on Tuesday (June 16, 2026), ‌according to China Earthquake Networks Center (CENC)",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/magnitude-63-earthquake-strikes-qinghai-in-northwest-china/article71108753.ece",
-      "publishedAt": 1781619359000,
-      "category": "world",
+      "title": "Russian Artist Critical Of Putin Shot Dead In Poland, 2 Belarusians Arrested",
+      "summary": "Moscow has always denied any involvement in these attacks.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/russian-artist-critical-of-putin-shot-dead-in-poland-2-belarusians-arrested-11646243#publisher=newsstand",
+      "publishedAt": 1781634549000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "330f36baa1ffedba",
+      "id": "4cff36c40c596c28",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.204,
+      "breakingScore": 7.313,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1781631230000
+    },
+    {
+      "title": "Iran Threatens \"Harsh Response\" To Israeli Attacks In Lebanon",
+      "summary": "Iran claimed that Israel had violated the ceasefire in Lebanon \"84 times\" since the deal was announced.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/iran-threatens-harsh-response-to-israeli-attacks-in-lebanon-11646350#publisher=newsstand",
+      "publishedAt": 1781637127000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "06875cf1a382e215",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.873,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1781619359000
+      "firstSeen": 1781637127000
     },
     {
       "title": "Body Found Stuffed In Mattress, Delhi Couple Arrested Months Later",
       "summary": "Police arrested the couple on June 15 from near a railway line.",
-      "source": "NDTV",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/body-found-stuffed-in-mattress-delhi-couple-arrested-months-later-11645937#publisher=newsstand",
       "publishedAt": 1781629547000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "e286c0c55cbb3fff",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.94,
+      "breakingScore": 3.697,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -50,145 +75,120 @@
       "firstSeen": 1781629547000
     },
     {
-      "title": "5.5 magnitude earthquake rattles Tokyo region; no danger of tsunami",
-      "summary": "There have been no reports of damage or injuries from the temblor so far, the Fire and Disaster Management Agency said",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/55-magnitude-earthquake-rattles-tokyo-region-no-danger-of-tsunami/article71109414.ece",
-      "publishedAt": 1781617113000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "c07a97aa3746c90c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.652,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781617113000
-    },
-    {
-      "title": "Eight presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
-      "summary": "There was no information yet on the crew, however aerial footage showed virtually nothing left of an aircraft",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece",
-      "publishedAt": 1781614970000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "0b5d560f3aa42ebe",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.602,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781614970000
-    },
-    {
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
       "source": "BBC World",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781632093000,
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781641251000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "fb048b35c4de6aab",
+      "id": "ff42c6675089c73b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.998,
+      "breakingScore": 2.468,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
         "bbc",
-        "ndtv"
-      ],
-      "firstSeen": 1781628023000
-    },
-    {
-      "title": "TVK government’s White Paper puts Tamil Nadu’s debt at ₹13.18 lakh crore",
-      "summary": "The report says the headline debt figure of ₹10 lakh crore in 2025-26 captures only the State’s direct borrowings through market loans, institutional debt, and public account liabilities; it does not capture the borrowings of the PSUs, statutory boards, and special purpose vehicles that the State guarantees or implicitly supports",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvkgovernments-white-paper-putstamil-nadus-debt-at-1318lakhcrore/article71109675.ece",
-      "publishedAt": 1781630781000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "48610cbf1db648a2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.968,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781628087000
+      "firstSeen": 1781617628000
     },
     {
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781631230000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "6a41a1aaaa3c9f21",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.478,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1781631230000
-    },
-    {
-      "title": "Delhi Police arrest seven, bust Pakistan-backed terror syndicate",
+      "title": "Delhi Police bust Pakistan-backed terror syndicate, seven held",
       "summary": "Police say the network was functioning under the patronage of Pakistan’s ISI and was using Indians to further terror activities; police have arrested suspects from Uttar Pradesh and Punjab",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/delhi-police-arrest-seven-bust-pakistan-backed-terror-syndicate/article71110399.ece",
-      "publishedAt": 1781630525000,
+      "publishedAt": 1781638948000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "a8532d189a0b82d6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.462,
+      "breakingScore": 2.415,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781619880000
+      "firstSeen": 1781638948000
+    },
+    {
+      "title": "Man arrested for stealing LPG cylinder in Ramapuram",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/man-arrestedfor-stealing-lpg-cylinderin-ramapuram/article71109534.ece",
+      "publishedAt": 1781638671000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4f944972263ffd3c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.408,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781638671000
+    },
+    {
+      "title": "Empty rations and silent radios: the death of an Indian seafarer onboard Celestial Sea",
+      "summary": "The vessel’s problems encompass almost everything that Indian seafarers have faced in the last two-and-a-half months: Depleting supplies, problems with shipowners, distress calls not being attended to, rationing of food and water, long stressful days in the war zone, and the U.S. Navy’s hostile manoeuvres.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/rice-dhal-and-unanswered-distress-calls-death-of-a-mariner-onboard-celestial-sea/article71110014.ece",
+      "publishedAt": 1781638465000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "9fe7611effab9834",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.404,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781638465000
+    },
+    {
+      "title": "Man arrested for sexually harassing woman in Vadapalani",
+      "summary": "A case was registered under relevant provisions of the Bharatiya Nyaya Sanhita (BNS) and the Tamil Nadu Prohibition of Harassment of Women (TNPHW) Act",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/man-arrested-for-sexually-harassing-woman-in-vadapalani/article71108520.ece",
+      "publishedAt": 1781638387000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f9c53120523db13d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.402,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781638387000
     }
   ]
 }
