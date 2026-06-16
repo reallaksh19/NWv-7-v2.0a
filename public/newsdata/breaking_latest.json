@@ -1,24 +1,186 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781613047998,
-  "contentHash": "33539591c96e",
+  "fetchedAt": 1781632159618,
+  "contentHash": "038183b5a43c",
   "breaking": [
     {
-      "title": "AIADMK's C Vijayabaskar Resigns As MLA, 5th Resignation In A Month",
-      "summary": "AIADMK MLA C Vijayabaskar",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/aiadmks-c-vijayabaskar-resigns-as-mla-5th-resignation-in-a-month-11644175#publisher=newsstand",
-      "publishedAt": 1781611065000,
-      "category": "india",
+      "title": "At least one killed, four injured as 6.3-magnitude earthquake hits northwestern China",
+      "summary": "The earthquake struck ‌the high-altitude area at 5:06 p.m. Beijing time (0906 GMT) on Tuesday (June 16, 2026), ‌according to China Earthquake Networks Center (CENC)",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/magnitude-63-earthquake-strikes-qinghai-in-northwest-china/article71108753.ece",
+      "publishedAt": 1781619359000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "6e7c5a7734d8949a",
+      "id": "330f36baa1ffedba",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.954,
+      "breakingScore": 5.204,
       "breakingReasons": [
-        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781619359000
+    },
+    {
+      "title": "Body Found Stuffed In Mattress, Delhi Couple Arrested Months Later",
+      "summary": "Police arrested the couple on June 15 from near a railway line.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/body-found-stuffed-in-mattress-delhi-couple-arrested-months-later-11645937#publisher=newsstand",
+      "publishedAt": 1781629547000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "e286c0c55cbb3fff",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.94,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781629547000
+    },
+    {
+      "title": "5.5 magnitude earthquake rattles Tokyo region; no danger of tsunami",
+      "summary": "There have been no reports of damage or injuries from the temblor so far, the Fire and Disaster Management Agency said",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/55-magnitude-earthquake-rattles-tokyo-region-no-danger-of-tsunami/article71109414.ece",
+      "publishedAt": 1781617113000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "c07a97aa3746c90c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.652,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781617113000
+    },
+    {
+      "title": "Eight presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
+      "summary": "There was no information yet on the crew, however aerial footage showed virtually nothing left of an aircraft",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece",
+      "publishedAt": 1781614970000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "0b5d560f3aa42ebe",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.602,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781614970000
+    },
+    {
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781632093000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "fb048b35c4de6aab",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.998,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1781628023000
+    },
+    {
+      "title": "TVK government’s White Paper puts Tamil Nadu’s debt at ₹13.18 lakh crore",
+      "summary": "The report says the headline debt figure of ₹10 lakh crore in 2025-26 captures only the State’s direct borrowings through market loans, institutional debt, and public account liabilities; it does not capture the borrowings of the PSUs, statutory boards, and special purpose vehicles that the State guarantees or implicitly supports",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvkgovernments-white-paper-putstamil-nadus-debt-at-1318lakhcrore/article71109675.ece",
+      "publishedAt": 1781630781000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "48610cbf1db648a2",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.968,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781628087000
+    },
+    {
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781631230000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "6a41a1aaaa3c9f21",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.478,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781631230000
+    },
+    {
+      "title": "Delhi Police arrest seven, bust Pakistan-backed terror syndicate",
+      "summary": "Police say the network was functioning under the patronage of Pakistan’s ISI and was using Indians to further terror activities; police have arrested suspects from Uttar Pradesh and Punjab",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-police-arrest-seven-bust-pakistan-backed-terror-syndicate/article71110399.ece",
+      "publishedAt": 1781630525000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a8532d189a0b82d6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.462,
+      "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 2,
@@ -26,168 +188,7 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781610013000
-    },
-    {
-      "title": "Delhi Techie, On Honeymoon, Found Dead By Husband In Pool Of Urine And Blood",
-      "summary": "The couple had married on November 8, 2025.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/p-radha-gayatri-soumya-sricharan-musoorie-delhi-techie-on-vacation-with-husband-found-dead-in-pool-of-urine-and-blood-11643702#publisher=newsstand",
-      "publishedAt": 1781610130000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "98c565afd73e5ce4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.932,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781610130000
-    },
-    {
-      "title": "4 Soldiers Injured In Blast Near Line Of Control In J&K, 3rd Incident In A Week",
-      "summary": "The nature of the blast is still unclear as the Army has not issued a formal statement so far.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/4-soldiers-injured-in-blast-near-line-of-control-in-j-k-3rd-incident-in-a-week-11643924#publisher=newsstand",
-      "publishedAt": 1781609936000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "5904126084c1c192",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.928,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781609936000
-    },
-    {
-      "title": "Magnitude 6.3 earthquake strikes Qinghai in northwest China",
-      "summary": "The earthquake struck ‌the high-altitude area at 5:06 p.m. Beijing time (0906 GMT) on Tuesday (June 16, 2026), ‌according to China Earthquake Networks Center (CENC)",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/magnitude-63-earthquake-strikes-qinghai-in-northwest-china/article71108753.ece",
-      "publishedAt": 1781607336000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "330f36baa1ffedba",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.868,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781607336000
-    },
-    {
-      "title": "'Dragging out of war': Ukraine hits Moscow region's largest refinery in deep-strike attack - video",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131766645.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Ukraine has struck an oil refinery in Moscow's region with a drone, causing damage. President Zelenskyy highlighted Ukraine's extended strike capabilities, emphasizing this as a response to Russian attacks and a means to pressure Moscow to end the war. This incident marks a significant escalation in Ukrainian strikes targeting Russian energy infrastructure, impacting fuel production.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/europe/dragging-out-of-war-ukraine-hits-moscow-regions-largest-refinery-in-deep-strike-attack-video/articleshow/131766645.cms",
-      "publishedAt": 1781602382000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "ea38521745d0ef60",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.753,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1781602382000
-    },
-    {
-      "title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge",
-      "summary": "The Modi government has temporarily blocked Telegram for the NEET exam re-test; Modi ji should first demand the resignation of his Education Minister Dharmendra Pradhan, says Congress president Mallikarjun Kharge",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
-      "publishedAt": 1781611889000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "859e698ac25c0726",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.473,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781611889000
-    },
-    {
-      "title": "A.P. SSC exam 2026: correction deadline extended to June 20, no further chance, says Board",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/deadline-for-ssc-candidate-corrections-extended-to-june-20/article71105577.ece",
-      "publishedAt": 1781611478000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "8adee8d29e8bf61f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.464,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781611478000
-    },
-    {
-      "title": "U.K. increases Russia sanctions to bring ‘war machine to halt’: PM Keir Starmer",
-      "summary": "Britain PM Keir Starmer’s office said 70 new sanctions actions ‘will choke Russia's war effort across multiple fronts’ by targeting Russia's illicit ‘shadow fleet’, military procurement supply chain and finance networks used to circumvent sanctions",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/uk-increases-russia-sanctions-to-bring-war-machine-to-halt-pm-keir-starmer/article71108769.ece",
-      "publishedAt": 1781611283000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "3ff020456c796eac",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.459,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781611283000
+      "firstSeen": 1781619880000
     }
   ]
 }
