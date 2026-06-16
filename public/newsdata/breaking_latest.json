@@ -1,54 +1,148 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781565564528,
-  "contentHash": "cc879f6a7b40",
+  "fetchedAt": 1781575542749,
+  "contentHash": "e10e6b984835",
   "breaking": [
     {
-      "title": "Over 1,000 Civilians Died In Sudan Drone Strikes In First 5 Months Of 2026",
-      "summary": "The war killed at least 59,000 people over the course of three years",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/over-1-000-civilians-died-in-sudan-drone-strikes-in-first-5-months-of-2026-11641129#publisher=newsstand",
-      "publishedAt": 1781548272000,
-      "category": "topStories",
+      "title": "Eight people dead after US Air Force B-52 bomber crashes in California",
+      "summary": "The Boeing B-52 Stratofortress has been used by the US military since the 1950s.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781574543000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "b6a1944400e2fd19",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.1,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781548272000
-    },
-    {
-      "title": "8 presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
-      "summary": "There was no information yet on the crew, however aerial footage showed virtually nothing left of an aircraft",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece",
-      "publishedAt": 1781564550000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0b5d560f3aa42ebe",
+      "id": "9ee048b6b7de25a4",
       "suppressionReason": null,
       "isBreaking": true,
       "breakingScore": 3.977,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "allSources": [
+        "bbc",
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781555751000
+      "firstSeen": 1781564550000
+    },
+    {
+      "title": "Morning Digest: Export duty on diesel, ATF hiked with petrol unchanged; Centre warns of potential drone attacks on vital installations, and more",
+      "summary": "Here is a select list of stories to start the day",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/the-hindu-morning-digest-june-16-2026/article71106428.ece",
+      "publishedAt": 1781571661000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4490b5e71a68cd75",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.91,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781571661000
+    },
+    {
+      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
+      "summary": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781565999000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "7ad448c4a12f49e1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.779,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781565999000
+    },
+    {
+      "title": "Dollar sways near 10-day lows as attention turns to BOJ and RBA",
+      "summary": "A preliminary deal to end the Middle East war boosted global risk appetite, sending oil prices down and the U.S. dollar near 10-day lows. Investors now await central bank meetings in Japan and Australia for inflation outlooks, with the Bank of Japan expected to raise rates.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sways-near-10-day-lows-as-attention-turns-to-boj-and-rba/articleshow/131757227.cms",
+      "publishedAt": 1781574382000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "3544fb37f2d0734f",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.473,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "economic_times"
+      ],
+      "firstSeen": 1781574382000
+    },
+    {
+      "title": "'Sometimes Trump &amp; I don't see eye to eye': Netanyahu admits fallout with US prez over Iran war",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131757146.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/sometimes-trump-and-i-dont-see-eye-to-eye-netanyahu-admits-fallout-with-us-president-over-iran-war/articleshow/131757146.cms",
+      "publishedAt": 1781573960000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "cfcc5569b74b3b2c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.463,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1781533588000
+    },
+    {
+      "title": "GIFT Nifty signals muted start for Dalal Street amid cautious trade",
+      "summary": "Indian stock markets saw a rally mirroring global trends. Investors reacted positively to news of a US-Iran ceasefire agreement and the reopening of the Strait of Hormuz. The Nifty closed higher, though trading remained within a narrow range. Analysts are watching the 24,000 mark as a key resistance level.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/131749365.cms",
+      "publishedAt": 1781569800000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "68c2089bab0a6fc5",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.367,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "economic_times"
+      ],
+      "firstSeen": 1781569800000
     },
     {
       "title": "Russian Drone Hits Zoo In Ukraine's Kharkiv, Kills Animals",
@@ -63,7 +157,7 @@
       "id": "26b0c45f5e50baa6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.362,
+      "breakingScore": 2.131,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,123 +167,6 @@
         "the_hindu"
       ],
       "firstSeen": 1781544285000
-    },
-    {
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781555634000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "8002d77b4367de97",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.27,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1781533588000
-    },
-    {
-      "title": "Britain wins appeal that Palestine Action ban was unlawful",
-      "summary": "Palestine Action, which had increasingly targeted Israel-linked ​defence ‌companies in Britain with a particular focus on Israel's ‌largest defence ​firm Elbit Systems, was proscribed under ⁠terrorism laws last year",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/britain-wins-appeal-that-palestine-action-ban-was-unlawful/article71104479.ece",
-      "publishedAt": 1781530870000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "10dd1ad74bb2ccd6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.197,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1781527444000
-    },
-    {
-      "title": "Man arrested under POCSO Act in Poonamallee",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/man-arrested-under-pocso-act-in-poonamallee/article71105020.ece",
-      "publishedAt": 1781551813000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "64030b745d7fee7e",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.182,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781551813000
-    },
-    {
-      "title": "Netanyahu Says Will Run In Upcoming Israeli Elections",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu on Monday said he intended to run in elections scheduled for later this year, as he faced domestic criticism over his handling of the Middle East war and its aftermath.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/benjamin-netanyahu-says-will-run-in-upcoming-israeli-elections-11641158#publisher=newsstand",
-      "publishedAt": 1781549068000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "075e69e23f98b5bc",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.118,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781549068000
-    },
-    {
-      "title": "20 Years, 128 Witnesses: Ex-Congress Leader's Murder Trial Nears Verdict",
-      "summary": "Padmasinh Patil, the main accused in the Pawan Raje Nimbalkar murder case.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/pawanraje-nimbalkar-20-years-128-witnesses-ex-congress-leaders-murder-trial-nears-verdict-11640847#publisher=newsstand",
-      "publishedAt": 1781544114000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "8cf6f0e09a7c4cdc",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.003,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781544114000
     }
   ]
 }
