@@ -86,7 +86,7 @@
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3768,
+      "qualityScore": 0.3782,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -369,14 +369,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:fcde5c7120",
+          "id": "sketch:b983e7ba7f",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:fcde5c7120",
-            "representativeId": "cefd0947496f8de7",
-            "representativeTitle": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+            "id": "sketch:b983e7ba7f",
+            "representativeId": "415016015c1fcbeb",
+            "representativeTitle": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge higher ahead of Fed decision; SpaceX extends rally",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -388,16 +388,16 @@
             },
             "slotCount": 1,
             "slots": [
-              "minus24h"
+              "now"
             ],
             "sourceGroupCount": 1,
             "sourceGroups": [
-              "moneycontrol"
+              "economic_times"
             ],
             "storyCount": 2,
             "storyIds": [
-              "cefd0947496f8de7",
-              "d0020e471404281a"
+              "415016015c1fcbeb",
+              "053e24b4e39ded21"
             ],
             "topAngles": [
               {
@@ -406,12 +406,12 @@
               }
             ],
             "topTokens": [
-              "bajaj",
-              "finance",
-              "target",
-              "emkay"
+              "jones",
+              "nasdaq",
+              "stock",
+              "market"
             ],
-            "topicKey": "bajaj|finance|target"
+            "topicKey": "jones|nasdaq|stock"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -420,7 +420,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
+          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge higher ahead of Fed decision; SpaceX extends rally"
         },
         {
           "category": "insightEvent",
@@ -479,14 +479,14 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:b983e7ba7f",
+          "id": "sketch:6bf2a2b9e5",
           "item": {
             "angleCount": 1,
             "baseReportRatio": 0.0,
             "childScores": [],
-            "id": "sketch:b983e7ba7f",
-            "representativeId": "415016015c1fcbeb",
-            "representativeTitle": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge higher ahead of Fed decision; SpaceX extends rally",
+            "id": "sketch:6bf2a2b9e5",
+            "representativeId": "429d7aff26a16822",
+            "representativeTitle": "Telangana ready to take up Metro Rail phase- 2 project with 100 per cent equity: CM Reddy",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
               "eventImportanceScore": 0.59,
@@ -498,30 +498,30 @@
             },
             "slotCount": 1,
             "slots": [
-              "now"
+              "minus24h"
             ],
             "sourceGroupCount": 1,
             "sourceGroups": [
-              "economic_times"
+              "business_line"
             ],
             "storyCount": 2,
             "storyIds": [
-              "415016015c1fcbeb",
-              "053e24b4e39ded21"
+              "429d7aff26a16822",
+              "39f53f00c36aae18"
             ],
             "topAngles": [
               {
-                "angle": "market_reaction",
+                "angle": "regional_followup",
                 "count": 2
               }
             ],
             "topTokens": [
-              "jones",
-              "nasdaq",
-              "stock",
-              "market"
+              "metro",
+              "rail",
+              "telangana",
+              "ready"
             ],
-            "topicKey": "jones|nasdaq|stock"
+            "topicKey": "metro|rail|telangana"
           },
           "locationKey": "event",
           "rankingReasons": [
@@ -530,7 +530,7 @@
             "one-source event candidate"
           ],
           "score": 0.389,
-          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge higher ahead of Fed decision; SpaceX extends rally"
+          "title": "Telangana ready to take up Metro Rail phase- 2 project with 100 per cent equity: CM Reddy"
         },
         {
           "category": "insightEvent",
@@ -1107,6 +1107,115 @@
           "gates": [
             {
               "details": {
+                "storyCount": 3
+              },
+              "name": "eventCoherence",
+              "reason": "event sketch has repeated story count",
+              "score": 0.62,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "baseReportRatio": 1.0,
+                "distinctAngles": 0
+              },
+              "name": "angleDiversity",
+              "reason": "weak child angle diversity",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "sourceGroupCount": 1
+              },
+              "name": "sourceDiversity",
+              "reason": "one-source event candidate",
+              "score": 0.35,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "baseReportRatio": 1.0
+              },
+              "name": "baseReportCap",
+              "reason": "base-report dominated event candidate",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "childCount": 3
+              },
+              "name": "weakTree",
+              "reason": "child tree has enough depth",
+              "score": 0.75,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "duplicateChildren",
+              "reason": "no child objects to dedup",
+              "score": 0.7,
+              "status": "PASS"
+            }
+          ],
+          "id": "sketch:c1c58008d6",
+          "item": {
+            "angleCount": 1,
+            "baseReportRatio": 1.0,
+            "childScores": [],
+            "id": "sketch:c1c58008d6",
+            "representativeId": "1efb28cd448db91a",
+            "representativeTitle": "Top news of the day | June 3, 2026 - The Hindu",
+            "scoreBreakdown": {
+              "angleDiversityScore": 0.25,
+              "eventImportanceScore": 0.71,
+              "freshnessScore": 0.0,
+              "noveltyDeltaScore": 0.44999999999999996,
+              "sourceAuthorityScore": 0.38,
+              "sourceDiversityScore": 0.35,
+              "temporalEvolutionScore": 0.37
+            },
+            "slotCount": 1,
+            "slots": [
+              "now"
+            ],
+            "sourceGroupCount": 1,
+            "sourceGroups": [
+              "google_news"
+            ],
+            "storyCount": 3,
+            "storyIds": [
+              "1efb28cd448db91a",
+              "724c1e71b5f46928",
+              "fb3c6669dde3a2a9"
+            ],
+            "topAngles": [
+              {
+                "angle": "base_report",
+                "count": 3
+              }
+            ],
+            "topTokens": [
+              "june",
+              "hindu"
+            ],
+            "topicKey": "june|hindu"
+          },
+          "locationKey": "event",
+          "rankingReasons": [
+            "event sketch has repeated story count",
+            "weak child angle diversity",
+            "one-source event candidate"
+          ],
+          "score": 0.1885,
+          "title": "Top news of the day | June 3, 2026 - The Hindu"
+        },
+        {
+          "category": "insightEvent",
+          "gates": [
+            {
+              "details": {
                 "storyCount": 2
               },
               "name": "eventCoherence",
@@ -1270,114 +1379,6 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:c1c58008d6",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 1.0,
-            "childScores": [],
-            "id": "sketch:c1c58008d6",
-            "representativeId": "1efb28cd448db91a",
-            "representativeTitle": "Top news of the day | June 3, 2026 - The Hindu",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "google_news"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "1efb28cd448db91a",
-              "fb3c6669dde3a2a9"
-            ],
-            "topAngles": [
-              {
-                "angle": "base_report",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "june",
-              "hindu"
-            ],
-            "topicKey": "june|hindu"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.1751,
-          "title": "Top news of the day | June 3, 2026 - The Hindu"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0,
-                "distinctAngles": 0
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report dominated event candidate",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
           "id": "sketch:bbd7147cc9",
           "item": {
             "angleCount": 1,
@@ -1432,7 +1433,7 @@
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.25,
-        "eventImportanceScore": 0.59,
+        "eventImportanceScore": 0.6,
         "freshnessScore": 0.0,
         "noveltyDeltaScore": 0.475,
         "sourceAuthorityScore": 0.44,
@@ -3922,7 +3923,7 @@
             },
             {
               "details": {
-                "hoursLeft": 12.63
+                "hoursLeft": 10.56
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4726,7 +4727,7 @@
             },
             {
               "details": {
-                "hoursLeft": 22.92
+                "hoursLeft": 20.86
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4841,7 +4842,7 @@
             },
             {
               "details": {
-                "hoursLeft": 8.8
+                "hoursLeft": 6.73
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4956,7 +4957,7 @@
             },
             {
               "details": {
-                "hoursLeft": 18.79
+                "hoursLeft": 16.72
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -5039,7 +5040,7 @@
       }
     }
   },
-  "generatedAt": 1781647655027,
+  "generatedAt": 1781655091298,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -5071,7 +5072,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3768,
+      "insight": 0.3782,
       "localTravel": 0.0,
       "upAhead": 0.839
     },
@@ -5081,7 +5082,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3039,
+    "overallScore": 0.3043,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",

@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781647656581,
+  "generatedAt": 1781655092142,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 673,
-    "usableStories36h": 646,
-    "sourceGroups": 11,
+    "totalStories": 605,
+    "usableStories36h": 596,
+    "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3039,
+    "rankingOverallScore": 0.3043,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3039,
+    "overallScore": 0.3043,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781647655027,
+    "generatedAt": 1781655091298,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3768,
+      "insight": 0.3782,
       "localTravel": 0,
       "upAhead": 0.839
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3768,
+        "score": 0.3782,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -154,23 +154,6 @@
   },
   "history": [
     {
-      "date": "2026-06-10",
-      "generatedAt": 1781123417837,
-      "insightGrade": "C",
-      "insightScore": 0,
-      "totalStories": 633,
-      "usableStories36h": 625,
-      "sourceGroups": 9,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3016,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
-    {
       "date": "2026-06-11",
       "generatedAt": 1781215325855,
       "insightGrade": "C",
@@ -267,6 +250,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3039,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-17",
+      "generatedAt": 1781655092142,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 605,
+      "usableStories36h": 596,
+      "sourceGroups": 10,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3043,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
