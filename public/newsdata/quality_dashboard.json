@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781713655391,
+  "generatedAt": 1781718440346,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 772,
-    "usableStories36h": 740,
-    "sourceGroups": 11,
+    "totalStories": 726,
+    "usableStories36h": 714,
+    "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3056,
+    "rankingOverallScore": 0.3035,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3056,
+    "overallScore": 0.3035,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781713654161,
+    "generatedAt": 1781718439263,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3638,
+      "insight": 0.3556,
       "localTravel": 0,
-      "upAhead": 0.8585
+      "upAhead": 0.8586
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3638,
+        "score": 0.3556,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8585,
+        "score": 0.8586,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -78,7 +78,7 @@
         "strongParents": 12,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 6,
+        "baseReportHeavyParents": 7,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 30,
+        "suppressedItemCount": 20,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -115,13 +115,14 @@
       "These are the 11 best early Prime Day phone deals I'd actually buy myself - ZDNET: location failed — offline/local item lacks configured location match",
       "The best early Walmart deals to compete with Prime Day: Laptops, TVs, smart glasses, and more - ZDNET: location failed — offline/local item lacks configured location match",
       "You don’t have to wait — here are 51+ Prime Day early deals you can already shop - NBC News: location failed — offline/local item lacks configured location match",
-      "Manidhaneyam IAS Academy to offer free coaching for civil services mains exam: futureValidity failed — expired display window",
-      "Manidhaneyam IAS Academy to offer free coaching for civil services mains exam: alertUrgency failed — alert expired"
+      "Best early Prime Day Amazon device deals 2026: Fire TV, Blink, Echo, and eero - Popular Science: location failed — offline/local item lacks configured location match",
+      "Prime Day vs. Walmart Deals: Which Summer Sale Offers the Best Savings? - PennLive.com: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "30 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "20 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
+      "ranked Up Ahead set is category-dominated",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -129,8 +130,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "6 base-report-heavy Insight parent(s) demoted",
-      "buzz: no local Buzz item in ranked set"
+      "7 base-report-heavy Insight parent(s) demoted"
     ]
   },
   "sourceHealth": {
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-17",
-      "generatedAt": 1781713655391,
+      "generatedAt": 1781718440346,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 772,
-      "usableStories36h": 740,
-      "sourceGroups": 11,
+      "totalStories": 726,
+      "usableStories36h": 714,
+      "sourceGroups": 10,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3056,
+      "rankingOverallScore": 0.3035,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
