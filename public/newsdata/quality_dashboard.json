@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781726562324,
+  "generatedAt": 1781741400196,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 690,
-    "usableStories36h": 672,
+    "totalStories": 620,
+    "usableStories36h": 599,
     "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.2925,
+    "rankingOverallScore": 0.2924,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.2925,
+    "overallScore": 0.2924,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781726560979,
+    "generatedAt": 1781741398820,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3455,
+      "insight": 0.3443,
       "localTravel": 0,
-      "upAhead": 0.8246
+      "upAhead": 0.8254
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3455,
+        "score": 0.3443,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8246,
+        "score": 0.8254,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -78,7 +78,7 @@
         "strongParents": 12,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 8,
+        "baseReportHeavyParents": 9,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,10 +92,10 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 38,
+        "suppressedItemCount": 39,
         "events": 0,
-        "onlineOffers": 2,
-        "offlineOffers": 8,
+        "onlineOffers": 1,
+        "offlineOffers": 9,
         "alerts": 20,
         "festivals": 0,
         "locationsCovered": [
@@ -121,7 +121,7 @@
       "Sriperumbudur police arrest man for sexual assault on 15-year-old girl: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "38 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "39 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -129,10 +129,10 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "8 base-report-heavy Insight parent(s) demoted",
+      "9 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set",
       "buzz: no travel Buzz item in ranked set",
-      "insight: 8 base-report-heavy Insight parent(s) demoted"
+      "insight: 9 base-report-heavy Insight parent(s) demoted"
     ]
   },
   "sourceHealth": {
@@ -150,27 +150,10 @@
     "avgInsightScore7d": 0,
     "sourceUptimePercent7d": 0,
     "angleDiversity7d": 0,
-    "avgRankingScore7d": 0.31,
+    "avgRankingScore7d": 0.3,
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-06-11",
-      "generatedAt": 1781215325855,
-      "insightGrade": "C",
-      "insightScore": 0,
-      "totalStories": 608,
-      "usableStories36h": 590,
-      "sourceGroups": 10,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3146,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-06-12",
       "generatedAt": 1781299623116,
@@ -268,6 +251,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.2925,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-18",
+      "generatedAt": 1781741400196,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 620,
+      "usableStories36h": 599,
+      "sourceGroups": 10,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.2924,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
