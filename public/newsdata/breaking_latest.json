@@ -1,33 +1,8 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781811507954,
-  "contentHash": "958cd12ab0b0",
+  "fetchedAt": 1781818657012,
+  "contentHash": "5e2f2afa74d3",
   "breaking": [
-    {
-      "title": "Brent crude oil price touches pre-Iran war lows after ceasefire deal",
-      "summary": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Analysts anticipate a gradual recovery in oil flows. Some experts believe prices may not plummet further.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms",
-      "publishedAt": 1781801771000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "a9d41cf29fee1c28",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.775,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "economic_times"
-      ],
-      "firstSeen": 1781798035000
-    },
     {
       "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
       "summary": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
@@ -41,7 +16,7 @@
       "id": "bce9b4e0200a762a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.986,
+      "breakingScore": 3.82,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -50,29 +25,6 @@
         "bbc"
       ],
       "firstSeen": 1781810892000
-    },
-    {
-      "title": "One killed, over 18 injured as omni bus rams lorry near Madurantakam",
-      "summary": "The injured were rushed to nearby hospitals for treatment; the police are investigating",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/one-killed-over-18-injured-as-omni-bus-rams-lorry-near-madurantakam/article71117771.ece",
-      "publishedAt": 1781810558000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0006f4895f1fb96b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.978,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781810558000
     },
     {
       "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
@@ -87,7 +39,7 @@
       "id": "9e137dd880d290ac",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.82,
+      "breakingScore": 3.654,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -98,28 +50,119 @@
       "firstSeen": 1781803712000
     },
     {
-      "title": "UK school teacher jailed for life for murdering adopted 13-month-old boy after months of abuse",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131831591.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "title": "Brent crude oil price touches pre-Iran war lows after ceasefire deal",
+      "summary": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Analysts anticipate a gradual recovery in oil flows. Some experts believe prices may not plummet further.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms",
+      "publishedAt": 1781801771000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a9d41cf29fee1c28",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.609,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "economic_times"
+      ],
+      "firstSeen": 1781801771000
+    },
+    {
+      "title": "Who is Abraham Alvarez? Illegal immigrant charged in WH UFC attack plot targeting Trump",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131841761.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/uk/uk-school-teacher-jailed-for-life-for-murdering-adopted-13-month-old-boy-after-months-of-abuse/articleshow/131831591.cms",
-      "publishedAt": 1781795090000,
+      "url": "https://timesofindia.indiatimes.com/world/us/who-is-abraham-alvarez-illegal-immigrant-charged-in-white-house-ufc-attack-plot-targeting-trump/articleshow/131841761.cms",
+      "publishedAt": 1781815239000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "9da3b1919cb5f5d8",
+      "id": "dbcfcc15127f753e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.62,
+      "breakingScore": 2.421,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
         "times_of_india"
       ],
-      "firstSeen": 1781790029000
+      "firstSeen": 1781815239000
+    },
+    {
+      "title": "Quota for ex-Agniveers: L-G sets June 30 deadline",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/quota-for-ex-agniveers-l-g-sets-june-30-deadline/article71119477.ece",
+      "publishedAt": 1781812569000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "94c5a525c07b5ff4",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.359,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781812569000
+    },
+    {
+      "title": "Doctor bludgeons, stabs his domestic help to death at Mount Kailash home",
+      "summary": "Accused confesses to attacking his long-time employee; was found sitting beside Mina Halder’s body when police reached his house; motive behind killing yet to be ascertained, say police; FIR registered on a complaint filed by a neighbour",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/doctor-bludgeons-stabs-his-domestic-help-to-death-at-mount-kailash-home/article71119472.ece",
+      "publishedAt": 1781812328000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a752fdfb557cd183",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.353,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781812328000
+    },
+    {
+      "title": "Mallathahalli residents say flooding fears are back as drain remains blocked",
+      "summary": "According to residents, the flooding started after a natural rainwater flow path in the area was disrupted, causing stormwater to accumulate during periods of intense rainfall",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/mallathahalli-residents-say-flooding-fears-are-back-as-drain-remains-blocked/article71101144.ece",
+      "publishedAt": 1781811440000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "cbf508520ae2acb6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.333,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781811440000
     },
     {
       "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
@@ -134,7 +177,7 @@
       "id": "b2e2d9296f611647",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.414,
+      "breakingScore": 2.248,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,52 +186,6 @@
         "bbc"
       ],
       "firstSeen": 1781807779000
-    },
-    {
-      "title": "How A 20-Year-Old Murder Became Factor In Uddhav Sena Rebellion",
-      "summary": "Pawanraje Nimbalkar was killed in 2006 and a former minister is an accused.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/pawanraje-nimbalkar-omraje-nimbalkar-shiv-sena-ubt-how-a-20-year-old-murder-became-factor-in-uddhav-sena-rebellion-11656026#publisher=newsstand",
-      "publishedAt": 1781799571000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "872c2165510809c0",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.224,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1781799571000
-    },
-    {
-      "title": "Cuba leader admits 'urgent changes' needed to overcome crisis",
-      "summary": "The proposals are part of a desperate, eleventh-hour bid to stave off economic collapse in the face of unprecedented U.S. pressure",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/cuba-leader-admits-urgent-changes-needed-to-overcome-crisis/article71118996.ece",
-      "publishedAt": 1781799050000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "51dda62f449cb4e6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.212,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781799050000
     }
   ]
 }
