@@ -1,8 +1,31 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781818657012,
-  "contentHash": "5e2f2afa74d3",
+  "fetchedAt": 1781825040507,
+  "contentHash": "4bf84d6b345d",
   "breaking": [
+    {
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781819245000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "9e137dd880d290ac",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.866,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781819245000
+    },
     {
       "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
       "summary": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
@@ -16,7 +39,7 @@
       "id": "bce9b4e0200a762a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.82,
+      "breakingScore": 3.672,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,52 +48,6 @@
         "bbc"
       ],
       "firstSeen": 1781810892000
-    },
-    {
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781803712000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "9e137dd880d290ac",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.654,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1781803712000
-    },
-    {
-      "title": "Brent crude oil price touches pre-Iran war lows after ceasefire deal",
-      "summary": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Analysts anticipate a gradual recovery in oil flows. Some experts believe prices may not plummet further.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms",
-      "publishedAt": 1781801771000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "a9d41cf29fee1c28",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.609,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "economic_times"
-      ],
-      "firstSeen": 1781801771000
     },
     {
       "title": "Who is Abraham Alvarez? Illegal immigrant charged in WH UFC attack plot targeting Trump",
@@ -85,7 +62,7 @@
       "id": "dbcfcc15127f753e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.421,
+      "breakingScore": 2.273,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -108,7 +85,7 @@
       "id": "94c5a525c07b5ff4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.359,
+      "breakingScore": 2.211,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -131,7 +108,7 @@
       "id": "a752fdfb557cd183",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.353,
+      "breakingScore": 2.206,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -154,7 +131,7 @@
       "id": "cbf508520ae2acb6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.333,
+      "breakingScore": 2.185,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -177,7 +154,7 @@
       "id": "b2e2d9296f611647",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.248,
+      "breakingScore": 2.1,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -186,6 +163,29 @@
         "bbc"
       ],
       "firstSeen": 1781807779000
+    },
+    {
+      "title": "40-Year-Old Man Shot At In Park In Delhi's Nizamuddin Area: Cops",
+      "summary": "The condition of the injured man was not immediately known.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/40-year-old-man-shot-at-in-park-in-delhis-nizamuddin-area-cops-11656655#publisher=newsstand",
+      "publishedAt": 1781806685000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "b2a2c94e1770da99",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.075,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1781806685000
     }
   ]
 }
