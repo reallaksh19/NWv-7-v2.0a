@@ -1,30 +1,54 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781791224529,
-  "contentHash": "9477cce70dec",
+  "fetchedAt": 1781803179207,
+  "contentHash": "3fec99c65d52",
   "breaking": [
     {
-      "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
-      "summary": "Over 1,73,200 people have been wounded since the start of the war, which was ignited by the Hamas-led October 7, 2023 attack into Israel. That attack killed some 1,200 people and took 251 others hostage",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/palestinian-death-toll-in-gaza-tops-73000-officials-say-as-israel-strikes-despite-ceasefire/article71101517.ece",
-      "publishedAt": 1781779852000,
+      "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
+      "summary": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781802496000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "f079538fe06f99f3",
+      "id": "bce9b4e0200a762a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.737,
+      "breakingScore": 3.984,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "bbc"
       ],
-      "firstSeen": 1781779852000
+      "firstSeen": 1781802496000
+    },
+    {
+      "title": "Brent crude oil price touches pre-Iran war lows after ceasefire deal",
+      "summary": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Analysts anticipate a gradual recovery in oil flows. Some experts believe prices may not plummet further.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms",
+      "publishedAt": 1781801771000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a9d41cf29fee1c28",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.967,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "economic_times"
+      ],
+      "firstSeen": 1781785128000
     },
     {
       "title": "Alleged Bomb Attack On BJP Workers In Bengal's Karimpur, Five Injured",
@@ -39,7 +63,7 @@
       "id": "63f3a0075f650f1e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.974,
+      "breakingScore": 3.698,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -62,7 +86,7 @@
       "id": "12ee3051a1de24c5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.895,
+      "breakingScore": 3.618,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,88 +97,67 @@
       "firstSeen": 1781786692000
     },
     {
-      "title": "Gunfire and explosions heard at Niger capital's airport",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781777207000,
-      "category": "world",
+      "title": "UK school teacher jailed for life for murdering adopted 13-month-old boy after months of abuse",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131831591.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/uk/uk-school-teacher-jailed-for-life-for-murdering-adopted-13-month-old-boy-after-months-of-abuse/articleshow/131831591.cms",
+      "publishedAt": 1781795090000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "9e137dd880d290ac",
+      "id": "9da3b1919cb5f5d8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.676,
+      "breakingScore": 2.813,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "bbc"
+        "bbc",
+        "times_of_india"
       ],
-      "firstSeen": 1781777207000
+      "firstSeen": 1781790029000
     },
     {
-      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-      "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781776067000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "2705b6e62bcbed11",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.649,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1781776067000
-    },
-    {
-      "title": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
-      "summary": "The Old Town Road star was arrested last year for attacking police officers and later entered rehab.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cn4dqyn94vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781772337000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "dc7f2d4c8c88ecc5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.563,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1781772337000
-    },
-    {
-      "title": "Attacking an MP is not different from attacking the Parliament itself, says A.P. High Court",
-      "summary": "The comment was made during the hearing of an IPS officer’s bail plea in Raghu Ramakrishna Raju’s custodial torture case",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/attacking-an-mp-is-not-different-from-attacking-the-parliament-itself-says-ap-high-court/article71118008.ece",
-      "publishedAt": 1781790730000,
+      "title": "Rockstar Unveils GTA 6 Cover Art, Announces Pre-Order Date",
+      "summary": "After more than a decade of waiting, the countdown to GTA VI is officially on.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/gta-6-pre-order-gta-release-date-rockstar-games-unveils-gta-6-cover-art-announces-pre-order-date-11655478#publisher=newsstand",
+      "publishedAt": 1781792894000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "afb7d2dce67cf70d",
+      "id": "308ec4e446a454c5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.489,
+      "breakingScore": 2.762,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1781791608000
+    },
+    {
+      "title": "T.N. Institute of Archaeology and Museology invites applications for PG diploma courses",
+      "summary": "The deadline for submission of filled applications is 5 p.m. on July 8",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-institute-of-archaeology-and-museology-invites-applications-for-pg-diploma-courses/article71114804.ece",
+      "publishedAt": 1781802813000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "e564b599f8155373",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.492,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -162,22 +165,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781790730000
+      "firstSeen": 1781802813000
     },
     {
-      "title": "Building evacuation drill at Mysuru airport",
-      "summary": "",
+      "title": "U.S. drops ‘Indo’ from name of its military’s Pacific Command",
+      "summary": "The renaming will not change the command’s area of responsibility, which stretches from the western part of India to America’s Pacific coastline, the Department of War said in a statement.",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/building-evacuation-drill-at-mysuru-airport/article71117958.ece",
-      "publishedAt": 1781790471000,
+      "url": "https://www.thehindu.com/news/international/department-of-war-restores-us-pacific-command-designation/article71112101.ece",
+      "publishedAt": 1781801199000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "f58c38738df1dfbc",
+      "id": "c1e72d7bc9a007f6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.483,
+      "breakingScore": 2.454,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -185,7 +188,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781790471000
+      "firstSeen": 1781801199000
     }
   ]
 }
