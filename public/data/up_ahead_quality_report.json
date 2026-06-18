@@ -1,21 +1,21 @@
 {
   "categoryCounts": {
     "airlines": 1,
-    "alerts": 34,
+    "alerts": 47,
     "movies": 1,
     "shopping": 40,
     "weather_alerts": 1
   },
   "contentClassCounts": {
-    "upahead_alert": 35,
+    "upahead_alert": 48,
     "upahead_event": 1,
     "upahead_offer": 41
   },
-  "contentHash": "a0c3199ecb67",
+  "contentHash": "55b60cee79f6",
   "contractVersion": "upahead-lifecycle-v1",
   "errors": [],
-  "fetchedAt": 1781790392375,
-  "generatedAt": 1781790408398,
+  "fetchedAt": 1781804507397,
+  "generatedAt": 1781804524151,
   "horizon": {
     "alertFallbackHours": 24,
     "eventPastGraceHours": 24,
@@ -23,27 +23,27 @@
     "offerFallbackHours": 48,
     "plannerPastGraceHours": 6
   },
-  "itemCount": 77,
+  "itemCount": 90,
   "lifecycleSummary": {
     "categoryCounts": {
       "airlines": 1,
-      "alerts": 34,
+      "alerts": 47,
       "movies": 1,
       "shopping": 40,
       "weather_alerts": 1
     },
     "contentClassCounts": {
-      "upahead_alert": 35,
+      "upahead_alert": 48,
       "upahead_event": 1,
       "upahead_offer": 41
     },
     "horizonViolationCount": 0,
     "horizonViolationSample": [],
-    "itemCount": 77,
-    "plannerEligibleByLifecycleCount": 73,
-    "visibleItemCount": 77
+    "itemCount": 90,
+    "plannerEligibleByLifecycleCount": 86,
+    "visibleItemCount": 90
   },
-  "plannerEligibleByLifecycleCount": 73,
+  "plannerEligibleByLifecycleCount": 86,
   "schemaVersion": 1,
   "status": "PASS",
   "thresholds": {
@@ -52,6 +52,6 @@
     "minVisibleItems": 3,
     "plannerPastGraceHours": 6
   },
-  "visibleItemCount": 77,
+  "visibleItemCount": 90,
   "warnings": []
 }
