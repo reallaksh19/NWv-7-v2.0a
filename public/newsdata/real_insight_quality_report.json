@@ -1,19 +1,19 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1781869910131,
-  "contentHash": "30959c8a6b6b5340",
+  "generatedAt": 1781884324052,
+  "contentHash": "39d2d262816787d2",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 672,
+  "storyCount": 718,
   "sourceGroupCount": 11,
   "grade": "C",
   "parentCount": 10,
-  "avgAngles": 1.6,
-  "avgTemporalTiers": 1.9,
+  "avgAngles": 1.7,
+  "avgTemporalTiers": 1.8,
   "avgEvolutionRoles": 1.7,
-  "baseReportShare": 0.2857142857142857,
-  "multiAngleCount": 6,
+  "baseReportShare": 0.3,
+  "multiAngleCount": 7,
   "weakParentCount": 0,
   "runtimeQualityGate": {
     "attempted": false,
@@ -23,67 +23,67 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 55,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 626,
-      "risingCount": 1,
+      "storyCount": 668,
+      "risingCount": 0,
       "thinCount": 0,
-      "multiAngleCount": 6,
-      "lowAngleCount": 4,
+      "multiAngleCount": 7,
+      "lowAngleCount": 3,
       "strongAngleCount": 0,
-      "avgAngles": 1.6,
-      "avgChildren": 2.1,
-      "avgScore": 0.6677747639064922,
+      "avgAngles": 1.7,
+      "avgChildren": 2,
+      "avgScore": 0.6629416690996651,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 3,
-      "coverageLabel": "6/10",
+      "snapshotCoverage": 1,
+      "coverageLabel": "7/10",
       "warnings": [
-        "4 cluster(s) have fewer than two visible child angles.",
+        "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "460 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "9 cluster(s) have weak snapshot coverage.",
+        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 55,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 626,
-      "risingCount": 1,
+      "storyCount": 668,
+      "risingCount": 0,
       "thinCount": 0,
-      "multiAngleCount": 6,
-      "lowAngleCount": 4,
+      "multiAngleCount": 7,
+      "lowAngleCount": 3,
       "strongAngleCount": 0,
-      "avgAngles": 1.6,
-      "avgChildren": 2.1,
-      "avgScore": 0.6677747639064922,
+      "avgAngles": 1.7,
+      "avgChildren": 2,
+      "avgScore": 0.6629416690996651,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 3,
-      "coverageLabel": "6/10",
+      "snapshotCoverage": 1,
+      "coverageLabel": "7/10",
       "warnings": [
-        "4 cluster(s) have fewer than two visible child angles.",
+        "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "460 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "9 cluster(s) have weak snapshot coverage.",
+        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_456_9b65ccc3a43589e8",
-      "headline": "'Jumped to save mother': Indian teen dies in New York Central Park after falling from horse carriage",
-      "score": 0.6737477209716007,
-      "postTreeScore": 1.0937,
-      "childCount": 3,
+      "parentId": "cluster_5_808f54074d1dabf7",
+      "headline": "RTC buses available for 73,000 NEET students",
+      "score": 0.6747467197849983,
+      "postTreeScore": 1.0547,
+      "childCount": 2,
       "angles": [
-        "base_report",
-        "fact_update"
+        "fact_update",
+        "base_report"
       ],
       "temporalTiers": [
         "breaking",
@@ -93,11 +93,11 @@
         "first_report",
         "corroboration"
       ],
-      "baseReportShare": 0.6666666666666666,
+      "baseReportShare": 0.5,
       "weakTree": false
     },
     {
-      "parentId": "cluster_106_bbf3700b22f32b16",
+      "parentId": "cluster_179_bbf3700b22f32b16",
       "headline": "BEST employees go on indefinite strike; public bus services hit in Mumbai",
       "score": 0.6732467197849983,
       "postTreeScore": 1.0532,
@@ -118,7 +118,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_98_3d8697f8c6e2efc6",
+      "parentId": "cluster_171_3d8697f8c6e2efc6",
       "headline": "Kerala Revised Budget 2026-27 LIVE: V.D. Satheesan's Budget pledges 'New Kerala' with inclusive growth, sustainable development",
       "score": 0.6604967197849982,
       "postTreeScore": 1.0405,
@@ -138,7 +138,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_298_31d0bd525b96500e",
+      "parentId": "cluster_370_31d0bd525b96500e",
       "headline": "Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi",
       "score": 0.6604967197849982,
       "postTreeScore": 1.0405,
@@ -158,10 +158,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_86_118c3406c914c485",
+      "parentId": "cluster_159_118c3406c914c485",
       "headline": "Supreme Court dismisses plea seeking CBI probe into alleged TVK horse-trading",
-      "score": 0.58741,
-      "postTreeScore": 0.9874,
+      "score": 0.6513967197849984,
+      "postTreeScore": 1.0314,
       "childCount": 2,
       "angles": [
         "investigative_detail",
@@ -177,7 +177,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_391_efc01934875bf0b1",
+      "parentId": "cluster_530_9b65ccc3a43589e8",
+      "headline": "'Jumped to save mother': Indian teen dies in New York Central Park after falling from horse carriage",
+      "score": 0.6265800531183316,
+      "postTreeScore": 1.0066,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "base_report"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_465_efc01934875bf0b1",
       "headline": "Modi arrives in Paris, meets members of Indian diaspora",
       "score": 0.6192128795983323,
       "postTreeScore": 0.9592,
@@ -198,27 +219,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_178_ef2f3927b29cbf92",
-      "headline": "Zohran Mamdani Calls To Ban Horse Carriages In New York After Indian Teen's Death",
-      "score": 0.7229967197849984,
-      "postTreeScore": 0.813,
-      "childCount": 2,
-      "angles": [
-        "base_report"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 1,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_77_802dba5a8fc00d97",
+      "parentId": "cluster_150_802dba5a8fc00d97",
       "headline": "Who is Andy Burnham? The 'King of the North' who could replace Keir Starmer as UK PM",
       "score": 0.7127467197849984,
       "postTreeScore": 0.8027,
@@ -238,41 +239,40 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_403_0efef6bb1c17687f",
-      "headline": "Rupee posts longest winning run in a year on exporter flows, bank dollar sales",
-      "score": 0.6952467197849983,
-      "postTreeScore": 0.7652,
+      "parentId": "cluster_250_ef2f3927b29cbf92",
+      "headline": "Zohran Mamdani Calls To Ban Horse Carriages In New York After Indian Teen's Death",
+      "score": 0.6789967197849983,
+      "postTreeScore": 0.749,
       "childCount": 2,
       "angles": [
-        "market_reaction"
+        "base_report"
       ],
       "temporalTiers": [
-        "established",
-        "breaking"
+        "breaking",
+        "established"
       ],
       "evolutionRoles": [
-        "fact_update",
-        "market_reaction"
+        "first_report",
+        "corroboration"
       ],
-      "baseReportShare": 0,
+      "baseReportShare": 1,
       "weakTree": false
     },
     {
-      "parentId": "cluster_552_bfc7b8969f77aebe",
-      "headline": "\"This Was Not Easy\": Trump As He Signs Deal To End US-Iran War",
-      "score": 0.6721467197849983,
-      "postTreeScore": 0.7421,
+      "parentId": "cluster_471_0ca505afb343a357",
+      "headline": "Amit Shah, U.S. Ambassador Gor discuss enhancing India-U.S. security cooperation",
+      "score": 0.6714967197849984,
+      "postTreeScore": 0.7415,
       "childCount": 2,
       "angles": [
         "official_response"
       ],
       "temporalTiers": [
-        "breaking",
-        "developing"
+        "breaking"
       ],
       "evolutionRoles": [
-        "first_report",
-        "corroboration"
+        "corroboration",
+        "official_response"
       ],
       "baseReportShare": 0,
       "weakTree": false
@@ -301,13 +301,13 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 1.6,
+        "actual": 1.7,
         "required": ">= 1.4"
       },
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.9,
+        "actual": 1.8,
         "required": ">= 1.8"
       },
       {
@@ -319,13 +319,13 @@
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.286,
+        "actual": 0.3,
         "required": "<= 0.55"
       },
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 6,
+        "actual": 7,
         "required": ">= 1"
       },
       {
@@ -337,7 +337,7 @@
       {
         "id": "top-parent-child-depth",
         "label": "Top parent child depth",
-        "actual": 3,
+        "actual": 2,
         "required": ">= 2"
       },
       {
@@ -350,16 +350,16 @@
     "failed": [],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.6,
-      "avgTemporalTiers": 1.9,
+      "avgAngles": 1.7,
+      "avgTemporalTiers": 1.8,
       "avgEvolutionRoles": 1.7,
-      "baseReportShare": 0.286,
-      "multiAngleCount": 6,
+      "baseReportShare": 0.3,
+      "multiAngleCount": 7,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
-      "topParentChildren": 3,
-      "storyCount": 672,
+      "topParentChildren": 2,
+      "storyCount": 718,
       "sourceGroupCount": 11
     }
   }
