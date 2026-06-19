@@ -1,8 +1,8 @@
 {
-  "contentHash": "fa802087f085",
+  "contentHash": "f72667746746",
   "errors": [],
-  "fetchedAt": 1781897201388,
-  "generatedAt": 1781897216003,
+  "fetchedAt": 1781902916946,
+  "generatedAt": 1781902929328,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -52,12 +52,12 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 6,
-          "sourceGroup": "ndtv"
+          "count": 9,
+          "sourceGroup": "times_of_india"
         },
         {
-          "count": 4,
-          "sourceGroup": "times_of_india"
+          "count": 1,
+          "sourceGroup": "ndtv"
         }
       ]
     },
@@ -86,11 +86,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
-          "count": 11,
+          "count": 10,
           "sourceGroup": "the_hindu"
         },
         {
@@ -107,15 +107,15 @@
       "thin": false,
       "topSources": [
         {
-          "count": 18,
+          "count": 15,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 6,
+          "count": 8,
           "sourceGroup": "google_news"
         },
         {
-          "count": 6,
+          "count": 7,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -183,11 +183,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
-          "count": 15,
+          "count": 14,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -218,7 +218,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1781767601388,
+    "cutoffAt": 1781773316946,
     "retainHours": 36
   }
 }
