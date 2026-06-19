@@ -1,73 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781880655791,
-  "contentHash": "d5b55613b222",
+  "fetchedAt": 1781889217612,
+  "contentHash": "4f74e11c492d",
   "breaking": [
     {
-      "title": "US-Iran LIVE Updates: Israel, Hezbollah Agree Ceasefire As US-Iran Deal Under Strain",
-      "summary": "US Iran War LIVE Updates: US and Iran signed the deal digitally.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-peace-deal-strait-of-hormuz-live-updates-protests-trump-israel-netanyahu-oil-prices-11641718#publisher=newsstand",
-      "publishedAt": 1781878286000,
+      "title": "Russian attacks kill three in Ukraine's Kramatorsk",
+      "summary": "Vadym Filashkin, ‌Governor ⁠of Donetsk ⁠region, said on the Telegram app that ​six others ‌had been injured in two attacks on the ‌city, with ​strikes occurring near a high-rise ⁠apartment building and a car ‌park.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/russian-attacks-kill-three-in-ukraines-kramatorsk/article71123503.ece",
+      "publishedAt": 1781887791000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "a26a58da1e41e82e",
+      "id": "666288a79b4e8f0a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.945,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781875937000
-    },
-    {
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781876567000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "ced48a4904a78fab",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.405,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "bbc",
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781875226000
-    },
-    {
-      "title": "Kremlin acknowledges Ukrainian drone attack on Moscow, says strikes on Ukraine will continue",
-      "summary": "Kremlin ⁠spokesman Dmitry Peskov told ‌reporters they should check out images from Ukrainian cities ‌that Russian forces had ​struck",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/kremlin-acknowledges-ukrainian-drone-attack-on-moscow-says-strikes-on-ukraine-will-continue/article71121735.ece",
-      "publishedAt": 1781865717000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "f70704afcce16904",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.154,
+      "breakingScore": 5.467,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -75,7 +24,100 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781865717000
+      "firstSeen": 1781887791000
+    },
+    {
+      "title": "West Asia war LIVE: Latest Israeli strikes killed 47 in Lebanon, Health Ministry says",
+      "summary": "Talks between the U.S. and Iran were called off on June 19 after intense fighting between Israel and Hezbollah in southern Lebanon, officials said",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-19-2026/article71120545.ece",
+      "publishedAt": 1781887717000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "430e13e699612721",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.465,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781886114000
+    },
+    {
+      "title": "U.S. strike on alleged drug boat kills three in eastern Pacific Ocean",
+      "summary": "The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 211 since the Trump administration began targeting those it calls “narcoterrorists” in early September",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-strike-on-alleged-drug-boat-kills-three-in-eastern-pacific-ocean/article71123448.ece",
+      "publishedAt": 1781887600000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "a2e432003db79e45",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.463,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781887600000
+    },
+    {
+      "title": "Strait Of Hormuz Traffic Highest In 2 Months, Thanks To US-Iran Deal",
+      "summary": "Iranian forces closed off the strait after US and Israeli strikes sparked the war on February 28.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/strait-of-hormuz-traffic-highest-in-2-months-thanks-to-us-iran-deal-11661000#publisher=newsstand",
+      "publishedAt": 1781884229000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "743038b80edc1cd2",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.885,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781872134000
+    },
+    {
+      "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
+      "summary": "Police say a man arrested on suspicion of attempted murder has been bailed.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781881150000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "551e3f457939f840",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.813,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781881150000
     },
     {
       "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
@@ -90,31 +132,7 @@
       "id": "15391ac70d95da01",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.993,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "times_of_india"
-      ],
-      "firstSeen": 1781858727000
-    },
-    {
-      "title": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
-      "summary": "Police say a man arrested on suspicion of attempted murder has been bailed.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781880170000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "551e3f457939f840",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.989,
+      "breakingScore": 3.795,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -122,68 +140,22 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1781880170000
+      "firstSeen": 1781880357000
     },
     {
-      "title": "Lebanon says 18 killed in strikes, Israel reports deaths of 4 soldiers",
-      "summary": "“Overnight, the IDF [military] struck more than 80 command centres, terrorists, launch positions, and additional terrorist infrastructure sites in the area of Nabatieh and additional areas in southern Lebanon, within the Security Zone and beyond it,” says Israel’s military",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/israel-strike-on-lebanon-many-killed-amid-ongoing-tensions-iran-israel/article71121601.ece",
-      "publishedAt": 1781869788000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "99d027a73624ea63",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.748,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781869788000
-    },
-    {
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781862210000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "9e137dd880d290ac",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.573,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1781862210000
-    },
-    {
-      "title": "Crackdown on rooftop pubs, restaurants lacking fire safety measures",
-      "summary": "Trade licences of unsafe rooftop eateries may be cancelled as the district administration cracks down following the recent fire tragedy at a Dattagalli restobar that claimed two workers’ lives and injured several others",
+      "title": "Colombia investigates former President over paramilitary massacres",
+      "summary": "More than a quarter of a million people were killed during Colombia's six decades of fighting between left-wing guerrillas, right-wing paramilitaries, drug traffickers and the military",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/crackdown-on-rooftop-pubs-restaurants-lacking-fire-safety-measures/article71122259.ece",
-      "publishedAt": 1781880298000,
+      "url": "https://www.thehindu.com/news/international/colombia-investigates-former-president-over-paramilitary-massacres/article71123527.ece",
+      "publishedAt": 1781888740000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "92ead4647cf0085c",
+      "id": "dfd871c23ae10ea2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.492,
+      "breakingScore": 2.489,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -191,7 +163,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781880298000
+      "firstSeen": 1781888740000
+    },
+    {
+      "title": "Four transgender persons arrested for robbing motorist near Sira on NH-48",
+      "summary": "The alleged incident took place in the early hours of June 14 when the complainant had stopped his car at a roadside rest area on the Tumakuru-Hiriyur stretch of NH-48 to take a break",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/four-transgender-persons-arrested-for-robbing-motorist-near-sira-on-nh-48/article71108341.ece",
+      "publishedAt": 1781888486000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "076f9866e15aa629",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.483,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781888486000
     }
   ]
 }
