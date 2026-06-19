@@ -1,32 +1,58 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781870018136,
-  "contentHash": "6a8b4b400d7c",
+  "fetchedAt": 1781880655791,
+  "contentHash": "d5b55613b222",
   "breaking": [
     {
-      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-      "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781866922000,
-      "category": "world",
+      "title": "US-Iran LIVE Updates: Israel, Hezbollah Agree Ceasefire As US-Iran Deal Under Strain",
+      "summary": "US Iran War LIVE Updates: US and Iran signed the deal digitally.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-peace-deal-strait-of-hormuz-live-updates-protests-trump-israel-netanyahu-oil-prices-11641718#publisher=newsstand",
+      "publishedAt": 1781878286000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "985d09f8fae679ed",
+      "id": "a26a58da1e41e82e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.928,
+      "breakingScore": 5.945,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781864139000
+      "firstSeen": 1781875937000
+    },
+    {
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781876567000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "ced48a4904a78fab",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.405,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "bbc",
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781875226000
     },
     {
       "title": "Kremlin acknowledges Ukrainian drone attack on Moscow, says strikes on Ukraine will continue",
@@ -41,7 +67,7 @@
       "id": "f70704afcce16904",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.4,
+      "breakingScore": 5.154,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -50,6 +76,76 @@
         "the_hindu"
       ],
       "firstSeen": 1781865717000
+    },
+    {
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781880357000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "15391ac70d95da01",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.993,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1781858727000
+    },
+    {
+      "title": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
+      "summary": "Police say a man arrested on suspicion of attempted murder has been bailed.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781880170000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "551e3f457939f840",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.989,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781880170000
+    },
+    {
+      "title": "Lebanon says 18 killed in strikes, Israel reports deaths of 4 soldiers",
+      "summary": "“Overnight, the IDF [military] struck more than 80 command centres, terrorists, launch positions, and additional terrorist infrastructure sites in the area of Nabatieh and additional areas in southern Lebanon, within the Security Zone and beyond it,” says Israel’s military",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/israel-strike-on-lebanon-many-killed-amid-ongoing-tensions-iran-israel/article71121601.ece",
+      "publishedAt": 1781869788000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "99d027a73624ea63",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.748,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781869788000
     },
     {
       "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
@@ -64,7 +160,7 @@
       "id": "9e137dd880d290ac",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.819,
+      "breakingScore": 3.573,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -75,19 +171,19 @@
       "firstSeen": 1781862210000
     },
     {
-      "title": "America’s Iran playbook: after coercion, a return to diplomacy",
-      "summary": "Despite any difference in ideologies, political affliations or strategies, every U.S. administration comes to the realisation that Iran cannot be bullied with airstrikes, sanctions or diplomatic isolation; treading the same path, Trump’s latest deal aims to address the most pressing dangers",
-      "source": "The Hindu International",
+      "title": "Crackdown on rooftop pubs, restaurants lacking fire safety measures",
+      "summary": "Trade licences of unsafe rooftop eateries may be cancelled as the district administration cracks down following the recent fire tragedy at a Dattagalli restobar that claimed two workers’ lives and injured several others",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/americas-iran-playbook-after-coercion-a-return-to-diplomacy/article71113942.ece",
-      "publishedAt": 1781848847000,
-      "category": "world",
+      "url": "https://www.thehindu.com/news/national/karnataka/crackdown-on-rooftop-pubs-restaurants-lacking-fire-safety-measures/article71122259.ece",
+      "publishedAt": 1781880298000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "f5281bc858d070f9",
+      "id": "92ead4647cf0085c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.51,
+      "breakingScore": 2.492,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -95,103 +191,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781848847000
-    },
-    {
-      "title": "Theatre stampede case: Court issues summons to actor Allu Arjun, others",
-      "summary": "The Hyderabad police had earlier filed a charge sheet against 23 persons in the court in connection with the case",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/theatre-stampede-case-court-issues-summons-to-actor-allu-arjun-others/article71121774.ece",
-      "publishedAt": 1781867551000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "98e81d23589ec8d9",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.943,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781864458000
-    },
-    {
-      "title": "US Stock Market: Accenture’s AI transformation faces investor skepticism as stock plunges; CEO Julie Sweet remains confident",
-      "summary": "Accenture's shares plunged nearly 20% after its fiscal third-quarter results revealed weaker-than-expected bookings and a softer outlook. CEO Julie Sweet insists the current phase reflects a multi-year AI-driven transformation, not structural weakness, as clients move from AI pilots to large-scale deployment.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-accentures-ai-transformation-faces-investor-skepticism-as-stock-plunges-ceo-julie-sweet-remains-confident/articleshow/131856683.cms",
-      "publishedAt": 1781865495000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "841cd500511790a2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.895,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "ndtv"
-      ],
-      "firstSeen": 1781863466000
-    },
-    {
-      "title": "Biden aide funded Wuhan lab to 'manipulate' Covid-19 assessments? Tulsi Gabbard's 'explosive' claim",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131855505.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Former intelligence director Tulsi Gabbard released documents alleging Dr. Anthony Fauci funded gain-of-function research in Wuhan and misled Congress. The documents reportedly show Fauci's role in directing US taxpayer funds and interacting with intelligence officials to suppress lab-leak origins.  These claims emerged during a declassification review, with whistleblowers alleging retaliation.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/biden-aide-funded-chinas-wuhan-lab-to-manipulate-covid-19-assessments-tulsi-gabbards-explosive-claim/articleshow/131855505.cms",
-      "publishedAt": 1781864122000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "f7b8b244221bdfdf",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.864,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "times_of_india"
-      ],
-      "firstSeen": 1781861250000
-    },
-    {
-      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
-      "summary": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781864021000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "aad2d0929997f694",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.861,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "economic_times"
-      ],
-      "firstSeen": 1781862997000
+      "firstSeen": 1781880298000
     }
   ]
 }
