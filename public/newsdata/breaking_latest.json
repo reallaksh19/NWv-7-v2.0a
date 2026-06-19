@@ -1,22 +1,94 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781835273308,
-  "contentHash": "8af9fdfa184c",
+  "fetchedAt": 1781854229831,
+  "contentHash": "e82e0fb85d07",
   "breaking": [
     {
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "source": "BBC World",
+      "title": "Mortal remains of Patnala Suresh, killed in MT Settebello attack, reach Visakhapatnam",
+      "summary": "Government Whip P.G.V.R. Naidu paid floral tributes to the chief engineer, one of three Indians killed in the June 10 strike off Oman",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/mortal-remains-of-patnala-suresh-killed-in-mt-settebello-attack-reach-visakhapatnam/article71121077.ece",
+      "publishedAt": 1781853640000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "c560b613f6832530",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.486,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781853640000
+    },
+    {
+      "title": "Telegram ban verdict updates | Delhi High court declines relief; upholds govt.'s decision for temporary ban",
+      "summary": "Delhi High Court said that the centre followed all norms and due process, adding that the government is empowered under section 69A to block the Telegram",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-high-court-verdict-on-temporary-telegram-ban-in-india-neet-ug-exam-paper-leak-live-updates-june-19-2026/article71120715.ece",
+      "publishedAt": 1781852140000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4cc4a4c0bca21862",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.452,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781848345000
+    },
+    {
+      "title": "West Asia LIVE: U.S.-Iran talks in Switzerland called off; at least 16 killed as Israel strikes southern Lebanon",
+      "summary": "Switzerland confirmed the cancellation after White House made a statement on V-P Vance's trip being postponed",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-19-2026/article71120545.ece",
+      "publishedAt": 1781853149000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "430e13e699612721",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.975,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1781829171000
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
+      "summary": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
+      "source": "BBC",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1781819245000,
+      "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781852902000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "9e137dd880d290ac",
+      "id": "bce9b4e0200a762a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.629,
+      "breakingScore": 3.969,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,22 +96,45 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1781819245000
+      "firstSeen": 1781852902000
     },
     {
-      "title": "India emerging as 'trusted partner' to the world: PM Modi",
-      "summary": "Mr. Modi also said that this is a defining period in India's journey, where aspirations are reaching new heights",
+      "title": "America’s Iran playbook: after coercion, a return to diplomacy",
+      "summary": "Despite any difference in ideologies, political affliations or strategies, every U.S. administration comes to the realisation that Iran cannot be bullied with airstrikes, sanctions or diplomatic isolation; treading the same path, Trump’s latest deal aims to address the most pressing dangers",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/americas-iran-playbook-after-coercion-a-return-to-diplomacy/article71113942.ece",
+      "publishedAt": 1781848847000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "f5281bc858d070f9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.875,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781848847000
+    },
+    {
+      "title": "T.N. Assembly unanimously adopts resolution against Karnataka government’s Mekedatu dam proposal",
+      "summary": "The resolution urged the Union government not to grant any form of approval, including technical and environmental clearances, to the Mekedatu project",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/india-emerging-as-trusted-partner-to-the-world-pm-modi/article71120577.ece",
-      "publishedAt": 1781834813000,
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-unanimously-adopts-resolution-against-karnataka-governments-mekedatu-dam-proposal/article71121084.ece",
+      "publishedAt": 1781852267000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ae959371d817560e",
+      "id": "51e9989eeb57c6a1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.989,
+      "breakingScore": 2.955,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -48,99 +143,55 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781830848000
+      "firstSeen": 1781851868000
     },
     {
-      "title": "Doctor bludgeons, stabs his domestic help to death at Mount Kailash home",
-      "summary": "Accused confesses to attacking his long-time employee; was found sitting beside Mina Halder’s body when police reached his house; motive behind killing yet to be ascertained, say police; FIR registered on a complaint filed by a neighbour",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/doctor-bludgeons-stabs-his-domestic-help-to-death-at-mount-kailash-home/article71119472.ece",
-      "publishedAt": 1781832009000,
-      "category": "topStories",
+      "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
+      "summary": "The Tories take Aberdeen South, while the SNP wins in Arbroath and Broughty Ferry.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781851369000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "a752fdfb557cd183",
+      "id": "8a630caf18153863",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.424,
+      "breakingScore": 2.934,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1781832009000
-    },
-    {
-      "title": "Global Market Today: Asian stocks hit record highs, oil heads for weekly loss",
-      "summary": "Asian stocks reached a record high, fueled by optimism that the reopening of the Strait of Hormuz will normalize oil flows and ease inflation. This development, coupled with positive semiconductor news, boosted investor confidence. Lower energy costs are also easing concerns about future interest rate hikes.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-hit-record-highs-oil-heads-for-weekly-loss/articleshow/131844291.cms",
-      "publishedAt": 1781831611000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "1e8170349da6c175",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.415,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "economic_times"
-      ],
-      "firstSeen": 1781831611000
-    },
-    {
-      "title": "\"Blunder\": Republicans Blast Trump's Iran Agreement",
-      "summary": "Some pro-Republican commentators also broke with Trump over the agreement.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/republicans-blast-trumps-iran-agreement-11657241#publisher=newsstand",
-      "publishedAt": 1781829014000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "f252b9c1ea2e1c31",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.355,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
+        "bbc",
         "ndtv"
       ],
-      "firstSeen": 1781829014000
+      "firstSeen": 1781851353000
     },
     {
-      "title": "Who is Abraham Alvarez? Illegal immigrant charged in WH UFC attack plot targeting Trump",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131841761.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/who-is-abraham-alvarez-illegal-immigrant-charged-in-white-house-ufc-attack-plot-targeting-trump/articleshow/131841761.cms",
-      "publishedAt": 1781815239000,
-      "category": "india",
+      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "summary": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781832840000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "dbcfcc15127f753e",
+      "id": "8fb9627317cfe907",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.036,
+      "breakingScore": 2.505,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "times_of_india"
+        "bbc",
+        "the_hindu"
       ],
-      "firstSeen": 1781815239000
+      "firstSeen": 1781831524000
     }
   ]
 }
