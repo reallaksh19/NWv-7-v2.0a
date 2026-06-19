@@ -7,24 +7,24 @@
 - Average angles: `1.7`
 - Average temporal tiers: `1.8`
 - Average evolution roles: `1.7`
-- Base report share: `0.3`
+- Base report share: `0.35`
 - Multi-angle parents: `7`
 - Weak parents: `0`
-- Story count: `718`
-- Source groups: `11`
-- Content hash: `39d2d262816787d2`
+- Story count: `689`
+- Source groups: `10`
+- Content hash: `9ef6c34996f7bdd9`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | RTC buses available for 73,000 NEET students | 2 | fact_update, base_report | NO | 0.6747467197849983 |
+| 1 | RTC buses available for 73,000 NEET students | 2 | fact_update, base_report | NO | 0.7187467197849984 |
 | 2 | BEST employees go on indefinite strike; public bus services hit in Mumbai | 2 | reaction_public, regional_followup | NO | 0.6732467197849983 |
-| 3 | Kerala Revised Budget 2026-27 LIVE: V.D. Satheesan's Budget pledges 'New Kerala' with inclusive growth, sustainable development | 2 | correction, official_response | NO | 0.6604967197849982 |
-| 4 | Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi | 2 | official_response, regional_followup | NO | 0.6604967197849982 |
-| 5 | Supreme Court dismisses plea seeking CBI probe into alleged TVK horse-trading | 2 | investigative_detail, official_response | NO | 0.6513967197849984 |
-| 6 | 'Jumped to save mother': Indian teen dies in New York Central Park after falling from horse carriage | 2 | fact_update, base_report | NO | 0.6265800531183316 |
-| 7 | Modi arrives in Paris, meets members of Indian diaspora | 2 | official_response, fact_update | NO | 0.6192128795983323 |
+| 3 | Cycles distributed on Rahul Gandhi’s birthday in Sangareddy | 2 | official_response, base_report | NO | 0.6709967197849983 |
+| 4 | Kerala Revised Budget 2026-27 LIVE: V.D. Satheesan's Budget pledges 'New Kerala' with inclusive growth, sustainable development | 2 | correction, official_response | NO | 0.6604967197849982 |
+| 5 | Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi | 2 | official_response, regional_followup | NO | 0.6604967197849982 |
+| 6 | Supreme Court dismisses plea seeking CBI probe into alleged TVK horse-trading | 2 | investigative_detail, official_response | NO | 0.6513967197849984 |
+| 7 | 'Jumped to save mother': Indian teen dies in New York Central Park after falling from horse carriage | 2 | fact_update, base_report | NO | 0.6265800531183316 |
 | 8 | Who is Andy Burnham? The 'King of the North' who could replace Keir Starmer as UK PM | 2 | base_report | NO | 0.7127467197849984 |
 | 9 | Zohran Mamdani Calls To Ban Horse Carriages In New York After Indian Teen's Death | 2 | base_report | NO | 0.6789967197849983 |
 | 10 | Amit Shah, U.S. Ambassador Gor discuss enhancing India-U.S. security cooperation | 2 | official_response | NO | 0.6714967197849984 |
@@ -39,7 +39,7 @@
 - Average angles: `1.7`
 - Average temporal tiers: `1.8`
 - Average evolution roles: `1.7`
-- Base report share: `0.3`
+- Base report share: `0.35`
 - Multi-angle parents: `7`
 - Top parent angles: `2`
 - Top parent children: `2`
@@ -55,7 +55,7 @@
 - Average visible angle count: `1.7` / `>= 1.4`
 - Average temporal tier count: `1.8` / `>= 1.8`
 - Average evolution role count: `1.7` / `>= 1.6`
-- Base report share: `0.3` / `<= 0.55`
+- Base report share: `0.35` / `<= 0.55`
 - Multi-angle parent count: `7` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
 - Top parent child depth: `2` / `>= 2`
