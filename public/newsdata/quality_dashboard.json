@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781903006508,
+  "generatedAt": 1781913762147,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 677,
-    "usableStories36h": 669,
+    "totalStories": 616,
+    "usableStories36h": 594,
     "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3156,
+    "rankingOverallScore": 0.3114,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3156,
+    "overallScore": 0.3114,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781903005754,
+    "generatedAt": 1781913761425,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4331,
+      "insight": 0.4195,
       "localTravel": 0,
-      "upAhead": 0.8294
+      "upAhead": 0.8261
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4331,
+        "score": 0.4195,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8294,
+        "score": 0.8261,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 7,
-        "strongParents": 7,
+        "parentClusters": 8,
+        "strongParents": 8,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 2,
+        "baseReportHeavyParents": 3,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,11 +92,11 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 33,
+        "suppressedItemCount": 34,
         "events": 0,
         "onlineOffers": 5,
-        "offlineOffers": 5,
-        "alerts": 20,
+        "offlineOffers": 6,
+        "alerts": 19,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
@@ -117,10 +117,10 @@
       "You don’t have to wait — here are 51+ Prime Day early deals you can already shop - NBC News: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026: What To Buy and What To Skip - NBC News: location failed — offline/local item lacks configured location match",
       "4th Of July Sales: Shop Early Deals On Home, Fashion, Travel And More - Forbes: location failed — offline/local item lacks configured location match",
-      "DVAC conducts surprise checks at RTOs, MVIOs across Tamil Nadu: futureValidity failed — expired display window"
+      "After clearing TNPSC Group I exam, civil services aspirant meets her role model J. Radhakrishnan: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "33 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "34 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
@@ -129,7 +129,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted",
+      "3 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set",
       "buzz: no travel Buzz item in ranked set"
     ]
@@ -153,23 +153,6 @@
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-06-13",
-      "generatedAt": 1781384697224,
-      "insightGrade": "C",
-      "insightScore": 0,
-      "totalStories": 589,
-      "usableStories36h": 570,
-      "sourceGroups": 9,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3144,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-06-14",
       "generatedAt": 1781470893370,
@@ -267,6 +250,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3156,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-20",
+      "generatedAt": 1781913762147,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 616,
+      "usableStories36h": 594,
+      "sourceGroups": 10,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3114,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

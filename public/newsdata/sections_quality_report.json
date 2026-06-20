@@ -1,8 +1,8 @@
 {
-  "contentHash": "f72667746746",
+  "contentHash": "e0e8bbe0a144",
   "errors": [],
-  "fetchedAt": 1781902916946,
-  "generatedAt": 1781902929328,
+  "fetchedAt": 1781913691367,
+  "generatedAt": 1781913702973,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -29,13 +29,13 @@
     },
     "entertainment": {
       "qualitySourceGroupCount": 1,
-      "qualityStoryCount": 14,
+      "qualityStoryCount": 17,
       "sourceGroupCount": 1,
-      "storyCount": 14,
+      "storyCount": 17,
       "thin": true,
       "topSources": [
         {
-          "count": 14,
+          "count": 17,
           "sourceGroup": "google_news"
         }
       ]
@@ -69,11 +69,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 18,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 13,
+          "count": 12,
           "sourceGroup": "google_news_oman"
         }
       ]
@@ -107,11 +107,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
+          "count": 14,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 8,
+          "count": 9,
           "sourceGroup": "google_news"
         },
         {
@@ -183,11 +183,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
-          "count": 14,
+          "count": 13,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -195,7 +195,7 @@
   },
   "sourceGroupCount": 11,
   "status": "WARN",
-  "storyCount": 284,
+  "storyCount": 287,
   "thresholds": {
     "expectedRetainHours": 36,
     "minSectionSourceGroups": 2,
@@ -218,7 +218,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1781773316946,
+    "cutoffAt": 1781784091367,
     "retainHours": 36
   }
 }
