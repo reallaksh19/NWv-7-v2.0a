@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1781972000578,
+  "generatedAt": 1781978835906,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 630,
-    "usableStories36h": 620,
-    "sourceGroups": 10,
+    "totalStories": 647,
+    "usableStories36h": 606,
+    "sourceGroups": 11,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3251,
+    "rankingOverallScore": 0.3167,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3251,
+    "overallScore": 0.3167,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1781971999854,
+    "generatedAt": 1781978835026,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4416,
+      "insight": 0.4073,
       "localTravel": 0,
-      "upAhead": 0.8586
+      "upAhead": 0.8596
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4416,
+        "score": 0.4073,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8586,
+        "score": 0.8596,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 18,
+        "suppressedItemCount": 13,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -105,21 +105,21 @@
       }
     },
     "topFindings": [
-      "Don’t Wait: These 100+ Early Amazon Prime Day Tech Deals Are Worth Buying Now - PCMag: location failed — offline/local item lacks configured location match",
-      "Prime Day is almost here: We found 50+ early deals live now - Mashable: location failed — offline/local item lacks configured location match",
       "Skip the Countdown and Shop These 60+ Prime Day Deals on Home Gear, Tech and More Right Now - CNET: location failed — offline/local item lacks configured location match",
-      "TVK tapped into public discontent against DMK, says Shanmugam: futureValidity failed — expired display window",
-      "TVK tapped into public discontent against DMK, says Shanmugam: alertUrgency failed — alert expired",
-      "Residents seek restoration of Otteri Nullah and MRTS access road in Velachery: futureValidity failed — expired display window",
-      "Residents seek restoration of Otteri Nullah and MRTS access road in Velachery: alertUrgency failed — alert expired",
-      "Painted lady butterfly spotted in Sivaganga district: futureValidity failed — expired display window",
-      "Painted lady butterfly spotted in Sivaganga district: alertUrgency failed — alert expired",
-      "190 abandoned vehicles shifted to St. Thomas Mount police station premises: futureValidity failed — expired display window",
-      "190 abandoned vehicles shifted to St. Thomas Mount police station premises: alertUrgency failed — alert expired",
-      "Waterpik water flossers are on sale at Amazon — save up to 43% this weekend - Mashable: location failed — offline/local item lacks configured location match"
+      "Don’t Wait: These 100+ Early Amazon Prime Day Tech Deals Are Worth Buying Now - PCMag: location failed — offline/local item lacks configured location match",
+      "Summer Dresses, Tops, and Matching Sets Are Up to 84% Off in Amazon’s Outlet Ahead of Prime Day — from $7 - People.com: location failed — offline/local item lacks configured location match",
+      "Prime Day is almost here: We found 50+ early deals live now - Mashable: location failed — offline/local item lacks configured location match",
+      "Supreme Court seized of granting leave to convicts pending appeal, amicus curiae informs five-judge Larger Bench of Madras High Court: futureValidity failed — expired display window",
+      "Supreme Court seized of granting leave to convicts pending appeal, amicus curiae informs five-judge Larger Bench of Madras High Court: alertUrgency failed — alert expired",
+      "Waterpik water flossers are on sale at Amazon — save up to 43% this weekend - Mashable: location failed — offline/local item lacks configured location match",
+      "The best early Amazon Prime Day tech deals: Phones, tablets & more - Tech Advisor: location failed — offline/local item lacks configured location match",
+      "Best 65-inch TV deals ahead of Prime Day: New savings on 2026 TCL TVs and Fire TVs - Mashable: location failed — offline/local item lacks configured location match",
+      "Best Amazon Prime Day 2026 phone deals you can’t miss - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
+      "Everything You Need to Know About Prime Day 2026 - Lifehacker: location failed — offline/local item lacks configured location match",
+      "You don’t have to wait — here are 51+ Prime Day early deals you can already shop - NBC News: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "18 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-20",
-      "generatedAt": 1781972000578,
+      "generatedAt": 1781978835906,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 630,
-      "usableStories36h": 620,
-      "sourceGroups": 10,
+      "totalStories": 647,
+      "usableStories36h": 606,
+      "sourceGroups": 11,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3251,
+      "rankingOverallScore": 0.3167,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
