@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781953900975,
-  "contentHash": "46862426f9ab",
+  "fetchedAt": 1781960331304,
+  "contentHash": "095a433dee2f",
   "breaking": [
     {
       "title": "West Asia war LIVE updates: 16 killed in Israeli strikes on south Lebanon despite ceasefire",
       "summary": "Talks between the U.S. and Iran were called off on June 19 after intense fighting between Israel and Hezbollah in southern Lebanon",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-20-2026/article71124892.ece",
-      "publishedAt": 1781953095000,
-      "category": "topStories",
+      "publishedAt": 1781954095000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "3db0a664b2070969",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.981,
+      "breakingScore": 6.856,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -26,56 +26,60 @@
         "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1781938039000
+      "firstSeen": 1781945633000
     },
     {
-      "title": "Afghanistan claims strikes on militant hideouts inside Pakistan",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131870559.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Afghanistan's Taliban government claims its forces conducted airstrikes on militant hideouts in Pakistan's Balochistan and Khyber Pakhtunkhwa provinces. Islamabad vehemently denies this, stating only a drone entered its airspace and was intercepted. This latest exchange escalates tensions, with both nations blaming each other for cross-border militancy and recent deadly incidents, despite Chinese mediation efforts.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/afghanistan-claims-strikes-on-militant-hideouts-inside-pakistan/articleshow/131870559.cms",
-      "publishedAt": 1781932822000,
+      "title": "At least three dead as slab of temple collapses in Maharashtra's Parbhani; rescue ops. under way",
+      "summary": "25 people have been rescued so far; It being a Saturday, a day associated with Lord Hanuman, the temple saw a rush of devotees, an official said",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-temple-slab-collapse-parbhani-rescue-efforts-updates/article71125807.ece",
+      "publishedAt": 1781957503000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "c461ee9d9c6bcd22",
+      "id": "0492febf4ede6268",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.012,
+      "breakingScore": 5.935,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1781932822000
-    },
-    {
-      "title": "Cockroach Janta Party protest LIVE | Won’t leave Jantar Mantar till Dharmendra Pradhan resigns, says Abhijeet Dipke",
-      "summary": "Cockroach Janta Party (CJP) founder Abhijeet Dipke said the protest demanding the resignation of Union Education Minister Dharmendra Pradhan will continue",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-delhi-neet-paper-leak-live-june-20-2026/article71125410.ece",
-      "publishedAt": 1781953525000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "1a4f8f0802bfaac4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.991,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781953525000
+      "firstSeen": 1781956829000
     },
     {
-      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781941220000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "a862165ce5248160",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.058,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1781936659000
+    },
+    {
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
       "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
       "source": "BBC",
       "sourceGroup": "bbc",
@@ -87,7 +91,7 @@
       "id": "78dc36c097499af0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.928,
+      "breakingScore": 3.779,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -110,7 +114,7 @@
       "id": "e3381a792da6e1e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.704,
+      "breakingScore": 3.555,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -121,65 +125,67 @@
       "firstSeen": 1781941098000
     },
     {
-      "title": "Two arrested for sexually assaulting 74-year-old woman during theft bid in Erode",
-      "summary": "According to the police, the two men entered the woman’s house intending to steal brass articles",
+      "title": "Switzerland says U.S.-Iran talks continue at Bürgenstock, declines to identify participants",
+      "summary": "The Swiss Foreign Ministry ​said that no ‌further details would be disclosed about participants and ‌the content ​of the talks, citing ⁠confidentiality.",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/two-arrested-for-sexually-assaulting-74-year-old-woman-during-theft-bid-in-erode/article71125281.ece",
-      "publishedAt": 1781953121000,
+      "url": "https://www.thehindu.com/news/international/switzerland-iran-us-peace-deal-talks-burgenstock-latest-updates/article71125822.ece",
+      "publishedAt": 1781958255000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "d7e914484b473a40",
+      "id": "5bb81f1d189d2eda",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.482,
+      "breakingScore": 2.952,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781953121000
+      "firstSeen": 1781956324000
     },
     {
-      "title": "NSS-Satheesan rift deepens as Sukumaran Nair launches fresh attack on Kerala CM",
-      "summary": "Sukumaran Nair slams Chief Minister for his “refusal” to engage on vital issues, including proposed amendments to the Companies Act.",
-      "source": "The Hindu",
+      "title": "NEET-UG re-exam: NTA says records show Abu Dhabi centre was ‘chosen’ by Nagpur candidate; city change issue now resolved",
+      "summary": "City change request was allegedly made through the candidate’s own registered login; around 3.2 lakh candidates used the correction window, NTA said in a statement ahead of the June 21 re-test",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/nss-satheesan-rift-deepens-as-sukumaran-nair-launches-fresh-attack-on-kerala-cm/article71125636.ece",
-      "publishedAt": 1781953048000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/national/neet-ug-re-exam-nta-says-records-show-abu-dhabi-centre-was-chosen-by-nagpur-candidate-city-change-issue-now-resolved/article71125675.ece",
+      "publishedAt": 1781956785000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "7bcaf5a6e950475c",
+      "id": "957f0a665c88068f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.48,
+      "breakingScore": 2.918,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781953048000
+      "firstSeen": 1781953547000
     },
     {
-      "title": "Youth arrested for stalking, harassing woman in T. Nagar",
-      "summary": "",
+      "title": "Cockroach Janta Party protest LIVE | Delhi police denies permission to continue, Abhijeet Dipke says won't move",
+      "summary": "Cockroach Janta Party (CJP) founder Abhijeet Dipke said the protest demanding the resignation of Union Education Minister Dharmendra Pradhan will continue",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/youth-arrested-for-stalking-harassing-woman-in-t-nagar/article71125220.ece",
-      "publishedAt": 1781952675000,
+      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-delhi-neet-paper-leak-live-june-20-2026/article71125410.ece",
+      "publishedAt": 1781959879000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "24a759c304f3d452",
+      "id": "1a4f8f0802bfaac4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.472,
+      "breakingScore": 2.49,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -187,7 +193,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1781952675000
+      "firstSeen": 1781957074000
     }
   ]
 }
