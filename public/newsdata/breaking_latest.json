@@ -1,54 +1,32 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1781945227899,
-  "contentHash": "923ea1a7aae2",
+  "fetchedAt": 1781953900975,
+  "contentHash": "46862426f9ab",
   "breaking": [
     {
-      "title": "West Asia war LIVE updates: Five killed in Israeli strikes on south Lebanon despite ceasefire",
+      "title": "West Asia war LIVE updates: 16 killed in Israeli strikes on south Lebanon despite ceasefire",
       "summary": "Talks between the U.S. and Iran were called off on June 19 after intense fighting between Israel and Hezbollah in southern Lebanon",
-      "source": "The Hindu International",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-deal-live-updates-june-20-2026/article71124892.ece",
-      "publishedAt": 1781940960000,
-      "category": "world",
+      "publishedAt": 1781953095000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "3db0a664b2070969",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.901,
+      "breakingScore": 6.981,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1781934522000
-    },
-    {
-      "title": "'Thought it was terrorist explosion': London train crash passengers 'had broken legs, could not speak'; driver dead",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131869705.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A tragic train collision near Bedford claimed the life of a driver and left over 80 injured, with survivors recounting scenes of panic and devastation. Passengers described being violently thrown, witnessing smoke, and hearing screams as emergency services rushed to the site. The incident involved two East Midlands Railway services heading towards London St Pancras, leading to a complete suspension of services.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/uk/thought-it-was-terrorist-explosion-london-train-crash-passengers-had-broken-legs-could-not-speak-driver-dead/articleshow/131869705.cms",
-      "publishedAt": 1781925811000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "81e8f865be8b89cc",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.551,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
+        "bbc",
+        "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1781925811000
+      "firstSeen": 1781938039000
     },
     {
       "title": "Afghanistan claims strikes on militant hideouts inside Pakistan",
@@ -63,7 +41,7 @@
       "id": "c461ee9d9c6bcd22",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.213,
+      "breakingScore": 5.012,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -74,29 +52,50 @@
       "firstSeen": 1781932822000
     },
     {
-      "title": "20 Years, 128 Witnesses Later, Congress Leader Pawanraje Nimbalkar's Murder Accused Acquitted",
-      "summary": "Pawanraje Nimbalkar and his driver were killed in 2006",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/20-years-128-witnesses-later-maharashtra-congress-leader-pawanraje-nimbalkars-murder-accused-acquitted-11662913#publisher=newsstand",
-      "publishedAt": 1781943380000,
-      "category": "india",
+      "title": "Cockroach Janta Party protest LIVE | Won’t leave Jantar Mantar till Dharmendra Pradhan resigns, says Abhijeet Dipke",
+      "summary": "Cockroach Janta Party (CJP) founder Abhijeet Dipke said the protest demanding the resignation of Union Education Minister Dharmendra Pradhan will continue",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-delhi-neet-paper-leak-live-june-20-2026/article71125410.ece",
+      "publishedAt": 1781953525000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "80566b0b701fbf38",
+      "id": "1a4f8f0802bfaac4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.457,
+      "breakingScore": 3.991,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781943180000
+      "firstSeen": 1781953525000
+    },
+    {
+      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1781950774000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "78dc36c097499af0",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.928,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1781950774000
     },
     {
       "title": "Russian strike kills one, wounds nine in Kharkiv",
@@ -111,7 +110,7 @@
       "id": "e3381a792da6e1e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.904,
+      "breakingScore": 3.704,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -122,76 +121,73 @@
       "firstSeen": 1781941098000
     },
     {
-      "title": "Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic",
-      "summary": "Three people ‌were taken to medical facilities and ‌six ⁠others were treated on site",
-      "source": "The Hindu International",
+      "title": "Two arrested for sexually assaulting 74-year-old woman during theft bid in Erode",
+      "summary": "According to the police, the two men entered the woman’s house intending to steal brass articles",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/many-evacuated-in-beach-hotel-fire-in-dominican-republic/article71124830.ece",
-      "publishedAt": 1781936659000,
-      "category": "world",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/two-arrested-for-sexually-assaulting-74-year-old-woman-during-theft-bid-in-erode/article71125281.ece",
+      "publishedAt": 1781953121000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "5762ae9b0907d892",
+      "id": "d7e914484b473a40",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.802,
+      "breakingScore": 2.482,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1781921574000
-    },
-    {
-      "title": "Bolivia’s President declares emergency over blockade crisis, paving way to deploy military",
-      "summary": "The move came in a ‌live message to the ‌nation ⁠just hours after Bolivian President Paz unveiled ⁠a deal struck with the main union, the Bolivian Workers’ Confederation, that ​aimed to ease tension",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/bolivias-president-declares-emergency-over-blockade-crisis-paving-way-to-deploy-military/article71125333.ece",
-      "publishedAt": 1781943796000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "de3e1c62ca9a4b96",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.967,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1781938616000
-    },
-    {
-      "title": "NEET-UG re-exam: Nationwide mock drill under way; security tightened",
-      "summary": "The nationwide mock drill is aimed at testing preparedness at examination centres and streamlining coordination among various agencies involved in the process",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/neet-ug-re-exam-nationwide-mock-drill-nta/article71125152.ece",
-      "publishedAt": 1781942571000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4ce2dfcfc0c8c81a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.938,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1781940878000
+      "firstSeen": 1781953121000
+    },
+    {
+      "title": "NSS-Satheesan rift deepens as Sukumaran Nair launches fresh attack on Kerala CM",
+      "summary": "Sukumaran Nair slams Chief Minister for his “refusal” to engage on vital issues, including proposed amendments to the Companies Act.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/nss-satheesan-rift-deepens-as-sukumaran-nair-launches-fresh-attack-on-kerala-cm/article71125636.ece",
+      "publishedAt": 1781953048000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "7bcaf5a6e950475c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.48,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781953048000
+    },
+    {
+      "title": "Youth arrested for stalking, harassing woman in T. Nagar",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/youth-arrested-for-stalking-harassing-woman-in-t-nagar/article71125220.ece",
+      "publishedAt": 1781952675000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "24a759c304f3d452",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.472,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1781952675000
     }
   ]
 }
