@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782041291500,
-  "contentHash": "232738e7a63a",
+  "fetchedAt": 1782048144173,
+  "contentHash": "c62c87d815a4",
   "breaking": [
+    {
+      "title": "Tamil Nadu ammonia gas leak LIVE: Seven women killed in gas leak in Tiruvallur seafood factory",
+      "summary": "Tiruvallur District Collector S. Kavitha visited the factory site and met with patients at the hospitals to oversee relief measures.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-gas-leak-live-updates-trivallur-seafood-export-unit-tn/article71129101.ece",
+      "publishedAt": 1782047468000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4d4cfb3fd0a77b48",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.484,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782042958000
+    },
     {
       "title": "‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh",
       "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131888204.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
@@ -16,7 +41,7 @@
       "id": "6f1247293325deed",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.797,
+      "breakingScore": 3.638,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,42 +52,67 @@
       "firstSeen": 1782032517000
     },
     {
-      "title": "Tamil Nadu ammonia gas leak LIVE: Seven women killed in gas leak in Tiruvallur seafood factory",
-      "summary": "Tiruvallur District Collector S. Kavitha visited the factory site and met with patients at the hospitals to oversee relief measures.",
-      "source": "The Hindu",
+      "title": "Indian man charged with fatal stabbing in London’s Southall",
+      "summary": "Navjot Singh, 20, was charged with murder, grievous bodily harm with intent and possessing an offensive weapon after his arrest on suspicion of the murder of Gurbhej Singh last week",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-gas-leak-live-updates-trivallur-seafood-export-unit-tn/article71129101.ece",
-      "publishedAt": 1782041152000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/indian-man-charged-with-fatal-stabbing-in-londons-southall/article71129292.ece",
+      "publishedAt": 1782045586000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "4d4cfb3fd0a77b48",
+      "id": "a1bc93d7a761ea98",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.497,
+      "breakingScore": 2.941,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782040598000
+      "firstSeen": 1782041314000
     },
     {
-      "title": "Bedford train crash disruption to last until Thursday",
+      "title": "NEET UG 2026 Re-Exam LIVE Updates: Students Say Paper Was Lengthy, Tougher Than May 3 Test",
+      "summary": "NEET UG 2026 Re Exam LIVE Updates: June 21 NTA Retest Latest News",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/education/neet-ug-2026-re-exam-live-updates-june-21-nta-neet-retest-analysis-exam-timings-and-guidelines-11665487#publisher=newsstand",
+      "publishedAt": 1782044967000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "bf2ffe7c334eecc4",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.926,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1782039991000
+    },
+    {
+      "title": "Disruption to last a week after fatal Bedford train crash",
       "summary": "Police say 28 people remain in hospital after two trains collided on Friday.",
       "source": "BBC",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.com/news/articles/cewq0eggg4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782040814000,
+      "publishedAt": 1782046127000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "5c743517f7832f3a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.489,
+      "breakingScore": 2.453,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -70,91 +120,69 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782040814000
-    },
-    {
-      "title": "General discussion on Kerala Revised Budget to begin on June 22",
-      "summary": "The House is likely to see heated debate on the Budget over the next three days as Opposition CPI(M)-led LDF and BJP have already criticised it for being flooded with announcements but lacking adequate allocations",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/general-discussion-on-kerala-revised-budget-to-begin-on-june-22/article71129011.ece",
-      "publishedAt": 1782040390000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "6b93a6c68408b73f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.479,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782040390000
+      "firstSeen": 1782046127000
     },
     {
       "title": "West Asia war LIVE updates: Iran says can't enter final U.S. deal talks without end to Lebanon war",
       "summary": "U.S. President Donald Trump unleashed a new threat to impose American tolls in Strait of Hormuz if a final deal with Iran isn’t reached in 60 days",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-21-2026/article71128366.ece",
-      "publishedAt": 1782040120000,
-      "category": "topStories",
+      "publishedAt": 1782045108000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "4b7f6a68c0f3f031",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.473,
+      "breakingScore": 2.43,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
       "firstSeen": 1782027152000
     },
     {
-      "title": "'The moment we ... ' : Pakistan defence minister issues war threat to India over Indus Water Treaty",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131888719.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/the-moment-we-pakistan-defence-minister-issues-war-threat-to-india-over-indus-water-treaty/articleshow/131888719.cms",
-      "publishedAt": 1782036179000,
-      "category": "india",
+      "title": "William marks 44th birthday as royals celebrate Father's Day",
+      "summary": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782044033000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "c86cf690ba2a84f8",
+      "id": "eb9e758539baecc5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.382,
+      "breakingScore": 2.405,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "times_of_india"
+        "bbc"
       ],
-      "firstSeen": 1782036179000
+      "firstSeen": 1782044033000
     },
     {
-      "title": "\"F**k. It's Big A** Dog\": Video Shows US Cops Shooting Pet After 911 Call",
-      "summary": "The incident occurred on June 13",
+      "title": "Man's Appeal To Find Missing Wife Exposes Murder: Killed By Her Brother",
+      "summary": "Officers took a formal complaint from Gauri Shankar and began searching for Sujata.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/video-shows-lapd-cops-shooting-new-york-knicks-nba-fan-pet-after-911-call-f-k-its-big-a-dog-11666511#publisher=newsstand",
-      "publishedAt": 1782031686000,
+      "url": "https://www.ndtv.com/india-news/mans-appeal-to-find-missing-wife-exposes-murder-killed-by-her-brother-11667201#publisher=newsstand",
+      "publishedAt": 1782043558000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "e56504c892c7fad8",
+      "id": "2967fa7785156163",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.278,
+      "breakingScore": 2.394,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -162,30 +190,7 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782031686000
-    },
-    {
-      "title": "3 killed in massive West London blaze; firefighters battle inferno for over two hours",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131887705.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/uk/3-killed-in-massive-west-london-blaze-firefighters-battle-inferno-for-over-two-hours/articleshow/131887705.cms",
-      "publishedAt": 1782029246000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "b4712c40d9aeb231",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.221,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1782029246000
+      "firstSeen": 1782043558000
     }
   ]
 }
