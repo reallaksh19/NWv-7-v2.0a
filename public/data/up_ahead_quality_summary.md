@@ -10,6 +10,6 @@
 
 ## Category counts
 
-- alerts: 38
-- shopping: 27
+- alerts: 42
+- shopping: 23
 - weather_alerts: 2

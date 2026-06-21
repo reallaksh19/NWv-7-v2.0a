@@ -1,18 +1,18 @@
 {
   "categoryCounts": {
-    "alerts": 38,
-    "shopping": 27,
+    "alerts": 42,
+    "shopping": 23,
     "weather_alerts": 2
   },
   "contentClassCounts": {
-    "upahead_alert": 40,
-    "upahead_offer": 27
+    "upahead_alert": 44,
+    "upahead_offer": 23
   },
-  "contentHash": "926361daa956",
+  "contentHash": "f0075d14810d",
   "contractVersion": "upahead-lifecycle-v1",
   "errors": [],
-  "fetchedAt": 1781995196793,
-  "generatedAt": 1781995198913,
+  "fetchedAt": 1782019485398,
+  "generatedAt": 1782019498422,
   "horizon": {
     "alertFallbackHours": 24,
     "eventPastGraceHours": 24,
@@ -23,13 +23,13 @@
   "itemCount": 67,
   "lifecycleSummary": {
     "categoryCounts": {
-      "alerts": 38,
-      "shopping": 27,
+      "alerts": 42,
+      "shopping": 23,
       "weather_alerts": 2
     },
     "contentClassCounts": {
-      "upahead_alert": 40,
-      "upahead_offer": 27
+      "upahead_alert": 44,
+      "upahead_offer": 23
     },
     "horizonViolationCount": 0,
     "horizonViolationSample": [],
