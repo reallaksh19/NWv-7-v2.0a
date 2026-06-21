@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782023506462,
-  "contentHash": "17ce9bdf24302eff",
+  "generatedAt": 1782039340206,
+  "contentHash": "1e13bbee955fa949",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 533,
+  "storyCount": 519,
   "sourceGroupCount": 11,
   "grade": "C",
   "parentCount": 10,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 63,
+      "signalScore": 64,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 479,
+      "storyCount": 468,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 8,
@@ -34,25 +34,25 @@
       "strongAngleCount": 0,
       "avgAngles": 1.8,
       "avgChildren": 2.1,
-      "avgScore": 0.6403190813979978,
+      "avgScore": 0.6294537427528314,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 6,
+      "snapshotCoverage": 7,
       "coverageLabel": "8/10",
       "warnings": [
         "2 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "4 cluster(s) have weak snapshot coverage.",
-        "540 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "3 cluster(s) have weak snapshot coverage.",
+        "510 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 63,
+      "signalScore": 64,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 479,
+      "storyCount": 468,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 8,
@@ -60,21 +60,21 @@
       "strongAngleCount": 0,
       "avgAngles": 1.8,
       "avgChildren": 2.1,
-      "avgScore": 0.6403190813979978,
+      "avgScore": 0.6294537427528314,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 6,
+      "snapshotCoverage": 7,
       "coverageLabel": "8/10",
       "warnings": [
         "2 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "4 cluster(s) have weak snapshot coverage.",
-        "540 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "3 cluster(s) have weak snapshot coverage.",
+        "510 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_355_813533b850c784e0",
+      "parentId": "cluster_399_813533b850c784e0",
       "headline": "Reliance unveils India's biggest IPO plan as Jio Platforms files DRHP",
       "score": 0.68321,
       "postTreeScore": 1.0832,
@@ -94,7 +94,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_269_4ce2dfcfc0c8c81a",
+      "parentId": "cluster_309_4ce2dfcfc0c8c81a",
       "headline": "NEET-UG re-exam: Nationwide mock drill under way; security tightened",
       "score": 0.6945633864516649,
       "postTreeScore": 1.0746,
@@ -115,28 +115,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_259_d1ca56d8093fe3de",
-      "headline": "Iran-US peace deal under threat? Israel launches strikes at Lebanon despite ceasefire, killing 5",
-      "score": 0.6852467197849983,
-      "postTreeScore": 1.0652,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_65_6a7f6b6bc863ba1a",
+      "parentId": "cluster_102_6a7f6b6bc863ba1a",
       "headline": "Iran Closes Strait Of Hormuz Again Over Israel's Attacks On Lebanon",
       "score": 0.6485766666666667,
       "postTreeScore": 1.0486,
@@ -157,7 +136,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_330_d7489c821476971a",
+      "parentId": "cluster_373_d7489c821476971a",
       "headline": "Modi ‘tough cookie’, ‘great leader’ who has been in power for over 12 years, says Trump",
       "score": 0.6669967197849983,
       "postTreeScore": 1.047,
@@ -177,7 +156,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_139_a9ea2d33f4909aee",
+      "parentId": "cluster_177_a9ea2d33f4909aee",
       "headline": "Three Indian-flagged oil tankers clear Strait of Hormuz, minister says - Reuters",
       "score": 0.5881599999999999,
       "postTreeScore": 0.9882,
@@ -196,7 +175,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_38_d0d5055588b661cb",
+      "parentId": "cluster_108_bfab040a0e0e988f",
+      "headline": "Indian man jailed for over 5 years in U.K.-France people smuggling case",
+      "score": 0.5705933333333333,
+      "postTreeScore": 0.9706,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "reaction_public"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "legal_or_regulatory"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_76_d0d5055588b661cb",
       "headline": "JD Vance lands in Switzerland to launch talks with Iran on its nuclear programme",
       "score": 0.5704232802150018,
       "postTreeScore": 0.9704,
@@ -216,28 +216,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_71_bfab040a0e0e988f",
-      "headline": "Indian man jailed for over 5 years in U.K.-France people smuggling case",
-      "score": 0.5505933333333333,
-      "postTreeScore": 0.9506,
+      "parentId": "cluster_26_6f1247293325deed",
+      "headline": "‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh",
+      "score": 0.5565933333333333,
+      "postTreeScore": 0.9566,
       "childCount": 2,
       "angles": [
-        "base_report",
-        "reaction_public"
+        "fact_update",
+        "investigative_detail"
       ],
       "temporalTiers": [
-        "breaking",
-        "established"
+        "established",
+        "breaking"
       ],
       "evolutionRoles": [
-        "first_report",
-        "legal_or_regulatory"
+        "corroboration",
+        "accountability"
       ],
-      "baseReportShare": 0.5,
+      "baseReportShare": 0,
       "weakTree": false
     },
     {
-      "parentId": "cluster_285_a862165ce5248160",
+      "parentId": "cluster_326_a862165ce5248160",
       "headline": "Tourist dies in Dominican Republic luxury resort fire",
       "score": 0.6310239879583166,
       "postTreeScore": 0.761,
@@ -258,7 +258,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_305_a40bcdfa6814ce7b",
+      "parentId": "cluster_347_a40bcdfa6814ce7b",
       "headline": "Monsoon tracker LIVE | Heavy rain expected in 10 districts of Tamil Nadu",
       "score": 0.6843967197849983,
       "postTreeScore": 0.7544,
@@ -361,7 +361,7 @@
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 533,
+      "storyCount": 519,
       "sourceGroupCount": 11
     }
   }
