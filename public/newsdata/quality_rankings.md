@@ -2,20 +2,20 @@
 
 - Ranking version: `tab-specific-quality-ranking-v1`
 - Overall status: **FAIL**
-- Overall score: `0.3233`
+- Overall score: `0.3179`
 
 ## Destination scores
 
 | Destination | Status | Score | Profile | Ranked items |
 |---|---|---:|---|---:|
-| upAhead | WARN | 0.8596 | `upAhead-v2-lifecycle-location-category` | 30 |
+| upAhead | WARN | 0.8583 | `upAhead-v2-lifecycle-location-category` | 30 |
 | buzz | FAIL | 0.0 | `buzz-v2-trend-local-travel` | 0 |
 | localTravel | FAIL | 0.0 | `localTravel-v1-location-utility-disruption` | 0 |
-| insight | WARN | 0.4336 | `insight-v2-event-angle-tree` | 8 |
+| insight | WARN | 0.4134 | `insight-v2-event-angle-tree` | 10 |
 
 ## Findings
 
-- 17 invalid/expired/duplicate Up Ahead item(s) suppressed
+- 13 invalid/expired/duplicate Up Ahead item(s) suppressed
 - no active offer items in ranked Up Ahead set
 - no ranked Up Ahead item for muscat
 - ranked Up Ahead set is category-dominated
