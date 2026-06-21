@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782059192612,
+  "generatedAt": 1782065781234,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 510,
-    "usableStories36h": 510,
+    "totalStories": 505,
+    "usableStories36h": 499,
     "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3243,
+    "rankingOverallScore": 0.3234,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3243,
+    "overallScore": 0.3234,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782059191867,
+    "generatedAt": 1782065780370,
     "destinationScores": {
       "buzz": 0,
       "insight": 0.4388,
       "localTravel": 0,
-      "upAhead": 0.8583
+      "upAhead": 0.8546
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8583,
+        "score": 0.8546,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 13,
+        "suppressedItemCount": 9,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -105,21 +105,21 @@
       }
     },
     "topFindings": [
-      "Start Shopping Prime Day Now With the Best 60+ Deals We’ve Found So Far - CNET: location failed — offline/local item lacks configured location match",
+      "Shop Early Prime Day Deals With the Best 60+ Discounts We’ve Found So Far - CNET: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026: How to prepare for 4 days of deals and find the deepest discounts - WCPO 9 Cincinnati: location failed — offline/local item lacks configured location match",
       "Prime Day is almost here: We found 50+ early deals live now - Mashable: location failed — offline/local item lacks configured location match",
+      "Start Shopping Prime Day Now With the Best 60+ Deals We’ve Found So Far - CNET: location failed — offline/local item lacks configured location match",
       "Amazon's early Prime Day deals include great options for Father's Day - Mashable: location failed — offline/local item lacks configured location match",
       "Don’t Wait: These 100+ Early Amazon Prime Day Tech Deals Are Worth Buying Now - PCMag: location failed — offline/local item lacks configured location match",
       "Skip the Countdown and Shop These 60+ Prime Day Deals on Home Gear, Tech and More Right Now - CNET: location failed — offline/local item lacks configured location match",
-      "Ancient burial urn unearthed in Karur: futureValidity failed — expired display window",
-      "Ancient burial urn unearthed in Karur: alertUrgency failed — alert expired",
-      "Tiruchi Corporation to launch anti-rabies booster vaccination drive for stray dogs: futureValidity failed — expired display window",
-      "Tiruchi Corporation to launch anti-rabies booster vaccination drive for stray dogs: alertUrgency failed — alert expired",
-      "Central districts gear up for NEET on June 21: futureValidity failed — expired display window",
-      "Central districts gear up for NEET on June 21: alertUrgency failed — alert expired"
+      "Top Soundbars and Speakers Are Now on Sale, Thanks to These Early Prime Day Discounts - PCMag: location failed — offline/local item lacks configured location match",
+      "Summer Dresses, Tops, and Matching Sets Are Up to 84% Off in Amazon’s Outlet Ahead of Prime Day — from $7 - People.com: location failed — offline/local item lacks configured location match",
+      "upAhead: Shop Early Prime Day Deals With the Best 60+ Discounts We’ve Found So Far - CNET: location failed — offline/local item lacks configured location match",
+      "upAhead: Amazon Prime Day 2026: How to prepare for 4 days of deals and find the deepest discounts - WCPO 9 Cincinnati: location failed — offline/local item lacks configured location match",
+      "upAhead: Prime Day is almost here: We found 50+ early deals live now - Mashable: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "13 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "9 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-21",
-      "generatedAt": 1782059192612,
+      "generatedAt": 1782065781234,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 510,
-      "usableStories36h": 510,
+      "totalStories": 505,
+      "usableStories36h": 499,
       "sourceGroups": 10,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3243,
+      "rankingOverallScore": 0.3234,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

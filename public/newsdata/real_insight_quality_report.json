@@ -1,17 +1,17 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782059191059,
-  "contentHash": "2cdc8b18710edbe2",
+  "generatedAt": 1782065779590,
+  "contentHash": "a64615ffe57a1381",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 510,
+  "storyCount": 505,
   "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.6,
-  "avgTemporalTiers": 1.5,
-  "avgEvolutionRoles": 1.8,
+  "avgTemporalTiers": 1.6,
+  "avgEvolutionRoles": 1.7,
   "baseReportShare": 0.2,
   "multiAngleCount": 6,
   "weakParentCount": 0,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 58,
+      "signalScore": 57,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 463,
+      "storyCount": 460,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 6,
@@ -34,7 +34,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.6,
       "avgChildren": 2,
-      "avgScore": 0.6482520318709989,
+      "avgScore": 0.6358633598924991,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 5,
       "coverageLabel": "6/10",
@@ -42,17 +42,17 @@
         "4 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "5 cluster(s) have weak snapshot coverage.",
-        "470 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "450 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 58,
+      "signalScore": 57,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 463,
+      "storyCount": 460,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 6,
@@ -60,7 +60,7 @@
       "strongAngleCount": 0,
       "avgAngles": 1.6,
       "avgChildren": 2,
-      "avgScore": 0.6482520318709989,
+      "avgScore": 0.6358633598924991,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 5,
       "coverageLabel": "6/10",
@@ -68,13 +68,13 @@
         "4 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "5 cluster(s) have weak snapshot coverage.",
-        "470 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "450 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_176_6a7f6b6bc863ba1a",
+      "parentId": "cluster_203_6a7f6b6bc863ba1a",
       "headline": "Iran Closes Strait Of Hormuz Again Over Israel's Attacks On Lebanon",
       "score": 0.716563386451665,
       "postTreeScore": 1.0966,
@@ -95,28 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_100_6f1247293325deed",
-      "headline": "‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh",
-      "score": 0.6765800531183316,
-      "postTreeScore": 1.0766,
-      "childCount": 2,
-      "angles": [
-        "fact_update",
-        "investigative_detail"
-      ],
-      "temporalTiers": [
-        "established",
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "accountability"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_384_4ce2dfcfc0c8c81a",
+      "parentId": "cluster_412_4ce2dfcfc0c8c81a",
       "headline": "NEET-UG re-exam: Nationwide mock drill under way; security tightened",
       "score": 0.6945633864516649,
       "postTreeScore": 1.0746,
@@ -137,7 +116,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_150_d0d5055588b661cb",
+      "parentId": "cluster_127_6f1247293325deed",
+      "headline": "‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh",
+      "score": 0.6325800531183317,
+      "postTreeScore": 1.0126,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "established",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "corroboration",
+        "accountability"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_177_d0d5055588b661cb",
       "headline": "JD Vance lands in Switzerland to launch talks with Iran on its nuclear programme",
       "score": 0.60241,
       "postTreeScore": 1.0024,
@@ -157,7 +157,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_251_a9ea2d33f4909aee",
+      "parentId": "cluster_279_a9ea2d33f4909aee",
       "headline": "Three Indian-flagged oil tankers clear Strait of Hormuz, minister says - Reuters",
       "score": 0.5881599999999999,
       "postTreeScore": 0.9882,
@@ -176,7 +176,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_182_bfab040a0e0e988f",
+      "parentId": "cluster_209_bfab040a0e0e988f",
       "headline": "Indian man jailed for over 5 years in U.K.-France people smuggling case",
       "score": 0.5705933333333333,
       "postTreeScore": 0.9706,
@@ -197,26 +197,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_424_a40bcdfa6814ce7b",
-      "headline": "Monsoon tracker LIVE | Heavy rain expected in 10 districts of Tamil Nadu",
-      "score": 0.6843967197849983,
-      "postTreeScore": 0.7544,
-      "childCount": 2,
-      "angles": [
-        "regional_followup"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_297_0867956fe117a92a",
+      "parentId": "cluster_325_0867956fe117a92a",
       "headline": "Great Nicobar project will boost India's economic growth: Kiren Rijiju",
       "score": 0.6714967197849984,
       "postTreeScore": 0.7415,
@@ -235,7 +216,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_118_605b72bf89f70ee5",
+      "parentId": "cluster_145_605b72bf89f70ee5",
       "headline": "International Yoga Day 2026 LIVE: Leaders, yoga enthusiasts participate in celebrations across the country",
       "score": 0.6692467197849983,
       "postTreeScore": 0.7392,
@@ -254,7 +235,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_80_1cdf507c7235500a",
+      "parentId": "cluster_107_1cdf507c7235500a",
       "headline": "Dipke, CJP supporters continue sit-in overnight at Jantar Mantar, urge people to join protest",
       "score": 0.6085100000000001,
       "postTreeScore": 0.6985,
@@ -268,6 +249,25 @@
       ],
       "evolutionRoles": [
         "public_reaction"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_165_5d7fe17287dd76c9",
+      "headline": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
+      "score": 0.60451,
+      "postTreeScore": 0.6945,
+      "childCount": 2,
+      "angles": [
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "fact_update"
       ],
       "baseReportShare": 0,
       "weakTree": false
@@ -302,7 +302,7 @@
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.8,
+        "actual": 1.7,
         "required": ">= 1.6"
       },
       {
@@ -340,7 +340,7 @@
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.5,
+        "actual": 1.6,
         "required": ">= 1.8",
         "severity": "fail",
         "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
@@ -349,15 +349,15 @@
     "summary": {
       "parentCount": 10,
       "avgAngles": 1.6,
-      "avgTemporalTiers": 1.5,
-      "avgEvolutionRoles": 1.8,
+      "avgTemporalTiers": 1.6,
+      "avgEvolutionRoles": 1.7,
       "baseReportShare": 0.2,
       "multiAngleCount": 6,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 510,
+      "storyCount": 505,
       "sourceGroupCount": 10
     }
   }

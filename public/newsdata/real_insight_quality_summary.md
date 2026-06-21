@@ -5,29 +5,29 @@
 - Grade: `C`
 - Parents: `10`
 - Average angles: `1.6`
-- Average temporal tiers: `1.5`
-- Average evolution roles: `1.8`
+- Average temporal tiers: `1.6`
+- Average evolution roles: `1.7`
 - Base report share: `0.2`
 - Multi-angle parents: `6`
 - Weak parents: `0`
-- Story count: `510`
+- Story count: `505`
 - Source groups: `10`
-- Content hash: `2cdc8b18710edbe2`
+- Content hash: `a64615ffe57a1381`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | Iran Closes Strait Of Hormuz Again Over Israel's Attacks On Lebanon | 2 | official_response, base_report | NO | 0.716563386451665 |
-| 2 | ‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh | 2 | fact_update, investigative_detail | NO | 0.6765800531183316 |
-| 3 | NEET-UG re-exam: Nationwide mock drill under way; security tightened | 2 | fact_update, base_report | NO | 0.6945633864516649 |
+| 2 | NEET-UG re-exam: Nationwide mock drill under way; security tightened | 2 | fact_update, base_report | NO | 0.6945633864516649 |
+| 3 | ‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh | 2 | fact_update, investigative_detail | NO | 0.6325800531183317 |
 | 4 | JD Vance lands in Switzerland to launch talks with Iran on its nuclear programme | 2 | base_report, expert_analysis | NO | 0.60241 |
 | 5 | Three Indian-flagged oil tankers clear Strait of Hormuz, minister says - Reuters | 2 | fact_update, official_response | NO | 0.5881599999999999 |
 | 6 | Indian man jailed for over 5 years in U.K.-France people smuggling case | 2 | base_report, reaction_public | NO | 0.5705933333333333 |
-| 7 | Monsoon tracker LIVE / Heavy rain expected in 10 districts of Tamil Nadu | 2 | regional_followup | NO | 0.6843967197849983 |
-| 8 | Great Nicobar project will boost India's economic growth: Kiren Rijiju | 2 | official_response | NO | 0.6714967197849984 |
-| 9 | International Yoga Day 2026 LIVE: Leaders, yoga enthusiasts participate in celebrations across the country | 2 | official_response | NO | 0.6692467197849983 |
-| 10 | Dipke, CJP supporters continue sit-in overnight at Jantar Mantar, urge people to join protest | 2 | reaction_public | NO | 0.6085100000000001 |
+| 7 | Great Nicobar project will boost India's economic growth: Kiren Rijiju | 2 | official_response | NO | 0.6714967197849984 |
+| 8 | International Yoga Day 2026 LIVE: Leaders, yoga enthusiasts participate in celebrations across the country | 2 | official_response | NO | 0.6692467197849983 |
+| 9 | Dipke, CJP supporters continue sit-in overnight at Jantar Mantar, urge people to join protest | 2 | reaction_public | NO | 0.6085100000000001 |
+| 10 | Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days | 2 | official_response | NO | 0.60451 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -37,8 +37,8 @@
 - Score: `76`
 - Parents: `10`
 - Average angles: `1.6`
-- Average temporal tiers: `1.5`
-- Average evolution roles: `1.8`
+- Average temporal tiers: `1.6`
+- Average evolution roles: `1.7`
 - Base report share: `0.2`
 - Multi-angle parents: `6`
 - Top parent angles: `2`
@@ -46,14 +46,14 @@
 
 ### Failed gates
 
-- **Average temporal tier count** — actual `1.5`, required `>= 1.8`. Fix: C+E output should cover multiple event-time tiers, not only source buckets.
+- **Average temporal tier count** — actual `1.6`, required `>= 1.8`. Fix: C+E output should cover multiple event-time tiers, not only source buckets.
 
 ### Passed gates
 
 - Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.6` / `>= 1.4`
-- Average evolution role count: `1.8` / `>= 1.6`
+- Average evolution role count: `1.7` / `>= 1.6`
 - Base report share: `0.2` / `<= 0.55`
 - Multi-angle parent count: `6` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
