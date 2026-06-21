@@ -1,32 +1,19 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-06-21T17:44:36.355041Z",
+  "generatedAt": "2026-06-21T21:20:25.684366Z",
   "currencies": [
     {
-      "name": "GBP/INR",
-      "pair": "GBPINR",
-      "symbol": "GBPINR=X",
-      "value": "₹124.7929",
-      "rate": 124.79290008544922,
-      "change": "0.2394",
-      "changePercent": "0.19",
+      "name": "OMR/INR",
+      "pair": "OMRINR",
+      "symbol": "OMRINR=X",
+      "value": "₹244.4900",
+      "rate": 244.49000549316406,
+      "change": "0.0000",
+      "changePercent": "0.00",
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-21T17:42:54.249087Z"
-    },
-    {
-      "name": "USD/INR",
-      "pair": "USDINR",
-      "symbol": "USDINR=X",
-      "value": "₹94.3100",
-      "rate": 94.30999755859375,
-      "change": "-0.0299",
-      "changePercent": "-0.03",
-      "direction": "down",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-21T17:42:54.263892Z"
+      "asOf": "2026-06-21T21:18:44.746718Z"
     },
     {
       "name": "JPY/INR",
@@ -39,20 +26,33 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-21T17:42:54.271071Z"
+      "asOf": "2026-06-21T21:18:44.752620Z"
     },
     {
-      "name": "OMR/INR",
-      "pair": "OMRINR",
-      "symbol": "OMRINR=X",
-      "value": "₹244.4900",
-      "rate": 244.49000549316406,
-      "change": "0.0000",
-      "changePercent": "0.00",
+      "name": "GBP/INR",
+      "pair": "GBPINR",
+      "symbol": "GBPINR=X",
+      "value": "₹124.7929",
+      "rate": 124.79290008544922,
+      "change": "0.2394",
+      "changePercent": "0.19",
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-21T17:42:54.300348Z"
+      "asOf": "2026-06-21T21:18:44.797587Z"
+    },
+    {
+      "name": "USD/INR",
+      "pair": "USDINR",
+      "symbol": "USDINR=X",
+      "value": "₹94.3100",
+      "rate": 94.30999755859375,
+      "change": "-0.0299",
+      "changePercent": "-0.03",
+      "direction": "down",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-21T21:18:44.812614Z"
     },
     {
       "name": "EUR/INR",
@@ -65,7 +65,7 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-21T17:42:54.317852Z"
+      "asOf": "2026-06-21T21:18:44.827014Z"
     }
   ],
   "sourceHealth": {
