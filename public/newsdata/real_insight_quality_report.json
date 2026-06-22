@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782086699974,
-  "contentHash": "ca134715567fb4ac",
+  "generatedAt": 1782111803701,
+  "contentHash": "761c25a2c033025f",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 485,
-  "sourceGroupCount": 10,
+  "storyCount": 515,
+  "sourceGroupCount": 11,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.6,
   "avgTemporalTiers": 1.5,
-  "avgEvolutionRoles": 1.8,
-  "baseReportShare": 0.15,
+  "avgEvolutionRoles": 1.6,
+  "baseReportShare": 0.05,
   "multiAngleCount": 6,
   "weakParentCount": 0,
   "runtimeQualityGate": {
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 58,
+      "signalScore": 56,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 443,
+      "storyCount": 473,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 6,
@@ -34,14 +34,14 @@
       "strongAngleCount": 0,
       "avgAngles": 1.6,
       "avgChildren": 2,
-      "avgScore": 0.6248930212473326,
+      "avgScore": 0.6604760424946653,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 6,
+      "snapshotCoverage": 3,
       "coverageLabel": "6/10",
       "warnings": [
         "4 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "4 cluster(s) have weak snapshot coverage.",
+        "7 cluster(s) have weak snapshot coverage.",
         "420 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
@@ -49,10 +49,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 58,
+      "signalScore": 56,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 443,
+      "storyCount": 473,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 6,
@@ -60,28 +60,48 @@
       "strongAngleCount": 0,
       "avgAngles": 1.6,
       "avgChildren": 2,
-      "avgScore": 0.6248930212473326,
+      "avgScore": 0.6604760424946653,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 6,
+      "snapshotCoverage": 3,
       "coverageLabel": "6/10",
       "warnings": [
         "4 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "4 cluster(s) have weak snapshot coverage.",
+        "7 cluster(s) have weak snapshot coverage.",
         "420 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_250_6a7f6b6bc863ba1a",
-      "headline": "Iran Closes Strait Of Hormuz Again Over Israel's Attacks On Lebanon",
-      "score": 0.716563386451665,
-      "postTreeScore": 1.0966,
+      "parentId": "cluster_194_02bace5537445ce9",
+      "headline": "Trump says Starmer will resign as UK prime minister",
+      "score": 0.7120967197849983,
+      "postTreeScore": 1.1121,
       "childCount": 2,
       "angles": [
         "official_response",
-        "base_report"
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "official_response",
+        "accountability"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_241_61abde4298ba09df",
+      "headline": "6,039 appear for NEET-UG 2026 re-exam",
+      "score": 0.6758967197849983,
+      "postTreeScore": 1.0559,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "fact_update"
       ],
       "temporalTiers": [
         "breaking",
@@ -91,11 +111,71 @@
         "first_report",
         "corroboration"
       ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_362_d0d5055588b661cb",
+      "headline": "JD Vance lands in Switzerland to launch talks with Iran on its nuclear programme",
+      "score": 0.6703967197849983,
+      "postTreeScore": 1.0504,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "expert_analysis"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
       "baseReportShare": 0.5,
       "weakTree": false
     },
     {
-      "parentId": "cluster_173_6f1247293325deed",
+      "parentId": "cluster_1_47e6070b9bd9b12e",
+      "headline": "FM Swapan Dasgupta presents BJP’s maiden budget in the state",
+      "score": 0.6366433333333333,
+      "postTreeScore": 1.0366,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_27_f614f9d008536f6d",
+      "headline": "Death toll rises to 5 in ammonia gas leak in fish meal export unit in Tiruvallur district",
+      "score": 0.62441,
+      "postTreeScore": 1.0244,
+      "childCount": 2,
+      "angles": [
+        "regional_followup",
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "reaction"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_309_6f1247293325deed",
       "headline": "‘Absolutely appalling’: Starmer condemns suspected anti-Muslim attacks that injured 5 in Edinburgh",
       "score": 0.6325800531183317,
       "postTreeScore": 1.0126,
@@ -116,106 +196,26 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_224_d0d5055588b661cb",
-      "headline": "JD Vance lands in Switzerland to launch talks with Iran on its nuclear programme",
-      "score": 0.60241,
-      "postTreeScore": 1.0024,
+      "parentId": "cluster_348_5d7fe17287dd76c9",
+      "headline": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
+      "score": 0.6724967197849983,
+      "postTreeScore": 0.7425,
       "childCount": 2,
       "angles": [
-        "base_report",
-        "expert_analysis"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_330_a9ea2d33f4909aee",
-      "headline": "Three Indian-flagged oil tankers clear Strait of Hormuz, minister says - Reuters",
-      "score": 0.5881599999999999,
-      "postTreeScore": 0.9882,
-      "childCount": 2,
-      "angles": [
-        "fact_update",
         "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_61_02bace5537445ce9",
-      "headline": "Trump says Starmer will resign as UK prime minister",
-      "score": 0.58411,
-      "postTreeScore": 0.9841,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "investigative_detail"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "official_response",
-        "accountability"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_256_bfab040a0e0e988f",
-      "headline": "Indian man jailed for over 5 years in U.K.-France people smuggling case",
-      "score": 0.5705933333333333,
-      "postTreeScore": 0.9706,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "reaction_public"
       ],
       "temporalTiers": [
         "breaking",
-        "established"
+        "developing"
       ],
       "evolutionRoles": [
-        "first_report",
-        "legal_or_regulatory"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_377_0867956fe117a92a",
-      "headline": "Great Nicobar project will boost India's economic growth: Kiren Rijiju",
-      "score": 0.6714967197849984,
-      "postTreeScore": 0.7415,
-      "childCount": 2,
-      "angles": [
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "official_response"
+        "fact_update"
       ],
       "baseReportShare": 0,
       "weakTree": false
     },
     {
-      "parentId": "cluster_191_605b72bf89f70ee5",
+      "parentId": "cluster_328_605b72bf89f70ee5",
       "headline": "International Yoga Day 2026 LIVE: Leaders, yoga enthusiasts participate in celebrations across the country",
       "score": 0.6692467197849983,
       "postTreeScore": 0.7392,
@@ -234,10 +234,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_153_1cdf507c7235500a",
+      "parentId": "cluster_288_1cdf507c7235500a",
       "headline": "Dipke, CJP supporters continue sit-in overnight at Jantar Mantar, urge people to join protest",
-      "score": 0.6085100000000001,
-      "postTreeScore": 0.6985,
+      "score": 0.6604967197849982,
+      "postTreeScore": 0.7305,
       "childCount": 2,
       "angles": [
         "reaction_public"
@@ -253,21 +253,19 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_115_430e8656de31dee6",
-      "headline": "Indian prodigy Vaibhav Sooryavanshi, 15, smashes record with 11-ball half-century - The New York Times",
-      "score": 0.6052599999999999,
-      "postTreeScore": 0.6953,
+      "parentId": "cluster_331_84da0685d24dfb57",
+      "headline": "Strong maritime capabilities deciding factor for country’s economic, strategic influence: PM Modi",
+      "score": 0.6504967197849982,
+      "postTreeScore": 0.7205,
       "childCount": 2,
       "angles": [
-        "fact_update"
+        "official_response"
       ],
       "temporalTiers": [
-        "breaking",
-        "developing"
+        "breaking"
       ],
       "evolutionRoles": [
-        "first_report",
-        "corroboration"
+        "official_response"
       ],
       "baseReportShare": 0,
       "weakTree": false
@@ -302,13 +300,13 @@
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.8,
+        "actual": 1.6,
         "required": ">= 1.6"
       },
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.15,
+        "actual": 0.05,
         "required": "<= 0.55"
       },
       {
@@ -350,15 +348,15 @@
       "parentCount": 10,
       "avgAngles": 1.6,
       "avgTemporalTiers": 1.5,
-      "avgEvolutionRoles": 1.8,
-      "baseReportShare": 0.15,
+      "avgEvolutionRoles": 1.6,
+      "baseReportShare": 0.05,
       "multiAngleCount": 6,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 485,
-      "sourceGroupCount": 10
+      "storyCount": 515,
+      "sourceGroupCount": 11
     }
   }
 }
