@@ -4,15 +4,15 @@
 - Reason: -
 - Grade: `C`
 - Parents: `10`
-- Average angles: `1.8`
+- Average angles: `1.9`
 - Average temporal tiers: `2`
 - Average evolution roles: `1.9`
 - Base report share: `0.047619047619047616`
-- Multi-angle parents: `7`
+- Multi-angle parents: `8`
 - Weak parents: `0`
-- Story count: `626`
-- Source groups: `11`
-- Content hash: `a2b2f4681cb5c14b`
+- Story count: `583`
+- Source groups: `10`
+- Content hash: `ef3889ca87e18392`
 
 ## Top parents
 
@@ -24,10 +24,10 @@
 | 4 | FM Swapan Dasgupta presents BJP’s maiden budget in the state | 2 | fact_update, official_response | NO | 0.6886300531183316 |
 | 5 | NEET Candidate Arrested For Using Hidden Mobile Phone In Exam Centre Washroom | 2 | regional_followup, official_response | NO | 0.6792467197849983 |
 | 6 | India seeks tariff advantage over peers in push to finalise US trade deal - Reuters | 2 | regional_followup, base_report | NO | 0.62166 |
-| 7 | Alan Greenspan, longtime U.S. Federal Reserve chairman, dies aged 100 | 2 | official_response, fact_update | NO | 0.5612732802150018 |
-| 8 | Rupee snaps six-session winning streak as firmer dollar pinches | 2 | market_reaction | NO | 0.6952467197849983 |
-| 9 | After breaking WORLD RECORD, when will 15-year-old be in action again, fu - India.Com | 2 | fact_update | NO | 0.6732467197849983 |
-| 10 | Rebel BJP Leader Defeats Eknath Shinde Nominee In Maharashtra Council Polls | 2 | regional_followup | NO | 0.6721467197849983 |
+| 7 | India In Talks To Sell Supersonic BrahMos Missile To UAE / Akashteer Defence Sustem - News18 | 2 | fact_update, investigative_detail | NO | 0.5903433333333332 |
+| 8 | Alan Greenspan, longtime U.S. Federal Reserve chairman, dies aged 100 | 2 | official_response, fact_update | NO | 0.5612732802150018 |
+| 9 | Rupee snaps six-session winning streak as firmer dollar pinches | 2 | market_reaction | NO | 0.6952467197849983 |
+| 10 | After breaking WORLD RECORD, when will 15-year-old be in action again, fu - India.Com | 2 | fact_update | NO | 0.6732467197849983 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -36,11 +36,11 @@
 - Grade: `C`
 - Score: `100`
 - Parents: `10`
-- Average angles: `1.8`
+- Average angles: `1.9`
 - Average temporal tiers: `2`
 - Average evolution roles: `1.9`
 - Base report share: `0.048`
-- Multi-angle parents: `7`
+- Multi-angle parents: `8`
 - Top parent angles: `3`
 - Top parent children: `3`
 
@@ -52,11 +52,11 @@
 
 - Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
-- Average visible angle count: `1.8` / `>= 1.4`
+- Average visible angle count: `1.9` / `>= 1.4`
 - Average temporal tier count: `2` / `>= 1.8`
 - Average evolution role count: `1.9` / `>= 1.6`
 - Base report share: `0.048` / `<= 0.55`
-- Multi-angle parent count: `7` / `>= 1`
+- Multi-angle parent count: `8` / `>= 1`
 - Top parent angle count: `3` / `>= 2`
 - Top parent child depth: `3` / `>= 2`
 - Weak parent ratio: `0` / `<= 0.5`
