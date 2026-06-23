@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782165429946,
+  "generatedAt": 1782173090232,
   "windowDays": 7,
   "latest": {
     "insightGrade": "B",
     "insightScore": 0,
-    "totalStories": 615,
-    "usableStories36h": 602,
-    "sourceGroups": 10,
+    "totalStories": 596,
+    "usableStories36h": 573,
+    "sourceGroups": 11,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3105,
+    "rankingOverallScore": 0.3126,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3105,
+    "overallScore": 0.3126,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782165428976,
+    "generatedAt": 1782173089017,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.4017,
+      "insight": 0.4118,
       "localTravel": 0,
-      "upAhead": 0.8403
+      "upAhead": 0.8386
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.4017,
+        "score": 0.4118,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8403,
+        "score": 0.8386,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -92,10 +92,10 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 25,
+        "suppressedItemCount": 27,
         "events": 0,
-        "onlineOffers": 2,
-        "offlineOffers": 4,
+        "onlineOffers": 3,
+        "offlineOffers": 3,
         "alerts": 24,
         "festivals": 0,
         "locationsCovered": [
@@ -120,7 +120,7 @@
       "Shop Early Prime Day Deals With the Best 60+ Discounts We’ve Found So Far - CNET: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "25 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "27 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
@@ -153,23 +153,6 @@
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-06-16",
-      "generatedAt": 1781647656581,
-      "insightGrade": "C",
-      "insightScore": 0,
-      "totalStories": 673,
-      "usableStories36h": 646,
-      "sourceGroups": 11,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3039,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-06-17",
       "generatedAt": 1781726562324,
@@ -267,6 +250,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3105,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-23",
+      "generatedAt": 1782173090232,
+      "insightGrade": "B",
+      "insightScore": 0,
+      "totalStories": 596,
+      "usableStories36h": 573,
+      "sourceGroups": 11,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3126,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

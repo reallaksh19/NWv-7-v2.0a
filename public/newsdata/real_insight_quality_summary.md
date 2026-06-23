@@ -10,9 +10,9 @@
 - Base report share: `0.12`
 - Multi-angle parents: `10`
 - Weak parents: `0`
-- Story count: `615`
-- Source groups: `10`
-- Content hash: `9f63e144e0eff356`
+- Story count: `596`
+- Source groups: `11`
+- Content hash: `d711a63e9c50e18e`
 
 ## Top parents
 
@@ -26,8 +26,8 @@
 | 6 | West Bengal govt eyes Calcutta Stock Exchange revival to reclaim financial hub status | 2 | market_reaction, regional_followup | NO | 0.6544266666666667 |
 | 7 | Trump says Starmer will resign as UK prime minister | 2 | official_response, investigative_detail | NO | 0.6680967197849983 |
 | 8 | India seeks tariff advantage over peers in push to finalise US trade deal - Reuters | 2 | regional_followup, base_report | NO | 0.62166 |
-| 9 | Punjab caps annual fee hike for private schools at 5% | 2 | base_report, regional_followup | NO | 0.5881599999999999 |
-| 10 | Alan Greenspan, longtime U.S. Federal Reserve chairman, dies aged 100 | 2 | official_response, fact_update | NO | 0.5612732802150018 |
+| 9 | India In Talks To Sell Supersonic BrahMos Missile To UAE / Akashteer Defence Sustem - News18 | 2 | fact_update, investigative_detail | NO | 0.5903433333333332 |
+| 10 | AIMIM Corporator disqualified from his post in BMC | 2 | base_report, official_response | NO | 0.5570933333333334 |
 
 ## Real Snapshot Ratchet Gate
 
