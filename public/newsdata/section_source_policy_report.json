@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782209580213,
+  "generatedAt": 1782221073555,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -16,12 +16,12 @@
       ],
       "topSources": [
         {
-          "count": 18,
-          "sourceGroup": "economic_times"
+          "count": 16,
+          "sourceGroup": "business_line"
         },
         {
-          "count": 10,
-          "sourceGroup": "business_line"
+          "count": 12,
+          "sourceGroup": "economic_times"
         },
         {
           "count": 2,
@@ -31,17 +31,17 @@
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 14,
+      "storyCount": 17,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 14
+          "count": 17
         }
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 17,
           "sourceGroup": "google_news"
         }
       ]
@@ -62,11 +62,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 1,
+          "count": 2,
           "sourceGroup": "times_of_india"
         }
       ]
@@ -87,11 +87,11 @@
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 8,
+          "count": 9,
           "sourceGroup": "google_news_oman"
         },
         {
-          "count": 2,
+          "count": 1,
           "sourceGroup": "google_news"
         }
       ]
@@ -108,11 +108,11 @@
       ],
       "topSources": [
         {
-          "count": 11,
+          "count": 14,
           "sourceGroup": "bbc"
         },
         {
-          "count": 11,
+          "count": 8,
           "sourceGroup": "the_hindu"
         },
         {
@@ -133,16 +133,16 @@
       ],
       "topSources": [
         {
-          "count": 13,
-          "sourceGroup": "the_hindu"
-        },
-        {
-          "count": 12,
+          "count": 16,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 5,
+          "count": 8,
           "sourceGroup": "google_news"
+        },
+        {
+          "count": 6,
+          "sourceGroup": "the_hindu"
         }
       ]
     },
@@ -158,12 +158,12 @@
       ],
       "topSources": [
         {
-          "count": 18,
-          "sourceGroup": "the_hindu"
+          "count": 16,
+          "sourceGroup": "google_news"
         },
         {
-          "count": 12,
-          "sourceGroup": "google_news"
+          "count": 14,
+          "sourceGroup": "the_hindu"
         }
       ]
     },
@@ -183,37 +183,33 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 7,
-          "sourceGroup": "ndtv"
+          "count": 5,
+          "sourceGroup": "economic_times"
         },
         {
-          "count": 3,
-          "sourceGroup": "economic_times"
+          "count": 5,
+          "sourceGroup": "ndtv"
         }
       ]
     },
     "trichy": {
-      "sourceGroupCount": 3,
-      "storyCount": 28,
+      "sourceGroupCount": 2,
+      "storyCount": 29,
       "thin": false,
       "topCategories": [
         {
           "category": "trichy",
-          "count": 28
+          "count": 29
         }
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 20,
           "sourceGroup": "the_hindu"
         },
         {
           "count": 9,
           "sourceGroup": "google_news"
-        },
-        {
-          "count": 1,
-          "sourceGroup": "google_news_alt"
         }
       ]
     },
@@ -229,12 +225,12 @@
       ],
       "topSources": [
         {
-          "count": 20,
-          "sourceGroup": "the_hindu"
+          "count": 18,
+          "sourceGroup": "bbc"
         },
         {
-          "count": 10,
-          "sourceGroup": "bbc"
+          "count": 12,
+          "sourceGroup": "the_hindu"
         }
       ]
     }
@@ -590,7 +586,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 14,
+        "items": 17,
         "ok": true,
         "section": "entertainment"
       },
@@ -624,7 +620,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://news.google.com/rss/search?q=Trichy+Tamil+Nadu+today&hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 19,
+        "items": 0,
         "ok": true,
         "section": "trichy"
       },
