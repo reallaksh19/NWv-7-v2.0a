@@ -1,22 +1,47 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782193432766,
-  "contentHash": "c474f72eac3d",
+  "fetchedAt": 1782204493450,
+  "contentHash": "6d13f99e2a03",
   "breaking": [
     {
-      "title": "Cab driver killed, five Mysuru BEOs injured in Mysuru-Bengaluru highway crash",
-      "summary": "The five BEOs of Mysuru district were on their way to attend a meeting in Bengaluru when their hired vehicle collided with a goods vehicle",
-      "source": "The Hindu National",
+      "title": "Ransom note about Nancy Guthrie’s disappearance says she died, CNN reports",
+      "summary": "One of the notes allegedly revealed that Nancy Guthrie was dead — and those who kidnapped her did not mean to kill her, but she died shortly after her disappearance",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/cab-driver-killed-five-mysuru-beos-injured-in-mysuru-bengaluru-highway-crash/article71133913.ece",
-      "publishedAt": 1782190223000,
-      "category": "india",
+      "url": "https://www.thehindu.com/news/international/nancy-guthrie-ransom-note-savannah-death-report/article71135884.ece",
+      "publishedAt": 1782202800000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "61a2796ba57862e7",
+      "id": "01463b342c43f3f5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.426,
+      "breakingScore": 4.461,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782202256000
+    },
+    {
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+      "summary": "In addition to those people evacuated by health officials in full protective suits, at least 30 other passengers had left the ship earlier before the outbreak was documented",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article71134866.ece",
+      "publishedAt": 1782201768000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "db8b712735c7efb6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.937,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,22 +49,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782190223000
+      "firstSeen": 1782201768000
     },
     {
-      "title": "Bengaluru Couple, Daughter Killed By Elder Daughter, Live-In Partner With Machete",
-      "summary": "The victims were hacked to death inside their apartment",
-      "source": "NDTV India",
+      "title": "Lucknow Coaching Centre Fire: Special Investigation Team Probes Lucknow Building Fire That Left 15 Dead",
+      "summary": "Lucknow Coaching Centre Fire Updates: The fire had resulted in the deaths of 15 people, mostly below 30 years, and left seven others injured, following which the state government ordered a high-level probe.",
+      "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/bengaluru-triple-murder-elderly-couple-daughter-hacked-to-death-elder-daughter-live-in-partner-suspect-11674319#publisher=newsstand",
-      "publishedAt": 1782192605000,
-      "category": "india",
+      "url": "https://www.ndtv.com/india-news/lucknow-coaching-centre-fire-live-updates-13-killed-students-jump-from-building-to-escape-11671255#publisher=newsstand",
+      "publishedAt": 1782200380000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "c004f50dcbbacd32",
+      "id": "39718db8f7b173bf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.981,
+      "breakingScore": 3.905,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,114 +72,116 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782192605000
+      "firstSeen": 1782200380000
     },
     {
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-      "summary": "In addition to those people evacuated by health officials in full protective suits, at least 30 other passengers had left the ship earlier before the outbreak was documented",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article71134866.ece",
-      "publishedAt": 1782190099000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "db8b712735c7efb6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.923,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782190099000
-    },
-    {
-      "title": "12 Indians among 13 killed in explosion at factory in Ras Laffan Industrial City in Qatar: Officials",
-      "summary": "The Embassy issued the following helpline numbers: +974-55647502 or +975-55384683 and email: cons.doha@mea.gov.in",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/indians-killed-in-qatar-explosion/article71133920.ece",
-      "publishedAt": 1782180159000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "82ecaa14a82a2872",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.693,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782180159000
-    },
-    {
-      "title": "Explosion at Dakshin Energy unit in Visakhapatnam’s  Pharma City kills two; more feared trapped",
-      "summary": "Two more workers were hurt in the blaze at the plastic pyrolysis unit at Parawada; the cause is not yet known",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/explosion-at-dakshin-energy-unit-in-visakhapatnams-pharma-city-kills-two-more-feared-trapped/article71136009.ece",
-      "publishedAt": 1782192966000,
+      "title": "10-Year-Old Girl Kidnapped From Delhi Footpath, Raped And Killed",
+      "summary": "Within four hours, the police arrested the accused, who has been identified as 25-year-old Bablu, who drives an app-based cab.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/10-year-old-girl-kidnapped-from-delhi-footpath-raped-and-killed-11674718#publisher=newsstand",
+      "publishedAt": 1782198756000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "2260914d28bdfb3c",
+      "id": "3056ecf33995ddc8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.489,
+      "breakingScore": 3.867,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782192966000
+      "firstSeen": 1782198756000
     },
     {
-      "title": "West Asia war LIVE updates: Ghalibaf says Hormuz will be administered by Iran",
-      "summary": "Iran and the United States agreed on June 22 to set up communication lines to keep the vital shipping route open and end fighting in Lebanon",
+      "title": "'He hurt himself very, very badly': Trump's blunt response to Keir Starmer's resignation as UK PM",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131924591.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />US President Donald Trump has sharply criticized outgoing UK Prime Minister Keir Starmer's policies on energy, immigration, and foreign relations, suggesting they contributed to his downfall. Trump specifically pointed to Starmer's approach to North Sea oil and the UK's energy independence. He also mentioned a disagreement over the use of a British military base in Cyprus for US strikes on Iran, which he believes \"hurt him badly.\"",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/he-hurt-himself-very-very-badly-trumps-blunt-response-to-keir-starmers-resignation-as-uk-pm/articleshow/131924591.cms",
+      "publishedAt": 1782193683000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "0db70cbba103573b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.75,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1782193683000
+    },
+    {
+      "title": "Cred founder Kunal Shah tapped as WhatsApp global chief",
+      "summary": "WhatsApp parent Meta, which also owns Instagram and Facebook, will invest $900 million (around ₹8,550 crore) in Cred as a part of this hire, enabling Cred to move forward with ESOP buybacks",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
-      "publishedAt": 1782192808000,
+      "url": "https://www.thehindu.com/business/Industry/cred-founder-kunal-shah-tapped-as-whatsapp-global-chief/article71133928.ece",
+      "publishedAt": 1782203917000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "4cabecdce541fe7a",
+      "id": "b9f737afbbe5dd8d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.486,
+      "breakingScore": 2.987,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782174387000
+      "firstSeen": 1782198654000
     },
     {
-      "title": "Union Minister George Kurian resigns",
-      "summary": "Union Minister of State for Minority Affairs Mr. Kurian has resigned from the council of ministers after his Rajya Sabha term came to an end",
+      "title": "Online ticket reseller StubHub UK fined £900,000 over illegal ‘drip pricing’, 50,000 customers to get refunds",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131930866.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/uk/online-ticket-reseller-stubhub-uk-fined-900000-over-illegal-drip-pricing-50000-customers-to-get-refunds/articleshow/131930866.cms",
+      "publishedAt": 1782203334000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "b415c6844ad92e0e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.973,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1782200552000
+    },
+    {
+      "title": "Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
+      "summary": "Vice President JD Vance says his lengthy talks with senior Iranian officials in Switzerland created a good foundation for a final deal to end the Iran war",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/union-minister-george-kurian-resigns/article71136214.ece",
-      "publishedAt": 1782192767000,
+      "url": "https://www.thehindu.com/news/international/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war/article71135816.ece",
+      "publishedAt": 1782202494000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "8a560235df97f071",
+      "id": "806221a069434917",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.485,
+      "breakingScore": 2.454,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -162,30 +189,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782192767000
-    },
-    {
-      "title": "42 Umrah pilgrims escape unhurt as bus catches fire near Kannur airport in Kerala",
-      "summary": "Bus from Wayanad caught fire in Shivapuram. After the driver noticed flames at the rear end of the vehicle, he  stopped the bus. The sleeping passengers were soon evacuated safely",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/42-umrah-pilgrims-escape-unhurt-as-bus-catches-fire-near-kannur-airport-in-kerala/article71136208.ece",
-      "publishedAt": 1782192700000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9d5295ae21ed3005",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.483,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782192700000
+      "firstSeen": 1782202394000
     }
   ]
 }
