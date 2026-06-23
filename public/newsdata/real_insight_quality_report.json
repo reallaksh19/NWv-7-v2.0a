@@ -1,19 +1,19 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782193710184,
-  "contentHash": "f6cb76b53ca1835c",
+  "generatedAt": 1782209645408,
+  "contentHash": "c65d8e53971a5c99",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 563,
+  "storyCount": 632,
   "sourceGroupCount": 11,
   "grade": "B",
   "parentCount": 10,
-  "avgAngles": 2.1,
+  "avgAngles": 2.2,
   "avgTemporalTiers": 2,
   "avgEvolutionRoles": 2,
   "baseReportShare": 0.16,
-  "multiAngleCount": 9,
+  "multiAngleCount": 10,
   "weakParentCount": 0,
   "runtimeQualityGate": {
     "attempted": false,
@@ -23,59 +23,57 @@
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 68,
+      "signalScore": 70,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 523,
+      "storyCount": 579,
       "risingCount": 1,
       "thinCount": 0,
-      "multiAngleCount": 9,
-      "lowAngleCount": 1,
+      "multiAngleCount": 10,
+      "lowAngleCount": 0,
       "strongAngleCount": 1,
-      "avgAngles": 2.1,
+      "avgAngles": 2.2,
       "avgChildren": 2.5,
-      "avgScore": 0.6513587177768173,
+      "avgScore": 0.6576652959116623,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 5,
-      "coverageLabel": "9/10",
+      "coverageLabel": "10/10",
       "warnings": [
-        "1 cluster(s) have fewer than two visible child angles.",
         "5 cluster(s) have weak snapshot coverage.",
-        "445 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "574 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 68,
+      "signalScore": 70,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 523,
+      "storyCount": 579,
       "risingCount": 1,
       "thinCount": 0,
-      "multiAngleCount": 9,
-      "lowAngleCount": 1,
+      "multiAngleCount": 10,
+      "lowAngleCount": 0,
       "strongAngleCount": 1,
-      "avgAngles": 2.1,
+      "avgAngles": 2.2,
       "avgChildren": 2.5,
-      "avgScore": 0.6513587177768173,
+      "avgScore": 0.6576652959116623,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 5,
-      "coverageLabel": "9/10",
+      "coverageLabel": "10/10",
       "warnings": [
-        "1 cluster(s) have fewer than two visible child angles.",
         "5 cluster(s) have weak snapshot coverage.",
-        "445 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "574 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_88_6bdbe258f2e3da0e",
+      "parentId": "cluster_175_6bdbe258f2e3da0e",
       "headline": "UK PM Keir Starmer quits",
-      "score": 0.7736271246498396,
-      "postTreeScore": 1.4536,
+      "score": 0.7702061862132925,
+      "postTreeScore": 1.4502,
       "childCount": 7,
       "angles": [
         "base_report",
@@ -98,7 +96,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_107_6f0cf77948c609b5",
+      "parentId": "cluster_194_6f0cf77948c609b5",
       "headline": "West Bengal govt eyes Calcutta Stock Exchange revival to reclaim financial hub status",
       "score": 0.7304133864516651,
       "postTreeScore": 1.1104,
@@ -119,7 +117,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_308_47e6070b9bd9b12e",
+      "parentId": "cluster_397_47e6070b9bd9b12e",
       "headline": "FM Swapan Dasgupta presents BJP’s maiden budget in the state",
       "score": 0.6886300531183316,
       "postTreeScore": 1.0686,
@@ -138,7 +136,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_174_c45d89c5e1e6baa2",
+      "parentId": "cluster_282_6672bf59c666f6f0",
+      "headline": "Alan Greenspan, longtime U.S. Federal Reserve chairman, dies aged 100",
+      "score": 0.6852467197849983,
+      "postTreeScore": 1.0652,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_261_c45d89c5e1e6baa2",
       "headline": "RBI sold net $8.9 billion in April, gold holdings unchanged",
       "score": 0.6613933333333334,
       "postTreeScore": 1.0614,
@@ -158,14 +177,14 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_194_6672bf59c666f6f0",
-      "headline": "Alan Greenspan, longtime U.S. Federal Reserve chairman, dies aged 100",
-      "score": 0.6412600000000002,
-      "postTreeScore": 1.0413,
+      "parentId": "cluster_366_2efcbac01f6ec7fa",
+      "headline": "NEET Takes Another Political Turn After Students Miss Exam In Bengaluru",
+      "score": 0.6721467197849983,
+      "postTreeScore": 1.0521,
       "childCount": 2,
       "angles": [
-        "official_response",
-        "fact_update"
+        "regional_followup",
+        "official_response"
       ],
       "temporalTiers": [
         "breaking",
@@ -179,7 +198,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_237_b610b87684c646c9",
+      "parentId": "cluster_325_b610b87684c646c9",
       "headline": "India seeks tariff advantage over peers in push to finalise US trade deal - Reuters",
       "score": 0.62166,
       "postTreeScore": 1.0217,
@@ -200,7 +219,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_3_2260914d28bdfb3c",
+      "parentId": "cluster_84_2260914d28bdfb3c",
       "headline": "Explosion at Dakshin Energy unit in Visakhapatnam’s Pharma City kills two; more feared trapped",
       "score": 0.6064100000000001,
       "postTreeScore": 1.0064,
@@ -221,31 +240,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_1_26e9e36802e3de81",
-      "headline": "India's LPG imports from US set to cross 1 million tons in June, sources say",
-      "score": 0.5720899468816685,
-      "postTreeScore": 0.9521,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "fact_update"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_64_454af38cfc199f77",
-      "headline": "Who is Kunal Shah? CRED Founder Named New Head of WhatsApp as Will Cathcart Steps Down",
-      "score": 0.5228566135483352,
-      "postTreeScore": 0.9029,
+      "parentId": "cluster_12_cb634ca226fc4028",
+      "headline": "NSA Doval at BRICS conclave",
+      "score": 0.5815232802150019,
+      "postTreeScore": 0.9815,
       "childCount": 2,
       "angles": [
         "base_report",
@@ -253,7 +251,7 @@
       ],
       "temporalTiers": [
         "breaking",
-        "established"
+        "developing"
       ],
       "evolutionRoles": [
         "first_report",
@@ -263,23 +261,24 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_246_f1799a44ed594ddf",
-      "headline": "Rupee snaps six-session winning streak as firmer dollar pinches",
-      "score": 0.6952467197849983,
-      "postTreeScore": 0.7652,
+      "parentId": "cluster_1_82fca9a30b9e627d",
+      "headline": "CUET-UG 2026 results out; candidates can download scorecards from official website",
+      "score": 0.5590232802150018,
+      "postTreeScore": 0.939,
       "childCount": 2,
       "angles": [
-        "market_reaction"
+        "base_report",
+        "official_response"
       ],
       "temporalTiers": [
-        "established",
-        "breaking"
+        "breaking",
+        "reaction"
       ],
       "evolutionRoles": [
-        "cause_claim",
-        "market_reaction"
+        "first_report",
+        "official_response"
       ],
-      "baseReportShare": 0,
+      "baseReportShare": 0.5,
       "weakTree": false
     }
   ],
@@ -306,7 +305,7 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 2.1,
+        "actual": 2.2,
         "required": ">= 1.4"
       },
       {
@@ -330,7 +329,7 @@
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 9,
+        "actual": 10,
         "required": ">= 1"
       },
       {
@@ -355,16 +354,16 @@
     "failed": [],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 2.1,
+      "avgAngles": 2.2,
       "avgTemporalTiers": 2,
       "avgEvolutionRoles": 2,
       "baseReportShare": 0.16,
-      "multiAngleCount": 9,
+      "multiAngleCount": 10,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 4,
       "topParentChildren": 7,
-      "storyCount": 563,
+      "storyCount": 632,
       "sourceGroupCount": 11
     }
   }
