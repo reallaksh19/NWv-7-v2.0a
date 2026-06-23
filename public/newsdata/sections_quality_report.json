@@ -1,8 +1,8 @@
 {
-  "contentHash": "ac27705f9397",
+  "contentHash": "13ac6afae0c9",
   "errors": [],
-  "fetchedAt": 1782249890926,
-  "generatedAt": 1782249907043,
+  "fetchedAt": 1782258576817,
+  "generatedAt": 1782258589415,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -18,11 +18,11 @@
           "sourceGroup": "business_line"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 4,
+          "count": 5,
           "sourceGroup": "google_news"
         }
       ]
@@ -69,11 +69,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 19,
+          "count": 18,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 10,
+          "count": 11,
           "sourceGroup": "google_news_oman"
         },
         {
@@ -90,7 +90,7 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
@@ -98,7 +98,7 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 3,
+          "count": 2,
           "sourceGroup": "google_news"
         }
       ]
@@ -132,11 +132,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "google_news"
         }
       ]
@@ -191,11 +191,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -226,7 +226,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1782120290926,
+    "cutoffAt": 1782128976817,
     "retainHours": 36
   }
 }
