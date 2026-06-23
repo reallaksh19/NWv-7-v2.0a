@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782244266045,
+  "generatedAt": 1782249906975,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -20,28 +20,28 @@
           "sourceGroup": "business_line"
         },
         {
-          "count": 8,
+          "count": 9,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 5,
+          "count": 4,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 18,
+      "storyCount": 17,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 18
+          "count": 17
         }
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 17,
           "sourceGroup": "google_news"
         }
       ]
@@ -83,11 +83,11 @@
       ],
       "topSources": [
         {
-          "count": 16,
+          "count": 19,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 13,
+          "count": 10,
           "sourceGroup": "google_news_oman"
         },
         {
@@ -108,11 +108,11 @@
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
-          "count": 13,
+          "count": 11,
           "sourceGroup": "the_hindu"
         },
         {
@@ -168,7 +168,7 @@
       ]
     },
     "topStories": {
-      "sourceGroupCount": 2,
+      "sourceGroupCount": 3,
       "storyCount": 30,
       "thin": false,
       "topCategories": [
@@ -183,8 +183,12 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 9,
           "sourceGroup": "ndtv"
+        },
+        {
+          "count": 1,
+          "sourceGroup": "economic_times"
         }
       ]
     },
@@ -225,11 +229,11 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
-          "count": 11,
+          "count": 13,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -586,7 +590,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 18,
+        "items": 17,
         "ok": true,
         "section": "entertainment"
       },
