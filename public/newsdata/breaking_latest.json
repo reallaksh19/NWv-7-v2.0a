@@ -1,22 +1,95 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782242320312,
-  "contentHash": "2d6c0817604a",
+  "fetchedAt": 1782249172437,
+  "contentHash": "e27d98523bd7",
   "breaking": [
+    {
+      "title": "US Senate Votes To Halt Iran War In Rebuke To Trump",
+      "summary": "The Senate voted 50-48 in favor of the concurrent resolution, which passed the House of Representatives early this month, reflecting growing concern even among some of Trump's Republicans about the unpopular conflict that began on February 28.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-senate-votes-to-halt-iran-war-in-rebuke-to-trump-11678357#publisher=newsstand",
+      "publishedAt": 1782244703000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "3fe24bb6e08df3a8",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.397,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782241012000
+    },
+    {
+      "title": "\"Purposefully Done\": Trump Says 6 Arrested For Damaging Reflecting Pool",
+      "summary": "Trump, without evidence, has repeatedly blamed the peeling paint on vandalism.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/donald-trump-says-6-arrested-for-damaging-reflecting-pool-11678278#publisher=newsstand",
+      "publishedAt": 1782242235000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "aee5ba4e7fbbaa77",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.339,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782241304000
+    },
+    {
+      "title": "Girl abducted from roadside, raped, killed in Delhi; cab driver arrested",
+      "summary": "The 11-year-old girl was sleeping when Bashu Kumar Singh kidnapped her on Monday, say police; court remands him in 2 days’ police custody; he already faces four cases of sexual assault in Bihar",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/girl-abducted-from-roadside-raped-killed-cab-driver-held/article71139267.ece",
+      "publishedAt": 1782244650000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f0c02188bf129b4d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.895,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782244650000
+    },
     {
       "title": "Qatar Emir Calls PM Modi, Condoles Deaths Of 12 Indians In Blast",
       "summary": "Citing Qatari authorities, the Indian mission said that all injured are in stable condition",
-      "source": "NDTV",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
       "url": "https://www.ndtv.com/india-news/qatar-emir-calls-pm-modi-condoles-deaths-of-12-indians-in-blast-11678038#publisher=newsstand",
       "publishedAt": 1782238050000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "e2c934aa9bbe405d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.901,
+      "breakingScore": 3.743,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +112,7 @@
       "id": "07c2dae1dd018a0e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.801,
+      "breakingScore": 3.643,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -48,52 +121,6 @@
         "bbc"
       ],
       "firstSeen": 1782233739000
-    },
-    {
-      "title": "Dozens of Awami League activists arrested in Bangladesh as party marks founding anniversary defying ban",
-      "summary": "Founded on June 23, 1949, when present-day Bangladesh was East Pakistan, the Awami League is the country's oldest political party and led the nation's 1971 Liberation War",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/dozens-of-awami-league-activists-arrested-in-bangladesh-as-party-marks-founding-anniversary-defying-ban/article71138073.ece",
-      "publishedAt": 1782224248000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "d66468feaeb89d2e",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.582,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782224248000
-    },
-    {
-      "title": "Congo’s Ebola outbreak has most cases in first month of any African outbreak, WHO says",
-      "summary": "The Bundibugyo outbreak in the Democratic Republic ‌of Congo that has infected over 1,000 people and killed 267 ‌was detected late and experts say ‌the ⁠virus had already been circulating ⁠for months before it was officially declared on May 15",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/congos-ebola-outbreak-has-most-cases-in-first-month-of-any-african-outbreak-who-says/article71138029.ece",
-      "publishedAt": 1782223557000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "eae76a31ae86d103",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.566,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782223557000
     },
     {
       "title": "Watch: HL: Lucknow building fire: FIR cites illegal commercial use | Above the Fold | 23.06.2026",
@@ -108,7 +135,7 @@
       "id": "03b68c874279d0a9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.916,
+      "breakingScore": 2.757,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -120,42 +147,43 @@
       "firstSeen": 1782234779000
     },
     {
-      "title": "Afghan proverb of the day on why force is overrated: 'He who can be killed by sugar should not be killed by poison'",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131948594.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/afghan-proverb-of-the-day-on-why-force-is-overrated-he-who-can-be-killed-by-sugar-should-not-be-killed-by-poison/articleshow/131948594.cms",
-      "publishedAt": 1782240574000,
-      "category": "india",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782248651000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "8f899d6deb7120c1",
+      "id": "a9a2bb5500bdb0f5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.46,
+      "breakingScore": 2.488,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "times_of_india"
+        "bbc",
+        "ndtv"
       ],
-      "firstSeen": 1782240574000
+      "firstSeen": 1782240203000
     },
     {
-      "title": "IMO, Oman announce plan to evacuate ships, 11,000 seafarers stranded in Persian Gulf",
-      "summary": "IMO says it has secured necessary safety guarantees, verified the conditions for safe navigation; operation involves cooperation with U.S., Iran, Oman, other coastal States in the region",
+      "title": "AAP MLA Chaitar Vasava, wife among nine sentenced to seven years in assault, extortion case",
+      "summary": "Describing the conviction as politically motivated, AAP Gujarat president Isudan Gadhvi said the party would challenge the verdict before a higher court",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/imo-oman-announce-plan-to-evacuate-ships-11000-seafarers-stranded-in-persian-gulf/article71138712.ece",
-      "publishedAt": 1782240353000,
+      "url": "https://www.thehindu.com/news/national/gujarat/aap-mla-vasava-8-others-get-7-years-in-jail-for-assaulting-forest-officials-extortion/article71137035.ece",
+      "publishedAt": 1782245093000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "5c3b5924cd52c0f8",
+      "id": "bfe61e1fa6d3ed89",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.454,
+      "breakingScore": 2.406,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -163,30 +191,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782240353000
-    },
-    {
-      "title": "Kingpin In Fake Arms Licence Racket, 8 Others Arrested In Uttarakhand",
-      "summary": "Investigators said Sharma had provided many people with fake licences.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/kingpin-in-fake-arms-licence-8-others-arrested-in-uttarakhand-11678070#publisher=newsstand",
-      "publishedAt": 1782238708000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "12854d9b841355eb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.416,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782238708000
+      "firstSeen": 1782245093000
     }
   ]
 }
