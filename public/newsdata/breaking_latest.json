@@ -1,8 +1,54 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782225517320,
-  "contentHash": "9512f41d5d97",
+  "fetchedAt": 1782234258361,
+  "contentHash": "9c1d174bf540",
   "breaking": [
+    {
+      "title": "Nineteen injured after bus overturns in Wales",
+      "summary": "Police said the crash happened on the A484 near the Kidwelly roundabout in Carmarthenshire.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c20ye768v6lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782233739000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "07c2dae1dd018a0e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.988,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1782233739000
+    },
+    {
+      "title": "George Kurian resigns as Union Minister after RS tenure ends",
+      "summary": "Senior BJP leader from Kerala steps down as BJP did not renominate him in the recent election to the Upper House; he was the only Christian Minister in the NDA govt.; his resignation sets off speculation of a Cabinet reshuffle",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/union-minister-george-kurian-resigns/article71136214.ece",
+      "publishedAt": 1782232686000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "8a560235df97f071",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.964,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782232686000
+    },
     {
       "title": "Dozens of Awami League activists arrested in Bangladesh as party marks founding anniversary defying ban",
       "summary": "Founded on June 23, 1949, when present-day Bangladesh was East Pakistan, the Awami League is the country's oldest political party and led the nation's 1971 Liberation War",
@@ -16,7 +62,7 @@
       "id": "d66468feaeb89d2e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.971,
+      "breakingScore": 3.768,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +85,7 @@
       "id": "eae76a31ae86d103",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.955,
+      "breakingScore": 3.752,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -48,52 +94,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782223557000
-    },
-    {
-      "title": "\"I Felt Jumping Was Only Option\": Survivor Recounts Lucknow Fire Horror",
-      "summary": "The fire on Monday afternoon killed 15 people and injured several others.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/i-felt-jumping-was-only-option-survivor-recounts-lucknow-fire-horror-11676113#publisher=newsstand",
-      "publishedAt": 1782218398000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "d7e0ad33f99aed2d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.835,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782218398000
-    },
-    {
-      "title": "Around 29,000 lightning strikes light up sky across southern England",
-      "summary": "Thunderstorms caused flash flooding and travel disruption across parts of England, with more extreme heat expected on Tuesday.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/ckg84g3zv7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782210412000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "4d98c3feaeddaf23",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.65,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782210412000
     },
     {
       "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
@@ -108,7 +108,7 @@
       "id": "0643d16c5e255c85",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.82,
+      "breakingScore": 2.618,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -132,7 +132,7 @@
       "id": "ceeccddb486cc225",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.8,
+      "breakingScore": 2.598,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -144,42 +144,19 @@
       "firstSeen": 1782216324000
     },
     {
-      "title": "Ex-British rugby star found dead in Italy hotel after drug-fuelled fight with girlfriend",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131939905.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/uk/ex-british-rugby-star-battling-mental-health-issues-found-dead-in-italy-hotel-after-drug-fuelled-fight-with-girlfriend/articleshow/131939905.cms",
-      "publishedAt": 1782225296000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "7e525387bd03b71e",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.495,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1782225296000
-    },
-    {
-      "title": "AAP MLA Chaitar Vasava, wife among nine sentenced to seven years in assault, extortion case",
-      "summary": "Describing the conviction as politically motivated, AAP Gujarat president Isudan Gadhvi said the party would challenge the verdict before a higher court",
+      "title": "Kerala High Court grants K. Sudhakaran time till July 8 to appear before it in person",
+      "summary": "He had tendered an unconditional apology before the HC regarding his remarks about the HC Bench that quashed a single judge’s verdict on the murder case of Youth Congress leader S.P. Shuhaib",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/aap-mla-vasava-8-others-get-7-years-in-jail-for-assaulting-forest-officials-extortion/article71137035.ece",
-      "publishedAt": 1782224726000,
+      "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-grants-k-sudhakaran-time-till-july-8-to-appear-before-it-in-person/article71138500.ece",
+      "publishedAt": 1782233703000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "bfe61e1fa6d3ed89",
+      "id": "abeb58027efee514",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.482,
+      "breakingScore": 2.487,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -187,7 +164,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782224726000
+      "firstSeen": 1782233703000
+    },
+    {
+      "title": "West Asia war LIVE updates: India welcomes U.S.-Iran peace MoU, says Hormuz opening will boost energy supplies",
+      "summary": "U.S. President Donald Trump says Iran agrees to 'highest level' nuclear inspections; Iran says won't allow UN inspectors at bombed nuclear sites",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
+      "publishedAt": 1782233636000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4cabecdce541fe7a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.486,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782233636000
     }
   ]
 }
