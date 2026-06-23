@@ -1,11 +1,34 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782234258361,
-  "contentHash": "9c1d174bf540",
+  "fetchedAt": 1782242320312,
+  "contentHash": "2d6c0817604a",
   "breaking": [
     {
+      "title": "Qatar Emir Calls PM Modi, Condoles Deaths Of 12 Indians In Blast",
+      "summary": "Citing Qatari authorities, the Indian mission said that all injured are in stable condition",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/qatar-emir-calls-pm-modi-condoles-deaths-of-12-indians-in-blast-11678038#publisher=newsstand",
+      "publishedAt": 1782238050000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "e2c934aa9bbe405d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.901,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782238050000
+    },
+    {
       "title": "Nineteen injured after bus overturns in Wales",
-      "summary": "Police said the crash happened on the A484 near the Kidwelly roundabout in Carmarthenshire.",
+      "summary": "Six people have been taken to hospital after the crash on the A484 near Kidwelly.",
       "source": "BBC",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/c20ye768v6lo?at_medium=RSS&at_campaign=rss",
@@ -16,7 +39,7 @@
       "id": "07c2dae1dd018a0e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.988,
+      "breakingScore": 3.801,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,29 +48,6 @@
         "bbc"
       ],
       "firstSeen": 1782233739000
-    },
-    {
-      "title": "George Kurian resigns as Union Minister after RS tenure ends",
-      "summary": "Senior BJP leader from Kerala steps down as BJP did not renominate him in the recent election to the Upper House; he was the only Christian Minister in the NDA govt.; his resignation sets off speculation of a Cabinet reshuffle",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/union-minister-george-kurian-resigns/article71136214.ece",
-      "publishedAt": 1782232686000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "8a560235df97f071",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.964,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782232686000
     },
     {
       "title": "Dozens of Awami League activists arrested in Bangladesh as party marks founding anniversary defying ban",
@@ -62,7 +62,7 @@
       "id": "d66468feaeb89d2e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.768,
+      "breakingScore": 3.582,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -85,7 +85,7 @@
       "id": "eae76a31ae86d103",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.752,
+      "breakingScore": 3.566,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -96,67 +96,66 @@
       "firstSeen": 1782223557000
     },
     {
-      "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
-      "summary": "The former party chief executive had admitted embezzling more than £400,000 over a 12-year period.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782217751000,
+      "title": "Watch: HL: Lucknow building fire: FIR cites illegal commercial use | Above the Fold | 23.06.2026",
+      "summary": "In this episode, we look at the devastating Lucknow building fire and the broader questions it raises about fire safety in India’s cities. We also examine the Centre’s latest FCRA amendments, Meta’s elevation of CRED founder Kunal Shah to lead WhatsApp, and more.",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/videos/watch-hl-lucknow-building-fire-fir-cites-illegal-commercial-use-above-the-fold-23062026/article71139155.ece",
+      "publishedAt": 1782238690000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "0643d16c5e255c85",
+      "id": "03b68c874279d0a9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.618,
+      "breakingScore": 2.916,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782234779000
+    },
+    {
+      "title": "Afghan proverb of the day on why force is overrated: 'He who can be killed by sugar should not be killed by poison'",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131948594.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/afghan-proverb-of-the-day-on-why-force-is-overrated-he-who-can-be-killed-by-sugar-should-not-be-killed-by-poison/articleshow/131948594.cms",
+      "publishedAt": 1782240574000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "8f899d6deb7120c1",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.46,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
         "times_of_india"
       ],
-      "firstSeen": 1782214350000
+      "firstSeen": 1782240574000
     },
     {
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782216898000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "ceeccddb486cc225",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.598,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1782216324000
-    },
-    {
-      "title": "Kerala High Court grants K. Sudhakaran time till July 8 to appear before it in person",
-      "summary": "He had tendered an unconditional apology before the HC regarding his remarks about the HC Bench that quashed a single judge’s verdict on the murder case of Youth Congress leader S.P. Shuhaib",
+      "title": "IMO, Oman announce plan to evacuate ships, 11,000 seafarers stranded in Persian Gulf",
+      "summary": "IMO says it has secured necessary safety guarantees, verified the conditions for safe navigation; operation involves cooperation with U.S., Iran, Oman, other coastal States in the region",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-grants-k-sudhakaran-time-till-july-8-to-appear-before-it-in-person/article71138500.ece",
-      "publishedAt": 1782233703000,
+      "url": "https://www.thehindu.com/news/international/imo-oman-announce-plan-to-evacuate-ships-11000-seafarers-stranded-in-persian-gulf/article71138712.ece",
+      "publishedAt": 1782240353000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "abeb58027efee514",
+      "id": "5c3b5924cd52c0f8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.487,
+      "breakingScore": 2.454,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -164,30 +163,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782233703000
+      "firstSeen": 1782240353000
     },
     {
-      "title": "West Asia war LIVE updates: India welcomes U.S.-Iran peace MoU, says Hormuz opening will boost energy supplies",
-      "summary": "U.S. President Donald Trump says Iran agrees to 'highest level' nuclear inspections; Iran says won't allow UN inspectors at bombed nuclear sites",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
-      "publishedAt": 1782233636000,
+      "title": "Kingpin In Fake Arms Licence Racket, 8 Others Arrested In Uttarakhand",
+      "summary": "Investigators said Sharma had provided many people with fake licences.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/kingpin-in-fake-arms-licence-8-others-arrested-in-uttarakhand-11678070#publisher=newsstand",
+      "publishedAt": 1782238708000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "4cabecdce541fe7a",
+      "id": "12854d9b841355eb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.486,
+      "breakingScore": 2.416,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782233636000
+      "firstSeen": 1782238708000
     }
   ]
 }
