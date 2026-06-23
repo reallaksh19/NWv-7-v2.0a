@@ -5,29 +5,29 @@
 - Grade: `B`
 - Parents: `10`
 - Average angles: `2.2`
-- Average temporal tiers: `2`
+- Average temporal tiers: `1.9`
 - Average evolution roles: `2`
-- Base report share: `0.07692307692307693`
+- Base report share: `0.11538461538461539`
 - Multi-angle parents: `10`
 - Weak parents: `0`
-- Story count: `674`
-- Source groups: `10`
-- Content hash: `bdd0a95bb63c96e6`
+- Story count: `710`
+- Source groups: `11`
+- Content hash: `4735c878a04ac3f7`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | UK PM Keir Starmer quits | 7 | base_report, fact_update, official_response, regional_followup | NO | 0.7296271246498396 |
+| 1 | UK PM Keir Starmer quits | 7 | base_report, fact_update, official_response, regional_followup | NO | 0.7461900320209572 |
 | 2 | West Bengal govt eyes Calcutta Stock Exchange revival to reclaim financial hub status | 2 | market_reaction, regional_followup | NO | 0.7304133864516651 |
 | 3 | Inquiry ordered after building fire kills 15 in north India city - BBC | 3 | fact_update, regional_followup | NO | 0.6581906546249832 |
 | 4 | FM Swapan Dasgupta presents BJP’s maiden budget in the state | 2 | fact_update, official_response | NO | 0.6886300531183316 |
 | 5 | Alan Greenspan, longtime U.S. Federal Reserve chairman, dies aged 100 | 2 | official_response, fact_update | NO | 0.6852467197849983 |
-| 6 | RBI sold net $8.9 billion in April, gold holdings unchanged | 2 | fact_update, market_reaction | NO | 0.6613933333333334 |
-| 7 | NEET Takes Another Political Turn After Students Miss Exam In Bengaluru | 2 | regional_followup, official_response | NO | 0.6721467197849983 |
-| 8 | India seeks tariff advantage over peers in push to finalise US trade deal - Reuters | 2 | regional_followup, base_report | NO | 0.62166 |
-| 9 | Explosion at Dakshin Energy unit in Visakhapatnam’s Pharma City kills two; more feared trapped | 2 | regional_followup, fact_update | NO | 0.6064100000000001 |
-| 10 | India In Talks To Sell Supersonic BrahMos Missile To UAE / Akashteer Defence Sustem - News18 | 2 | fact_update, investigative_detail | NO | 0.5903433333333332 |
+| 6 | Explosion at Dakshin Energy unit in Visakhapatnam’s Pharma City kills two; more feared trapped | 2 | regional_followup, fact_update | NO | 0.6823967197849983 |
+| 7 | RBI sold net $8.9 billion in April, gold holdings unchanged | 2 | fact_update, market_reaction | NO | 0.6613933333333334 |
+| 8 | NEET Takes Another Political Turn After Students Miss Exam In Bengaluru | 2 | regional_followup, official_response | NO | 0.6721467197849983 |
+| 9 | India seeks tariff advantage over peers in push to finalise US trade deal - Reuters | 2 | regional_followup, base_report | NO | 0.62166 |
+| 10 | NSA Doval at BRICS conclave | 2 | base_report, official_response | NO | 0.61351 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -37,9 +37,9 @@
 - Score: `100`
 - Parents: `10`
 - Average angles: `2.2`
-- Average temporal tiers: `2`
+- Average temporal tiers: `1.9`
 - Average evolution roles: `2`
-- Base report share: `0.077`
+- Base report share: `0.115`
 - Multi-angle parents: `10`
 - Top parent angles: `4`
 - Top parent children: `7`
@@ -53,9 +53,9 @@
 - Real snapshot grade floor: `B` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `2.2` / `>= 1.4`
-- Average temporal tier count: `2` / `>= 1.8`
+- Average temporal tier count: `1.9` / `>= 1.8`
 - Average evolution role count: `2` / `>= 1.6`
-- Base report share: `0.077` / `<= 0.55`
+- Base report share: `0.115` / `<= 0.55`
 - Multi-angle parent count: `10` / `>= 1`
 - Top parent angle count: `4` / `>= 2`
 - Top parent child depth: `7` / `>= 2`
