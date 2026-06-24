@@ -1,55 +1,30 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782258030127,
-  "contentHash": "42273986e983",
+  "fetchedAt": 1782264642741,
+  "contentHash": "f5dc1de5ba01",
   "breaking": [
     {
-      "title": "\"Purposefully Done\": Trump Says 6 Arrested For Damaging Reflecting Pool",
-      "summary": "Trump, without evidence, has repeatedly blamed the peeling paint on vandalism.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/donald-trump-says-6-arrested-for-damaging-reflecting-pool-11678278#publisher=newsstand",
-      "publishedAt": 1782242235000,
+      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+      "summary": "Around 30% of those killed in the Gaza war were children, the report ‌found",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/israel-targeted-gaza-children-resulting-in-genocide-un-inquiry-says/article71139306.ece",
+      "publishedAt": 1782252047000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "aee5ba4e7fbbaa77",
+      "id": "9acef8e6adf31e47",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.134,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782241304000
-    },
-    {
-      "title": "Qatar Emir Calls PM Modi, Condoles Deaths Of 12 Indians In Blast",
-      "summary": "Citing Qatari authorities, the Indian mission said that all injured are in stable condition",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/qatar-emir-calls-pm-modi-condoles-deaths-of-12-indians-in-blast-11678038#publisher=newsstand",
-      "publishedAt": 1782238050000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "e2c934aa9bbe405d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.537,
+      "breakingScore": 3.708,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1782238050000
+      "firstSeen": 1782252047000
     },
     {
       "title": "Starmer holds talks with Burnham as he seeks 'orderly' transition",
@@ -64,7 +39,7 @@
       "id": "11784eb585699a4e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.953,
+      "breakingScore": 2.8,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -76,19 +51,44 @@
       "firstSeen": 1782251789000
     },
     {
-      "title": "Watch: HL: Lucknow building fire: FIR cites illegal commercial use | Above the Fold | 23.06.2026",
-      "summary": "In this episode, we look at the devastating Lucknow building fire and the broader questions it raises about fire safety in India’s cities. We also examine the Centre’s latest FCRA amendments, Meta’s elevation of CRED founder Kunal Shah to lead WhatsApp, and more.",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/videos/watch-hl-lucknow-building-fire-fir-cites-illegal-commercial-use-above-the-fold-23062026/article71139155.ece",
-      "publishedAt": 1782238690000,
+      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782263974000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "03b68c874279d0a9",
+      "id": "42bc707bee73ee1a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.552,
+      "breakingScore": 2.485,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "bbc",
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782241012000
+    },
+    {
+      "title": "\"Purposefully Done\": Trump Says 6 Arrested For Damaging Reflecting Pool",
+      "summary": "Trump, without evidence, has repeatedly blamed the peeling paint on vandalism.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/donald-trump-says-6-arrested-for-damaging-reflecting-pool-11678278#publisher=newsstand",
+      "publishedAt": 1782242235000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "aee5ba4e7fbbaa77",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.481,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -97,45 +97,22 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782234779000
+      "firstSeen": 1782241304000
     },
     {
-      "title": "West Asia war LIVE updates: India welcomes U.S.-Iran peace MoU, says Hormuz opening will boost energy supplies",
-      "summary": "U.S. President Donald Trump says Iran agrees to 'highest level' nuclear inspections; Iran says won't allow UN inspectors at bombed nuclear sites",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
-      "publishedAt": 1782254504000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4cabecdce541fe7a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.418,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782254504000
-    },
-    {
-      "title": "5 Arrested For Chicken-And-Beer Party On Boat In Varanasi's Ganga",
-      "summary": "The police said that individuals involved were identified, sent to jail, and the boat was seized.",
-      "source": "NDTV",
+      "title": "Honey-Trap, Suicide Attack Angles Emerge In Jaipur Woman's Jaish Links Probe",
+      "summary": "Sources claim Babita remained in contact with Pakistan-based operatives through WhatsApp.",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/5-arrested-for-chicken-and-beer-party-on-boat-in-varanasis-ganga-11678568#publisher=newsstand",
-      "publishedAt": 1782254259000,
-      "category": "topStories",
+      "url": "https://www.ndtv.com/india-news/honey-trap-suicide-attack-angles-emerge-in-jaipur-woman-babita-dhakad-alias-khadija-jaish-links-probe-11678719#publisher=newsstand",
+      "publishedAt": 1782262542000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "2dc7bb4c0d9618c0",
+      "id": "23e88fb48e76b590",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.413,
+      "breakingScore": 2.451,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,46 +120,45 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782254259000
+      "firstSeen": 1782262542000
     },
     {
-      "title": "US Senate Votes To Halt Iran War In Rebuke To Trump",
-      "summary": "The Senate vote was nearly along party lines, with 4 Republicans joining all but one Democrat in favor.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-senate-votes-to-halt-iran-war-in-rebuke-to-trump-11678357#publisher=newsstand",
-      "publishedAt": 1782252651000,
+      "title": "Stocks in news: Vedanta, Honasa Consumer, IRCTC, Bajaj Auto, Tata Motors",
+      "summary": "Indian markets experienced profit booking, falling over a percent amidst a weak global trend. Key stocks like Vedanta, Honasa Consumer, IRCTC, Bajaj Auto, and Infosys are in focus due to significant developments. Vedanta saw a major promoter stake sale, while Honasa Consumer plans an acquisition. Bajaj Auto reported a ransomware attack, and IRCTC's CMD resigned.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-honasa-consumer-irctc-bajaj-auto-tata-motors/articleshow/131944393.cms",
+      "publishedAt": 1782261060000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "3fe24bb6e08df3a8",
+      "id": "e7309da234494cd5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.375,
+      "breakingScore": 2.417,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "economic_times"
       ],
-      "firstSeen": 1782241012000
+      "firstSeen": 1782261060000
     },
     {
-      "title": "Pune trekker's death: Fiancée, her lover pushed him into gorge, say cops; both arrested",
-      "summary": "During interrogation, it emerged that since Agarwal was becoming an obstacle in Mr. Chaudhary’s relationship with Ms. Goyal, both of them plotted to eliminate her fiancé",
+      "title": "West Asia war updates on June 23, 2026",
+      "summary": "U.S. President Donald Trump says Iran agrees to 'highest level' nuclear inspections; Iran says won't allow UN inspectors at bombed nuclear sites",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/pune-trekkers-death-fiancee-her-lover-pushed-him-into-gorge-say-cops-both-arrested/article71137441.ece",
-      "publishedAt": 1782248813000,
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
+      "publishedAt": 1782259691000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "8081efd7539e9608",
+      "id": "4cabecdce541fe7a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.287,
+      "breakingScore": 2.385,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -190,7 +166,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782248813000
+      "firstSeen": 1782259691000
+    },
+    {
+      "title": "\"Charlie's shattered....\": Charlie Kirk assassination case takes another twist as Candace Owens points to new SUV image evidence",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131952143.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Candace Owens claims newly enhanced images of black shards inside the SUV that transported Charlie Kirk strengthen her theory that his RODE Wireless Pro microphone exploded. She said visible white markings on the fragments match the microphone's branding and cited a comparison with a destroyed RODE mic in a YouTube video. Owens argues the findings reinforce her theory, though investigators have not verified her claims or confirmed any link between the shards and the microphone.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/charlies-shattered-charlie-kirk-assassination-case-takes-another-twist-as-candace-owens-points-to-new-suv-image-evidence/articleshow/131952143.cms",
+      "publishedAt": 1782259260000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "99a5d20f92474003",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.375,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1782259260000
     }
   ]
 }
