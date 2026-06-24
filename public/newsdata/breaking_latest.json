@@ -1,33 +1,8 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782318868572,
-  "contentHash": "6360730174f9",
+  "fetchedAt": 1782325348201,
+  "contentHash": "5b49c17693d0",
   "breaking": [
-    {
-      "title": "Five dead after under-construction warehouse collapses at Taratala in Kolkata",
-      "summary": "Chief Minister Suvendu Adhikari said that the building plan of warehouse was faulty and ordered a halt on all construction activities under Kolkata Municipal Corporation area till July 31.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/kolkata/warehouse-shed-collapses-at-taratala-in-kolkata-people-trapped-inside/article71141153.ece",
-      "publishedAt": 1782317804000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d913b9465b21b443",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.975,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782314389000
-    },
     {
       "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
       "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
@@ -41,7 +16,7 @@
       "id": "42bc707bee73ee1a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.365,
+      "breakingScore": 4.215,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -52,6 +27,98 @@
         "the_hindu"
       ],
       "firstSeen": 1782308027000
+    },
+    {
+      "title": "India, UAE review strategic defence partnership amid talks over BrahMos missile sale",
+      "summary": "The UAE is assessing options to strengthen its air and missile defence capabilities following attacks on critical installations during the recent conflict in West Asia",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/india-uae-review-strategic-defence-partnership-amid-talks-over-brahmos-missile-sale/article71142620.ece",
+      "publishedAt": 1782324834000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "1163c5665882dc0b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.988,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782324834000
+    },
+    {
+      "title": "Flash floods hit six districts in Arunachal; one dead, four missing",
+      "summary": "Assam government issues high alert in districts downstream of the affected areas in Arunachal Pradesh, while overnight rainfall cuts off West Sikkim district headquarters",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/flash-floods-hit-six-districts-in-arunachal-one-dead-four-missing/article71142138.ece",
+      "publishedAt": 1782324773000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4d01b4cf83acc978",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.987,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782324773000
+    },
+    {
+      "title": "Passenger stabbed to death in local train, accused arrested",
+      "summary": "According to GRP, the matter escalated after the commuters assaulted the accused, and in return, he removed the knife from his bag and attacked the deceased",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/passenger-stabbed-to-death-in-local-train-accused-arrested/article71143304.ece",
+      "publishedAt": 1782324392000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4785e268eafb3bc4",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.978,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782324392000
+    },
+    {
+      "title": "Pakistan court sentences Balochistan rights activist to life in jail",
+      "summary": "Mahrang Baloch, 33, was arrested in 2025 on charges stemming from a protest in the coastal city of Gwadar the previous year, which sparked clashes that left a paramilitary soldier dead",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-court-sentences-balochistan-rights-activist-to-life-in-jail/article71143224.ece",
+      "publishedAt": 1782323068000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "bff6cd7e6afe20fd",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.947,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782323068000
     },
     {
       "title": "Watch: Will the sacrilege controversy cost AAP’s Bhagwant Mann his CM seat? | Above the Fold | 24.06.2026",
@@ -66,7 +133,7 @@
       "id": "f924cfe777768cc8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.965,
+      "breakingScore": 3.815,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -77,28 +144,28 @@
       "firstSeen": 1782317348000
     },
     {
-      "title": "Iran invites Modi for official burial ceremonies of Ayatollah Seyyed Ali Khamenei",
-      "summary": "MEA officials did not clarify whether PM will travel for the funeral which will be held between July 3 and 9; Iran’s Petroleum Minister arrives in New Delhi to discuss investment opportunities",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/iran-invites-modi-for-official-burial-ceremonies-of-ayatollah-seyyed-ali-khamenei/article71142570.ece",
-      "publishedAt": 1782317382000,
-      "category": "world",
+      "title": "Musk 'Poorer' By $363 Billion After SpaceX Wipeout, Loses Trillionaire Tag",
+      "summary": "SpaceX shares have since fallen to around $156, marking a decline of nearly 31 per cent",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/elon-musk-poorer-by-363-billion-after-spacex-wipeout-loses-trillionaire-tag-11683179#publisher=newsstand",
+      "publishedAt": 1782324747000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "938849beb96cfcd2",
+      "id": "e6da84f24f48dfaf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.966,
+      "breakingScore": 2.986,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "bbc",
+        "ndtv"
       ],
-      "firstSeen": 1782312280000
+      "firstSeen": 1782323113000
     },
     {
       "title": "Zohran Mamdani-backed candidates excel in congressional primaries",
@@ -113,7 +180,7 @@
       "id": "90c5d62c28709bf9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.751,
+      "breakingScore": 2.601,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -123,76 +190,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782306215000
-    },
-    {
-      "title": "Quote of the day by David Abrams: \"There are good assets and bad assets but good prices and bad prices supersede whether the assets are good or bad\"",
-      "summary": "David Abrams stresses that investment outcomes depend more on entry price than asset quality. Even strong businesses can underperform if overvalued, while weaker ones can generate returns if bought cheaply. The insight reinforces core value investing principles of margin of safety, disciplined valuation, and avoiding momentum-driven buying.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-abrams-there-are-good-assets-and-bad-assets-but-good-prices-and-bad-prices-supersede-whether-the-assets-are-good-or-bad/articleshow/131954941.cms",
-      "publishedAt": 1782304200000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0a0efe411f8b4785",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.66,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "times_of_india"
-      ],
-      "firstSeen": 1782299199000
-    },
-    {
-      "title": "Watch: International Maritime Organisation to evacuate thousands of stranded seafarers in Persian Gulf",
-      "summary": "The International Maritime Organisation, or IMO, has announced plans to evacuate thousands of seafarers stranded in the Persian Gulf, as authorities work to restore shipping activity following the U.S.-Iran peace agreement and the reopening of regional sea lanes.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/videos/watch-international-maritime-organisation-to-evacuate-thousands-of-stranded-seafarers-in-persian-gulf/article71143060.ece",
-      "publishedAt": 1782318138000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "ea897235b28faa40",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.483,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782318138000
-    },
-    {
-      "title": "Analysis: Why Same Areas In Mumbai Get Submerged Every Monsoon",
-      "summary": "For many Mumbai residents, the city's flood map has become remarkably predictable. (File photo)",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/analysis-why-same-areas-in-mumbai-get-submerged-every-monsoon-11682318#publisher=newsstand",
-      "publishedAt": 1782313375000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "c34276b8f5864a4c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.373,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782313375000
     }
   ]
 }
