@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782320486376,
-  "contentHash": "ccc76925c0a2f1c8",
+  "generatedAt": 1782327308570,
+  "contentHash": "4779ce973e67e951",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 665,
+  "storyCount": 640,
   "sourceGroupCount": 9,
   "grade": "B",
   "parentCount": 10,
@@ -23,10 +23,10 @@
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 67,
+      "signalScore": 68,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 617,
+      "storyCount": 590,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 10,
@@ -34,23 +34,23 @@
       "strongAngleCount": 1,
       "avgAngles": 2.1,
       "avgChildren": 2.2,
-      "avgScore": 0.6484101826021662,
+      "avgScore": 0.6476988545806661,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 5,
       "coverageLabel": "10/10",
       "warnings": [
-        "6 cluster(s) have weak snapshot coverage.",
-        "481 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "5 cluster(s) have weak snapshot coverage.",
+        "501 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 67,
+      "signalScore": 68,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 617,
+      "storyCount": 590,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 10,
@@ -58,22 +58,22 @@
       "strongAngleCount": 1,
       "avgAngles": 2.1,
       "avgChildren": 2.2,
-      "avgScore": 0.6484101826021662,
+      "avgScore": 0.6476988545806661,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 5,
       "coverageLabel": "10/10",
       "warnings": [
-        "6 cluster(s) have weak snapshot coverage.",
-        "481 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "5 cluster(s) have weak snapshot coverage.",
+        "501 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_26_0e0520ebb44b66a3",
+      "parentId": "cluster_43_0e0520ebb44b66a3",
       "headline": "Assumes charge",
-      "score": 0.608885,
-      "postTreeScore": 1.2389,
+      "score": 0.5648850000000001,
+      "postTreeScore": 1.1749,
       "childCount": 4,
       "angles": [
         "base_report",
@@ -93,7 +93,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_138_71f0bb929e833712",
+      "parentId": "cluster_156_71f0bb929e833712",
       "headline": "India’s largest private gold mine set to yield a tonne of gold a year",
       "score": 0.712563386451665,
       "postTreeScore": 1.0926,
@@ -114,7 +114,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_258_93b90c256139db28",
+      "parentId": "cluster_276_93b90c256139db28",
       "headline": "India nears 50% domestic coal use in import-based power plants",
       "score": 0.6843266666666666,
       "postTreeScore": 1.0843,
@@ -134,7 +134,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_494_cb634ca226fc4028",
+      "parentId": "cluster_517_cb634ca226fc4028",
       "headline": "NSA Doval at BRICS conclave",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -155,7 +155,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_233_6c02a4b81e05699a",
+      "parentId": "cluster_250_6c02a4b81e05699a",
       "headline": "How an 'omega block' is supercharging Europe’s deadly heatwave",
       "score": 0.6747467197849983,
       "postTreeScore": 1.0547,
@@ -176,7 +176,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_309_b226eb44feaaac5d",
+      "parentId": "cluster_329_b226eb44feaaac5d",
       "headline": "PDP files complaint with SPC",
       "score": 0.6736467197849983,
       "postTreeScore": 1.0536,
@@ -197,7 +197,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_275_9acef8e6adf31e47",
+      "parentId": "cluster_294_9acef8e6adf31e47",
       "headline": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
       "score": 0.6713133864516649,
       "postTreeScore": 1.0513,
@@ -217,7 +217,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_113_451d509881f02620",
+      "parentId": "cluster_131_451d509881f02620",
       "headline": "Flipkart, Amazon accelerate quick commerce expansion as competition heats up in India",
       "score": 0.6143399468816685,
       "postTreeScore": 1.0143,
@@ -238,7 +238,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_170_a730e37929796940",
+      "parentId": "cluster_187_a730e37929796940",
       "headline": "India slams Pakistan for 'unwarranted' remarks on J&K at UNSC’s Arria-formula meeting",
       "score": 0.61351,
       "postTreeScore": 1.0135,
@@ -259,14 +259,14 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_80_343fe757db98c64b",
-      "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "score": 0.5492732802150018,
-      "postTreeScore": 0.9293,
+      "parentId": "cluster_2_b8da2d55021e3ff1",
+      "headline": "Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue",
+      "score": 0.58616,
+      "postTreeScore": 0.9862,
       "childCount": 2,
       "angles": [
-        "base_report",
-        "official_response"
+        "investigative_detail",
+        "base_report"
       ],
       "temporalTiers": [
         "breaking",
@@ -274,7 +274,7 @@
       ],
       "evolutionRoles": [
         "first_report",
-        "official_response"
+        "corroboration"
       ],
       "baseReportShare": 0.5,
       "weakTree": false
@@ -361,7 +361,7 @@
       "weakParentRatio": 0,
       "topParentAngles": 3,
       "topParentChildren": 4,
-      "storyCount": 665,
+      "storyCount": 640,
       "sourceGroupCount": 9
     }
   }
