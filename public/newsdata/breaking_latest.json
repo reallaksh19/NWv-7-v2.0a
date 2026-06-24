@@ -1,78 +1,128 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782310452530,
-  "contentHash": "59323355ef53",
+  "fetchedAt": 1782318868572,
+  "contentHash": "6360730174f9",
   "breaking": [
     {
-      "title": "Pinarayi seeks CM ‘s intervenion to repatriate body of youth killed in Qatar explosion",
-      "summary": "",
-      "source": "The Hindu National",
+      "title": "Five dead after under-construction warehouse collapses at Taratala in Kolkata",
+      "summary": "Chief Minister Suvendu Adhikari said that the building plan of warehouse was faulty and ordered a halt on all construction activities under Kolkata Municipal Corporation area till July 31.",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/pinarayi-seeks-cm-s-intervenion-to-repatriate-body-of-youth-killed-in-qatar-explosion/article71142119.ece",
-      "publishedAt": 1782309503000,
-      "category": "india",
+      "url": "https://www.thehindu.com/news/cities/kolkata/warehouse-shed-collapses-at-taratala-in-kolkata-people-trapped-inside/article71141153.ece",
+      "publishedAt": 1782317804000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ddc5eab908fd41c2",
+      "id": "d913b9465b21b443",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.978,
+      "breakingScore": 5.975,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782309503000
+      "firstSeen": 1782314389000
     },
     {
-      "title": "3 Killed, 40 Feared Trapped As Warehouse Roof Collapses In Kolkata",
-      "summary": "Locals began the rescue operations immediately.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/warehouse-roof-collapses-in-kolkatas-taratala-over-30-feared-trapped-11680599#publisher=newsstand",
-      "publishedAt": 1782306490000,
-      "category": "topStories",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782313041000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "eddfb37bd92613d1",
+      "id": "42bc707bee73ee1a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.908,
+      "breakingScore": 4.365,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782306490000
-    },
-    {
-      "title": "Brent crude falls 3%, drops below $75/bbl for first time since US-Iran war began",
-      "summary": "Global oil prices tumbled as signs emerged of increased tanker activity in the Strait of Hormuz, potentially signaling Iran's return to the market. Analysts suggest this, coupled with eased hostilities and a U.S. sanctions waiver, is pressuring prices.  Despite encouraging signs, uncertainty lingers over the durability of U.S.-Iran nuclear talks, with some experts warning markets may be too optimistic.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-drops-below-75/bbl-for-first-time-since-start-of-mideast-war/articleshow/131968912.cms",
-      "publishedAt": 1782304201000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "279a66e155eb38e6",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.855,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "allSources": [
         "bbc",
-        "economic_times",
         "the_hindu"
       ],
-      "firstSeen": 1782273479000
+      "firstSeen": 1782308027000
+    },
+    {
+      "title": "Watch: Will the sacrilege controversy cost AAP’s Bhagwant Mann his CM seat? | Above the Fold | 24.06.2026",
+      "summary": "In today’s episode: the row over Punjab Chief Minister Bhagwant Mann’s alleged sacrilege video, Kolkata warehouse roof collapse that left at least three people dead, criticism over Maharashtra’s RTI rules amendments, findings from a UN inquiry report on Gaza, and more.",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/videos/watch-will-the-sacrilege-controversy-cost-aaps-bhagwant-mann-his-cm-seat-above-the-fold-24062026/article71143010.ece",
+      "publishedAt": 1782317348000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "f924cfe777768cc8",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.965,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782317348000
+    },
+    {
+      "title": "Iran invites Modi for official burial ceremonies of Ayatollah Seyyed Ali Khamenei",
+      "summary": "MEA officials did not clarify whether PM will travel for the funeral which will be held between July 3 and 9; Iran’s Petroleum Minister arrives in New Delhi to discuss investment opportunities",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/iran-invites-modi-for-official-burial-ceremonies-of-ayatollah-seyyed-ali-khamenei/article71142570.ece",
+      "publishedAt": 1782317382000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "938849beb96cfcd2",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.966,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782312280000
+    },
+    {
+      "title": "Zohran Mamdani-backed candidates excel in congressional primaries",
+      "summary": "Zohran Mamdani’s slate of candidates with ties to the Democratic Socialists of America swept out area ​incumbent Democrats in a stunning win for the 34-year-old mayor",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/zohran-mamdani-backed-candidates-excel-in-congressional-primaries/article71140526.ece",
+      "publishedAt": 1782308131000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "90c5d62c28709bf9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.751,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782306215000
     },
     {
       "title": "Quote of the day by David Abrams: \"There are good assets and bad assets but good prices and bad prices supersede whether the assets are good or bad\"",
@@ -87,7 +137,7 @@
       "id": "0a0efe411f8b4785",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.855,
+      "breakingScore": 2.66,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -99,43 +149,19 @@
       "firstSeen": 1782299199000
     },
     {
-      "title": "France confirms Ebola virus in patient who worked in Congo",
-      "summary": "The individual, who has not been identified, returned from a humanitarian mission in one of the virus transmission zones in Congo and was taken into care at a specialized facility in France",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/france-confirms-ebola-virus-in-patient-who-worked-in-congo/article71141564.ece",
-      "publishedAt": 1782301861000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "90bf7d2f5fde385b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.801,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1782297657000
-    },
-    {
-      "title": "Power-sharing row sparks fresh turmoil in Pala municipality",
-      "summary": "Independent councillor Maya Rahul’s planned resignation from her vice-chairperson post on June 26 is now in jeopardy, as sources indicate she may refuse to step down, complicating the UDF’s efforts to finalise a successor amid escalating tensions between Congress and independent members.",
+      "title": "Watch: International Maritime Organisation to evacuate thousands of stranded seafarers in Persian Gulf",
+      "summary": "The International Maritime Organisation, or IMO, has announced plans to evacuate thousands of seafarers stranded in the Persian Gulf, as authorities work to restore shipping activity following the U.S.-Iran peace agreement and the reopening of regional sea lanes.",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/power-sharing-row-sparks-fresh-turmoil-in-pala-municipality/article71142149.ece",
-      "publishedAt": 1782310333000,
+      "url": "https://www.thehindu.com/videos/watch-international-maritime-organisation-to-evacuate-thousands-of-stranded-seafarers-in-persian-gulf/article71143060.ece",
+      "publishedAt": 1782318138000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "57b091f2c8494db3",
+      "id": "ea897235b28faa40",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.497,
+      "breakingScore": 2.483,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,53 +169,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782310333000
+      "firstSeen": 1782318138000
     },
     {
-      "title": "Chief Minister Chandrababu Naidu inaugurates Jonnagiri gold project in Kurnool district",
-      "summary": "It marks the beginning of the transformation of Rayalaseema into ‘Ratanala Seema’, says the Chief Minister, and underscores the need for creating jewellery manufacturing unit in the region to deepen the industrial base and encourage more skilled employment",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-inaugurates-jonnagiri-gold-project-in-kurnool-district/article71141757.ece",
-      "publishedAt": 1782309973000,
+      "title": "Analysis: Why Same Areas In Mumbai Get Submerged Every Monsoon",
+      "summary": "For many Mumbai residents, the city's flood map has become remarkably predictable. (File photo)",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/analysis-why-same-areas-in-mumbai-get-submerged-every-monsoon-11682318#publisher=newsstand",
+      "publishedAt": 1782313375000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ebf9a53809e80fa7",
+      "id": "c34276b8f5864a4c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.489,
+      "breakingScore": 2.373,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782309973000
-    },
-    {
-      "title": "Smoke inhalation, not flames, killed all 15 in Lucknow fire: Post-mortem reveals",
-      "summary": "There was no clear evidence of extensive burn injuries or deep wounds that could directly explain the deaths, doctors associated with the post-mortem told PTI",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/smoke-inhalation-not-flames-killed-all-15-in-lucknow-fire-post-mortem-reveals/article71142135.ece",
-      "publishedAt": 1782309411000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "3881c538b2e59b88",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.476,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782309411000
+      "firstSeen": 1782313375000
     }
   ]
 }
