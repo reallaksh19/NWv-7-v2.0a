@@ -1,141 +1,187 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782264642741,
-  "contentHash": "f5dc1de5ba01",
+  "fetchedAt": 1782280148656,
+  "contentHash": "80aedb824e0a",
   "breaking": [
-    {
-      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-      "summary": "Around 30% of those killed in the Gaza war were children, the report ‌found",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/israel-targeted-gaza-children-resulting-in-genocide-un-inquiry-says/article71139306.ece",
-      "publishedAt": 1782252047000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9acef8e6adf31e47",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.708,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782252047000
-    },
-    {
-      "title": "Starmer holds talks with Burnham as he seeks 'orderly' transition",
-      "summary": "The outgoing PM is offering \"access talks\" with the civil service to Labour leadership candidates.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c2eyj7j4evko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782255999000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "11784eb585699a4e",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.8,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1782251789000
-    },
     {
       "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
       "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
-      "source": "BBC",
+      "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782263974000,
+      "publishedAt": 1782273479000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "42bc707bee73ee1a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.485,
+      "breakingScore": 4.346,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782268363000
+    },
+    {
+      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+      "summary": "Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish event in December.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782274011000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "1467b6cb557deb63",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.858,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 3,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
-        "ndtv",
-        "the_hindu"
+        "bbc"
       ],
-      "firstSeen": 1782241012000
+      "firstSeen": 1782274011000
     },
     {
-      "title": "\"Purposefully Done\": Trump Says 6 Arrested For Damaging Reflecting Pool",
-      "summary": "Trump, without evidence, has repeatedly blamed the peeling paint on vandalism.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/donald-trump-says-6-arrested-for-damaging-reflecting-pool-11678278#publisher=newsstand",
-      "publishedAt": 1782242235000,
+      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+      "summary": "Around 30% of those killed in the Gaza war were children, the report ‌found",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/israel-targeted-gaza-children-resulting-in-genocide-un-inquiry-says/article71139306.ece",
+      "publishedAt": 1782266874000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "9acef8e6adf31e47",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.693,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782266874000
+    },
+    {
+      "title": "Zohran Mamdani-backed candidates excel in congressional primaries",
+      "summary": "Zohran Mamdani’s slate of candidates with ties to the Democratic Socialists of America swept out area ​incumbent Democrats in a stunning win for the 34-year-old mayor",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/zohran-mamdani-backed-candidates-excel-in-congressional-primaries/article71140526.ece",
+      "publishedAt": 1782279166000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "90c5d62c28709bf9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.977,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782277675000
+    },
+    {
+      "title": "Ujjain land 'scam': Congress's allegations against CM Mohan Yadav baseless, says BJP",
+      "summary": "The Opposition Congress has termed the alleged land scam in Ujjain as \"plunder of Mahakal's land\" and demanded the resignation of Chief Minister Mohan Yadav",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/ujjain-land-scam-congresss-allegations-against-cm-mohan-yadav-baseless-says-bjp/article71140634.ece",
+      "publishedAt": 1782279800000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "400a7722e9eb59dc",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.492,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782279800000
+    },
+    {
+      "title": "West Asia war LIVE: Iran's nuclear sites likely to be inspected, IAEA chief says 'going to happen'",
+      "summary": "Marco Rubio is in the UAE to ease concerns over tentative Iran deal; U.S. Senate approves War Powers resolution",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-peace-deal-donald-trump-strait-of-hormuz-updates-june-24-2026/article71140307.ece",
+      "publishedAt": 1782278698000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "aee5ba4e7fbbaa77",
+      "id": "9c32cb4a94ad84ff",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.481,
+      "breakingScore": 2.466,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782241304000
+      "firstSeen": 1782259691000
     },
     {
-      "title": "Honey-Trap, Suicide Attack Angles Emerge In Jaipur Woman's Jaish Links Probe",
-      "summary": "Sources claim Babita remained in contact with Pakistan-based operatives through WhatsApp.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/honey-trap-suicide-attack-angles-emerge-in-jaipur-woman-babita-dhakad-alias-khadija-jaish-links-probe-11678719#publisher=newsstand",
-      "publishedAt": 1782262542000,
-      "category": "india",
+      "title": "Andhra Pradesh strikes gold with Jonnagiri mine, eyes more projects",
+      "summary": "Commercial production begins at Jonnagiri in Kurnool district as the State prepares to auction several gold-bearing blocks in Chittoor and Anantapuramu to boost investment and employment",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-strikes-gold-with-jonnagiri-mine-eyes-more-projects/article71134135.ece",
+      "publishedAt": 1782278659000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "23e88fb48e76b590",
+      "id": "63da948addda9195",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.451,
+      "breakingScore": 2.466,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1782262542000
+      "firstSeen": 1782278659000
     },
     {
-      "title": "Stocks in news: Vedanta, Honasa Consumer, IRCTC, Bajaj Auto, Tata Motors",
-      "summary": "Indian markets experienced profit booking, falling over a percent amidst a weak global trend. Key stocks like Vedanta, Honasa Consumer, IRCTC, Bajaj Auto, and Infosys are in focus due to significant developments. Vedanta saw a major promoter stake sale, while Honasa Consumer plans an acquisition. Bajaj Auto reported a ransomware attack, and IRCTC's CMD resigned.",
+      "title": "Vedanta may have a couple more tranches of promoter-driven selling; stock likely to bounce back in 1-2 weeks: Ambareesh Baliga",
+      "summary": "Vedanta shares saw a significant drop following a large block deal, but analysts suggest the selloff is temporary. Promoter entity Twin Star Holdings is reportedly behind the sale, aiming to reduce debt. Experts believe the stock could rebound soon, with the company's operational fundamentals remaining strong. Beyond Vedanta, market strategist Ambareesh Baliga also shared insights on defence, textiles, and the auto sector.",
       "source": "Economic Times",
       "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-honasa-consumer-irctc-bajaj-auto-tata-motors/articleshow/131944393.cms",
-      "publishedAt": 1782261060000,
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/vedanta-may-have-a-couple-more-tranches-of-promoter-driven-selling-stock-likely-to-bounce-back-in-1-2-weeks-ambareesh-baliga/articleshow/131955235.cms",
+      "publishedAt": 1782276915000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "e7309da234494cd5",
+      "id": "f9badee74a477c0c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.417,
+      "breakingScore": 2.425,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,53 +189,7 @@
       "allSources": [
         "economic_times"
       ],
-      "firstSeen": 1782261060000
-    },
-    {
-      "title": "West Asia war updates on June 23, 2026",
-      "summary": "U.S. President Donald Trump says Iran agrees to 'highest level' nuclear inspections; Iran says won't allow UN inspectors at bombed nuclear sites",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-washington-tehran-peace-talks-strait-of-hormuz-live-updates-june-23-2026/article71135989.ece",
-      "publishedAt": 1782259691000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4cabecdce541fe7a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.385,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782259691000
-    },
-    {
-      "title": "\"Charlie's shattered....\": Charlie Kirk assassination case takes another twist as Candace Owens points to new SUV image evidence",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131952143.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Candace Owens claims newly enhanced images of black shards inside the SUV that transported Charlie Kirk strengthen her theory that his RODE Wireless Pro microphone exploded. She said visible white markings on the fragments match the microphone's branding and cited a comparison with a destroyed RODE mic in a YouTube video. Owens argues the findings reinforce her theory, though investigators have not verified her claims or confirmed any link between the shards and the microphone.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/charlies-shattered-charlie-kirk-assassination-case-takes-another-twist-as-candace-owens-points-to-new-suv-image-evidence/articleshow/131952143.cms",
-      "publishedAt": 1782259260000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "99a5d20f92474003",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.375,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1782259260000
+      "firstSeen": 1782276915000
     }
   ]
 }
