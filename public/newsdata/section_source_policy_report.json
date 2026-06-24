@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782316484248,
+  "generatedAt": 1782320409333,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -16,28 +16,28 @@
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 19,
           "sourceGroup": "business_line"
         },
         {
-          "count": 13,
+          "count": 11,
           "sourceGroup": "economic_times"
         }
       ]
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 19,
+      "storyCount": 18,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 19
+          "count": 18
         }
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 18,
           "sourceGroup": "google_news"
         }
       ]
@@ -104,11 +104,11 @@
       ],
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 14,
+          "count": 13,
           "sourceGroup": "bbc"
         }
       ]
@@ -196,11 +196,11 @@
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 11,
+          "count": 13,
           "sourceGroup": "google_news"
         },
         {
@@ -221,11 +221,11 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
-          "count": 11,
+          "count": 14,
           "sourceGroup": "the_hindu"
         }
       ]
