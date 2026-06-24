@@ -1,32 +1,78 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782280148656,
-  "contentHash": "80aedb824e0a",
+  "fetchedAt": 1782291477942,
+  "contentHash": "4250b57eaf92",
   "breaking": [
     {
-      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-      "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782273479000,
-      "category": "world",
+      "title": "Monsoon tracker LIVE: Assam government monitoring flash flood situation in Arunachal",
+      "summary": "In view of the heavy rainfall in the upper catchments, a substantial rise in water levels and flow velocity is anticipated in the Brahmaputra river and its tributaries in the downstream areas of Assam",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/monsoon-tracker-live-updates-imd-alerts-rains-june-24-2026/article71140389.ece",
+      "publishedAt": 1782290603000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "42bc707bee73ee1a",
+      "id": "d43b45e93bd46ae2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.346,
+      "breakingScore": 4.48,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "bbc",
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782268363000
+      "firstSeen": 1782285758000
+    },
+    {
+      "title": "Opinion: Opinion | The Iran Paradox: 2 Things That Can Derail The Peace Process",
+      "summary": "While it is clear that neither Iran or the US have any appetite for more war, the possibility of talks extending for months and years on two crucial issues - the nuclear and the ballistic missile programmes - may turn this roadmap into an unending saga.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/opinion/the-iran-paradox-2-things-that-can-derail-the-peace-process-11680321#publisher=newsstand",
+      "publishedAt": 1782289023000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "03c493187d8997f6",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.943,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782289023000
+    },
+    {
+      "title": "Gujarat Woman Was Found Dead In River, Husband Arrested 9 Years Later",
+      "summary": "It was revealed that Minesh has a history of other criminal offenses.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/gujarat-woman-was-found-dead-in-river-9-years-ago-her-husbands-now-arrested-11680130#publisher=newsstand",
+      "publishedAt": 1782286232000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "680ad7b8d56e0e0d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.879,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782286232000
     },
     {
       "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
@@ -41,7 +87,7 @@
       "id": "1467b6cb557deb63",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.858,
+      "breakingScore": 3.596,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -52,27 +98,52 @@
       "firstSeen": 1782274011000
     },
     {
-      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-      "summary": "Around 30% of those killed in the Gaza war were children, the report ‌found",
+      "title": "Video row: BJP demands arrest of Punjab CM Bhagwant Mann",
+      "summary": "Demanding that the Punjab police register a case and arrest Punjab CM Bhagwant Mann, BJP leader and Delhi Minister Manjinder Singh Sirsa accused the Chief Minister of insulting Sikhs and the Akal Takht",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/video-row-bjp-demands-arrest-of-punjab-cm-bhagwant-mann/article71141060.ece",
+      "publishedAt": 1782289743000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "0b7e3c6d6411a766",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.96,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782285173000
+    },
+    {
+      "title": "France heatwave's first major outage leaves 68,000 homes without power",
+      "summary": "“The outage was related to extreme temperatures and did not injure anyone,” the prefecture in the coastal department of Finistere said in a statement",
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/israel-targeted-gaza-children-resulting-in-genocide-un-inquiry-says/article71139306.ece",
-      "publishedAt": 1782266874000,
+      "url": "https://www.thehindu.com/news/international/france-heatwaves-first-major-outage-leaves-68000-homes-without-power/article71140820.ece",
+      "publishedAt": 1782288534000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "9acef8e6adf31e47",
+      "id": "c713845db4d2a960",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.693,
+      "breakingScore": 2.932,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782266874000
+      "firstSeen": 1782285081000
     },
     {
       "title": "Zohran Mamdani-backed candidates excel in congressional primaries",
@@ -80,14 +151,14 @@
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/zohran-mamdani-backed-candidates-excel-in-congressional-primaries/article71140526.ece",
-      "publishedAt": 1782279166000,
+      "publishedAt": 1782281358000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "90c5d62c28709bf9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.977,
+      "breakingScore": 2.766,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -99,66 +170,19 @@
       "firstSeen": 1782277675000
     },
     {
-      "title": "Ujjain land 'scam': Congress's allegations against CM Mohan Yadav baseless, says BJP",
-      "summary": "The Opposition Congress has termed the alleged land scam in Ujjain as \"plunder of Mahakal's land\" and demanded the resignation of Chief Minister Mohan Yadav",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/ujjain-land-scam-congresss-allegations-against-cm-mohan-yadav-baseless-says-bjp/article71140634.ece",
-      "publishedAt": 1782279800000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "400a7722e9eb59dc",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.492,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782279800000
-    },
-    {
-      "title": "West Asia war LIVE: Iran's nuclear sites likely to be inspected, IAEA chief says 'going to happen'",
-      "summary": "Marco Rubio is in the UAE to ease concerns over tentative Iran deal; U.S. Senate approves War Powers resolution",
+      "title": "Iran says deal to end West Asia war 'declaration of U.S. defeat'",
+      "summary": "The Islamabad understanding was not the result of pressure and coercion, but rather the result of the resistance and authority of the brave Iranian nation, says Mohammad Bagher Ghalibaf, the head of the Iranian negotiating team",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-peace-deal-donald-trump-strait-of-hormuz-updates-june-24-2026/article71140307.ece",
-      "publishedAt": 1782278698000,
+      "url": "https://www.thehindu.com/news/international/iran-says-deal-to-end-west-asia-war-declaration-of-us-defeat/article71141118.ece",
+      "publishedAt": 1782290702000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "9c32cb4a94ad84ff",
+      "id": "78bab227bf343ee1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.466,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782259691000
-    },
-    {
-      "title": "Andhra Pradesh strikes gold with Jonnagiri mine, eyes more projects",
-      "summary": "Commercial production begins at Jonnagiri in Kurnool district as the State prepares to auction several gold-bearing blocks in Chittoor and Anantapuramu to boost investment and employment",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-strikes-gold-with-jonnagiri-mine-eyes-more-projects/article71134135.ece",
-      "publishedAt": 1782278659000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "63da948addda9195",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.466,
+      "breakingScore": 2.482,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -166,30 +190,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782278659000
-    },
-    {
-      "title": "Vedanta may have a couple more tranches of promoter-driven selling; stock likely to bounce back in 1-2 weeks: Ambareesh Baliga",
-      "summary": "Vedanta shares saw a significant drop following a large block deal, but analysts suggest the selloff is temporary. Promoter entity Twin Star Holdings is reportedly behind the sale, aiming to reduce debt. Experts believe the stock could rebound soon, with the company's operational fundamentals remaining strong. Beyond Vedanta, market strategist Ambareesh Baliga also shared insights on defence, textiles, and the auto sector.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/vedanta-may-have-a-couple-more-tranches-of-promoter-driven-selling-stock-likely-to-bounce-back-in-1-2-weeks-ambareesh-baliga/articleshow/131955235.cms",
-      "publishedAt": 1782276915000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "f9badee74a477c0c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.425,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "economic_times"
-      ],
-      "firstSeen": 1782276915000
+      "firstSeen": 1782290415000
     }
   ]
 }
