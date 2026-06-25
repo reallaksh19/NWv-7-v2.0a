@@ -1,22 +1,97 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782342043450,
-  "contentHash": "aadbf4726d71",
+  "fetchedAt": 1782346872149,
+  "contentHash": "633465e5e211",
   "breaking": [
+    {
+      "title": "\"It Wasn't Our Missile\": Trump Denies US Role In Deadly Iran School Strike",
+      "summary": "Donald Trump said that it wasn't US responsible for Iranian school attack that killed over 175 children.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/donald-trump-denies-us-role-in-deadly-iran-school-strike-11683650#publisher=newsstand",
+      "publishedAt": 1782344251000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "0b5ae8338fbd9888",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 8.939,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782342597000
+    },
+    {
+      "title": "Back-to-back powerful earthquakes hit Venezuela, buildings collapse in capital Caracas",
+      "summary": "People evacuated swaying buildings in Caracas and remained outside, many visibly shocked as they saw entire walls that had collapsed, making furniture visible from the street",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/venezuela-earthquake-toll-damage-updates-june-25-2026/article71143760.ece",
+      "publishedAt": 1782346559000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "57a4fba39c791d22",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 7.493,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782345601000
+    },
+    {
+      "title": "No tsunami warning after magnitude 6.9 quake strikes Japan's northeast",
+      "summary": "The epicentre of the quake was off the ‌coast of Iwate prefecture, at ‌the ⁠depth of about 50 ⁠km, and no damage from tsunami is feared except for slight sea level ​changes",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/japan-earthquake-damage-toll-updates-on-june-25-2026/article71143775.ece",
+      "publishedAt": 1782343548000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "6dc4b1883137bf5b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.923,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782343163000
+    },
     {
       "title": "Kolkata under-construction warehouse collapse updates: Five killed, several injured, in Taratala accident; rescue efforts on",
       "summary": "According to locals present at the accident site, 50 to 60 workers were working at the site when the accident took place",
-      "source": "The Hindu",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-warehouse-collapse-taratala-several-feared-trapped-army-rescue-live-updates-june-24-2026/article71141380.ece",
       "publishedAt": 1782333739000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "b68bfd3c122f455f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.308,
+      "breakingScore": 5.196,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +114,7 @@
       "id": "4785e268eafb3bc4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.86,
+      "breakingScore": 3.749,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -62,7 +137,7 @@
       "id": "0ccc62ac03f865b1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.857,
+      "breakingScore": 3.745,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -85,7 +160,7 @@
       "id": "5a9d0b98350136d4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.833,
+      "breakingScore": 3.721,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -108,7 +183,7 @@
       "id": "d38299e9e25b57b3",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.653,
+      "breakingScore": 3.541,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -117,77 +192,6 @@
         "ndtv"
       ],
       "firstSeen": 1782327053000
-    },
-    {
-      "title": "Pakistan court sentences Balochistan rights activist to life in jail",
-      "summary": "Mahrang Baloch, 33, was arrested in 2025 on charges stemming from a protest in the coastal city of Gwadar the previous year, which sparked clashes that left a paramilitary soldier dead",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/pakistan-court-sentences-balochistan-rights-activist-to-life-in-jail/article71143224.ece",
-      "publishedAt": 1782323068000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "bff6cd7e6afe20fd",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.561,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782323068000
-    },
-    {
-      "title": "Trump Seeks $88 Billion In Extra Funding, Mostly For Iran War",
-      "summary": "US President Donald Trump asked Congress on Wednesday for nearly $88 billion in extra spending.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/donald-trump-seeks-88-billion-in-extra-funding-mostly-for-iran-war-11683541#publisher=newsstand",
-      "publishedAt": 1782337793000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "627e3be4fdd1bd20",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.402,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "bbc",
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782313041000
-    },
-    {
-      "title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation",
-      "summary": "Ms. Gupta alleged that after the video surfaced, the Punjab government and police “exerted all efforts” to prove it fake",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/fake-forensic-report-conspiracy-bjp-haryana-chief-corners-punjab-cm-mann-demands-immediate-resignation/article71142433.ece",
-      "publishedAt": 1782337078000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "379de443dc0aaffe",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.385,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782337078000
     }
   ]
 }
