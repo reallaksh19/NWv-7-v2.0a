@@ -5,29 +5,29 @@
 - Grade: `C`
 - Parents: `10`
 - Average angles: `1.7`
-- Average temporal tiers: `1.8`
+- Average temporal tiers: `1.9`
 - Average evolution roles: `1.9`
-- Base report share: `0.3`
+- Base report share: `0.25`
 - Multi-angle parents: `7`
 - Weak parents: `0`
-- Story count: `617`
+- Story count: `697`
 - Source groups: `9`
-- Content hash: `8753dbb12e32f2a6`
+- Content hash: `d596a32f7b70cb12`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | India’s largest private gold mine set to yield a tonne of gold a year | 2 | regional_followup, fact_update | NO | 0.712563386451665 |
-| 2 | India nears 50% domestic coal use in import-based power plants | 2 | investigative_detail, fact_update | NO | 0.6843266666666666 |
-| 3 | India slams Pakistan for 'unwarranted' remarks on J&K at UNSC’s Arria-formula meeting | 2 | official_response, base_report | NO | 0.6814967197849984 |
-| 4 | StartupTN CEO Sivarajah Ramanathan resigns | 2 | base_report, investigative_detail | NO | 0.6756467197849984 |
-| 5 | Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue | 2 | investigative_detail, base_report | NO | 0.6741467197849984 |
-| 6 | UN nuclear chief says inspectors will visit Iran sites as part of war deal | 2 | base_report, official_response | NO | 0.6052599999999999 |
-| 7 | World leaders offers solidarity and aid as country reels from quakes | 2 | official_response, fact_update | NO | 0.5935232802150019 |
-| 8 | PM Modi | 2 | official_response | NO | 0.6185766666666668 |
-| 9 | Rupee cushioned by central bank hand even as dollar strength dents Asia FX | 2 | market_reaction | NO | 0.59626 |
-| 10 | Ryan Cook steps down as Netherlands men's head coach | 2 | base_report | NO | 0.5570933333333334 |
+| 2 | India slams Pakistan for 'unwarranted' remarks on J&K at UNSC’s Arria-formula meeting | 2 | official_response, base_report | NO | 0.6814967197849984 |
+| 3 | StartupTN CEO Sivarajah Ramanathan resigns | 2 | base_report, investigative_detail | NO | 0.6756467197849984 |
+| 4 | Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue | 2 | investigative_detail, base_report | NO | 0.6741467197849984 |
+| 5 | World leaders offers solidarity and aid as country reels from quakes | 2 | official_response, fact_update | NO | 0.62551 |
+| 6 | Ryanair says it will reluctantly not charge parents to sit next to children | 2 | base_report, investigative_detail | NO | 0.6112599999999999 |
+| 7 | UN nuclear chief says inspectors will visit Iran sites as part of war deal | 2 | base_report, official_response | NO | 0.6052599999999999 |
+| 8 | PM Modi | 2 | official_response | NO | 0.6945633864516649 |
+| 9 | Rupee cushioned by central bank hand even as dollar strength dents Asia FX | 2 | market_reaction | NO | 0.6642467197849984 |
+| 10 | Rupee ends a tad higher as oil slide, foreign inflows lift sentiment | 2 | market_reaction | NO | 0.6272599999999999 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -37,9 +37,9 @@
 - Score: `100`
 - Parents: `10`
 - Average angles: `1.7`
-- Average temporal tiers: `1.8`
+- Average temporal tiers: `1.9`
 - Average evolution roles: `1.9`
-- Base report share: `0.3`
+- Base report share: `0.25`
 - Multi-angle parents: `7`
 - Top parent angles: `2`
 - Top parent children: `2`
@@ -53,9 +53,9 @@
 - Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.7` / `>= 1.4`
-- Average temporal tier count: `1.8` / `>= 1.8`
+- Average temporal tier count: `1.9` / `>= 1.8`
 - Average evolution role count: `1.9` / `>= 1.6`
-- Base report share: `0.3` / `<= 0.55`
+- Base report share: `0.25` / `<= 0.55`
 - Multi-angle parent count: `7` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
 - Top parent child depth: `2` / `>= 2`
