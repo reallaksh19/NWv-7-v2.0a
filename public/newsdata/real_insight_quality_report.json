@@ -1,12 +1,12 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782381389195,
-  "contentHash": "a422bc24f45a33b2",
+  "generatedAt": 1782391209475,
+  "contentHash": "8753dbb12e32f2a6",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 622,
-  "sourceGroupCount": 10,
+  "storyCount": 617,
+  "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.7,
@@ -26,7 +26,7 @@
       "signalScore": 61,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 572,
+      "storyCount": 578,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -42,7 +42,7 @@
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
-        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "390 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -52,7 +52,7 @@
       "signalScore": 61,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 572,
+      "storyCount": 578,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -68,13 +68,13 @@
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
-        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "390 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_374_71f0bb929e833712",
+      "parentId": "cluster_404_71f0bb929e833712",
       "headline": "India’s largest private gold mine set to yield a tonne of gold a year",
       "score": 0.712563386451665,
       "postTreeScore": 1.0926,
@@ -95,7 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_502_93b90c256139db28",
+      "parentId": "cluster_533_93b90c256139db28",
       "headline": "India nears 50% domestic coal use in import-based power plants",
       "score": 0.6843266666666666,
       "postTreeScore": 1.0843,
@@ -115,7 +115,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_405_a730e37929796940",
+      "parentId": "cluster_435_a730e37929796940",
       "headline": "India slams Pakistan for 'unwarranted' remarks on J&K at UNSC’s Arria-formula meeting",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -136,7 +136,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_183_2a682320f2bd7900",
+      "parentId": "cluster_213_2a682320f2bd7900",
       "headline": "StartupTN CEO Sivarajah Ramanathan resigns",
       "score": 0.6756467197849984,
       "postTreeScore": 1.0556,
@@ -157,7 +157,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_194_b8da2d55021e3ff1",
+      "parentId": "cluster_224_b8da2d55021e3ff1",
       "headline": "Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue",
       "score": 0.6741467197849984,
       "postTreeScore": 1.0541,
@@ -178,7 +178,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_311_343fe757db98c64b",
+      "parentId": "cluster_341_343fe757db98c64b",
       "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "score": 0.6052599999999999,
       "postTreeScore": 1.0053,
@@ -199,7 +199,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_22_7227a01bd0a2f450",
+      "parentId": "cluster_51_7227a01bd0a2f450",
       "headline": "World leaders offers solidarity and aid as country reels from quakes",
       "score": 0.5935232802150019,
       "postTreeScore": 0.9935,
@@ -220,7 +220,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_77_9684fa1b893779b0",
+      "parentId": "cluster_106_9684fa1b893779b0",
       "headline": "PM Modi",
       "score": 0.6185766666666668,
       "postTreeScore": 0.7086,
@@ -240,7 +240,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_365_d4b5a41dcea18b6c",
+      "parentId": "cluster_395_d4b5a41dcea18b6c",
       "headline": "Rupee cushioned by central bank hand even as dollar strength dents Asia FX",
       "score": 0.59626,
       "postTreeScore": 0.6863,
@@ -258,7 +258,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_102_e4ba56f0becf3d10",
+      "parentId": "cluster_131_e4ba56f0becf3d10",
       "headline": "Ryan Cook steps down as Netherlands men's head coach",
       "score": 0.5570933333333334,
       "postTreeScore": 0.6471,
@@ -359,8 +359,8 @@
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 622,
-      "sourceGroupCount": 10
+      "storyCount": 617,
+      "sourceGroupCount": 9
     }
   }
 }

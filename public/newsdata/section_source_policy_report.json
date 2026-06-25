@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782381324524,
+  "generatedAt": 1782391143833,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -16,32 +16,32 @@
       ],
       "topSources": [
         {
-          "count": 16,
-          "sourceGroup": "economic_times"
-        },
-        {
-          "count": 8,
+          "count": 15,
           "sourceGroup": "business_line"
         },
         {
-          "count": 6,
+          "count": 10,
+          "sourceGroup": "economic_times"
+        },
+        {
+          "count": 5,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 15,
+      "storyCount": 16,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 15
+          "count": 16
         }
       ],
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "google_news"
         }
       ]
@@ -58,11 +58,11 @@
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 20,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 10,
+          "count": 7,
           "sourceGroup": "ndtv"
         },
         {
@@ -72,7 +72,7 @@
       ]
     },
     "muscat": {
-      "sourceGroupCount": 3,
+      "sourceGroupCount": 2,
       "storyCount": 30,
       "thin": false,
       "topCategories": [
@@ -87,12 +87,8 @@
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 9,
+          "count": 10,
           "sourceGroup": "google_news_oman"
-        },
-        {
-          "count": 1,
-          "sourceGroup": "google_news"
         }
       ]
     },
@@ -133,11 +129,11 @@
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 17,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 10,
+          "count": 7,
           "sourceGroup": "the_hindu"
         },
         {
@@ -158,12 +154,12 @@
       ],
       "topSources": [
         {
-          "count": 17,
-          "sourceGroup": "the_hindu"
+          "count": 16,
+          "sourceGroup": "google_news"
         },
         {
-          "count": 13,
-          "sourceGroup": "google_news"
+          "count": 14,
+          "sourceGroup": "the_hindu"
         }
       ]
     },
@@ -183,12 +179,12 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
-          "sourceGroup": "ndtv"
+          "count": 5,
+          "sourceGroup": "economic_times"
         },
         {
-          "count": 2,
-          "sourceGroup": "economic_times"
+          "count": 5,
+          "sourceGroup": "ndtv"
         }
       ]
     },
@@ -204,11 +200,11 @@
       ],
       "topSources": [
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "google_news"
         },
         {
@@ -229,11 +225,11 @@
       ],
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 14,
+          "count": 13,
           "sourceGroup": "bbc"
         }
       ]
@@ -724,9 +720,10 @@
     {
       "configuredFeeds": 1,
       "health": {
+        "error": "HTTPSConnectionPool(host='www.omanobserver.om', port=443): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.omanobserver.om', port=443) at 0x7f9dcb5917d0>, 'Connection to www.omanobserver.om timed out. (connect timeout=15)'))",
         "feedUrl": "https://www.omanobserver.om/rss",
         "items": 0,
-        "ok": true,
+        "ok": false,
         "section": "muscat"
       },
       "sections": [
@@ -743,7 +740,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-        "items": 18,
+        "items": 19,
         "ok": true,
         "section": "india"
       },
