@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782362534020,
-  "contentHash": "4aad4100b3a0",
+  "fetchedAt": 1782374657679,
+  "contentHash": "e3272e89e05b",
   "breaking": [
     {
-      "title": "Venezuela’s deadly history of earthquakes — and how they affected its politics",
-      "summary": "As the 1812 earthquake during the War of Independence illustrated, Venezuela is no stranger to natural disasters being bound up with moments of political upheaval",
-      "source": "The Hindu",
+      "title": "Venezuela earthquakes: At least 32 dead, 700 injured; La Guaria a disaster zone, says Delcy Rodriguez",
+      "summary": "Acting Venezuela President warned the toll was expected to rise as rescuers searched collapsed buildings and emergency crews reached devastated areas",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/venezuela-history-earthquakes-bolivar-chavez-la-tragedia/article71144808.ece",
-      "publishedAt": 1782361856000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/venezuela-twin-earthquakes-death-toll-delcy-rodriques-updates-june-25-2026/article71144968.ece",
+      "publishedAt": 1782368239000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "88cb1964ffa8af32",
+      "id": "4c9c70320e751dee",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.484,
+      "breakingScore": 6.851,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,31 +24,79 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782361856000
+      "firstSeen": 1782368239000
     },
     {
-      "title": "Powerful 7.2 Magnitude Earthquake Strikes Japan, No Tsunami Warning Issued",
-      "summary": "Japan Earthquake: There were no immediate reports of major damage.",
-      "source": "NDTV",
+      "title": "1 Dead, 4 Missing, Several Injured In Arunachal Flash Floods",
+      "summary": "Geyzing recorded 95.2 mm of rainfall during the past 24 hours.",
+      "source": "NDTV India",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/powerful-6-9-magnitude-earthquake-strikes-japan-no-tsunami-warning-issued-11683638#publisher=newsstand",
-      "publishedAt": 1782357730000,
-      "category": "topStories",
+      "url": "https://www.ndtv.com/india-news/1-dead-4-missing-several-injured-in-arunachal-flash-floods-11683287#publisher=newsstand",
+      "publishedAt": 1782374335000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "f8891723de7ba6f0",
+      "id": "c9bbc0d869f01d10",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.389,
+      "breakingScore": 5.493,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782374335000
+    },
+    {
+      "title": "Twin earthquakes threaten Venezuela’s fragile recovery as GDP loss feared, oil output at risk",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131985764.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/twin-earthquakes-threaten-venezuelas-fragile-recovery-as-gdp-loss-feared-oil-output-at-risk/articleshow/131985764.cms",
+      "publishedAt": 1782370127000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "f48be38c4ef8d4b0",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.395,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 3,
       "allSources": [
         "ndtv",
+        "the_hindu",
+        "times_of_india"
+      ],
+      "firstSeen": 1782366046000
+    },
+    {
+      "title": "Venezuela’s deadly history of earthquakes — and how they affected its politics",
+      "summary": "As the 1812 earthquake during the War of Independence illustrated, Venezuela is no stranger to natural disasters being bound up with moments of political upheaval",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/venezuela-history-earthquakes-bolivar-chavez-la-tragedia/article71144808.ece",
+      "publishedAt": 1782363338000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "88cb1964ffa8af32",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.238,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782350114000
+      "firstSeen": 1782363338000
     },
     {
       "title": "Watch: Venezuela, Japan and California shaken by powerful quakes within hours",
@@ -63,7 +111,7 @@
       "id": "15cfd29d2e197b00",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.377,
+      "breakingScore": 5.096,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -74,67 +122,42 @@
       "firstSeen": 1782357209000
     },
     {
-      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
-      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782348688000,
+      "title": "Venezuela earthquake LIVE: PM Modi says India ready to aid after deadly quakes",
+      "summary": "\"Deeply saddened by the devastation caused by the severe earthquakes in Venezuela,\" PM Modi said in a statement",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-live-updates-terremoto-caracas-magnitude-7-tsunami-alert-damages-death-toll-live-updates-june-25-2026/article71144983.ece",
+      "publishedAt": 1782373685000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "7227a01bd0a2f450",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.977,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782373685000
+    },
+    {
+      "title": "U.S.-Iran deal may leave Netanyahu as biggest casualty: analysts",
+      "summary": "“Not only did he lose the war with Iran, ​he has also lost Trump as a friend. He is now isolated not only ‌internationally, but locked in a major dispute with Trump,” a former Netanyahu adviser says",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-iran-deal-may-leave-netanyahu-as-biggest-casualty-analysts/article71145083.ece",
+      "publishedAt": 1782369773000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "56f1050f614fa3cd",
+      "id": "7858cd625c27675a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.179,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1782343897000
-    },
-    {
-      "title": "Venezuela Earthquake Live: \"Early Reports Are Not Good,\" Says Trump On Twin Quakes",
-      "summary": "Venezuela Earthquake Live: These quakes are among the strongest to strike Venezuela in over a century",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand",
-      "publishedAt": 1782361058000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "00d5792a25c5e655",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.966,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782361058000
-    },
-    {
-      "title": "Flash floods hit six districts in Arunachal; one dead, four missing",
-      "summary": "Assam government issues high alert in districts downstream of the affected areas in Arunachal Pradesh, while overnight rainfall cuts off West Sikkim district headquarters",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/flash-floods-hit-six-districts-in-arunachal-one-dead-four-missing/article71142138.ece",
-      "publishedAt": 1782359858000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4d01b4cf83acc978",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.938,
+      "breakingScore": 3.887,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -142,54 +165,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782359858000
+      "firstSeen": 1782369773000
     },
     {
-      "title": "Airport, Schools Shut, Emergency Declared: Night Of Horror In Venezuela",
-      "summary": "Emergency services work at the site of a collapsed building after an earthquake, in Caracas, Venezuela.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/venezuela-earthquake-7-5-magnitude-earthquake-hit-caracas-simon-bolivar-international-airport-schools-shut-emergency-declared-in-venezuela-11684202#publisher=newsstand",
-      "publishedAt": 1782359049000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "102ed08b704e6417",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.919,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782359049000
-    },
-    {
-      "title": "Sensex jumps 400 points, Nifty rises above 24,100 as oil prices cool below $73 per barrel",
-      "summary": "Indian stock markets surged on Thursday, with Sensex and Nifty climbing significantly as falling oil prices bolstered investor confidence. Major gainers included IndiGo, M&amp;M, Maruti Suzuki, and TCS, while broader markets also saw positive movement. The real estate and auto sectors led the gains, indicating a robust trading session for the day.",
+      "title": "Crude oil prices crash 42% from April’s $126 peak. More downside coming?",
+      "summary": "Global oil markets are stabilizing after months of turmoil caused by the Strait of Hormuz closure and war damage. Crude prices have plummeted 42% from their April peak, with Brent falling below $73 a barrel, signaling a return to pre-conflict levels",
       "source": "Economic Times",
       "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-rises-above-24100-as-oil-prices-cool-below-73-per-barrel/articleshow/131981762.cms",
-      "publishedAt": 1782359947000,
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-crash-42-from-aprils-126-peak-more-downside-coming/articleshow/131984296.cms",
+      "publishedAt": 1782367311000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "d10b6bed9f690b40",
+      "id": "e81d987255206bc0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.94,
+      "breakingScore": 3.83,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "economic_times",
-        "ndtv"
+        "economic_times"
       ],
-      "firstSeen": 1782359279000
+      "firstSeen": 1782367311000
     }
   ]
 }
