@@ -1,17 +1,17 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782335912309,
-  "contentHash": "c78ceb0889586f5f",
+  "generatedAt": 1782345643367,
+  "contentHash": "3a3d42602e684eb8",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 667,
-  "sourceGroupCount": 10,
+  "storyCount": 581,
+  "sourceGroupCount": 9,
   "grade": "B",
   "parentCount": 10,
   "avgAngles": 2.1,
   "avgTemporalTiers": 2,
-  "avgEvolutionRoles": 1.9,
+  "avgEvolutionRoles": 2,
   "baseReportShare": 0.36363636363636365,
   "multiAngleCount": 10,
   "weakParentCount": 0,
@@ -23,10 +23,10 @@
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 68,
+      "signalScore": 69,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 608,
+      "storyCount": 538,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 10,
@@ -34,23 +34,23 @@
       "strongAngleCount": 1,
       "avgAngles": 2.1,
       "avgChildren": 2.2,
-      "avgScore": 0.6454058598924991,
+      "avgScore": 0.6441071879139993,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 5,
+      "snapshotCoverage": 6,
       "coverageLabel": "10/10",
       "warnings": [
-        "5 cluster(s) have weak snapshot coverage.",
-        "591 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "4 cluster(s) have weak snapshot coverage.",
+        "431 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 68,
+      "signalScore": 69,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 608,
+      "storyCount": 538,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 10,
@@ -58,19 +58,19 @@
       "strongAngleCount": 1,
       "avgAngles": 2.1,
       "avgChildren": 2.2,
-      "avgScore": 0.6454058598924991,
+      "avgScore": 0.6441071879139993,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 5,
+      "snapshotCoverage": 6,
       "coverageLabel": "10/10",
       "warnings": [
-        "5 cluster(s) have weak snapshot coverage.",
-        "591 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "4 cluster(s) have weak snapshot coverage.",
+        "431 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_73_0e0520ebb44b66a3",
+      "parentId": "cluster_79_0e0520ebb44b66a3",
       "headline": "Assumes charge",
       "score": 0.5648850000000001,
       "postTreeScore": 1.1749,
@@ -93,7 +93,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_193_71f0bb929e833712",
+      "parentId": "cluster_200_71f0bb929e833712",
       "headline": "India’s largest private gold mine set to yield a tonne of gold a year",
       "score": 0.712563386451665,
       "postTreeScore": 1.0926,
@@ -114,7 +114,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_315_93b90c256139db28",
+      "parentId": "cluster_323_93b90c256139db28",
       "headline": "India nears 50% domestic coal use in import-based power plants",
       "score": 0.6843266666666666,
       "postTreeScore": 1.0843,
@@ -134,7 +134,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_223_a730e37929796940",
+      "parentId": "cluster_230_a730e37929796940",
       "headline": "India slams Pakistan for 'unwarranted' remarks on J&K at UNSC’s Arria-formula meeting",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -155,7 +155,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_288_6c02a4b81e05699a",
+      "parentId": "cluster_175_451d509881f02620",
+      "headline": "Flipkart, Amazon accelerate quick commerce expansion as competition heats up in India",
+      "score": 0.6583266666666667,
+      "postTreeScore": 1.0583,
+      "childCount": 2,
+      "angles": [
+        "regional_followup",
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_296_6c02a4b81e05699a",
       "headline": "How an 'omega block' is supercharging Europe’s deadly heatwave",
       "score": 0.6747467197849983,
       "postTreeScore": 1.0547,
@@ -176,7 +197,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_368_b226eb44feaaac5d",
+      "parentId": "cluster_376_b226eb44feaaac5d",
       "headline": "PDP files complaint with SPC",
       "score": 0.6736467197849983,
       "postTreeScore": 1.0536,
@@ -197,27 +218,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_333_9acef8e6adf31e47",
-      "headline": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-      "score": 0.6713133864516649,
-      "postTreeScore": 1.0513,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
-      ],
-      "evolutionRoles": [
-        "investigation"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_135_343fe757db98c64b",
+      "parentId": "cluster_141_343fe757db98c64b",
       "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "score": 0.6052599999999999,
       "postTreeScore": 1.0053,
@@ -238,7 +239,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_14_2a682320f2bd7900",
+      "parentId": "cluster_20_2a682320f2bd7900",
       "headline": "StartupTN CEO Sivarajah Ramanathan resigns",
       "score": 0.5996600000000001,
       "postTreeScore": 0.9997,
@@ -259,7 +260,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_22_b8da2d55021e3ff1",
+      "parentId": "cluster_28_b8da2d55021e3ff1",
       "headline": "Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue",
       "score": 0.58616,
       "postTreeScore": 0.9862,
@@ -315,7 +316,7 @@
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.9,
+        "actual": 2,
         "required": ">= 1.6"
       },
       {
@@ -354,15 +355,15 @@
       "parentCount": 10,
       "avgAngles": 2.1,
       "avgTemporalTiers": 2,
-      "avgEvolutionRoles": 1.9,
+      "avgEvolutionRoles": 2,
       "baseReportShare": 0.364,
       "multiAngleCount": 10,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 3,
       "topParentChildren": 4,
-      "storyCount": 667,
-      "sourceGroupCount": 10
+      "storyCount": 581,
+      "sourceGroupCount": 9
     }
   }
 }

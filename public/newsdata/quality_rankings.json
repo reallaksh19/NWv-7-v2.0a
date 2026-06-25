@@ -60,7 +60,7 @@
       "gateResults": [
         {
           "details": {
-            "itemCount": 9
+            "itemCount": 7
           },
           "name": "insightEventPool",
           "reason": "rankable Insight event pool",
@@ -79,14 +79,14 @@
         "avgAnglesPerParent": 0.0,
         "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0,
-        "inputCandidateCount": 9,
-        "parentClusters": 9,
-        "strongParents": 9,
+        "inputCandidateCount": 7,
+        "parentClusters": 7,
+        "strongParents": 7,
         "suppressedCandidateCount": 0,
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3719,
+      "qualityScore": 0.3782,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -370,116 +370,6 @@
               "status": "PASS"
             }
           ],
-          "id": "sketch:fcde5c7120",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:fcde5c7120",
-            "representativeId": "cefd0947496f8de7",
-            "representativeTitle": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "minus24h"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "moneycontrol"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "cefd0947496f8de7",
-              "d0020e471404281a"
-            ],
-            "topAngles": [
-              {
-                "angle": "market_reaction",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "bajaj",
-              "finance",
-              "target",
-              "emkay"
-            ],
-            "topicKey": "bajaj|finance|target"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.389,
-          "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
           "id": "sketch:48c6125b88",
           "item": {
             "angleCount": 1,
@@ -642,117 +532,6 @@
           ],
           "score": 0.389,
           "title": "India News Live Updates, 24 June 2026: Tourist bus overturns on NH in Tamil Nadu’s Viluppuram; 24 injured - The Indian Express"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
-                "storyCount": 2
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0,
-                "distinctAngles": 1
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 0.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report ratio controlled",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "childCount": 2
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 0.5,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:0315e8690b",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 0.0,
-            "childScores": [],
-            "id": "sketch:0315e8690b",
-            "representativeId": "f6858622953b9b25",
-            "representativeTitle": "Indian shares rise as lower oil prices, uptick in banks aid - Reuters",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.59,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "minus12h"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "reuters"
-            ],
-            "storyCount": 2,
-            "storyIds": [
-              "f6858622953b9b25",
-              "89bc1c323a0ab5c2"
-            ],
-            "topAngles": [
-              {
-                "angle": "market_reaction",
-                "count": 2
-              }
-            ],
-            "topTokens": [
-              "indian",
-              "shares",
-              "rise",
-              "lower",
-              "reliance"
-            ],
-            "topicKey": "indian|shares|rise"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.389,
-          "title": "Indian shares rise as lower oil prices, uptick in banks aid - Reuters"
         },
         {
           "category": "insightEvent",
@@ -985,7 +764,7 @@
           "gates": [
             {
               "details": {
-                "storyCount": 4
+                "storyCount": 3
               },
               "name": "eventCoherence",
               "reason": "event sketch has repeated story count",
@@ -1022,11 +801,11 @@
             },
             {
               "details": {
-                "childCount": 4
+                "childCount": 3
               },
               "name": "weakTree",
               "reason": "child tree has enough depth",
-              "score": 1.0,
+              "score": 0.75,
               "status": "PASS"
             },
             {
@@ -1047,7 +826,7 @@
             "representativeTitle": "Top news of the day June 12, 2026 - The Hindu",
             "scoreBreakdown": {
               "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.83,
+              "eventImportanceScore": 0.71,
               "freshnessScore": 0.0,
               "noveltyDeltaScore": 0.44999999999999996,
               "sourceAuthorityScore": 0.38,
@@ -1062,17 +841,16 @@
             "sourceGroups": [
               "google_news"
             ],
-            "storyCount": 4,
+            "storyCount": 3,
             "storyIds": [
               "799aa9b7edec72f4",
               "fff45325db82b942",
-              "6a190a01e6364bd3",
               "1efb28cd448db91a"
             ],
             "topAngles": [
               {
                 "angle": "base_report",
-                "count": 4
+                "count": 3
               }
             ],
             "topTokens": [
@@ -1087,19 +865,19 @@
             "weak child angle diversity",
             "one-source event candidate"
           ],
-          "score": 0.2021,
+          "score": 0.1885,
           "title": "Top news of the day June 12, 2026 - The Hindu"
         }
       ],
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.25,
-        "eventImportanceScore": 0.6167,
+        "eventImportanceScore": 0.6071,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.4611,
-        "sourceAuthorityScore": 0.4333,
-        "sourceDiversityScore": 0.4322,
-        "temporalEvolutionScore": 0.41
+        "noveltyDeltaScore": 0.4643,
+        "sourceAuthorityScore": 0.4486,
+        "sourceDiversityScore": 0.4557,
+        "temporalEvolutionScore": 0.4214
       }
     },
     "localTravel": {
@@ -4272,7 +4050,7 @@
             },
             {
               "details": {
-                "hoursLeft": 10.49
+                "hoursLeft": 7.79
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4387,7 +4165,7 @@
             },
             {
               "details": {
-                "hoursLeft": 13.61
+                "hoursLeft": 10.9
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4502,7 +4280,7 @@
             },
             {
               "details": {
-                "hoursLeft": 10.28
+                "hoursLeft": 7.57
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4617,7 +4395,7 @@
             },
             {
               "details": {
-                "hoursLeft": 23.85
+                "hoursLeft": 21.15
               },
               "name": "offerValidity",
               "reason": "offer expires soon",
@@ -4700,7 +4478,7 @@
       }
     }
   },
-  "generatedAt": 1782335913064,
+  "generatedAt": 1782345644062,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4732,7 +4510,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3719,
+      "insight": 0.3782,
       "localTravel": 0.0,
       "upAhead": 0.8446
     },
@@ -4742,7 +4520,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3041,
+    "overallScore": 0.3057,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
