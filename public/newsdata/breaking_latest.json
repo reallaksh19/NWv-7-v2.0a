@@ -1,22 +1,45 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782403150551,
-  "contentHash": "b5de89209de3",
+  "fetchedAt": 1782411259226,
+  "contentHash": "195b5c8b77b7",
   "breaking": [
+    {
+      "title": "India’s ‘eye in the sky’ Netra AEW&C system gets Final Operational Clearance",
+      "summary": "Indigenous system has already proved its worth during Balakot strikes and Operation Sindoor;   scientists and IAF officers dedicate Netra clearance to colleagues killed in 1999 tragic air crash; ‘today, we have shown that their sacrifice has not gone in vain’, says DRDO Aeronautics Cluster chief",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/indias-eye-in-the-sky-netra-aewc-system-gets-final-operational-clearance/article71146281.ece",
+      "publishedAt": 1782408879000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "509a3ffc66cb45e8",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.445,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782408879000
+    },
     {
       "title": "Venezuela earthquake LIVE: Venezuela quake response requires 'massive collective effort', says UN aid chief",
       "summary": "The powerful back-to-back earthquakes killed at least 164 people and injured at least 971, Venezuela's Acting President Delcy Rodríguez said, as communities across the South American country sustained damage",
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-live-updates-terremoto-caracas-magnitude-7-tsunami-alert-damages-death-toll-live-updates-june-25-2026/article71144983.ece",
-      "publishedAt": 1782401495000,
+      "publishedAt": 1782408812000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "7227a01bd0a2f450",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.462,
+      "breakingScore": 5.443,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,42 +50,19 @@
       "firstSeen": 1782396952000
     },
     {
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782401483000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "f80767f5729cd7e4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.961,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782401483000
-    },
-    {
       "title": "What we know so far",
-      "summary": "The two quakes have killed at least 164 people and injured nearly 1,000, with more feared trapped under rubble.",
+      "summary": "The two quakes have killed at least 188 people and injured nearly 1,500, with more feared trapped under rubble.",
       "source": "BBC",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782399850000,
+      "publishedAt": 1782410958000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "6c89c874421c61d7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.924,
+      "breakingScore": 3.993,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -70,68 +70,45 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782399850000
+      "firstSeen": 1782410958000
     },
     {
-      "title": "Congo’s Ebola outbreak has most cases in first month of any African outbreak, WHO says",
-      "summary": "The Bundibugyo outbreak in the Democratic Republic ‌of Congo that has infected over 1,000 people and killed 267 ‌was detected late and experts say ‌the ⁠virus had already been circulating ⁠for months before it was officially declared on May 15",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/congos-ebola-outbreak-has-most-cases-in-first-month-of-any-african-outbreak-who-says/article71138029.ece",
-      "publishedAt": 1782387431000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "eae76a31ae86d103",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.636,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782387431000
-    },
-    {
-      "title": "Businessman found dead in actor’s residence in Bengaluru",
-      "summary": "",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/businessman-vaishak-found-dead-in-actor-krishi-thapandas-residence-in-bengaluru/article71145571.ece",
-      "publishedAt": 1782402870000,
+      "title": "Venezuela twin earthquakes: Death toll rises to 164; search for missing continues",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131999649.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/venezuela-twin-earthquakes-death-toll-rises-to-164-over-1000-injured-search-for-missing-continues/articleshow/131999649.cms",
+      "publishedAt": 1782409217000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "3f61915c49b1044d",
+      "id": "0e5a4744dbdc6561",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.494,
+      "breakingScore": 3.953,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "times_of_india"
       ],
-      "firstSeen": 1782402870000
+      "firstSeen": 1782409217000
     },
     {
-      "title": "Four killed in two road accidents in Kalaburagi",
-      "summary": "",
-      "source": "The Hindu",
+      "title": "West Asia war LIVE: Cargo ship reports suspected attack while crossing Hormuz",
+      "summary": "On deal with Iran, U.S. Secretary of State Marco Rubio said open for peace without undermining security of U.S., its allies; he is in Bahrain for a Gulf Cooperation Council meeting",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/four-killed-in-two-road-accidents-in-kalaburagi/article71147049.ece",
-      "publishedAt": 1782402578000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-25-2026/article71144582.ece",
+      "publishedAt": 1782407545000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "aeeb4cdbfa995528",
+      "id": "e7d8bb0872783258",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.487,
+      "breakingScore": 3.914,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -139,22 +116,45 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782402578000
+      "firstSeen": 1782407338000
     },
     {
-      "title": "Bus operators put strike plan on hold in Vadakara",
-      "summary": "They warned of an indefinite agitation from July 1 if steps were not taken to ease traffic snarls",
-      "source": "The Hindu",
+      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782406431000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "f80767f5729cd7e4",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.888,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1782406431000
+    },
+    {
+      "title": "Fresh dispute emerges over Strait of Hormuz transit routes despite ceasefire",
+      "summary": "Naval Force of IRGC warns vessels transiting the strait must use only routes officially designated by Iran",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/bus-operators-put-strike-plan-on-hold-in-vadakara/article71146266.ece",
-      "publishedAt": 1782402312000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/fresh-dispute-emerges-over-strait-of-hormuz-transit-routes-despite-ceasefire/article71147492.ece",
+      "publishedAt": 1782408482000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "cd2b5870956ede4b",
+      "id": "745fa36cd023e159",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.481,
+      "breakingScore": 2.436,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -162,30 +162,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782402312000
+      "firstSeen": 1782408482000
     },
     {
-      "title": "Case Filed Over Ram Temple Donation Theft, 2 Arrested",
-      "summary": "Six of the eight accused are temple employees responsible for counting cash. All six were caught embezzling money on CCTV cameras.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/case-filed-over-ram-temple-donation-theft-two-arrested-11687549#publisher=newsstand",
-      "publishedAt": 1782402045000,
-      "category": "topStories",
+      "title": "Russia denies pressuring Belarus to widen Ukraine conflict; Minsk blames West",
+      "summary": "The Wall Street Journal reported ‌that Russia wanted to use Belarus as a springboard to step up ⁠attacks on Ukraine, and that Moscow was threatening to cut financial support if it did not agree",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/russia-denies-pressuring-belarus-to-widen-ukraine-conflict-minsk-blames-west/article71147455.ece",
+      "publishedAt": 1782405006000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "da884e99d6cd3ac5",
+      "id": "8cf668b1237246c2",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.474,
+      "breakingScore": 2.355,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1782402045000
+      "firstSeen": 1782405006000
     }
   ]
 }
