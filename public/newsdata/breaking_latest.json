@@ -1,24 +1,46 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782346872149,
-  "contentHash": "633465e5e211",
+  "fetchedAt": 1782362534020,
+  "contentHash": "4aad4100b3a0",
   "breaking": [
     {
-      "title": "\"It Wasn't Our Missile\": Trump Denies US Role In Deadly Iran School Strike",
-      "summary": "Donald Trump said that it wasn't US responsible for Iranian school attack that killed over 175 children.",
+      "title": "Venezuela’s deadly history of earthquakes — and how they affected its politics",
+      "summary": "As the 1812 earthquake during the War of Independence illustrated, Venezuela is no stranger to natural disasters being bound up with moments of political upheaval",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/venezuela-history-earthquakes-bolivar-chavez-la-tragedia/article71144808.ece",
+      "publishedAt": 1782361856000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "88cb1964ffa8af32",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.484,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782361856000
+    },
+    {
+      "title": "Powerful 7.2 Magnitude Earthquake Strikes Japan, No Tsunami Warning Issued",
+      "summary": "Japan Earthquake: There were no immediate reports of major damage.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/donald-trump-denies-us-role-in-deadly-iran-school-strike-11683650#publisher=newsstand",
-      "publishedAt": 1782344251000,
+      "url": "https://www.ndtv.com/world-news/powerful-6-9-magnitude-earthquake-strikes-japan-no-tsunami-warning-issued-11683638#publisher=newsstand",
+      "publishedAt": 1782357730000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "0b5ae8338fbd9888",
+      "id": "f8891723de7ba6f0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 8.939,
+      "breakingScore": 5.389,
       "breakingReasons": [
-        "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
@@ -26,141 +48,22 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782342597000
+      "firstSeen": 1782350114000
     },
     {
-      "title": "Back-to-back powerful earthquakes hit Venezuela, buildings collapse in capital Caracas",
-      "summary": "People evacuated swaying buildings in Caracas and remained outside, many visibly shocked as they saw entire walls that had collapsed, making furniture visible from the street",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/venezuela-earthquake-toll-damage-updates-june-25-2026/article71143760.ece",
-      "publishedAt": 1782346559000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "57a4fba39c791d22",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 7.493,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782345601000
-    },
-    {
-      "title": "No tsunami warning after magnitude 6.9 quake strikes Japan's northeast",
-      "summary": "The epicentre of the quake was off the ‌coast of Iwate prefecture, at ‌the ⁠depth of about 50 ⁠km, and no damage from tsunami is feared except for slight sea level ​changes",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/japan-earthquake-damage-toll-updates-on-june-25-2026/article71143775.ece",
-      "publishedAt": 1782343548000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "6dc4b1883137bf5b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.923,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782343163000
-    },
-    {
-      "title": "Kolkata under-construction warehouse collapse updates: Five killed, several injured, in Taratala accident; rescue efforts on",
-      "summary": "According to locals present at the accident site, 50 to 60 workers were working at the site when the accident took place",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-warehouse-collapse-taratala-several-feared-trapped-army-rescue-live-updates-june-24-2026/article71141380.ece",
-      "publishedAt": 1782333739000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "b68bfd3c122f455f",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.196,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782333739000
-    },
-    {
-      "title": "Passenger stabbed to death in local train, accused arrested",
-      "summary": "According to GRP, the matter escalated after the commuters assaulted the accused, and in return, he removed the knife from his bag and attacked the deceased",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/mumbai/passenger-stabbed-to-death-in-local-train-accused-arrested/article71143304.ece",
-      "publishedAt": 1782336011000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4785e268eafb3bc4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.749,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782336011000
-    },
-    {
-      "title": "Israeli Strikes Kill 2 In Lebanon, Hezbollah Accuses It Of Truce Violation",
-      "summary": "Hezbollah accused Israel of a new ceasefire \"violation\" on Wednesday.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/israeli-strikes-kill-2-in-lebanon-hezbollah-accuses-it-of-truce-violation-11683510#publisher=newsstand",
-      "publishedAt": 1782335866000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0ccc62ac03f865b1",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.745,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782335866000
-    },
-    {
-      "title": "Wounded US soldiers claim army downplayed injuries after Iran-linked drone strike",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131977164.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "title": "Watch: Venezuela, Japan and California shaken by powerful quakes within hours",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/131980797.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A day of powerful seismic activity saw major earthquakes strike Venezuela, Japan, and California. Venezuela experienced the most devastating impact with twin quakes causing fatalities and building collapses. Japan's northeast coast was hit by a strong tremor, while northern California also registered a significant quake. Experts confirm these events are unrelated, occurring on separate fault lines.",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/wounded-us-soldiers-claim-army-defence-secretry-downplayed-injuries-after-iran-linked-drone-strike-that-assessment-is-unacceptable/articleshow/131977164.cms",
-      "publishedAt": 1782334821000,
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-venezuela-japan-and-california-shaken-by-powerful-quakes-within-hours/articleshow/131980797.cms",
+      "publishedAt": 1782357209000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "5a9d0b98350136d4",
+      "id": "15cfd29d2e197b00",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.721,
+      "breakingScore": 5.377,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -168,22 +71,47 @@
       "allSources": [
         "times_of_india"
       ],
-      "firstSeen": 1782334821000
+      "firstSeen": 1782357209000
     },
     {
-      "title": "Mossad Planned Attack On Asim Munir In Switzerland, Analyst Claims",
-      "summary": "The alleged assassination threat has not been confirmed by Israeli or Pakistani officials",
+      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+      "source": "BBC",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782348688000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "56f1050f614fa3cd",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.179,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782343897000
+    },
+    {
+      "title": "Venezuela Earthquake Live: \"Early Reports Are Not Good,\" Says Trump On Twin Quakes",
+      "summary": "Venezuela Earthquake Live: These quakes are among the strongest to strike Venezuela in over a century",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/mossad-planned-attack-on-asim-munir-in-switzerland-analyst-claims-11683279#publisher=newsstand",
-      "publishedAt": 1782327053000,
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand",
+      "publishedAt": 1782361058000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "d38299e9e25b57b3",
+      "id": "00d5792a25c5e655",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.541,
+      "breakingScore": 3.966,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -191,7 +119,77 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782327053000
+      "firstSeen": 1782361058000
+    },
+    {
+      "title": "Flash floods hit six districts in Arunachal; one dead, four missing",
+      "summary": "Assam government issues high alert in districts downstream of the affected areas in Arunachal Pradesh, while overnight rainfall cuts off West Sikkim district headquarters",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/flash-floods-hit-six-districts-in-arunachal-one-dead-four-missing/article71142138.ece",
+      "publishedAt": 1782359858000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4d01b4cf83acc978",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.938,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782359858000
+    },
+    {
+      "title": "Airport, Schools Shut, Emergency Declared: Night Of Horror In Venezuela",
+      "summary": "Emergency services work at the site of a collapsed building after an earthquake, in Caracas, Venezuela.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquake-7-5-magnitude-earthquake-hit-caracas-simon-bolivar-international-airport-schools-shut-emergency-declared-in-venezuela-11684202#publisher=newsstand",
+      "publishedAt": 1782359049000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "102ed08b704e6417",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.919,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782359049000
+    },
+    {
+      "title": "Sensex jumps 400 points, Nifty rises above 24,100 as oil prices cool below $73 per barrel",
+      "summary": "Indian stock markets surged on Thursday, with Sensex and Nifty climbing significantly as falling oil prices bolstered investor confidence. Major gainers included IndiGo, M&amp;M, Maruti Suzuki, and TCS, while broader markets also saw positive movement. The real estate and auto sectors led the gains, indicating a robust trading session for the day.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-rises-above-24100-as-oil-prices-cool-below-73-per-barrel/articleshow/131981762.cms",
+      "publishedAt": 1782359947000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d10b6bed9f690b40",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.94,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "economic_times",
+        "ndtv"
+      ],
+      "firstSeen": 1782359279000
     }
   ]
 }
