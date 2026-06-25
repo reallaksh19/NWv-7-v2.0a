@@ -6,22 +6,22 @@
 - Parents: `10`
 - Average angles: `1.4`
 - Average temporal tiers: `1.7`
-- Average evolution roles: `1.7`
-- Base report share: `0.15789473684210525`
+- Average evolution roles: `1.6`
+- Base report share: `0.05263157894736842`
 - Multi-angle parents: `4`
 - Weak parents: `1`
-- Story count: `661`
+- Story count: `634`
 - Source groups: `9`
-- Content hash: `4a8b2a324409fd27`
+- Content hash: `e6623e31901437b0`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | StartupTN CEO Sivarajah Ramanathan resigns | 2 | base_report, investigative_detail | NO | 0.6756467197849984 |
-| 2 | Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue | 2 | investigative_detail, base_report | NO | 0.6741467197849984 |
-| 3 | World leaders offers solidarity and aid as country reels from quakes | 2 | official_response, fact_update | NO | 0.62551 |
-| 4 | Ryanair says it will reluctantly not charge parents to sit next to children | 2 | base_report, investigative_detail | NO | 0.6112599999999999 |
+| 1 | Walmart's Flipkart, Amazon step up India 'quick commerce' bet as competition heats up - Reuters | 2 | regional_followup, fact_update | NO | 0.6512266666666667 |
+| 2 | World leaders offers solidarity and aid as country reels from quakes | 2 | official_response, fact_update | NO | 0.62551 |
+| 3 | Ryanair says it will reluctantly not charge parents to sit next to children | 2 | base_report, investigative_detail | NO | 0.6112599999999999 |
+| 4 | On the Taratala warehouse collapse in Kolkata | 2 | fact_update, regional_followup | NO | 0.5845100000000001 |
 | 5 | PM Modi | 2 | official_response | NO | 0.6945633864516649 |
 | 6 | Rupee cushioned by central bank hand even as dollar strength dents Asia FX | 2 | market_reaction | NO | 0.6642467197849984 |
 | 7 | Rupee ends a tad higher as oil slide, foreign inflows lift sentiment | 2 | market_reaction | NO | 0.6272599999999999 |
@@ -38,8 +38,8 @@
 - Parents: `10`
 - Average angles: `1.4`
 - Average temporal tiers: `1.7`
-- Average evolution roles: `1.7`
-- Base report share: `0.158`
+- Average evolution roles: `1.6`
+- Base report share: `0.053`
 - Multi-angle parents: `4`
 - Top parent angles: `2`
 - Top parent children: `2`
@@ -53,8 +53,8 @@
 - Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.4` / `>= 1.4`
-- Average evolution role count: `1.7` / `>= 1.6`
-- Base report share: `0.158` / `<= 0.55`
+- Average evolution role count: `1.6` / `>= 1.6`
+- Base report share: `0.053` / `<= 0.55`
 - Multi-angle parent count: `4` / `>= 1`
 - Top parent angle count: `2` / `>= 2`
 - Top parent child depth: `2` / `>= 2`
