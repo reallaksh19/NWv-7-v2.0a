@@ -1,45 +1,47 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782411259226,
-  "contentHash": "195b5c8b77b7",
+  "fetchedAt": 1782419010509,
+  "contentHash": "1d10a5034d5a",
   "breaking": [
     {
-      "title": "India’s ‘eye in the sky’ Netra AEW&C system gets Final Operational Clearance",
-      "summary": "Indigenous system has already proved its worth during Balakot strikes and Operation Sindoor;   scientists and IAF officers dedicate Netra clearance to colleagues killed in 1999 tragic air crash; ‘today, we have shown that their sacrifice has not gone in vain’, says DRDO Aeronautics Cluster chief",
-      "source": "The Hindu National",
+      "title": "West Asia war LIVE: UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
+      "summary": "On deal with Iran, U.S. Secretary of State Marco Rubio said open for peace without undermining security of U.S., its allies; he is in Bahrain for a Gulf Cooperation Council meeting",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/indias-eye-in-the-sky-netra-aewc-system-gets-final-operational-clearance/article71146281.ece",
-      "publishedAt": 1782408879000,
-      "category": "india",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-25-2026/article71144582.ece",
+      "publishedAt": 1782417606000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "509a3ffc66cb45e8",
+      "id": "e7d8bb0872783258",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.445,
+      "breakingScore": 7.467,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
+        "bbc",
         "the_hindu"
       ],
-      "firstSeen": 1782408879000
+      "firstSeen": 1782415152000
     },
     {
-      "title": "Venezuela earthquake LIVE: Venezuela quake response requires 'massive collective effort', says UN aid chief",
+      "title": "Venezuela earthquake LIVE: Venezuelans trapped alive after twin quakes kill at least 188",
       "summary": "The powerful back-to-back earthquakes killed at least 164 people and injured at least 971, Venezuela's Acting President Delcy Rodríguez said, as communities across the South American country sustained damage",
-      "source": "The Hindu International",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-live-updates-terremoto-caracas-magnitude-7-tsunami-alert-damages-death-toll-live-updates-june-25-2026/article71144983.ece",
-      "publishedAt": 1782408812000,
-      "category": "world",
+      "publishedAt": 1782417249000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "7227a01bd0a2f450",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.443,
+      "breakingScore": 5.459,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,7 +49,76 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782396952000
+      "firstSeen": 1782417249000
+    },
+    {
+      "title": "If \"Kali\" Is Caught: After Suvendu Adhikari Remark, Ex-Mayor's Aide Arrested",
+      "summary": "\"We don't know what has happened inside the Kolkata Municipal Corporation. If Kali is caught, all information will come out,\" Suvendu Adhikari said hours after the Kolkata warehouse collapse",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/if-kali-is-caught-after-suvendu-adhikari-remark-ex-mayors-aide-arrested-11688517#publisher=newsstand",
+      "publishedAt": 1782414773000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4b6a3e88e0619263",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.902,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782414773000
+    },
+    {
+      "title": "Bodies Of 4 Indians Killed In Qatar Explosion Repatriated: Officials",
+      "summary": "Twelve Indians were among 13 people killed in the explosion on Sunday.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/bodies-of-4-indians-killed-in-qatar-explosion-repatriated-officials-11688509#publisher=newsstand",
+      "publishedAt": 1782414553000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "176b8dfd45f2799f",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.897,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782414553000
+    },
+    {
+      "title": "Watch: Passport, Aadhaar, voter ID — what proves your citizenship? | Above the Fold | 25.06.2026",
+      "summary": "In this episode, we examine the debate over whether a passport proves citizenship and what documents actually establish citizenship rights. We also cover the deadly earthquakes in Venezuela, NCERT’s new Class IX chapter on the Emergency and the political reactions it has sparked, and more.",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/videos/watch-passport-aadhaar-voter-id-what-proves-your-citizenship-above-the-fold-25062026/article71147763.ece",
+      "publishedAt": 1782413891000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "1d1eda750a4c2582",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.881,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782413891000
     },
     {
       "title": "What we know so far",
@@ -62,7 +133,7 @@
       "id": "6c89c874421c61d7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.993,
+      "breakingScore": 3.814,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -85,7 +156,7 @@
       "id": "0e5a4744dbdc6561",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.953,
+      "breakingScore": 3.773,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -94,29 +165,6 @@
         "times_of_india"
       ],
       "firstSeen": 1782409217000
-    },
-    {
-      "title": "West Asia war LIVE: Cargo ship reports suspected attack while crossing Hormuz",
-      "summary": "On deal with Iran, U.S. Secretary of State Marco Rubio said open for peace without undermining security of U.S., its allies; he is in Bahrain for a Gulf Cooperation Council meeting",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-25-2026/article71144582.ece",
-      "publishedAt": 1782407545000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "e7d8bb0872783258",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.914,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782407338000
     },
     {
       "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
@@ -131,7 +179,7 @@
       "id": "f80767f5729cd7e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.888,
+      "breakingScore": 3.709,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -140,52 +188,6 @@
         "bbc"
       ],
       "firstSeen": 1782406431000
-    },
-    {
-      "title": "Fresh dispute emerges over Strait of Hormuz transit routes despite ceasefire",
-      "summary": "Naval Force of IRGC warns vessels transiting the strait must use only routes officially designated by Iran",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/fresh-dispute-emerges-over-strait-of-hormuz-transit-routes-despite-ceasefire/article71147492.ece",
-      "publishedAt": 1782408482000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "745fa36cd023e159",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.436,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782408482000
-    },
-    {
-      "title": "Russia denies pressuring Belarus to widen Ukraine conflict; Minsk blames West",
-      "summary": "The Wall Street Journal reported ‌that Russia wanted to use Belarus as a springboard to step up ⁠attacks on Ukraine, and that Moscow was threatening to cut financial support if it did not agree",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/russia-denies-pressuring-belarus-to-widen-ukraine-conflict-minsk-blames-west/article71147455.ece",
-      "publishedAt": 1782405006000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "8cf668b1237246c2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.355,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782405006000
     }
   ]
 }
