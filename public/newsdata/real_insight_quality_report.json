@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782403588742,
-  "contentHash": "d596a32f7b70cb12",
+  "generatedAt": 1782407129938,
+  "contentHash": "d851ee84e0f1d02d",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 697,
+  "storyCount": 645,
   "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
@@ -26,7 +26,7 @@
       "signalScore": 59,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 647,
+      "storyCount": 604,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -42,7 +42,7 @@
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "6 cluster(s) have weak snapshot coverage.",
-        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "410 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -52,7 +52,7 @@
       "signalScore": 59,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 647,
+      "storyCount": 604,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -68,13 +68,13 @@
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "6 cluster(s) have weak snapshot coverage.",
-        "500 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "410 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_498_71f0bb929e833712",
+      "parentId": "cluster_500_71f0bb929e833712",
       "headline": "India’s largest private gold mine set to yield a tonne of gold a year",
       "score": 0.712563386451665,
       "postTreeScore": 1.0926,
@@ -95,7 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_529_a730e37929796940",
+      "parentId": "cluster_531_a730e37929796940",
       "headline": "India slams Pakistan for 'unwarranted' remarks on J&K at UNSC’s Arria-formula meeting",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -116,7 +116,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_304_2a682320f2bd7900",
+      "parentId": "cluster_306_2a682320f2bd7900",
       "headline": "StartupTN CEO Sivarajah Ramanathan resigns",
       "score": 0.6756467197849984,
       "postTreeScore": 1.0556,
@@ -137,7 +137,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_315_b8da2d55021e3ff1",
+      "parentId": "cluster_317_b8da2d55021e3ff1",
       "headline": "Pakistani man held French woman, children captive for 12 years; child's escape leads to rescue",
       "score": 0.6741467197849984,
       "postTreeScore": 1.0541,
@@ -158,7 +158,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_141_7227a01bd0a2f450",
+      "parentId": "cluster_142_7227a01bd0a2f450",
       "headline": "World leaders offers solidarity and aid as country reels from quakes",
       "score": 0.62551,
       "postTreeScore": 1.0255,
@@ -179,7 +179,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_82_10db5c4ff512d87f",
+      "parentId": "cluster_83_10db5c4ff512d87f",
       "headline": "Ryanair says it will reluctantly not charge parents to sit next to children",
       "score": 0.6112599999999999,
       "postTreeScore": 1.0113,
@@ -200,7 +200,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_434_343fe757db98c64b",
+      "parentId": "cluster_436_343fe757db98c64b",
       "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "score": 0.6052599999999999,
       "postTreeScore": 1.0053,
@@ -221,7 +221,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_196_9684fa1b893779b0",
+      "parentId": "cluster_197_9684fa1b893779b0",
       "headline": "PM Modi",
       "score": 0.6945633864516649,
       "postTreeScore": 0.7646,
@@ -241,7 +241,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_489_d4b5a41dcea18b6c",
+      "parentId": "cluster_491_d4b5a41dcea18b6c",
       "headline": "Rupee cushioned by central bank hand even as dollar strength dents Asia FX",
       "score": 0.6642467197849984,
       "postTreeScore": 0.7342,
@@ -259,7 +259,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_112_53ea4aa33925c789",
+      "parentId": "cluster_113_53ea4aa33925c789",
       "headline": "Rupee ends a tad higher as oil slide, foreign inflows lift sentiment",
       "score": 0.6272599999999999,
       "postTreeScore": 0.7173,
@@ -360,7 +360,7 @@
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 697,
+      "storyCount": 645,
       "sourceGroupCount": 9
     }
   }

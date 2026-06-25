@@ -1,8 +1,8 @@
 {
-  "contentHash": "e10a75c1c348",
+  "contentHash": "1bcd72fb550c",
   "errors": [],
-  "fetchedAt": 1782403507484,
-  "generatedAt": 1782403521314,
+  "fetchedAt": 1782407052562,
+  "generatedAt": 1782407068168,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -18,11 +18,11 @@
           "sourceGroup": "business_line"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 1,
+          "count": 2,
           "sourceGroup": "google_news"
         }
       ]
@@ -52,11 +52,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 7,
+          "count": 8,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 3,
+          "count": 2,
           "sourceGroup": "times_of_india"
         }
       ]
@@ -69,11 +69,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "google_news_oman"
         }
       ]
@@ -86,7 +86,7 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "bbc"
         },
         {
@@ -94,7 +94,7 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 6,
+          "count": 7,
           "sourceGroup": "google_news"
         }
       ]
@@ -107,11 +107,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 17,
+          "count": 15,
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 9,
+          "count": 11,
           "sourceGroup": "google_news"
         },
         {
@@ -222,7 +222,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1782273907484,
+    "cutoffAt": 1782277452562,
     "retainHours": 36
   }
 }
