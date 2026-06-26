@@ -1,19 +1,19 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782453167949,
-  "contentHash": "15245bebdaede53c",
+  "generatedAt": 1782468074700,
+  "contentHash": "f09c037aca8b1cd2",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 573,
+  "storyCount": 591,
   "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
-  "avgAngles": 1.4,
-  "avgTemporalTiers": 1.8,
+  "avgAngles": 1.5,
+  "avgTemporalTiers": 1.9,
   "avgEvolutionRoles": 1.7,
   "baseReportShare": 0.047619047619047616,
-  "multiAngleCount": 4,
+  "multiAngleCount": 5,
   "weakParentCount": 0,
   "runtimeQualityGate": {
     "attempted": false,
@@ -23,58 +23,79 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 56,
+      "signalScore": 55,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 528,
+      "storyCount": 547,
       "risingCount": 0,
       "thinCount": 0,
-      "multiAngleCount": 4,
-      "lowAngleCount": 6,
+      "multiAngleCount": 5,
+      "lowAngleCount": 5,
       "strongAngleCount": 0,
-      "avgAngles": 1.4,
+      "avgAngles": 1.5,
       "avgChildren": 2.1,
-      "avgScore": 0.618122070441335,
+      "avgScore": 0.6489237636671675,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 8,
-      "coverageLabel": "4/10",
+      "snapshotCoverage": 4,
+      "coverageLabel": "5/10",
       "warnings": [
-        "6 cluster(s) have fewer than two visible child angles.",
+        "5 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "2 cluster(s) have weak snapshot coverage.",
-        "450 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "6 cluster(s) have weak snapshot coverage.",
+        "440 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 56,
+      "signalScore": 55,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 528,
+      "storyCount": 547,
       "risingCount": 0,
       "thinCount": 0,
-      "multiAngleCount": 4,
-      "lowAngleCount": 6,
+      "multiAngleCount": 5,
+      "lowAngleCount": 5,
       "strongAngleCount": 0,
-      "avgAngles": 1.4,
+      "avgAngles": 1.5,
       "avgChildren": 2.1,
-      "avgScore": 0.618122070441335,
+      "avgScore": 0.6489237636671675,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 8,
-      "coverageLabel": "4/10",
+      "snapshotCoverage": 4,
+      "coverageLabel": "5/10",
       "warnings": [
-        "6 cluster(s) have fewer than two visible child angles.",
+        "5 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "2 cluster(s) have weak snapshot coverage.",
-        "450 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "6 cluster(s) have weak snapshot coverage.",
+        "440 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_389_c36e341f1cf9968a",
+      "parentId": "cluster_361_7227a01bd0a2f450",
+      "headline": "World leaders offers solidarity and aid as country reels from quakes",
+      "score": 0.6934967197849984,
+      "postTreeScore": 1.0735,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_459_c36e341f1cf9968a",
       "headline": "White House asks Congress for $87.6B for Iran war, aid to US farmers, tackling Ebola crisis",
       "score": 0.691563386451665,
       "postTreeScore": 1.0716,
@@ -95,31 +116,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_293_7227a01bd0a2f450",
-      "headline": "World leaders offers solidarity and aid as country reels from quakes",
-      "score": 0.62551,
-      "postTreeScore": 1.0255,
-      "childCount": 2,
-      "angles": [
-        "official_response",
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_89_782c9aa2eb93cc6b",
+      "parentId": "cluster_154_782c9aa2eb93cc6b",
       "headline": "On the Taratala warehouse collapse in Kolkata",
-      "score": 0.5845100000000001,
-      "postTreeScore": 0.9845,
+      "score": 0.6604967197849982,
+      "postTreeScore": 1.0405,
       "childCount": 2,
       "angles": [
         "fact_update",
@@ -136,7 +136,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_492_9d71712ec9af9f4e",
+      "parentId": "cluster_453_72aec56aa1447fc1",
+      "headline": "Snap sued over minor’s rape after she connected with assaulter on Snapchat",
+      "score": 0.6325800531183317,
+      "postTreeScore": 1.0126,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "cause_claim",
+        "legal_or_regulatory"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_513_9d71712ec9af9f4e",
       "headline": "India says it discussed pathways to interim trade deal with US - Reuters",
       "score": 0.5723433333333332,
       "postTreeScore": 0.9723,
@@ -157,7 +178,26 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_350_9684fa1b893779b0",
+      "parentId": "cluster_97_c62dd2a6444ae074",
+      "headline": "Venezuela health minister says around 235 people dead, 4,300 injured in catastrophic earthquakes",
+      "score": 0.6319606512950194,
+      "postTreeScore": 0.782,
+      "childCount": 3,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_419_9684fa1b893779b0",
       "headline": "PM Modi",
       "score": 0.6945633864516649,
       "postTreeScore": 0.7646,
@@ -177,26 +217,27 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_34_c62dd2a6444ae074",
-      "headline": "Venezuela health minister says around 235 people dead, 4,300 injured in catastrophic earthquakes",
-      "score": 0.6119606512950195,
-      "postTreeScore": 0.762,
-      "childCount": 3,
+      "parentId": "cluster_125_b6fda6a3b32fd962",
+      "headline": "US weekly jobless claims drop more than expected",
+      "score": 0.6814967197849984,
+      "postTreeScore": 0.7515,
+      "childCount": 2,
       "angles": [
-        "fact_update"
+        "market_reaction"
       ],
       "temporalTiers": [
-        "breaking",
-        "established"
+        "established",
+        "breaking"
       ],
       "evolutionRoles": [
-        "fact_update"
+        "fact_update",
+        "market_reaction"
       ],
       "baseReportShare": 0,
       "weakTree": false
     },
     {
-      "parentId": "cluster_263_53ea4aa33925c789",
+      "parentId": "cluster_330_53ea4aa33925c789",
       "headline": "Rupee ends a tad higher as oil slide, foreign inflows lift sentiment",
       "score": 0.6272599999999999,
       "postTreeScore": 0.7173,
@@ -216,7 +257,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_276_cb4a3d88c9cfe061",
+      "parentId": "cluster_344_cb4a3d88c9cfe061",
       "headline": "Amazon CEO meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
       "score": 0.6034766666666667,
       "postTreeScore": 0.6935,
@@ -229,45 +270,6 @@
       ],
       "evolutionRoles": [
         "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_488_7e10af6b3a5fcead",
-      "headline": "IAEA chief says Iran inspections will go ahead, working on modalities",
-      "score": 0.59076,
-      "postTreeScore": 0.6808,
-      "childCount": 2,
-      "angles": [
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_37_7280205e979df865",
-      "headline": "UN agency pauses evacuation of ships through Strait of Hormuz after attack on vessel",
-      "score": 0.5792732802150018,
-      "postTreeScore": 0.6693,
-      "childCount": 2,
-      "angles": [
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
       ],
       "baseReportShare": 0,
       "weakTree": false
@@ -296,13 +298,13 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 1.4,
+        "actual": 1.5,
         "required": ">= 1.4"
       },
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.8,
+        "actual": 1.9,
         "required": ">= 1.8"
       },
       {
@@ -320,7 +322,7 @@
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 4,
+        "actual": 5,
         "required": ">= 1"
       },
       {
@@ -345,16 +347,16 @@
     "failed": [],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.4,
-      "avgTemporalTiers": 1.8,
+      "avgAngles": 1.5,
+      "avgTemporalTiers": 1.9,
       "avgEvolutionRoles": 1.7,
       "baseReportShare": 0.048,
-      "multiAngleCount": 4,
+      "multiAngleCount": 5,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 573,
+      "storyCount": 591,
       "sourceGroupCount": 10
     }
   }
