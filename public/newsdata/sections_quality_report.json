@@ -1,8 +1,8 @@
 {
-  "contentHash": "26df3ed93c66",
+  "contentHash": "ae66b4226881",
   "errors": [],
-  "fetchedAt": 1782422582539,
-  "generatedAt": 1782422596351,
+  "fetchedAt": 1782432258218,
+  "generatedAt": 1782432269526,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -18,24 +18,24 @@
           "sourceGroup": "business_line"
         },
         {
-          "count": 7,
+          "count": 6,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 3,
+          "count": 4,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "qualitySourceGroupCount": 1,
-      "qualityStoryCount": 18,
+      "qualityStoryCount": 19,
       "sourceGroupCount": 1,
-      "storyCount": 18,
+      "storyCount": 19,
       "thin": true,
       "topSources": [
         {
-          "count": 18,
+          "count": 19,
           "sourceGroup": "google_news"
         }
       ]
@@ -48,11 +48,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 20,
+          "count": 19,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 7,
+          "count": 8,
           "sourceGroup": "ndtv"
         },
         {
@@ -69,12 +69,12 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
-          "sourceGroup": "google_news_oman"
+          "count": 16,
+          "sourceGroup": "times_of_oman"
         },
         {
-          "count": 15,
-          "sourceGroup": "times_of_oman"
+          "count": 14,
+          "sourceGroup": "google_news_oman"
         }
       ]
     },
@@ -86,12 +86,12 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
-          "sourceGroup": "bbc"
+          "count": 14,
+          "sourceGroup": "the_hindu"
         },
         {
-          "count": 11,
-          "sourceGroup": "the_hindu"
+          "count": 12,
+          "sourceGroup": "bbc"
         },
         {
           "count": 4,
@@ -107,12 +107,12 @@
       "thin": false,
       "topSources": [
         {
-          "count": 14,
-          "sourceGroup": "gadgets360"
+          "count": 15,
+          "sourceGroup": "google_news"
         },
         {
-          "count": 13,
-          "sourceGroup": "google_news"
+          "count": 12,
+          "sourceGroup": "gadgets360"
         },
         {
           "count": 3,
@@ -128,12 +128,12 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
-          "sourceGroup": "the_hindu"
+          "count": 16,
+          "sourceGroup": "google_news"
         },
         {
-          "count": 15,
-          "sourceGroup": "google_news"
+          "count": 14,
+          "sourceGroup": "the_hindu"
         }
       ]
     },
@@ -145,11 +145,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 20,
+          "count": 19,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 9,
+          "count": 10,
           "sourceGroup": "ndtv"
         },
         {
@@ -166,11 +166,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "google_news"
         },
         {
-          "count": 14,
+          "count": 13,
           "sourceGroup": "the_hindu"
         },
         {
@@ -187,11 +187,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
-          "count": 14,
+          "count": 13,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -199,7 +199,7 @@
   },
   "sourceGroupCount": 11,
   "status": "WARN",
-  "storyCount": 288,
+  "storyCount": 289,
   "thresholds": {
     "expectedRetainHours": 36,
     "minSectionSourceGroups": 2,
@@ -222,7 +222,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1782292982539,
+    "cutoffAt": 1782302658218,
     "retainHours": 36
   }
 }
