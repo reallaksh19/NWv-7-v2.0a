@@ -1,41 +1,41 @@
 {
   "angleHintCoverage": 1.0,
   "collectorVersion": "insight-collector-json-v4",
-  "contentHash": "ef7dda040743c3a7",
+  "contentHash": "a17d40fa90519bba",
   "errors": [],
-  "eventSketchCount": 4,
-  "fetchedAt": 1782498273143,
-  "generatedAt": 1782498281219,
+  "eventSketchCount": 5,
+  "fetchedAt": 1782508409514,
+  "generatedAt": 1782508420477,
   "multiAngleEventSketchCount": 1,
   "multiSourceEventSketchCount": 1,
-  "nonBaseAngleStoryCount": 418,
+  "nonBaseAngleStoryCount": 432,
   "richnessSummary": {
-    "eventSketchCount": 4,
+    "eventSketchCount": 5,
     "hasClusterablePool": false,
     "multiAngleSketchCount": 1,
     "multiSourceSketchCount": 1,
-    "storyCount": 615
+    "storyCount": 644
   },
   "schemaVersion": 3,
   "slotHealth": {
     "minus12h": {
-      "fetchedAt": 1782488480333,
-      "linkedStories": 69,
-      "qualityStoryCount": 69,
-      "sourceGroupCount": 4,
-      "storyIds": 69,
+      "fetchedAt": 1782508409514,
+      "linkedStories": 80,
+      "qualityStoryCount": 80,
+      "sourceGroupCount": 5,
+      "storyIds": 80,
       "thin": false
     },
     "minus24h": {
-      "fetchedAt": 1782488480333,
-      "linkedStories": 38,
-      "qualityStoryCount": 38,
-      "sourceGroupCount": 2,
-      "storyIds": 38,
-      "thin": true
+      "fetchedAt": 1782508409514,
+      "linkedStories": 55,
+      "qualityStoryCount": 55,
+      "sourceGroupCount": 3,
+      "storyIds": 55,
+      "thin": false
     },
     "minus4h": {
-      "fetchedAt": 1782498273143,
+      "fetchedAt": 1782508409514,
       "linkedStories": 39,
       "qualityStoryCount": 39,
       "sourceGroupCount": 2,
@@ -43,7 +43,7 @@
       "thin": true
     },
     "now": {
-      "fetchedAt": 1782498273143,
+      "fetchedAt": 1782508409514,
       "linkedStories": 60,
       "qualityStoryCount": 60,
       "sourceGroupCount": 3,
@@ -51,9 +51,9 @@
       "thin": false
     }
   },
-  "sourceGroupCount": 9,
+  "sourceGroupCount": 10,
   "status": "WARN",
-  "storyCount": 615,
+  "storyCount": 644,
   "thresholds": {
     "minAngleHintCoverage": 0.35,
     "minEventSketches": 3,
@@ -66,34 +66,34 @@
   "topAngles": [
     {
       "angle": "base_report",
-      "count": 197
+      "count": 212
     },
     {
       "angle": "official_response",
-      "count": 153
+      "count": 162
     },
     {
       "angle": "fact_update",
-      "count": 97
+      "count": 89
     },
     {
       "angle": "market_reaction",
-      "count": 63
+      "count": 70
     },
     {
       "angle": "regional_followup",
-      "count": 55
+      "count": 57
     },
     {
       "angle": "investigative_detail",
-      "count": 26
-    },
-    {
-      "angle": "expert_analysis",
-      "count": 11
+      "count": 30
     },
     {
       "angle": "reaction_public",
+      "count": 11
+    },
+    {
+      "angle": "expert_analysis",
       "count": 8
     },
     {
@@ -107,47 +107,51 @@
   ],
   "topSources": [
     {
-      "count": 246,
+      "count": 253,
       "sourceGroup": "the_hindu"
     },
     {
-      "count": 87,
+      "count": 88,
       "sourceGroup": "times_of_india"
     },
     {
-      "count": 76,
+      "count": 75,
       "sourceGroup": "business_line"
     },
     {
-      "count": 72,
+      "count": 60,
       "sourceGroup": "economic_times"
     },
     {
-      "count": 47,
-      "sourceGroup": "gadgets360"
-    },
-    {
-      "count": 27,
-      "sourceGroup": "google_news"
-    },
-    {
-      "count": 26,
+      "count": 39,
       "sourceGroup": "espn"
     },
     {
-      "count": 25,
+      "count": 38,
+      "sourceGroup": "gadgets360"
+    },
+    {
+      "count": 29,
       "sourceGroup": "bbc"
     },
     {
-      "count": 9,
+      "count": 26,
+      "sourceGroup": "google_news"
+    },
+    {
+      "count": 21,
       "sourceGroup": "reuters"
+    },
+    {
+      "count": 15,
+      "sourceGroup": "moneycontrol"
     }
   ],
-  "usable36hStoryCount": 605,
+  "usable36hStoryCount": 607,
   "warnings": [
     "Weak multi-source event sketch coverage: 1 sketches < recommended 2",
-    "feed 'ndtv' has returned zero items for 34 consecutive runs",
-    "feed 'financial_express' has returned zero items for 177 consecutive runs",
-    "feed 'muscat_daily' has returned zero items for 161 consecutive runs (last zero at 1782488500283)"
+    "feed 'ndtv' has returned zero items for 35 consecutive runs",
+    "feed 'financial_express' has returned zero items for 178 consecutive runs",
+    "feed 'muscat_daily' has returned zero items for 162 consecutive runs (last zero at 1782488500283)"
   ]
 }
