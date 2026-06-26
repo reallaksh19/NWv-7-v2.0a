@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782432269459,
+  "generatedAt": 1782453115881,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -16,32 +16,32 @@
       ],
       "topSources": [
         {
-          "count": 20,
+          "count": 15,
           "sourceGroup": "business_line"
         },
         {
-          "count": 6,
+          "count": 14,
           "sourceGroup": "economic_times"
         },
         {
-          "count": 4,
+          "count": 1,
           "sourceGroup": "google_news"
         }
       ]
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 19,
+      "storyCount": 17,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 19
+          "count": 17
         }
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 17,
           "sourceGroup": "google_news"
         }
       ]
@@ -58,15 +58,15 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 15,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
+          "count": 14,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 3,
+          "count": 1,
           "sourceGroup": "times_of_india"
         }
       ]
@@ -83,11 +83,11 @@
       ],
       "topSources": [
         {
-          "count": 16,
+          "count": 19,
           "sourceGroup": "times_of_oman"
         },
         {
-          "count": 14,
+          "count": 11,
           "sourceGroup": "google_news_oman"
         }
       ]
@@ -104,15 +104,15 @@
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 11,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 12,
+          "count": 11,
           "sourceGroup": "bbc"
         },
         {
-          "count": 4,
+          "count": 8,
           "sourceGroup": "google_news"
         }
       ]
@@ -129,11 +129,11 @@
       ],
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "google_news"
         },
         {
-          "count": 12,
+          "count": 11,
           "sourceGroup": "gadgets360"
         },
         {
@@ -175,36 +175,36 @@
       ],
       "topSources": [
         {
-          "count": 19,
-          "sourceGroup": "the_hindu"
-        },
-        {
-          "count": 10,
+          "count": 14,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 1,
+          "count": 13,
+          "sourceGroup": "the_hindu"
+        },
+        {
+          "count": 3,
           "sourceGroup": "economic_times"
         }
       ]
     },
     "trichy": {
       "sourceGroupCount": 3,
-      "storyCount": 30,
+      "storyCount": 25,
       "thin": false,
       "topCategories": [
         {
           "category": "trichy",
-          "count": 30
+          "count": 25
         }
       ],
       "topSources": [
         {
-          "count": 16,
+          "count": 13,
           "sourceGroup": "google_news"
         },
         {
-          "count": 13,
+          "count": 11,
           "sourceGroup": "the_hindu"
         },
         {
@@ -225,12 +225,12 @@
       ],
       "topSources": [
         {
-          "count": 17,
-          "sourceGroup": "bbc"
+          "count": 19,
+          "sourceGroup": "the_hindu"
         },
         {
-          "count": 13,
-          "sourceGroup": "the_hindu"
+          "count": 11,
+          "sourceGroup": "bbc"
         }
       ]
     }
@@ -586,7 +586,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 19,
+        "items": 18,
         "ok": true,
         "section": "entertainment"
       },
