@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-06-26T06:45:00.856549Z",
+  "generatedAt": "2026-06-26T10:15:51.243947Z",
   "currencies": [
     {
       "name": "EUR/INR",
@@ -13,20 +13,7 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-26T06:43:18.534485Z"
-    },
-    {
-      "name": "JPY/INR",
-      "pair": "JPYINR",
-      "symbol": "JPYINR=X",
-      "value": "₹0.5833",
-      "rate": 0.5832599997520447,
-      "change": "-0.0015",
-      "changePercent": "-0.25",
-      "direction": "down",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-26T06:43:18.572467Z"
+      "asOf": "2026-06-26T10:14:08.957442Z"
     },
     {
       "name": "USD/INR",
@@ -39,7 +26,7 @@
       "direction": "down",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-26T06:43:18.577175Z"
+      "asOf": "2026-06-26T10:14:08.990799Z"
     },
     {
       "name": "OMR/INR",
@@ -52,7 +39,7 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-26T06:43:18.584393Z"
+      "asOf": "2026-06-26T10:14:09.017282Z"
     },
     {
       "name": "GBP/INR",
@@ -65,7 +52,20 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-26T06:43:18.660086Z"
+      "asOf": "2026-06-26T10:14:09.055016Z"
+    },
+    {
+      "name": "JPY/INR",
+      "pair": "JPYINR",
+      "symbol": "JPYINR=X",
+      "value": "₹0.5833",
+      "rate": 0.5832599997520447,
+      "change": "-0.0015",
+      "changePercent": "-0.25",
+      "direction": "down",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-26T10:14:09.093165Z"
     }
   ],
   "sourceHealth": {
@@ -78,7 +78,7 @@
         "status": "failed",
         "latencyMs": null,
         "count": 0,
-        "message": "RBI reference scrape failed: unknown"
+        "message": "RBI reference scrape failed: 403 Client Error: Forbidden for url: https://www.rbi.org.in/scripts/ReferenceRateArchive.aspx"
       },
       {
         "provider": "yahoo_yfinance",
