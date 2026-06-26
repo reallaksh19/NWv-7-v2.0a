@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782509992533,
-  "contentHash": "d3e08cc0387f",
+  "fetchedAt": 1782514144294,
+  "contentHash": "5b33c6981a27",
   "breaking": [
     {
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782509459000,
+      "title": "U.S. strikes Iran to respond to attack on ship that Trump says violated ceasefire",
+      "summary": "U.S. Central Command said the military struck missile and drone locations and coastal radar sites in Iran",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-strike-on-iran-donald-trump-hormuz-strait-june-27-2026/article71152185.ece",
+      "publishedAt": 1782513872000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "fc9fb1e185cba7a9",
+      "id": "32323dcb4d951b2e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 8.488,
+      "breakingScore": 9.994,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -24,10 +24,56 @@
       "sourceCount": 3,
       "allSources": [
         "bbc",
-        "ndtv",
+        "the_hindu",
+        "times_of_india"
+      ],
+      "firstSeen": 1782511488000
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military conducts strikes against Iran",
+      "summary": "U.S. says it struck Iran targets after attack on cargo ship",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece",
+      "publishedAt": 1782512840000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "ee1448e79428ba74",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.47,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782507282000
+      "firstSeen": 1782512840000
+    },
+    {
+      "title": "US Forces Strike Iranian Drone, Missile Sites After Attack On Cargo Ship",
+      "summary": "US said the strikes were a response to \"unwarranted aggression against commercial shipping by Iran.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-forces-strike-iranian-drone-missile-sites-after-attack-on-cargo-ship-11693221#publisher=newsstand",
+      "publishedAt": 1782510107000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "ad1ac59b796cce00",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.407,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782510107000
     },
     {
       "title": "Indian-origin man Kishore Gujarati shot and injured in Portugal, probe underway",
@@ -42,7 +88,7 @@
       "id": "94e48f6653f22efe",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.296,
+      "breakingScore": 5.2,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -65,7 +111,7 @@
       "id": "5f65f63deff6cae0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.11,
+      "breakingScore": 5.014,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -74,29 +120,6 @@
         "ndtv"
       ],
       "firstSeen": 1782493151000
-    },
-    {
-      "title": "Watch: Eight arrested over Ram temple donations scandal | Above the Fold | 26.06.2026",
-      "summary": "From arrests over the alleged embezzlement of Ram temple donations and a standoff between Nihang Sikhs and the police in Uttarakhand, to the release of the names of servicemen who died during Operation Sindoor, the rising death toll from Venezuela’s earthquakes, revised fuel prices, higher Apple product prices, FIFA highlights, and more.",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/videos/watch-eight-arrested-over-ram-temple-donations-scandal-above-the-fold-26062026/article71151411.ece",
-      "publishedAt": 1782489931000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "08d469cc6f80358b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.036,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782489931000
     },
     {
       "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
@@ -111,7 +134,7 @@
       "id": "ca383be3633f090f",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.991,
+      "breakingScore": 3.895,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -136,7 +159,7 @@
       "id": "03db7ff67587b9a5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.918,
+      "breakingScore": 3.822,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -159,7 +182,7 @@
       "id": "2547cc828e103aa6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.745,
+      "breakingScore": 3.649,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -168,29 +191,6 @@
         "bbc"
       ],
       "firstSeen": 1782498992000
-    },
-    {
-      "title": "UAE Discusses Hormuz Security With Iran In Rare Call Amid Ceasefire",
-      "summary": "It was the first announced conversation between the two countries since US and Israeli strikes on Iran.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/uae-discusses-hormuz-security-with-iran-in-rare-call-amid-ceasefire-11692971#publisher=newsstand",
-      "publishedAt": 1782498358000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "476022dfa7163c63",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.731,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782498358000
     }
   ]
 }
