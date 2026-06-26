@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782493050756,
-  "contentHash": "8b103b1aafbf63ff",
+  "generatedAt": 1782498353276,
+  "contentHash": "ef7dda040743c3a7",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 623,
+  "storyCount": 615,
   "sourceGroupCount": 9,
   "grade": "C",
   "parentCount": 10,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 48,
+      "signalScore": 46,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 579,
+      "storyCount": 568,
       "risingCount": 1,
       "thinCount": 1,
       "multiAngleCount": 2,
@@ -34,27 +34,27 @@
       "strongAngleCount": 0,
       "avgAngles": 1.2,
       "avgChildren": 2.1,
-      "avgScore": 0.638245393723323,
+      "avgScore": 0.633845393723323,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 5,
+      "snapshotCoverage": 4,
       "coverageLabel": "2/10",
       "warnings": [
         "8 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "5 cluster(s) have weak snapshot coverage.",
+        "6 cluster(s) have weak snapshot coverage.",
         "1 cluster(s) are marked thin.",
-        "440 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "470 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 48,
+      "signalScore": 46,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 579,
+      "storyCount": 568,
       "risingCount": 1,
       "thinCount": 1,
       "multiAngleCount": 2,
@@ -62,15 +62,15 @@
       "strongAngleCount": 0,
       "avgAngles": 1.2,
       "avgChildren": 2.1,
-      "avgScore": 0.638245393723323,
+      "avgScore": 0.633845393723323,
       "sourceDiversityCoverage": 9,
-      "snapshotCoverage": 5,
+      "snapshotCoverage": 4,
       "coverageLabel": "2/10",
       "warnings": [
         "8 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "1 cluster(s) are below source-diversity target.",
-        "5 cluster(s) have weak snapshot coverage.",
+        "6 cluster(s) have weak snapshot coverage.",
         "1 cluster(s) are marked thin."
       ]
     },
@@ -85,10 +85,10 @@
   },
   "parents": [
     {
-      "parentId": "cluster_110_34f76e47b1c81982",
+      "parentId": "cluster_131_34f76e47b1c81982",
       "headline": "What's a 'doublet' earthquake? Science behind Venezuela’s strongest quake in over a century",
-      "score": 0.7254967197849984,
-      "postTreeScore": 1.1255,
+      "score": 0.6814967197849984,
+      "postTreeScore": 1.0615,
       "childCount": 2,
       "angles": [
         "official_response",
@@ -106,7 +106,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_41_50af1b7630fefa8b",
+      "parentId": "cluster_62_50af1b7630fefa8b",
       "headline": "Small aircraft crashes into Beijing's tallest skyscraper",
       "score": 0.5724232802150018,
       "postTreeScore": 0.9724,
@@ -126,7 +126,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_208_c62dd2a6444ae074",
+      "parentId": "cluster_229_c62dd2a6444ae074",
       "headline": "Venezuela health minister says around 235 people dead, 4,300 injured in catastrophic earthquakes",
       "score": 0.6479573212916498,
       "postTreeScore": 0.778,
@@ -145,7 +145,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_236_b6fda6a3b32fd962",
+      "parentId": "cluster_257_b6fda6a3b32fd962",
       "headline": "US weekly jobless claims drop more than expected",
       "score": 0.6814967197849984,
       "postTreeScore": 0.7515,
@@ -165,7 +165,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_211_7280205e979df865",
+      "parentId": "cluster_232_7280205e979df865",
       "headline": "UN agency pauses evacuation of ships through Strait of Hormuz after attack on vessel",
       "score": 0.6792467197849983,
       "postTreeScore": 0.7492,
@@ -185,7 +185,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_91_23a0cee758d791d1",
+      "parentId": "cluster_112_23a0cee758d791d1",
       "headline": "Death toll in Kolkata warehouse collapse rises to 15",
       "score": 0.6535487346782661,
       "postTreeScore": 0.7435,
@@ -204,7 +204,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_458_cb4a3d88c9cfe061",
+      "parentId": "cluster_480_cb4a3d88c9cfe061",
       "headline": "Amazon CEO meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
       "score": 0.6034766666666667,
       "postTreeScore": 0.6935,
@@ -222,7 +222,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_374_0e20700dc35a1f84",
+      "parentId": "cluster_395_0e20700dc35a1f84",
       "headline": "India says 'very close' to trade deal with US - Reuters",
       "score": 0.5678433333333333,
       "postTreeScore": 0.6578,
@@ -242,7 +242,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_123_9eec4f0968ca2b40",
+      "parentId": "cluster_144_9eec4f0968ca2b40",
       "headline": "U.S. Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact",
       "score": 0.5282732802150019,
       "postTreeScore": 0.5983,
@@ -261,7 +261,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_18_87239207ac73e5ee",
+      "parentId": "cluster_38_87239207ac73e5ee",
       "headline": "Silver Consumer Electricals concludes Rs 150 cr pre-IPO secondary share sale",
       "score": 0.7226911614783158,
       "postTreeScore": 0.4227,
@@ -367,7 +367,7 @@
       "weakParentRatio": 0.1,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 623,
+      "storyCount": 615,
       "sourceGroupCount": 9
     }
   }

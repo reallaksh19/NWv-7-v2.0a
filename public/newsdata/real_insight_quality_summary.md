@@ -10,15 +10,15 @@
 - Base report share: `0.09523809523809523`
 - Multi-angle parents: `2`
 - Weak parents: `1`
-- Story count: `623`
+- Story count: `615`
 - Source groups: `9`
-- Content hash: `8b103b1aafbf63ff`
+- Content hash: `ef7dda040743c3a7`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
-| 1 | What's a 'doublet' earthquake? Science behind Venezuela’s strongest quake in over a century | 2 | official_response, base_report | NO | 0.7254967197849984 |
+| 1 | What's a 'doublet' earthquake? Science behind Venezuela’s strongest quake in over a century | 2 | official_response, base_report | NO | 0.6814967197849984 |
 | 2 | Small aircraft crashes into Beijing's tallest skyscraper | 2 | base_report, official_response | NO | 0.5724232802150018 |
 | 3 | Venezuela health minister says around 235 people dead, 4,300 injured in catastrophic earthquakes | 3 | fact_update | NO | 0.6479573212916498 |
 | 4 | US weekly jobless claims drop more than expected | 2 | market_reaction | NO | 0.6814967197849984 |
