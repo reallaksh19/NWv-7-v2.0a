@@ -1,70 +1,45 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782490251022,
-  "contentHash": "7f48c69538c4",
+  "fetchedAt": 1782497001486,
+  "contentHash": "8f5e6dbc89a9",
   "breaking": [
     {
-      "title": "Venezuela earthquake death toll rises to around 589",
-      "summary": "The number of dead and injured is expected to rise with thousands reported missing",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/venezuela-earthquake-venezuelans-search-rubble-for-survivors-as-death-toll-climbs-to-188/article71148955.ece",
-      "publishedAt": 1782479166000,
-      "category": "world",
+      "title": "2 Killed, 3 Injured As Part Of House Collapses Amid Rains In Indore",
+      "summary": "The accident occurred at Khatamba village",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/2-killed-3-injured-as-part-of-house-gallery-collapses-amid-rains-in-indore-11692657#publisher=newsstand",
+      "publishedAt": 1782493151000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "906bdaa52d75434f",
+      "id": "5f65f63deff6cae0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.743,
+      "breakingScore": 5.411,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782479166000
-    },
-    {
-      "title": "False alarm: Dubai residents receive missile alert, told to 'disregard' it minutes later",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132018515.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Dubai residents were briefly alarmed by a missile alert on Friday, only for authorities to quickly retract the warning, urging them to disregard it. This marks the first such alert since the Iran war's ceasefire. The UAE's Foreign Minister later spoke with his Iranian counterpart, emphasizing diplomatic dialogue for regional stability amidst ongoing peace deal negotiations.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/false-alarm-dubai-residents-receive-missile-alert-told-to-disregard-it-minutes-later/articleshow/132018515.cms",
-      "publishedAt": 1782483587000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "d118552f05e79243",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.846,
-      "breakingReasons": [
-        "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "times_of_india"
-      ],
-      "firstSeen": 1782483020000
+      "firstSeen": 1782493151000
     },
     {
       "title": "Watch: Eight arrested over Ram temple donations scandal | Above the Fold | 26.06.2026",
       "summary": "From arrests over the alleged embezzlement of Ram temple donations and a standoff between Nihang Sikhs and the police in Uttarakhand, to the release of the names of servicemen who died during Operation Sindoor, the rising death toll from Venezuela’s earthquakes, revised fuel prices, higher Apple product prices, FIFA highlights, and more.",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/videos/watch-eight-arrested-over-ram-temple-donations-scandal-above-the-fold-26062026/article71151411.ece",
       "publishedAt": 1782489931000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "08d469cc6f80358b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.493,
+      "breakingScore": 5.336,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -75,19 +50,43 @@
       "firstSeen": 1782489931000
     },
     {
-      "title": "Venezuela earthquake LIVE updates: India sends medical teams, supplies, military field hospital to Venezuela",
-      "summary": "The death toll from two powerful earthquakes in Venezuela rose to 589, with 2,980 injured, acting President Delcy Rodríguez said",
+      "title": "IMO pauses its Gulf vessel evacuation plan after Iran attacks ship",
+      "summary": "The attack followed a joint declaration by the Gulf Cooperation Council (GCC) states, including Oman, after a meeting attended by the United States, stating that there should be no “tolls, fees, or attempts to assert control over the strait.”",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece",
-      "publishedAt": 1782489739000,
+      "url": "https://www.thehindu.com/news/international/imo-pauses-its-gulf-vessel-evacuation-plan-after-iran-attacks-ship/article71151704.ece",
+      "publishedAt": 1782495380000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "9e9b9f24d6af13b8",
+      "id": "276354284bad939e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.488,
+      "breakingScore": 3.962,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782473279000
+    },
+    {
+      "title": "Russia-annexed Crimea declares ‘emergency’ amid Ukraine strikes",
+      "summary": "The announcement comes amid fuel shortages and power cuts triggered by the Ukrainian attacks on logistics chains and oil facilities across Crimea, the rest of Russian-occupied Ukraine and southern Russia.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/russia-annexed-crimea-declares-emergency-amid-ukraine-strikes/article71150851.ece",
+      "publishedAt": 1782495199000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d1ce31b6d9f84042",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.958,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -95,45 +94,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782489739000
+      "firstSeen": 1782495199000
     },
     {
-      "title": "6.5-Magnitude Earthquake Strikes Off Coast Of Philippines, No Tsunami Alert",
-      "summary": "No tsunami alert was issued.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/6-5-magnitude-earthquake-strikes-off-coast-of-philippines-no-tsunami-alert-11691566#publisher=newsstand",
-      "publishedAt": 1782479075000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "0a6940edbb48f2e0",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.241,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782479075000
-    },
-    {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
       "source": "BBC World",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782473279000,
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782493231000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "09033e4b531b7094",
+      "id": "2547cc828e103aa6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.107,
+      "breakingScore": 3.913,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -141,7 +117,30 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782473279000
+      "firstSeen": 1782493231000
+    },
+    {
+      "title": "Soldier Killed, 2 Injured After Army Truck Skids Of Highway In Arunachal Pradesh",
+      "summary": "The two surviving personnel are currently undergoing treatment at the District Hospital",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/soldier-killed-2-injured-after-army-truck-skids-of-highway-in-arunachal-pradesh-11692311#publisher=newsstand",
+      "publishedAt": 1782488117000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "268cadb609ef96e3",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.794,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782488117000
     },
     {
       "title": "What we know so far",
@@ -156,7 +155,7 @@
       "id": "6c89c874421c61d7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.899,
+      "breakingScore": 3.743,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -167,19 +166,19 @@
       "firstSeen": 1782485890000
     },
     {
-      "title": "16 men, including Indian-origin accused arrested in Canada after extortion probe",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132002979.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />In a significant crackdown, Calgary police charged 16 men, primarily of Indian descent on visas, linked to a widespread extortion scheme targeting the South Asian community. While mugshots of 15 suspects have been publicly released, only one remains detained, with the others granted bail. Investigators are examining possible connections to the Bishnoi gang in light of 49 reported extortion cases, including several shootings, since April 2025.",
+      "title": "False alarm: Dubai residents receive missile alert, told to 'disregard' it minutes later",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132018515.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Dubai residents were briefly alarmed by a missile alert on Friday, only for authorities to quickly retract the warning, urging them to disregard it. This marks the first such alert since the Iran war's ceasefire. The UAE's Foreign Minister later spoke with his Iranian counterpart, emphasizing diplomatic dialogue for regional stability amidst ongoing peace deal negotiations.",
       "source": "Times of India",
       "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/16-men-including-indian-origin-accused-arrested-in-canada-after-south-asian-extortion-probe-all-released-on-bail-except-one/articleshow/132002979.cms",
-      "publishedAt": 1782477386000,
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/false-alarm-dubai-residents-receive-missile-alert-told-to-disregard-it-minutes-later/articleshow/132018515.cms",
+      "publishedAt": 1782483587000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "1c654a6ee6855edd",
+      "id": "d118552f05e79243",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.702,
+      "breakingScore": 3.689,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -187,7 +186,7 @@
       "allSources": [
         "times_of_india"
       ],
-      "firstSeen": 1782477386000
+      "firstSeen": 1782483587000
     }
   ]
 }
