@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782583018288,
+  "generatedAt": 1782587210393,
   "windowDays": 7,
   "latest": {
     "insightGrade": "B",
     "insightScore": 0,
-    "totalStories": 568,
+    "totalStories": 582,
     "usableStories36h": 559,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3099,
+    "rankingOverallScore": 0.3082,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3099,
+    "overallScore": 0.3082,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782583016985,
+    "generatedAt": 1782587209421,
     "destinationScores": {
       "buzz": 0,
       "insight": 0.3839,
       "localTravel": 0,
-      "upAhead": 0.8555
+      "upAhead": 0.8489
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8555,
+        "score": 0.8489,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -92,11 +92,11 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 20,
+        "suppressedItemCount": 29,
         "events": 0,
         "onlineOffers": 0,
-        "offlineOffers": 0,
-        "alerts": 30,
+        "offlineOffers": 1,
+        "alerts": 29,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
@@ -114,15 +114,13 @@
       "Pulkit Samrat recalls Salman Khan's blunt advice before his debut: 'Even I don't have guarantee of my next Friday': location failed — offline/local item lacks configured location match",
       "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
       "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
-      "Ammonia gas leak: two more women workers die, taking toll to 15: futureValidity failed — expired display window",
-      "Ammonia gas leak: two more women workers die, taking toll to 15: alertUrgency failed — alert expired",
-      "MDMK’s general body to take a decision on alliance  on Saturday: futureValidity failed — expired display window"
+      "Chennai Corporation cancels 161 tenders for various civic infrastructure work: futureValidity failed — expired display window",
+      "Chennai Corporation cancels 161 tenders for various civic infrastructure work: alertUrgency failed — alert expired",
+      "‘Pink room’ opened for girls at Corporation school in Avadi: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "20 invalid/expired/duplicate Up Ahead item(s) suppressed",
-      "no active offer items in ranked Up Ahead set",
+      "29 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no ranked Up Ahead item for muscat",
-      "ranked Up Ahead set is category-dominated",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -130,7 +128,9 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted"
+      "2 base-report-heavy Insight parent(s) demoted",
+      "buzz: no local Buzz item in ranked set",
+      "buzz: no travel Buzz item in ranked set"
     ]
   },
   "sourceHealth": {
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-27",
-      "generatedAt": 1782583018288,
+      "generatedAt": 1782587210393,
       "insightGrade": "B",
       "insightScore": 0,
-      "totalStories": 568,
+      "totalStories": 582,
       "usableStories36h": 559,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3099,
+      "rankingOverallScore": 0.3082,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
