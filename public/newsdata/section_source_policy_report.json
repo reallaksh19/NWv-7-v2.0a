@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782593496196,
+  "generatedAt": 1782604547528,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -31,17 +31,17 @@
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 13,
+      "storyCount": 18,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 13
+          "count": 18
         }
       ],
       "topSources": [
         {
-          "count": 13,
+          "count": 18,
           "sourceGroup": "google_news"
         }
       ]
@@ -62,11 +62,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 6,
+          "count": 7,
           "sourceGroup": "times_of_india"
         },
         {
-          "count": 4,
+          "count": 3,
           "sourceGroup": "ndtv"
         }
       ]
@@ -104,15 +104,15 @@
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 17,
           "sourceGroup": "bbc"
         },
         {
-          "count": 9,
+          "count": 8,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 7,
+          "count": 5,
           "sourceGroup": "google_news"
         }
       ]
@@ -196,7 +196,7 @@
       ],
       "topSources": [
         {
-          "count": 15,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
@@ -204,7 +204,7 @@
           "sourceGroup": "google_news"
         },
         {
-          "count": 2,
+          "count": 1,
           "sourceGroup": "google_news_alt"
         }
       ]
@@ -221,11 +221,11 @@
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 13,
+          "count": 14,
           "sourceGroup": "bbc"
         }
       ]
@@ -476,9 +476,10 @@
     {
       "configuredFeeds": 1,
       "health": {
+        "error": "415 Client Error: Unsupported Media Type for url: https://www.muscatdaily.com/feed",
         "feedUrl": "https://www.muscatdaily.com/feed",
         "items": 0,
-        "ok": true,
+        "ok": false,
         "section": "muscat"
       },
       "sections": [
@@ -582,7 +583,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 16,
+        "items": 18,
         "ok": true,
         "section": "entertainment"
       },
@@ -616,7 +617,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://news.google.com/rss/search?q=Trichy+Tamil+Nadu+today&hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 20,
+        "items": 19,
         "ok": true,
         "section": "trichy"
       },
@@ -674,7 +675,7 @@
       "configuredFeeds": 1,
       "health": {
         "feedUrl": "https://www.moneycontrol.com/rss/latestnews.xml",
-        "items": 15,
+        "items": 0,
         "ok": true,
         "section": "business"
       },

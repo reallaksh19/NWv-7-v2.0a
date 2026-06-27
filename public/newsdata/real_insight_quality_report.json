@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782593546723,
-  "contentHash": "2e9303e9743e5df2",
+  "generatedAt": 1782604599877,
+  "contentHash": "f1eb6ff71b7f2759",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 569,
-  "sourceGroupCount": 10,
+  "storyCount": 548,
+  "sourceGroupCount": 9,
   "grade": "B",
   "parentCount": 10,
   "avgAngles": 2,
   "avgTemporalTiers": 1.7,
   "avgEvolutionRoles": 2.1,
-  "baseReportShare": 0.391304347826087,
+  "baseReportShare": 0.34782608695652173,
   "multiAngleCount": 9,
   "weakParentCount": 0,
   "runtimeQualityGate": {
@@ -23,10 +23,10 @@
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 68,
+      "signalScore": 69,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 512,
+      "storyCount": 498,
       "risingCount": 1,
       "thinCount": 0,
       "multiAngleCount": 9,
@@ -34,24 +34,24 @@
       "strongAngleCount": 1,
       "avgAngles": 2,
       "avgChildren": 2.3,
-      "avgScore": 0.6211039080009935,
+      "avgScore": 0.6414995852913264,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "9/10",
       "warnings": [
         "1 cluster(s) have fewer than two visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
-        "571 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "501 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 68,
+      "signalScore": 69,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 512,
+      "storyCount": 498,
       "risingCount": 1,
       "thinCount": 0,
       "multiAngleCount": 9,
@@ -59,20 +59,20 @@
       "strongAngleCount": 1,
       "avgAngles": 2,
       "avgChildren": 2.3,
-      "avgScore": 0.6211039080009935,
+      "avgScore": 0.6414995852913264,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "9/10",
       "warnings": [
         "1 cluster(s) have fewer than two visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
-        "571 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "501 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_181_c7d81a0a05cb470b",
+      "parentId": "cluster_191_c7d81a0a05cb470b",
       "headline": "Iran Guards say targeted U.S. sites in response to strikes: state TV",
       "score": 0.6812477209716007,
       "postTreeScore": 1.2912,
@@ -95,7 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_74_8c7b3f362aca27d1",
+      "parentId": "cluster_84_8c7b3f362aca27d1",
       "headline": "Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi",
       "score": 0.6212939846283527,
       "postTreeScore": 1.0813,
@@ -115,7 +115,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_198_4ed851b745826670",
+      "parentId": "cluster_208_4ed851b745826670",
       "headline": "India Sends Relief Material To Quake-Hit Venezuela Under 'Operation Amistad' - The Quint",
       "score": 0.6196239879583165,
       "postTreeScore": 1.0596,
@@ -137,7 +137,48 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_78_f4d1cdc79b19fed0",
+      "parentId": "cluster_196_d5c09876ba1cb7ea",
+      "headline": "Sebi rejects Anil Ambani's Reliance Infra settlement application",
+      "score": 0.6583266666666667,
+      "postTreeScore": 1.0583,
+      "childCount": 2,
+      "angles": [
+        "official_response",
+        "investigative_detail"
+      ],
+      "temporalTiers": [
+        "reaction",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_297_ca383be3633f090f",
+      "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "score": 0.6632467197849983,
+      "postTreeScore": 1.0432,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "corroboration",
+        "official_response"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_88_f4d1cdc79b19fed0",
       "headline": "Govt. to launch affordable digital health management system for small clinics across India",
       "score": 0.64151,
       "postTreeScore": 1.0415,
@@ -158,7 +199,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_57_bd6f7e62ee6198e5",
+      "parentId": "cluster_67_bd6f7e62ee6198e5",
       "headline": "Indian firm, CEO among entities sanctioned by U.S. for ‘fuelling’ civil war in Sudan",
       "score": 0.62551,
       "postTreeScore": 1.0255,
@@ -179,7 +220,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_234_f991052ccfdf2e37",
+      "parentId": "cluster_245_f991052ccfdf2e37",
       "headline": "Swiss glaciers shrink as climate crisis fuels extreme heat across Europe",
       "score": 0.6285800531183316,
       "postTreeScore": 1.0086,
@@ -199,27 +240,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_285_ca383be3633f090f",
-      "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "score": 0.5952599999999999,
-      "postTreeScore": 0.9953,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "official_response"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_334_89fc7e8f9566a7eb",
+      "parentId": "cluster_347_89fc7e8f9566a7eb",
       "headline": "Trump adviser-turned-critic John Bolton pleads guilty to mishandling classified documents",
       "score": 0.5952599999999999,
       "postTreeScore": 0.9953,
@@ -239,28 +260,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_117_6d1cfb19ba32ad2d",
-      "headline": "Trump likely to visit India in 2027: Rubio",
-      "score": 0.5223566135483351,
-      "postTreeScore": 0.9024,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0.5,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_183_5cea4a01d0a96fd1",
+      "parentId": "cluster_193_5cea4a01d0a96fd1",
       "headline": "Fragments fall after an aircraft hits Beijing’s tallest building.",
       "score": 0.6803967197849983,
       "postTreeScore": 0.7504,
@@ -315,7 +315,7 @@
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.391,
+        "actual": 0.348,
         "required": "<= 0.55"
       },
       {
@@ -358,14 +358,14 @@
       "avgAngles": 2,
       "avgTemporalTiers": 1.7,
       "avgEvolutionRoles": 2.1,
-      "baseReportShare": 0.391,
+      "baseReportShare": 0.348,
       "multiAngleCount": 9,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 3,
       "topParentChildren": 3,
-      "storyCount": 569,
-      "sourceGroupCount": 10
+      "storyCount": 548,
+      "sourceGroupCount": 9
     }
   }
 }
