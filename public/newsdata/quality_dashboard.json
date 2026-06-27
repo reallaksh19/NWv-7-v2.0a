@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782558787342,
+  "generatedAt": 1782564901625,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 550,
-    "usableStories36h": 538,
+    "totalStories": 584,
+    "usableStories36h": 562,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3098,
+    "rankingOverallScore": 0.3069,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3098,
+    "overallScore": 0.3069,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782558786639,
+    "generatedAt": 1782564900936,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3837,
+      "insight": 0.372,
       "localTravel": 0,
       "upAhead": 0.8555
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3837,
+        "score": 0.372,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 20,
+        "suppressedItemCount": 17,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -112,14 +112,14 @@
       "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
       "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
       "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
-      "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre: futureValidity failed — expired display window",
-      "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre: alertUrgency failed — alert expired",
-      "Early diagnosis improves long-term outcomes in scoliosis, says expert: futureValidity failed — expired display window",
-      "Early diagnosis improves long-term outcomes in scoliosis, says expert: alertUrgency failed — alert expired",
-      "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match"
+      "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
+      "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match",
+      "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match",
+      "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
+      "Flipkart GOAT Sale & Amazon Prime Day Sale 2026 🔥Full Details, Discounts & Card Offers Explained! Bear Attack (fUYqXKdqNU) - Fathom Journal: location failed — offline/local item lacks configured location match"
     ],
     "actionRequired": [
-      "20 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "17 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-27",
-      "generatedAt": 1782558787342,
+      "generatedAt": 1782564901625,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 550,
-      "usableStories36h": 538,
+      "totalStories": 584,
+      "usableStories36h": 562,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3098,
+      "rankingOverallScore": 0.3069,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
