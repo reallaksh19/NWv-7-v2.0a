@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782552447828,
-  "contentHash": "fc37e087c33a",
+  "fetchedAt": 1782558662225,
+  "contentHash": "a7ca3962b1be",
   "breaking": [
     {
-      "title": "West Asia war LIVE: Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
-      "summary": "Iran said it ‌struck targets linked ⁠to U.S. forces in response ‌to U.S. airstrikes ‌on ‌its ⁠southern coast",
+      "title": "Iran says it hit U.S.-linked targets as Bahrain reports drone attack",
+      "summary": "Iran’s Foreign Ministry did not ⁠identify the locations of its “defensive” attacks, which it said were a response to “the barbaric air strikes” by the U.S. on its coastal surveillance facilities, which it said also violated the UN Charter",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-      "publishedAt": 1782550303000,
+      "url": "https://www.thehindu.com/news/international/iran-says-it-hits-us-linked-targets-as-bahrain-reports-drone-attack/article71154002.ece",
+      "publishedAt": 1782556650000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ad1dbd2f394658fb",
+      "id": "bb41af6658e01dc8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.45,
+      "breakingScore": 5.453,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,7 +24,53 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782550303000
+      "firstSeen": 1782556070000
+    },
+    {
+      "title": "NIA charge-sheets three more accused in Red Fort area blast case",
+      "summary": "This takes the number of persons charge-sheeted in the case to 13, including the prime accused, Umer Un Nabi, who died in the explosion",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/nia-charge-sheets-three-more-accused-in-red-fort-area-blast-case/article71154005.ece",
+      "publishedAt": 1782557499000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "8b92b06b6b307bff",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.973,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782557499000
+    },
+    {
+      "title": "Koppal highway accident: Five killed, five injured in head-on collision",
+      "summary": "All the victims were residents of Kabbar village in Rattihalli taluk of Haveri district and were travelling in an Omni van to Mantralayam via Koppal when the accident occurred.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/koppal-highway-accident-five-killed-five-injured-in-head-on-collision/article71153879.ece",
+      "publishedAt": 1782557002000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d427b3217c7f197d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.962,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782557002000
     },
     {
       "title": "US strikes Iran after attack on cargo ship",
@@ -32,14 +78,14 @@
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782548743000,
+      "publishedAt": 1782556838000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "fc9fb1e185cba7a9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.914,
+      "breakingScore": 3.958,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,7 +93,30 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782548743000
+      "firstSeen": 1782556838000
+    },
+    {
+      "title": "'22 killed, 576 arrested': Pakistan accused of brutal crackdown in PoJK at UNHRC",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132031901.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/22-killed-576-arrested-pakistan-accused-of-brutal-crackdown-in-pok-at-unhrc/articleshow/132031901.cms",
+      "publishedAt": 1782553479000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "66f43b1ae6147b0e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.88,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1782553479000
     },
     {
       "title": "Magnitude 6.5 quake hits off southern Philippines",
@@ -62,7 +131,7 @@
       "id": "756c5d04c56de94b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.855,
+      "breakingScore": 3.711,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,113 +142,42 @@
       "firstSeen": 1782546165000
     },
     {
-      "title": "Pune trekker murder: Police summon Siya Goyal's parents, brother for questioning",
-      "summary": "Siya's parents — Pravin and Puja Goyal — and brother Sahil arrived at the police station in the morning",
+      "title": "ED plea in Kerala HC seeks cancellation of bail for accused in attack on its officials",
+      "summary": "The ED moves the High Court seeking revocation of the bail granted to Harish Kumar, the ninth suspect in the attack on ED officials during a raid on former Chief Minister Pinarayi Vijayan’s residence in May, by the Thiruvananthapuram Sessions Court on June 24.",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/pune-realtor-murder-police-summon-siya-goyals-parents-brother-for-questioning/article71153910.ece",
-      "publishedAt": 1782552017000,
+      "url": "https://www.thehindu.com/news/national/kerala/ed-plea-in-kerala-hc-seeks-cancellation-of-bail-for-accused-in-attack-on-its-officials/article71154061.ece",
+      "publishedAt": 1782557403000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "5cb3b831810a5363",
+      "id": "ca469a8df58bd565",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.99,
+      "breakingScore": 2.471,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782547763000
+      "firstSeen": 1782557403000
     },
     {
-      "title": "TET postponed in Maharashtra after suspicion of paper leak",
-      "summary": "Case registered, probe on, opposition demands inquiry",
-      "source": "The Hindu",
+      "title": "Radio-collared elephant found dead in Kerala forest",
+      "summary": "A team that was tracking the movement of the elephant found the pachyderm lying motionless in the forest.",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/education/maharashtra-tet-2026-paper-leak-probe-exam-postponed-updates-latest/article71153926.ece",
-      "publishedAt": 1782551870000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/national/kerala/radio-collared-elephant-found-dead-in-kerala-forest/article71153891.ece",
+      "publishedAt": 1782555579000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "8db8cdd6aecfac64",
+      "id": "a4bd847fcf860142",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.987,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782548055000
-    },
-    {
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782550590000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "3abc4dd1321d988a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.457,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782550590000
-    },
-    {
-      "title": "US-Iran War Live Updates: Iran Accuses US Of \"Blatant Violation\" Of Peace Deal",
-      "summary": "US-Iran War Live Updates: US, Iran signed a 14-point deal to end the war on June 17",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-donald-trump-us-iran-tehran-attack-each-other-violate-ceasefire-hormuz-jd-vance-11693760#publisher=newsstand",
-      "publishedAt": 1782547226000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "2bf966420644cb02",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.379,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782547226000
-    },
-    {
-      "title": "Venezuela Earthquake: Survivors sleep in cars and under trees as they question where they’ll live after the earthquakes",
-      "summary": "Thousands of Venezuelans left suddenly homeless have since poured into parks, plazas and even the shoulders of blocked highways, looking for a place to lay their heads",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/venezuela-earthquake-survivors-sleep-in-cars-and-under-trees-as-they-question-where-theyll-live-after-the-earthquakes/article71152080.ece",
-      "publishedAt": 1782545377000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "f57d6a5d5d5f5b66",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.336,
+      "breakingScore": 2.429,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -187,7 +185,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782545377000
+      "firstSeen": 1782555579000
     }
   ]
 }
