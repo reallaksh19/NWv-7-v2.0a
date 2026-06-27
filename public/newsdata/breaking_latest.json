@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782558662225,
-  "contentHash": "a7ca3962b1be",
+  "fetchedAt": 1782562673134,
+  "contentHash": "8dbfd87dc7b2",
   "breaking": [
     {
       "title": "Iran says it hit U.S.-linked targets as Bahrain reports drone attack",
@@ -9,14 +9,14 @@
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/iran-says-it-hits-us-linked-targets-as-bahrain-reports-drone-attack/article71154002.ece",
-      "publishedAt": 1782556650000,
+      "publishedAt": 1782560231000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "bb41af6658e01dc8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.453,
+      "breakingScore": 5.443,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -25,52 +25,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782556070000
-    },
-    {
-      "title": "NIA charge-sheets three more accused in Red Fort area blast case",
-      "summary": "This takes the number of persons charge-sheeted in the case to 13, including the prime accused, Umer Un Nabi, who died in the explosion",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/nia-charge-sheets-three-more-accused-in-red-fort-area-blast-case/article71154005.ece",
-      "publishedAt": 1782557499000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "8b92b06b6b307bff",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.973,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782557499000
-    },
-    {
-      "title": "Koppal highway accident: Five killed, five injured in head-on collision",
-      "summary": "All the victims were residents of Kabbar village in Rattihalli taluk of Haveri district and were travelling in an Omni van to Mantralayam via Koppal when the accident occurred.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/koppal-highway-accident-five-killed-five-injured-in-head-on-collision/article71153879.ece",
-      "publishedAt": 1782557002000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d427b3217c7f197d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.962,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782557002000
     },
     {
       "title": "US strikes Iran after attack on cargo ship",
@@ -85,7 +39,7 @@
       "id": "fc9fb1e185cba7a9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.958,
+      "breakingScore": 3.865,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -108,7 +62,7 @@
       "id": "66f43b1ae6147b0e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.88,
+      "breakingScore": 3.787,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -119,65 +73,42 @@
       "firstSeen": 1782553479000
     },
     {
-      "title": "Magnitude 6.5 quake hits off southern Philippines",
-      "summary": "The 7.8-magnitude tremor that hit Mindanao on June 8 brought down buildings, triggered landslides and displaced thousands on the southern island, while also setting off tsunami warnings across the region",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/magnitude-65-quake-hits-off-southern-philippines/article71153214.ece",
-      "publishedAt": 1782546165000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "756c5d04c56de94b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.711,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782546165000
-    },
-    {
-      "title": "ED plea in Kerala HC seeks cancellation of bail for accused in attack on its officials",
-      "summary": "The ED moves the High Court seeking revocation of the bail granted to Harish Kumar, the ninth suspect in the attack on ED officials during a raid on former Chief Minister Pinarayi Vijayan’s residence in May, by the Thiruvananthapuram Sessions Court on June 24.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/ed-plea-in-kerala-hc-seeks-cancellation-of-bail-for-accused-in-attack-on-its-officials/article71154061.ece",
-      "publishedAt": 1782557403000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "ca469a8df58bd565",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.471,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782557403000
-    },
-    {
-      "title": "Radio-collared elephant found dead in Kerala forest",
-      "summary": "A team that was tracking the movement of the elephant found the pachyderm lying motionless in the forest.",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/radio-collared-elephant-found-dead-in-kerala-forest/article71153891.ece",
-      "publishedAt": 1782555579000,
+      "title": "President Sheikh Mohamed orders Dh10 million relief package for Venezuela quake victims",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132033818.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Venezuela is reeling from devastating earthquakes, with rescue teams desperately searching for survivors. In a swift response, the United Arab Emirates has pledged Dh10 million in emergency humanitarian aid, directed by President His Highness Sheikh Mohamed bin Zayed Al Nahyan. This significant contribution underscores the UAE's unwavering commitment to global humanitarian assistance during times of crisis, offering crucial support to the disaster-stricken nation.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/president-sheikh-mohamed-orders-dh10-million-relief-package-for-venezuela-quake-victims/articleshow/132033818.cms",
+      "publishedAt": 1782560553000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "a4bd847fcf860142",
+      "id": "408fbca31266f4bd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.429,
+      "breakingScore": 2.451,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1782560553000
+    },
+    {
+      "title": "Politics: where the versatile Bhagyaraj could not make a dent",
+      "summary": "Actor-director K. Bhagyaraj passed away following a heart attack on Saturday; known for his versatility in the film world, Mr. Bhagyaraj, however, had a political stint that did not take off",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/politics-where-the-versatile-bhagyaraj-could-not-make-a-dent/article71153679.ece",
+      "publishedAt": 1782559684000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "c90186d5f4781419",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.431,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -185,7 +116,76 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782555579000
+      "firstSeen": 1782559684000
+    },
+    {
+      "title": "YSRCP Alleges Attack By TDP Supporters Over Amaravati Land Row",
+      "summary": "It triggered a political blame game between the ruling TDP and the opposition YSRCP",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/andhra-pradesh-news/ysrcp-alleges-attack-by-tdp-supporters-over-amaravati-land-row-11695034#publisher=newsstand",
+      "publishedAt": 1782556932000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "195afdfbe8d579fe",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.367,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782556932000
+    },
+    {
+      "title": "Venezuela Earthquake Crisis Tests Legitimacy Of Delcy Rodriguez Regime",
+      "summary": "Rodriguez's administration has raced to rescue victims, restore infrastructure",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquake-crisis-tests-legitimacy-of-delcy-rodriguez-regime-11694833#publisher=newsstand",
+      "publishedAt": 1782553253000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "2868a725d70445c9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.282,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782553253000
+    },
+    {
+      "title": "Venezuela Earthquakes Live: New 4.9 Magnitude Earthquake Hits Venezuela",
+      "summary": "7.5 Magnitude Earthquake in Venezuela Updates: The first earthquake had a magnitude of 7.2",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand",
+      "publishedAt": 1782552938000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "00d5792a25c5e655",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.275,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782551700000
     }
   ]
 }
