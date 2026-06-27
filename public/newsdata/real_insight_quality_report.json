@@ -1,19 +1,19 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782518236228,
-  "contentHash": "1fdf5617a52a8a50",
+  "generatedAt": 1782538385649,
+  "contentHash": "274ca8757b98f9a8",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 568,
-  "sourceGroupCount": 9,
+  "storyCount": 556,
+  "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
-  "avgAngles": 1.5,
-  "avgTemporalTiers": 1.7,
-  "avgEvolutionRoles": 1.8,
-  "baseReportShare": 0.13636363636363635,
-  "multiAngleCount": 5,
+  "avgAngles": 1.7,
+  "avgTemporalTiers": 1.5,
+  "avgEvolutionRoles": 1.9,
+  "baseReportShare": 0.2727272727272727,
+  "multiAngleCount": 7,
   "weakParentCount": 0,
   "runtimeQualityGate": {
     "attempted": false,
@@ -23,58 +23,78 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 62,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 523,
+      "storyCount": 505,
       "risingCount": 1,
       "thinCount": 0,
-      "multiAngleCount": 5,
-      "lowAngleCount": 5,
+      "multiAngleCount": 7,
+      "lowAngleCount": 3,
       "strongAngleCount": 0,
-      "avgAngles": 1.5,
+      "avgAngles": 1.7,
       "avgChildren": 2.2,
-      "avgScore": 0.6243806109088249,
+      "avgScore": 0.6479292024309944,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 5,
-      "coverageLabel": "5/10",
+      "coverageLabel": "7/10",
       "warnings": [
-        "5 cluster(s) have fewer than two visible child angles.",
+        "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "5 cluster(s) have weak snapshot coverage.",
-        "450 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "510 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 62,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 523,
+      "storyCount": 505,
       "risingCount": 1,
       "thinCount": 0,
-      "multiAngleCount": 5,
-      "lowAngleCount": 5,
+      "multiAngleCount": 7,
+      "lowAngleCount": 3,
       "strongAngleCount": 0,
-      "avgAngles": 1.5,
+      "avgAngles": 1.7,
       "avgChildren": 2.2,
-      "avgScore": 0.6243806109088249,
+      "avgScore": 0.6479292024309944,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 5,
-      "coverageLabel": "5/10",
+      "coverageLabel": "7/10",
       "warnings": [
-        "5 cluster(s) have fewer than two visible child angles.",
+        "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "5 cluster(s) have weak snapshot coverage.",
-        "450 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "510 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_189_34f76e47b1c81982",
+      "parentId": "cluster_39_f991052ccfdf2e37",
+      "headline": "Swiss glaciers shrink as climate crisis fuels extreme heat across Europe",
+      "score": 0.6725800531183317,
+      "postTreeScore": 1.0726,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "expert_analysis"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "cause_claim"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_261_34f76e47b1c81982",
       "headline": "What's a 'doublet' earthquake? Science behind Venezuela’s strongest quake in over a century",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -95,51 +115,30 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_186_8aa9a35c4511f801",
-      "headline": "Japan PM to visit India next week",
-      "score": 0.6452600000000001,
-      "postTreeScore": 1.0453,
+      "parentId": "cluster_47_cd8f4d40b83f2ad0",
+      "headline": "US approves limited rollout of Anthropic's Mythos 5 AI model",
+      "score": 0.6605800531183317,
+      "postTreeScore": 1.0606,
       "childCount": 2,
       "angles": [
-        "fact_update",
+        "base_report",
         "official_response"
       ],
       "temporalTiers": [
-        "breaking",
-        "developing"
+        "breaking"
       ],
       "evolutionRoles": [
         "first_report",
         "official_response"
       ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_23_ca383be3633f090f",
-      "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "score": 0.5752600000000001,
-      "postTreeScore": 0.9753,
-      "childCount": 2,
-      "angles": [
-        "base_report",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "corroboration",
-        "official_response"
-      ],
       "baseReportShare": 0.5,
       "weakTree": false
     },
     {
-      "parentId": "cluster_118_50af1b7630fefa8b",
+      "parentId": "cluster_186_50af1b7630fefa8b",
       "headline": "Small aircraft crashes into Beijing's tallest skyscraper",
-      "score": 0.5724232802150018,
-      "postTreeScore": 0.9724,
+      "score": 0.6723967197849983,
+      "postTreeScore": 1.0524,
       "childCount": 2,
       "angles": [
         "base_report",
@@ -156,10 +155,51 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_65_89fc7e8f9566a7eb",
+      "parentId": "cluster_44_fc9fb1e185cba7a9",
+      "headline": "US conducts strikes on Iran after attack on cargo ship",
+      "score": 0.5730606512950195,
+      "postTreeScore": 1.0131,
+      "childCount": 3,
+      "angles": [
+        "base_report",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "corroboration"
+      ],
+      "baseReportShare": 0.3333333333333333,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_84_ca383be3633f090f",
+      "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "score": 0.5952599999999999,
+      "postTreeScore": 0.9953,
+      "childCount": 2,
+      "angles": [
+        "base_report",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "corroboration",
+        "official_response"
+      ],
+      "baseReportShare": 0.5,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_130_89fc7e8f9566a7eb",
       "headline": "Trump adviser-turned-critic John Bolton pleads guilty to mishandling classified documents",
-      "score": 0.5392732802150018,
-      "postTreeScore": 0.9193,
+      "score": 0.5952599999999999,
+      "postTreeScore": 0.9953,
       "childCount": 2,
       "angles": [
         "regional_followup",
@@ -176,10 +216,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_290_c62dd2a6444ae074",
+      "parentId": "cluster_365_c62dd2a6444ae074",
       "headline": "Venezuela health minister says around 235 people dead, 4,300 injured in catastrophic earthquakes",
-      "score": 0.6479573212916498,
-      "postTreeScore": 0.778,
+      "score": 0.6679143876382674,
+      "postTreeScore": 0.7779,
       "childCount": 3,
       "angles": [
         "fact_update"
@@ -195,7 +235,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_318_b6fda6a3b32fd962",
+      "parentId": "cluster_394_b6fda6a3b32fd962",
       "headline": "US weekly jobless claims drop more than expected",
       "score": 0.6814967197849984,
       "postTreeScore": 0.7515,
@@ -215,7 +255,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_293_7280205e979df865",
+      "parentId": "cluster_368_7280205e979df865",
       "headline": "UN agency pauses evacuation of ships through Strait of Hormuz after attack on vessel",
       "score": 0.6792467197849983,
       "postTreeScore": 0.7492,
@@ -226,45 +266,6 @@
       "temporalTiers": [
         "breaking",
         "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_170_23a0cee758d791d1",
-      "headline": "Death toll in Kolkata warehouse collapse rises to 15",
-      "score": 0.6535487346782661,
-      "postTreeScore": 0.7435,
-      "childCount": 3,
-      "angles": [
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
-      ],
-      "evolutionRoles": [
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_459_0e20700dc35a1f84",
-      "headline": "India says 'very close' to trade deal with US - Reuters",
-      "score": 0.5678433333333333,
-      "postTreeScore": 0.6578,
-      "childCount": 2,
-      "angles": [
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "reaction"
       ],
       "evolutionRoles": [
         "first_report",
@@ -297,25 +298,25 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 1.5,
+        "actual": 1.7,
         "required": ">= 1.4"
       },
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.8,
+        "actual": 1.9,
         "required": ">= 1.6"
       },
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.136,
+        "actual": 0.273,
         "required": "<= 0.55"
       },
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 5,
+        "actual": 7,
         "required": ">= 1"
       },
       {
@@ -341,7 +342,7 @@
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.7,
+        "actual": 1.5,
         "required": ">= 1.8",
         "severity": "fail",
         "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
@@ -349,17 +350,17 @@
     ],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.5,
-      "avgTemporalTiers": 1.7,
-      "avgEvolutionRoles": 1.8,
-      "baseReportShare": 0.136,
-      "multiAngleCount": 5,
+      "avgAngles": 1.7,
+      "avgTemporalTiers": 1.5,
+      "avgEvolutionRoles": 1.9,
+      "baseReportShare": 0.273,
+      "multiAngleCount": 7,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 568,
-      "sourceGroupCount": 9
+      "storyCount": 556,
+      "sourceGroupCount": 10
     }
   }
 }
