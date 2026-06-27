@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782596209986,
-  "contentHash": "20499743fd6b",
+  "fetchedAt": 1782600201437,
+  "contentHash": "7eccb287e0a1",
   "breaking": [
     {
       "title": "Venezuela jolted again: 5.6-magnitude earthquake strikes Aragua amid rescue efforts",
@@ -16,7 +16,7 @@
       "id": "5eb2558a37b5f718",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 7.357,
+      "breakingScore": 7.265,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -41,7 +41,7 @@
       "id": "ba7f5f05624447c1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.752,
+      "breakingScore": 5.659,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -52,29 +52,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782582561000
-    },
-    {
-      "title": "West Asia war LIVE: Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
-      "summary": "Netanyahu says deal with Lebanon 'historic'; Israeli airstrikes in southern Lebanon kills at least one person",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-      "publishedAt": 1782595080000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "ad1dbd2f394658fb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.474,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782595080000
     },
     {
       "title": "Six terrorists killed, one captured after Rangers’ base attack in Pakistan’s Karachi",
@@ -89,7 +66,7 @@
       "id": "4fb54d532ee8f753",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.441,
+      "breakingScore": 5.349,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -99,6 +76,54 @@
         "the_hindu"
       ],
       "firstSeen": 1782585554000
+    },
+    {
+      "title": "West Asia war LIVE: U.S. conducts further strikes against 'multiple targets' in Iran",
+      "summary": "Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+      "publishedAt": 1782598100000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "ad1dbd2f394658fb",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.951,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782598100000
+    },
+    {
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782596140000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "50ae3d3c131c215c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.906,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "bbc",
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782579070000
     },
     {
       "title": "Ukraine, Russia airstrikes kill 5, wound dozens",
@@ -113,7 +138,7 @@
       "id": "26c454eb23a1ba66",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.595,
+      "breakingScore": 3.503,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -124,28 +149,27 @@
       "firstSeen": 1782578713000
     },
     {
-      "title": "Hezbollah chief calls U.S.-Israel-Lebanon deal 'grave blunder', deems it null and void",
-      "summary": "Hezbollah leader Qassem called on the government to withdraw from \"its sins that are ruining Lebanon\".",
-      "source": "The Hindu International",
+      "title": "Pune fort murder | The scorpion’s sting",
+      "summary": "Ketan Agarwal was engaged to Siya Goyal in February and a lavish wedding was planned for November. On June 18, Ketan was found dead at the bottom of a 400-foot gorge at Lohagad Fort in Pune. What followed was a police investigation that peeled back, layer by layer, a plot allegedly months in the making",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/hezbollah-chief-calls-us-israel-lebanon-deal-grave-blunder-deems-it-null-and-void/article71155373.ece",
-      "publishedAt": 1782579938000,
-      "category": "world",
+      "url": "https://www.thehindu.com/news/national/maharashtra/pune-fort-murder-the-scorpions-sting/article71150293.ece",
+      "publishedAt": 1782592012000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "1a3944d01fd09ff7",
+      "id": "f6af332318c9fcf9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.623,
+      "breakingScore": 2.31,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782579070000
+      "firstSeen": 1782592012000
     },
     {
       "title": "Man arrested for allegedly cheating private schools across Tamil Nadu of over ₹100 crore",
@@ -160,7 +184,7 @@
       "id": "fc6fa60f5487f8d4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.325,
+      "breakingScore": 2.233,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -169,29 +193,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782588661000
-    },
-    {
-      "title": "Ram Temple Trust general secretary, member step down",
-      "summary": "Trust promises fair investigation into the donation embezzlement case in which eight have been arrested; it assures devotees that their offerings are safe, reiterates that the guilty will be punished",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-row-champat-rai-anil-mishra-resign/article71154173.ece",
-      "publishedAt": 1782587764000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "5a685134ef825eed",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.304,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782587764000
     }
   ]
 }
