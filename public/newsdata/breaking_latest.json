@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782591568246,
-  "contentHash": "aaf83e032f46",
+  "fetchedAt": 1782596209986,
+  "contentHash": "20499743fd6b",
   "breaking": [
     {
       "title": "Venezuela jolted again: 5.6-magnitude earthquake strikes Aragua amid rescue efforts",
@@ -16,7 +16,7 @@
       "id": "5eb2558a37b5f718",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 7.465,
+      "breakingScore": 7.357,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -27,30 +27,6 @@
         "times_of_india"
       ],
       "firstSeen": 1782585085000
-    },
-    {
-      "title": "West Asia war LIVE: Netanyahu says deal with Lebanon 'historic' for Israel",
-      "summary": "Israeli airstrikes on the southern Lebanese town of Nabatieh al-Fawqa killed at least one person and wounded two more, the health ministry said",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-      "publishedAt": 1782589659000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "ad1dbd2f394658fb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.956,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782579070000
     },
     {
       "title": "Venezuela earthquake: Death toll rises to 1,430 as rescuers continue search for survivors",
@@ -65,7 +41,7 @@
       "id": "ba7f5f05624447c1",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.859,
+      "breakingScore": 5.752,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -78,25 +54,49 @@
       "firstSeen": 1782582561000
     },
     {
-      "title": "Explosion, Gunfire In Pakistan's Karachi, 3 Army Rangers Dead: Local Media",
-      "summary": "Special units such as the Rapid Response Force and police commandos were dispatched to the scene",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/explosion-gunfire-in-pakistans-karachi-3-army-rangers-dead-local-media-11696472#publisher=newsstand",
-      "publishedAt": 1782585554000,
+      "title": "West Asia war LIVE: Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
+      "summary": "Netanyahu says deal with Lebanon 'historic'; Israeli airstrikes in southern Lebanon kills at least one person",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+      "publishedAt": 1782595080000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "97370064adfcde43",
+      "id": "ad1dbd2f394658fb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.861,
+      "breakingScore": 5.474,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
+      ],
+      "firstSeen": 1782595080000
+    },
+    {
+      "title": "Six terrorists killed, one captured after Rangers’ base attack in Pakistan’s Karachi",
+      "summary": "Four soldiers dead; attack claimed by Jamaat-ul-Ahrar, a militant faction of the TTP that has largely operated in Khyber Pakhtunkhwa province bordering Afghanistan",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-karachi-explosion-gunfire-updates/article71155477.ece",
+      "publishedAt": 1782593678000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4fb54d532ee8f753",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 5.441,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
       ],
       "firstSeen": 1782585554000
     },
@@ -113,7 +113,7 @@
       "id": "26c454eb23a1ba66",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.702,
+      "breakingScore": 3.595,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -122,6 +122,30 @@
         "the_hindu"
       ],
       "firstSeen": 1782578713000
+    },
+    {
+      "title": "Hezbollah chief calls U.S.-Israel-Lebanon deal 'grave blunder', deems it null and void",
+      "summary": "Hezbollah leader Qassem called on the government to withdraw from \"its sins that are ruining Lebanon\".",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/hezbollah-chief-calls-us-israel-lebanon-deal-grave-blunder-deems-it-null-and-void/article71155373.ece",
+      "publishedAt": 1782579938000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "1a3944d01fd09ff7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.623,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782579070000
     },
     {
       "title": "Man arrested for allegedly cheating private schools across Tamil Nadu of over ₹100 crore",
@@ -136,7 +160,7 @@
       "id": "fc6fa60f5487f8d4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.433,
+      "breakingScore": 2.325,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -159,7 +183,7 @@
       "id": "5a685134ef825eed",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.412,
+      "breakingScore": 2.304,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -168,29 +192,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782587764000
-    },
-    {
-      "title": "Terrorists storm paramilitary headquarters in Pakistan’s Karachi; three personnel killed",
-      "summary": "The area was cordoned off and surrounding roads also closed",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/pakistan-karachi-explosion-gunfire-updates/article71155477.ece",
-      "publishedAt": 1782584733000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "4fb54d532ee8f753",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.342,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782584733000
     }
   ]
 }
