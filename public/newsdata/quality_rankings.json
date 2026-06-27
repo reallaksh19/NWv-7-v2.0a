@@ -53,18 +53,18 @@
     },
     "insight": {
       "actionableFindings": [
-        "2 base-report-heavy Insight parent(s) demoted"
+        "1 base-report-heavy Insight parent(s) demoted"
       ],
       "destination": "insight",
       "diagnosticReasons": [],
       "gateResults": [
         {
           "details": {
-            "itemCount": 5
+            "itemCount": 4
           },
           "name": "insightEventPool",
           "reason": "rankable Insight event pool",
-          "score": 0.8333,
+          "score": 0.6667,
           "status": "PASS"
         },
         {
@@ -77,11 +77,11 @@
       ],
       "gateSummary": {
         "avgAnglesPerParent": 0.0,
-        "baseReportHeavyParents": 2,
+        "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0,
-        "inputCandidateCount": 5,
-        "parentClusters": 5,
-        "strongParents": 5,
+        "inputCandidateCount": 4,
+        "parentClusters": 4,
+        "strongParents": 4,
         "suppressedCandidateCount": 0,
         "weakParentsDemoted": 0
       },
@@ -430,116 +430,6 @@
           "gates": [
             {
               "details": {
-                "storyCount": 4
-              },
-              "name": "eventCoherence",
-              "reason": "event sketch has repeated story count",
-              "score": 0.62,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0,
-                "distinctAngles": 0
-              },
-              "name": "angleDiversity",
-              "reason": "weak child angle diversity",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "sourceGroupCount": 1
-              },
-              "name": "sourceDiversity",
-              "reason": "one-source event candidate",
-              "score": 0.35,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "baseReportRatio": 1.0
-              },
-              "name": "baseReportCap",
-              "reason": "base-report dominated event candidate",
-              "score": 0.25,
-              "status": "WARN"
-            },
-            {
-              "details": {
-                "childCount": 4
-              },
-              "name": "weakTree",
-              "reason": "child tree has enough depth",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "duplicateChildren",
-              "reason": "no child objects to dedup",
-              "score": 0.7,
-              "status": "PASS"
-            }
-          ],
-          "id": "sketch:c1c58008d6",
-          "item": {
-            "angleCount": 1,
-            "baseReportRatio": 1.0,
-            "childScores": [],
-            "id": "sketch:c1c58008d6",
-            "representativeId": "fff45325db82b942",
-            "representativeTitle": "Top news of the day: June 7, 2026 - The Hindu",
-            "scoreBreakdown": {
-              "angleDiversityScore": 0.25,
-              "eventImportanceScore": 0.83,
-              "freshnessScore": 0.0,
-              "noveltyDeltaScore": 0.44999999999999996,
-              "sourceAuthorityScore": 0.38,
-              "sourceDiversityScore": 0.35,
-              "temporalEvolutionScore": 0.37
-            },
-            "slotCount": 1,
-            "slots": [
-              "now"
-            ],
-            "sourceGroupCount": 1,
-            "sourceGroups": [
-              "google_news"
-            ],
-            "storyCount": 4,
-            "storyIds": [
-              "fff45325db82b942",
-              "6a190a01e6364bd3",
-              "c6223898b19831d2",
-              "1efb28cd448db91a"
-            ],
-            "topAngles": [
-              {
-                "angle": "base_report",
-                "count": 4
-              }
-            ],
-            "topTokens": [
-              "june",
-              "hindu"
-            ],
-            "topicKey": "june|hindu"
-          },
-          "locationKey": "event",
-          "rankingReasons": [
-            "event sketch has repeated story count",
-            "weak child angle diversity",
-            "one-source event candidate"
-          ],
-          "score": 0.2021,
-          "title": "Top news of the day: June 7, 2026 - The Hindu"
-        },
-        {
-          "category": "insightEvent",
-          "gates": [
-            {
-              "details": {
                 "storyCount": 2
               },
               "name": "eventCoherence",
@@ -650,12 +540,12 @@
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.25,
-        "eventImportanceScore": 0.638,
+        "eventImportanceScore": 0.59,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.47,
-        "sourceAuthorityScore": 0.428,
-        "sourceDiversityScore": 0.424,
-        "temporalEvolutionScore": 0.418
+        "noveltyDeltaScore": 0.475,
+        "sourceAuthorityScore": 0.44,
+        "sourceDiversityScore": 0.4425,
+        "temporalEvolutionScore": 0.43
       }
     },
     "localTravel": {
@@ -715,7 +605,7 @@
     },
     "upAhead": {
       "actionableFindings": [
-        "16 invalid/expired/duplicate Up Ahead item(s) suppressed",
+        "22 invalid/expired/duplicate Up Ahead item(s) suppressed",
         "no active offer items in ranked Up Ahead set",
         "no ranked Up Ahead item for muscat",
         "ranked Up Ahead set is category-dominated"
@@ -730,14 +620,18 @@
         "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
         "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
         "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
+        "Weather Tomorrow June 27: IMD sounds heavy rain alert for Kerala, Karnataka, Odisha, Gujarat and Assam; th - The Economic Times: futureValidity failed — expired display window",
+        "Weather Tomorrow June 27: IMD sounds heavy rain alert for Kerala, Karnataka, Odisha, Gujarat and Assam; th - The Economic Times: alertUrgency failed — alert expired",
+        "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges: futureValidity failed — expired display window",
+        "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges: alertUrgency failed — alert expired",
+        "Man from Rajasthan arrested for creating fake websites of Yatri Nivas at Srirangam: futureValidity failed — expired display window",
+        "Man from Rajasthan arrested for creating fake websites of Yatri Nivas at Srirangam: alertUrgency failed — alert expired",
+        "Tiruvallur police arrest the main agent who brought migrant workers from Odisha to the sea food processing unit: futureValidity failed — expired display window",
+        "Tiruvallur police arrest the main agent who brought migrant workers from Odisha to the sea food processing unit: alertUrgency failed — alert expired",
+        "Police launch probe after girl suffers shock from solar-powered private fence at Thuraiyur: futureValidity failed — expired display window",
+        "Police launch probe after girl suffers shock from solar-powered private fence at Thuraiyur: alertUrgency failed — alert expired",
         "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-        "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match",
-        "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match",
-        "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
-        "Flipkart GOAT Sale & Amazon Prime Day Sale 2026 🔥Full Details, Discounts & Card Offers Explained! Bear Attack (fUYqXKdqNU) - Fathom Journal: location failed — offline/local item lacks configured location match",
-        "I Rarely Shop on Amazon, But When I Do, It’s for This - Vogue: location failed — offline/local item lacks configured location match",
-        "The 11+ weirdest things we found on sale this Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-        "The best Prime Day deals on gaming laptop: Shop Acer, ASUS, and more starting at $1,099.99 - Mashable: location failed — offline/local item lacks configured location match"
+        "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match"
       ],
       "gateResults": [
         {
@@ -770,8 +664,8 @@
         "festivals": 0,
         "inputItemCount": 80,
         "locationCounts": {
-          "chennai": 24,
-          "trichy": 6
+          "chennai": 25,
+          "trichy": 5
         },
         "locationsCovered": [
           "chennai",
@@ -781,7 +675,7 @@
         "onlineOffers": 0,
         "plannerAdvisoryItems": 29,
         "rankedItemCount": 30,
-        "suppressedItemCount": 16
+        "suppressedItemCount": 22
       },
       "qualityGrade": "B",
       "qualityScore": 0.8555,
@@ -2861,121 +2755,6 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "c898e1ce88ae9485"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1782573049000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "trichy",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "4decd05ab8876376",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Trichy",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1782573049000,
-            "id": "4decd05ab8876376",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783177849000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1782573049000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 0.9,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1782486649000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Trichy",
-            "sourceGroup": "the_hindu",
-            "summary": "",
-            "suppressionReason": null,
-            "title": "Police launch probe after girl suffers shock from solar-powered private fence at Thuraiyur",
-            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/police-launch-probe-after-girl-suffers-shock-from-solar-powered-private-fence-at-thuraiyur/article71151100.ece"
-          },
-          "locationKey": "trichy",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Police launch probe after girl suffers shock from solar-powered private fence at Thuraiyur"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
                 "dedupKey": "f72d05753a3a9daf"
               },
               "name": "dedup",
@@ -3430,121 +3209,6 @@
           ],
           "score": 0.8485,
           "title": "Support your local artist, says Naga illustrator Canato Jimo"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "b1797e243e00f622"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1782573373000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "trichy",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "793e85a0feae03f2",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Trichy",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1782573373000,
-            "id": "793e85a0feae03f2",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783178173000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1782573373000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 0.9,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1782486973000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Trichy",
-            "sourceGroup": "the_hindu",
-            "summary": "Training centres are conducting free courses in programming languages such as C++, Python and Java under the Pradhan Mantri Kaushal Kendra scheme",
-            "suppressionReason": null,
-            "title": "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges",
-            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/tech-driven-certificate-courses-supplement-computer-education-in-tiruchis-schools-and-colleges/article71150996.ece"
-          },
-          "locationKey": "trichy",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges"
         },
         {
           "category": "alerts",
@@ -4126,7 +3790,7 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "4db920c60bba5785"
+                "dedupKey": "5a3ae160da8e5286"
               },
               "name": "dedup",
               "reason": "unique item",
@@ -4135,7 +3799,7 @@
             },
             {
               "details": {
-                "displayUntil": 1782573269000
+                "displayUntil": 1782650990000
               },
               "name": "futureValidity",
               "reason": "valid undated item with active display window",
@@ -4181,7 +3845,122 @@
               "status": "PASS"
             }
           ],
-          "id": "cdf9ba88f12836cc",
+          "id": "26941d31bcabaa7b",
+          "item": {
+            "actionabilityScore": 1.0,
+            "category": "alerts",
+            "city": "Trichy",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1782650990000,
+            "id": "26941d31bcabaa7b",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783255790000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1782650990000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 0.9,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1782564590000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Trichy",
+            "sourceGroup": "the_hindu",
+            "summary": "NHAI has decided to replace expansion joints and 120 bearings on the old Cauvery bridge at an estimated cost of ₹10 crore; residents have been demanding construction of limited use underpass at Sanjeevi Nagar junction",
+            "suppressionReason": null,
+            "title": "Villagers’ protest disrupts traffic on Chennai-Tiruchi highway as NHAI begins repairs on Cauvery bridge",
+            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/villagers-protest-disrupts-traffic-on-chennai-tiruchi-highway-as-nhai-begins-repairs-on-cauvery-bridge/article71154344.ece"
+          },
+          "locationKey": "trichy",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Villagers’ protest disrupts traffic on Chennai-Tiruchi highway as NHAI begins repairs on Cauvery bridge"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "5dade0abf6621a8a"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1782608546000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "d66ed7cc854eb5f8",
           "item": {
             "actionabilityScore": 0.7,
             "category": "alerts",
@@ -4191,13 +3970,13 @@
             "dateSource": "none",
             "eventEndAt": null,
             "eventStartAt": null,
-            "expiryAt": 1782573269000,
-            "id": "cdf9ba88f12836cc",
+            "expiryAt": 1782608546000,
+            "id": "d66ed7cc854eb5f8",
             "language": "en",
             "lifecycle": {
-              "archiveUntil": 1783178069000,
+              "archiveUntil": 1783213346000,
               "contentClass": "upahead_alert",
-              "displayUntil": 1782573269000,
+              "displayUntil": 1782608546000,
               "isActionValid": true,
               "isVisible": true,
               "plannerEligibleByLifecycle": true,
@@ -4208,7 +3987,7 @@
             "localityScore": 1.0,
             "normalizedCategory": "alerts",
             "plannerEligible": true,
-            "publishedAt": 1782486869000,
+            "publishedAt": 1782522146000,
             "region": "tn",
             "scoreBreakdown": {
               "actionabilityScore": 1.0,
@@ -4221,10 +4000,10 @@
             },
             "source": "The Hindu Chennai",
             "sourceGroup": "the_hindu",
-            "summary": "",
+            "summary": "The WRD held joint inspection with various stakeholders in a portion of the river on June 25",
             "suppressionReason": null,
-            "title": "Tiruvallur police arrest the main agent who brought migrant workers from Odisha to the sea food processing unit",
-            "url": "https://www.thehindu.com/news/cities/chennai/tiruvallurpolice-arrest-the-main-agent-who-brought-migrant-workers-from-odisha-to-the-sea-food-processing-unit/article71150723.ece"
+            "title": "WRD plans community-led effort to rejuvenate upper reaches of the Cooum river",
+            "url": "https://www.thehindu.com/news/cities/chennai/wrd-plans-community-led-effort-to-rejuvenate-upper-reaches-of-the-cooum-river/article71142261.ece"
           },
           "locationKey": "chennai",
           "rankingReasons": [
@@ -4234,7 +4013,122 @@
             "planner advisory fit"
           ],
           "score": 0.8485,
-          "title": "Tiruvallur police arrest the main agent who brought migrant workers from Odisha to the sea food processing unit"
+          "title": "WRD plans community-led effort to rejuvenate upper reaches of the Cooum river"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "e91b178ef366dbb7"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1782644733000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "12068ea343a12c6d",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1782644733000,
+            "id": "12068ea343a12c6d",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783249533000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1782644733000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1782558333000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "Tamil Nadu Chief Minister C. Joseph Vijay said the veteran filmmaker and actor will be laid to rest with full State honours",
+            "suppressionReason": null,
+            "title": "‘Great loss to Indian cinema’: Condolences pour in for actor-director Bhagyaraj",
+            "url": "https://www.thehindu.com/entertainment/movies/great-loss-to-indian-cinema-condolences-pour-in-for-actor-director-bhagyaraj/article71153528.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "‘Great loss to Indian cinema’: Condolences pour in for actor-director Bhagyaraj"
         }
       ],
       "rankingProfile": "upAhead-v2-lifecycle-location-category",
@@ -4249,7 +4143,7 @@
       }
     }
   },
-  "generatedAt": 1782572680922,
+  "generatedAt": 1782576031826,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4268,7 +4162,7 @@
   "schemaVersion": 1,
   "summary": {
     "actionRequired": [
-      "16 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "22 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -4279,7 +4173,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted"
+      "1 base-report-heavy Insight parent(s) demoted"
     ],
     "destinationScores": {
       "buzz": 0.0,
@@ -4310,14 +4204,18 @@
       "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
       "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
       "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
+      "Weather Tomorrow June 27: IMD sounds heavy rain alert for Kerala, Karnataka, Odisha, Gujarat and Assam; th - The Economic Times: futureValidity failed — expired display window",
+      "Weather Tomorrow June 27: IMD sounds heavy rain alert for Kerala, Karnataka, Odisha, Gujarat and Assam; th - The Economic Times: alertUrgency failed — alert expired",
+      "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges: futureValidity failed — expired display window",
+      "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges: alertUrgency failed — alert expired",
+      "Man from Rajasthan arrested for creating fake websites of Yatri Nivas at Srirangam: futureValidity failed — expired display window",
+      "Man from Rajasthan arrested for creating fake websites of Yatri Nivas at Srirangam: alertUrgency failed — alert expired",
+      "Tiruvallur police arrest the main agent who brought migrant workers from Odisha to the sea food processing unit: futureValidity failed — expired display window",
+      "Tiruvallur police arrest the main agent who brought migrant workers from Odisha to the sea food processing unit: alertUrgency failed — alert expired",
+      "Police launch probe after girl suffers shock from solar-powered private fence at Thuraiyur: futureValidity failed — expired display window",
+      "Police launch probe after girl suffers shock from solar-powered private fence at Thuraiyur: alertUrgency failed — alert expired",
       "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-      "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match",
-      "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match",
-      "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
-      "Flipkart GOAT Sale & Amazon Prime Day Sale 2026 🔥Full Details, Discounts & Card Offers Explained! Bear Attack (fUYqXKdqNU) - Fathom Journal: location failed — offline/local item lacks configured location match",
-      "I Rarely Shop on Amazon, But When I Do, It’s for This - Vogue: location failed — offline/local item lacks configured location match",
-      "The 11+ weirdest things we found on sale this Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-      "The best Prime Day deals on gaming laptop: Shop Acer, ASUS, and more starting at $1,099.99 - Mashable: location failed — offline/local item lacks configured location match"
+      "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match"
     ]
   }
 }

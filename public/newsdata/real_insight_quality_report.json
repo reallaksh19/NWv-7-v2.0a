@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782572679886,
-  "contentHash": "a0af227c529472ba",
+  "generatedAt": 1782576030642,
+  "contentHash": "473ef8a05986625f",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 592,
+  "storyCount": 596,
   "sourceGroupCount": 9,
   "grade": "B",
   "parentCount": 10,
   "avgAngles": 2,
-  "avgTemporalTiers": 1.8,
+  "avgTemporalTiers": 1.7,
   "avgEvolutionRoles": 2.1,
-  "baseReportShare": 0.36363636363636365,
+  "baseReportShare": 0.34782608695652173,
   "multiAngleCount": 9,
   "weakParentCount": 0,
   "runtimeQualityGate": {
@@ -23,59 +23,59 @@
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 67,
+      "signalScore": 69,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 543,
-      "risingCount": 0,
+      "storyCount": 545,
+      "risingCount": 1,
       "thinCount": 0,
       "multiAngleCount": 9,
       "lowAngleCount": 1,
       "strongAngleCount": 1,
       "avgAngles": 2,
-      "avgChildren": 2.2,
-      "avgScore": 0.6406991521723292,
+      "avgChildren": 2.3,
+      "avgScore": 0.6402995852913265,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "9/10",
       "warnings": [
         "1 cluster(s) have fewer than two visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
-        "491 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "511 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "B",
       "tone": "info",
       "title": "Useful insight signal",
-      "signalScore": 67,
+      "signalScore": 69,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 543,
-      "risingCount": 0,
+      "storyCount": 545,
+      "risingCount": 1,
       "thinCount": 0,
       "multiAngleCount": 9,
       "lowAngleCount": 1,
       "strongAngleCount": 1,
       "avgAngles": 2,
-      "avgChildren": 2.2,
-      "avgScore": 0.6406991521723292,
+      "avgChildren": 2.3,
+      "avgScore": 0.6402995852913265,
       "sourceDiversityCoverage": 10,
       "snapshotCoverage": 6,
       "coverageLabel": "9/10",
       "warnings": [
         "1 cluster(s) have fewer than two visible child angles.",
         "4 cluster(s) have weak snapshot coverage.",
-        "491 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "511 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_98_c7d81a0a05cb470b",
+      "parentId": "cluster_114_c7d81a0a05cb470b",
       "headline": "Iran Guards say targeted U.S. sites in response to strikes: state TV",
-      "score": 0.6052906546249831,
-      "postTreeScore": 1.2353,
+      "score": 0.6812477209716007,
+      "postTreeScore": 1.2912,
       "childCount": 3,
       "angles": [
         "base_report",
@@ -95,28 +95,27 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_381_8aa9a35c4511f801",
-      "headline": "Japan PM to visit India next week",
-      "score": 0.7012467197849983,
-      "postTreeScore": 1.0812,
-      "childCount": 2,
+      "parentId": "cluster_14_8c7b3f362aca27d1",
+      "headline": "Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi",
+      "score": 0.6212939846283527,
+      "postTreeScore": 1.0813,
+      "childCount": 3,
       "angles": [
-        "fact_update",
+        "regional_followup",
         "official_response"
       ],
       "temporalTiers": [
-        "breaking",
-        "developing"
+        "breaking"
       ],
       "evolutionRoles": [
         "first_report",
-        "official_response"
+        "corroboration"
       ],
       "baseReportShare": 0,
       "weakTree": false
     },
     {
-      "parentId": "cluster_384_34f76e47b1c81982",
+      "parentId": "cluster_400_34f76e47b1c81982",
       "headline": "What's a 'doublet' earthquake? Science behind Venezuela’s strongest quake in over a century",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -137,7 +136,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_115_4ed851b745826670",
+      "parentId": "cluster_131_4ed851b745826670",
       "headline": "India Sends Relief Material To Quake-Hit Venezuela Under 'Operation Amistad' - The Quint",
       "score": 0.6196239879583165,
       "postTreeScore": 1.0596,
@@ -159,7 +158,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_103_d5c09876ba1cb7ea",
+      "parentId": "cluster_119_d5c09876ba1cb7ea",
       "headline": "Sebi rejects Anil Ambani's Reliance Infra settlement application",
       "score": 0.6583266666666667,
       "postTreeScore": 1.0583,
@@ -180,7 +179,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_13_f4d1cdc79b19fed0",
+      "parentId": "cluster_18_f4d1cdc79b19fed0",
       "headline": "Govt. to launch affordable digital health management system for small clinics across India",
       "score": 0.64151,
       "postTreeScore": 1.0415,
@@ -201,7 +200,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_151_f991052ccfdf2e37",
+      "parentId": "cluster_167_f991052ccfdf2e37",
       "headline": "Swiss glaciers shrink as climate crisis fuels extreme heat across Europe",
       "score": 0.6285800531183316,
       "postTreeScore": 1.0086,
@@ -221,7 +220,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_202_ca383be3633f090f",
+      "parentId": "cluster_218_ca383be3633f090f",
       "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "score": 0.5952599999999999,
       "postTreeScore": 0.9953,
@@ -241,7 +240,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_251_89fc7e8f9566a7eb",
+      "parentId": "cluster_267_89fc7e8f9566a7eb",
       "headline": "Trump adviser-turned-critic John Bolton pleads guilty to mishandling classified documents",
       "score": 0.5952599999999999,
       "postTreeScore": 0.9953,
@@ -261,7 +260,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_100_5cea4a01d0a96fd1",
+      "parentId": "cluster_116_5cea4a01d0a96fd1",
       "headline": "Fragments fall after an aircraft hits Beijing’s tallest building.",
       "score": 0.6803967197849983,
       "postTreeScore": 0.7504,
@@ -284,10 +283,10 @@
   "warnings": [],
   "errors": [],
   "ratchetGate": {
-    "status": "PASS",
+    "status": "FAIL",
     "gateVersion": "real-insight-snapshot-ratchet-v1",
     "grade": "B",
-    "score": 100,
+    "score": 76,
     "passed": [
       {
         "id": "grade-floor",
@@ -308,12 +307,6 @@
         "required": ">= 1.4"
       },
       {
-        "id": "avg-temporal-tier-count",
-        "label": "Average temporal tier count",
-        "actual": 1.8,
-        "required": ">= 1.8"
-      },
-      {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
         "actual": 2.1,
@@ -322,7 +315,7 @@
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.364,
+        "actual": 0.348,
         "required": "<= 0.55"
       },
       {
@@ -350,19 +343,28 @@
         "required": "<= 0.5"
       }
     ],
-    "failed": [],
+    "failed": [
+      {
+        "id": "avg-temporal-tier-count",
+        "label": "Average temporal tier count",
+        "actual": 1.7,
+        "required": ">= 1.8",
+        "severity": "fail",
+        "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
+      }
+    ],
     "summary": {
       "parentCount": 10,
       "avgAngles": 2,
-      "avgTemporalTiers": 1.8,
+      "avgTemporalTiers": 1.7,
       "avgEvolutionRoles": 2.1,
-      "baseReportShare": 0.364,
+      "baseReportShare": 0.348,
       "multiAngleCount": 9,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 3,
       "topParentChildren": 3,
-      "storyCount": 592,
+      "storyCount": 596,
       "sourceGroupCount": 9
     }
   }

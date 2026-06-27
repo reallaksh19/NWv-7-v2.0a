@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782572682755,
+  "generatedAt": 1782576033101,
   "windowDays": 7,
   "latest": {
     "insightGrade": "B",
     "insightScore": 0,
-    "totalStories": 592,
-    "usableStories36h": 583,
+    "totalStories": 596,
+    "usableStories36h": 581,
     "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
@@ -19,7 +19,7 @@
     "overallScore": 0.3077,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782572680922,
+    "generatedAt": 1782576031826,
     "destinationScores": {
       "buzz": 0,
       "insight": 0.3754,
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 5,
-        "strongParents": 5,
+        "parentClusters": 4,
+        "strongParents": 4,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 2,
+        "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 16,
+        "suppressedItemCount": 22,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -113,13 +113,13 @@
       "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
       "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
       "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
-      "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-      "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match",
-      "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match",
-      "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match"
+      "Weather Tomorrow June 27: IMD sounds heavy rain alert for Kerala, Karnataka, Odisha, Gujarat and Assam; th - The Economic Times: futureValidity failed — expired display window",
+      "Weather Tomorrow June 27: IMD sounds heavy rain alert for Kerala, Karnataka, Odisha, Gujarat and Assam; th - The Economic Times: alertUrgency failed — alert expired",
+      "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges: futureValidity failed — expired display window",
+      "Tech-driven certificate courses supplement computer education in Tiruchi’s schools and colleges: alertUrgency failed — alert expired"
     ],
     "actionRequired": [
-      "16 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "22 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -130,7 +130,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted"
+      "1 base-report-heavy Insight parent(s) demoted"
     ]
   },
   "sourceHealth": {
@@ -256,11 +256,11 @@
     },
     {
       "date": "2026-06-27",
-      "generatedAt": 1782572682755,
+      "generatedAt": 1782576033101,
       "insightGrade": "B",
       "insightScore": 0,
-      "totalStories": 592,
-      "usableStories36h": 583,
+      "totalStories": 596,
+      "usableStories36h": 581,
       "sourceGroups": 9,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
