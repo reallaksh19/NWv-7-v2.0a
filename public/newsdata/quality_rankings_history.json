@@ -2,23 +2,6 @@
   {
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.4173,
-      "localTravel": 0.0,
-      "upAhead": 0.8546
-    },
-    "destinationStatuses": {
-      "buzz": "FAIL",
-      "insight": "WARN",
-      "localTravel": "FAIL",
-      "upAhead": "WARN"
-    },
-    "generatedAt": 1781889227454,
-    "overallScore": 0.318,
-    "overallStatus": "FAIL"
-  },
-  {
-    "destinationScores": {
-      "buzz": 0.0,
       "insight": 0.4195,
       "localTravel": 0.0,
       "upAhead": 0.8362
@@ -1017,6 +1000,23 @@
     },
     "generatedAt": 1782551683029,
     "overallScore": 0.3125,
+    "overallStatus": "FAIL"
+  },
+  {
+    "destinationScores": {
+      "buzz": 0.0,
+      "insight": 0.3837,
+      "localTravel": 0.0,
+      "upAhead": 0.8555
+    },
+    "destinationStatuses": {
+      "buzz": "FAIL",
+      "insight": "WARN",
+      "localTravel": "FAIL",
+      "upAhead": "WARN"
+    },
+    "generatedAt": 1782558786639,
+    "overallScore": 0.3098,
     "overallStatus": "FAIL"
   }
 ]

@@ -60,11 +60,11 @@
       "gateResults": [
         {
           "details": {
-            "itemCount": 4
+            "itemCount": 5
           },
           "name": "insightEventPool",
           "reason": "rankable Insight event pool",
-          "score": 0.6667,
+          "score": 0.8333,
           "status": "PASS"
         },
         {
@@ -79,14 +79,14 @@
         "avgAnglesPerParent": 0.0,
         "baseReportHeavyParents": 2,
         "duplicateChildrenSuppressed": 0,
-        "inputCandidateCount": 4,
-        "parentClusters": 4,
-        "strongParents": 4,
+        "inputCandidateCount": 5,
+        "parentClusters": 5,
+        "strongParents": 5,
         "suppressedCandidateCount": 0,
         "weakParentsDemoted": 0
       },
       "qualityGrade": "F",
-      "qualityScore": 0.3943,
+      "qualityScore": 0.3837,
       "qualityStatus": "WARN",
       "rankedItems": [
         {
@@ -199,6 +199,116 @@
           ],
           "score": 0.419,
           "title": "India News LIVE Updates, 27 June 2026: Union Minister got Rs 99 lakh subsidy for cucumber farm from Ministry’s scheme, Venezuela toll tops 920 - The Indian Express"
+        },
+        {
+          "category": "insightEvent",
+          "gates": [
+            {
+              "details": {
+                "storyCount": 2
+              },
+              "name": "eventCoherence",
+              "reason": "event sketch has repeated story count",
+              "score": 0.62,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "baseReportRatio": 0.0,
+                "distinctAngles": 1
+              },
+              "name": "angleDiversity",
+              "reason": "weak child angle diversity",
+              "score": 0.25,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "sourceGroupCount": 1
+              },
+              "name": "sourceDiversity",
+              "reason": "one-source event candidate",
+              "score": 0.35,
+              "status": "WARN"
+            },
+            {
+              "details": {
+                "baseReportRatio": 0.0
+              },
+              "name": "baseReportCap",
+              "reason": "base-report ratio controlled",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "childCount": 2
+              },
+              "name": "weakTree",
+              "reason": "child tree has enough depth",
+              "score": 0.5,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "duplicateChildren",
+              "reason": "no child objects to dedup",
+              "score": 0.7,
+              "status": "PASS"
+            }
+          ],
+          "id": "sketch:4b79b37db0",
+          "item": {
+            "angleCount": 1,
+            "baseReportRatio": 0.0,
+            "childScores": [],
+            "id": "sketch:4b79b37db0",
+            "representativeId": "18d54db334aee649",
+            "representativeTitle": "BREAKING: Huge MISSILE ATTACK Warning In UAE; Dubai, Abu Dhabi 'FORCED' To Take Shelter | Watch - The Times of India",
+            "scoreBreakdown": {
+              "angleDiversityScore": 0.25,
+              "eventImportanceScore": 0.59,
+              "freshnessScore": 0.0,
+              "noveltyDeltaScore": 0.44999999999999996,
+              "sourceAuthorityScore": 0.38,
+              "sourceDiversityScore": 0.35,
+              "temporalEvolutionScore": 0.37
+            },
+            "slotCount": 1,
+            "slots": [
+              "now"
+            ],
+            "sourceGroupCount": 1,
+            "sourceGroups": [
+              "google_news"
+            ],
+            "storyCount": 2,
+            "storyIds": [
+              "18d54db334aee649",
+              "da71a09212d8e371"
+            ],
+            "topAngles": [
+              {
+                "angle": "regional_followup",
+                "count": 2
+              }
+            ],
+            "topTokens": [
+              "breaking",
+              "huge",
+              "missile",
+              "attack"
+            ],
+            "topicKey": "breaking|huge|missile"
+          },
+          "locationKey": "event",
+          "rankingReasons": [
+            "event sketch has repeated story count",
+            "weak child angle diversity",
+            "one-source event candidate"
+          ],
+          "score": 0.389,
+          "title": "BREAKING: Huge MISSILE ATTACK Warning In UAE; Dubai, Abu Dhabi 'FORCED' To Take Shelter | Watch - The Times of India"
         },
         {
           "category": "insightEvent",
@@ -543,12 +653,12 @@
       "rankingProfile": "insight-v2-event-angle-tree",
       "scoreBreakdown": {
         "angleDiversityScore": 0.25,
-        "eventImportanceScore": 0.7225,
+        "eventImportanceScore": 0.696,
         "freshnessScore": 0.0,
-        "noveltyDeltaScore": 0.475,
-        "sourceAuthorityScore": 0.44,
-        "sourceDiversityScore": 0.4425,
-        "temporalEvolutionScore": 0.43
+        "noveltyDeltaScore": 0.47,
+        "sourceAuthorityScore": 0.428,
+        "sourceDiversityScore": 0.424,
+        "temporalEvolutionScore": 0.418
       }
     },
     "localTravel": {
@@ -615,15 +725,18 @@
       ],
       "destination": "upAhead",
       "diagnosticReasons": [
+        "Amazon Prime Day 2026: Top deals and biggest discounts to avail - CNBC TV18: location failed — offline/local item lacks configured location match",
         "Best Prime Day earbuds deals 2026: Shop AirPods, Bose, and other earbuds under $100 - Mashable: location failed — offline/local item lacks configured location match",
         "Shop 200+ of the best Prime Day 2026 deals still available before the sale ends tonight - About Amazon: location failed — offline/local item lacks configured location match",
         "Pulkit Samrat recalls Salman Khan's blunt advice before his debut: 'Even I don't have guarantee of my next Friday': location failed — offline/local item lacks configured location match",
         "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
         "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
         "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
+        "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre: futureValidity failed — expired display window",
+        "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre: alertUrgency failed — alert expired",
+        "Early diagnosis improves long-term outcomes in scoliosis, says expert: futureValidity failed — expired display window",
+        "Early diagnosis improves long-term outcomes in scoliosis, says expert: alertUrgency failed — alert expired",
         "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-        "Chennai’s Dr Priya Selvaraj on surviving a crevasse fall and summiting Mount Everest: futureValidity failed — expired display window",
-        "Chennai’s Dr Priya Selvaraj on surviving a crevasse fall and summiting Mount Everest: alertUrgency failed — alert expired",
         "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match",
         "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match",
         "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
@@ -631,10 +744,7 @@
         "I Rarely Shop on Amazon, But When I Do, It’s for This - Vogue: location failed — offline/local item lacks configured location match",
         "The 11+ weirdest things we found on sale this Prime Day - NBC News: location failed — offline/local item lacks configured location match",
         "The best Prime Day deals on gaming laptop: Shop Acer, ASUS, and more starting at $1,099.99 - Mashable: location failed — offline/local item lacks configured location match",
-        "Who Cares About Prime Day? Skip Amazon and Get This E-Reader Instead - WIRED: location failed — offline/local item lacks configured location match",
-        "70+ Editor-Vetted Prime Day Deals That Are Actually Worth It - Esquire: location failed — offline/local item lacks configured location match",
-        "Now’s the time to get a new smartwatch — we found 29 on sale for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-        "The best Prime Day alternatives 2026: Best Buy, Target, Walmart, and more - Mashable: futureValidity failed — expired display window"
+        "Who Cares About Prime Day? Skip Amazon and Get This E-Reader Instead - WIRED: location failed — offline/local item lacks configured location match"
       ],
       "gateResults": [
         {
@@ -665,7 +775,7 @@
         },
         "events": 0,
         "festivals": 0,
-        "inputItemCount": 95,
+        "inputItemCount": 94,
         "locationCounts": {
           "chennai": 18,
           "trichy": 12
@@ -1608,121 +1718,6 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "3ebe3b995f7869e1"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1782557896000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "57870291f052c89f",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1782557896000,
-            "id": "57870291f052c89f",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783162696000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1782557896000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1782471496000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "",
-            "suppressionReason": null,
-            "title": "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre",
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-seeks-cb-cid-probe-into-deaths-at-isha-yoga-centre/article71150251.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
                 "dedupKey": "ac19dbde40a28d5b"
               },
               "name": "dedup",
@@ -2177,121 +2172,6 @@
           ],
           "score": 0.8485,
           "title": "Congress members protest, condemn Centre over NEET question paper leak"
-        },
-        {
-          "category": "alerts",
-          "gates": [
-            {
-              "details": {
-                "dedupKey": "612e01affb9aae7d"
-              },
-              "name": "dedup",
-              "reason": "unique item",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "displayUntil": 1782556465000
-              },
-              "name": "futureValidity",
-              "reason": "valid undated item with active display window",
-              "score": 0.65,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "matchScore": 1.0,
-                "matchedLocation": "chennai",
-                "relevance": "primary",
-                "scope": "exactCity"
-              },
-              "name": "location",
-              "reason": "location matches configured profile",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "hasPlace": true,
-                "hasTime": true
-              },
-              "name": "actionability",
-              "reason": "item has enough action fields",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {},
-              "name": "offerValidity",
-              "reason": "not an offer",
-              "score": 1.0,
-              "status": "PASS"
-            },
-            {
-              "details": {
-                "severe": false
-              },
-              "name": "alertUrgency",
-              "reason": "active alert",
-              "score": 0.78,
-              "status": "PASS"
-            }
-          ],
-          "id": "d8455fee8fbc51be",
-          "item": {
-            "actionabilityScore": 0.7,
-            "category": "alerts",
-            "city": "Chennai",
-            "contentClass": "upahead_alert",
-            "dateConfidence": "unknown",
-            "dateSource": "none",
-            "eventEndAt": null,
-            "eventStartAt": null,
-            "expiryAt": 1782556465000,
-            "id": "d8455fee8fbc51be",
-            "language": "en",
-            "lifecycle": {
-              "archiveUntil": 1783161265000,
-              "contentClass": "upahead_alert",
-              "displayUntil": 1782556465000,
-              "isActionValid": true,
-              "isVisible": true,
-              "plannerEligibleByLifecycle": true,
-              "plannerPastGraceHours": 6,
-              "retentionReason": "expiryAt",
-              "withinSevenDayHorizon": true
-            },
-            "localityScore": 1.0,
-            "normalizedCategory": "alerts",
-            "plannerEligible": true,
-            "publishedAt": 1782470065000,
-            "region": "tn",
-            "scoreBreakdown": {
-              "actionabilityScore": 1.0,
-              "categoryPriorityScore": 1.0,
-              "lifecycleScore": 0.65,
-              "locationScore": 1.0,
-              "plannerFitScore": 1.0,
-              "sourceConfidenceScore": 0.58,
-              "urgencyOrExpiryScore": 0.78
-            },
-            "source": "The Hindu Chennai",
-            "sourceGroup": "the_hindu",
-            "summary": "Marking Scoliosis Awareness Day, expert highlights the importance of timely screening and advances in treatment",
-            "suppressionReason": null,
-            "title": "Early diagnosis improves long-term outcomes in scoliosis, says expert",
-            "url": "https://www.thehindu.com/news/cities/chennai/early-diagnosis-improves-long-term-outcomes-in-scoliosis-says-expert/article71149701.ece"
-          },
-          "locationKey": "chennai",
-          "rankingReasons": [
-            "alerts",
-            "valid undated item with active display window",
-            "location matches configured profile",
-            "planner advisory fit"
-          ],
-          "score": 0.8485,
-          "title": "Early diagnosis improves long-term outcomes in scoliosis, says expert"
         },
         {
           "category": "alerts",
@@ -2758,7 +2638,7 @@
           "gates": [
             {
               "details": {
-                "dedupKey": "4f67ec3fe17b80dd"
+                "dedupKey": "4f33dc64dbb34cab"
               },
               "name": "dedup",
               "reason": "unique item",
@@ -2767,7 +2647,7 @@
             },
             {
               "details": {
-                "displayUntil": 1782633455000
+                "displayUntil": 1782637922000
               },
               "name": "futureValidity",
               "reason": "valid undated item with active display window",
@@ -2823,13 +2703,13 @@
             "dateSource": "none",
             "eventEndAt": null,
             "eventStartAt": null,
-            "expiryAt": 1782633455000,
+            "expiryAt": 1782637922000,
             "id": "37e9b7d8e1bc1381",
             "language": "en",
             "lifecycle": {
-              "archiveUntil": 1783238255000,
+              "archiveUntil": 1783242722000,
               "contentClass": "upahead_alert",
-              "displayUntil": 1782633455000,
+              "displayUntil": 1782637922000,
               "isActionValid": true,
               "isVisible": true,
               "plannerEligibleByLifecycle": true,
@@ -2840,7 +2720,7 @@
             "localityScore": 1.0,
             "normalizedCategory": "alerts",
             "plannerEligible": true,
-            "publishedAt": 1782547055000,
+            "publishedAt": 1782551522000,
             "region": "tn",
             "scoreBreakdown": {
               "actionabilityScore": 1.0,
@@ -2855,7 +2735,7 @@
             "sourceGroup": "the_hindu",
             "summary": "To pay tribute to the legendary writer-director who breathed his last today, we list five of his most essential films",
             "suppressionReason": null,
-            "title": "K. Bhagyaraj passes away: 5 essential films of the master writer-director",
+            "title": "K. Bhagyaraj passes away: 5 must-watch films of the master writer-director",
             "url": "https://www.thehindu.com/entertainment/movies/k-bhagyaraj-passes-away-5-essential-films-of-the-master-writer-director/article71153703.ece"
           },
           "locationKey": "chennai",
@@ -2866,7 +2746,7 @@
             "planner advisory fit"
           ],
           "score": 0.8485,
-          "title": "K. Bhagyaraj passes away: 5 essential films of the master writer-director"
+          "title": "K. Bhagyaraj passes away: 5 must-watch films of the master writer-director"
         },
         {
           "category": "alerts",
@@ -2982,6 +2862,121 @@
           ],
           "score": 0.8485,
           "title": "K. Bhagyaraj, prominent actor and director, passes away"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
+                "dedupKey": "6971e0ac2693c582"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1782635901000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "862a898de38d7b69",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1782635901000,
+            "id": "862a898de38d7b69",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783240701000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1782635901000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1782549501000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "The success formula of Bhagyaraj’s early hit movies was fundamentally simple. His films were structured around personal or situational conflicts arising in the lives of ordinary individuals, a screenplay moving toward the resolution of that conflict, good songs, and plenty of situational comedy sprinkled throughout",
+            "suppressionReason": null,
+            "title": "K. Bhagyaraj: Tamil cinema’s master of screenplay and storytelling",
+            "url": "https://www.thehindu.com/entertainment/movies/k-bhagyaraj-tamil-cinemas-master-of-screenplay-and-storytelling/article71153692.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "K. Bhagyaraj: Tamil cinema’s master of screenplay and storytelling"
         },
         {
           "category": "alerts",
@@ -3678,6 +3673,121 @@
           "gates": [
             {
               "details": {
+                "dedupKey": "b489ce0c2393e4da"
+              },
+              "name": "dedup",
+              "reason": "unique item",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "displayUntil": 1782641321000
+              },
+              "name": "futureValidity",
+              "reason": "valid undated item with active display window",
+              "score": 0.65,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "matchScore": 1.0,
+                "matchedLocation": "chennai",
+                "relevance": "primary",
+                "scope": "exactCity"
+              },
+              "name": "location",
+              "reason": "location matches configured profile",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "hasPlace": true,
+                "hasTime": true
+              },
+              "name": "actionability",
+              "reason": "item has enough action fields",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {},
+              "name": "offerValidity",
+              "reason": "not an offer",
+              "score": 1.0,
+              "status": "PASS"
+            },
+            {
+              "details": {
+                "severe": false
+              },
+              "name": "alertUrgency",
+              "reason": "active alert",
+              "score": 0.78,
+              "status": "PASS"
+            }
+          ],
+          "id": "1c5ed1c9dd14dd45",
+          "item": {
+            "actionabilityScore": 0.7,
+            "category": "alerts",
+            "city": "Chennai",
+            "contentClass": "upahead_alert",
+            "dateConfidence": "unknown",
+            "dateSource": "none",
+            "eventEndAt": null,
+            "eventStartAt": null,
+            "expiryAt": 1782641321000,
+            "id": "1c5ed1c9dd14dd45",
+            "language": "en",
+            "lifecycle": {
+              "archiveUntil": 1783246121000,
+              "contentClass": "upahead_alert",
+              "displayUntil": 1782641321000,
+              "isActionValid": true,
+              "isVisible": true,
+              "plannerEligibleByLifecycle": true,
+              "plannerPastGraceHours": 6,
+              "retentionReason": "expiryAt",
+              "withinSevenDayHorizon": true
+            },
+            "localityScore": 1.0,
+            "normalizedCategory": "alerts",
+            "plannerEligible": true,
+            "publishedAt": 1782554921000,
+            "region": "tn",
+            "scoreBreakdown": {
+              "actionabilityScore": 1.0,
+              "categoryPriorityScore": 1.0,
+              "lifecycleScore": 0.65,
+              "locationScore": 1.0,
+              "plannerFitScore": 1.0,
+              "sourceConfidenceScore": 0.58,
+              "urgencyOrExpiryScore": 0.78
+            },
+            "source": "The Hindu Chennai",
+            "sourceGroup": "the_hindu",
+            "summary": "The circular by the Directorate of Medical Education and Research reiterated the National Medical Commission’s public notice, which directed all medical colleges/institutions/universities to collect MBBS course fee only for the prescribed academic duration of 4.5 years",
+            "suppressionReason": null,
+            "title": "Self-financing medical, dental colleges told to collect fee only for 4.5 years",
+            "url": "https://www.thehindu.com/news/national/tamil-nadu/self-financing-medical-dental-colleges-told-to-collect-fee-only-for-45-years/article71153938.ece"
+          },
+          "locationKey": "chennai",
+          "rankingReasons": [
+            "alerts",
+            "valid undated item with active display window",
+            "location matches configured profile",
+            "planner advisory fit"
+          ],
+          "score": 0.8485,
+          "title": "Self-financing medical, dental colleges told to collect fee only for 4.5 years"
+        },
+        {
+          "category": "alerts",
+          "gates": [
+            {
+              "details": {
                 "dedupKey": "48d96f5f4619a31d"
               },
               "name": "dedup",
@@ -4146,7 +4256,7 @@
       }
     }
   },
-  "generatedAt": 1782551683029,
+  "generatedAt": 1782558786639,
   "implementedDestinations": [
     "upAhead",
     "buzz",
@@ -4180,7 +4290,7 @@
     ],
     "destinationScores": {
       "buzz": 0.0,
-      "insight": 0.3943,
+      "insight": 0.3837,
       "localTravel": 0.0,
       "upAhead": 0.8555
     },
@@ -4190,7 +4300,7 @@
       "localTravel": "FAIL",
       "upAhead": "WARN"
     },
-    "overallScore": 0.3125,
+    "overallScore": 0.3098,
     "overallStatus": "FAIL",
     "rankingProfiles": {
       "buzz": "buzz-v2-trend-local-travel",
@@ -4199,15 +4309,18 @@
       "upAhead": "upAhead-v2-lifecycle-location-category"
     },
     "topFindings": [
+      "Amazon Prime Day 2026: Top deals and biggest discounts to avail - CNBC TV18: location failed — offline/local item lacks configured location match",
       "Best Prime Day earbuds deals 2026: Shop AirPods, Bose, and other earbuds under $100 - Mashable: location failed — offline/local item lacks configured location match",
       "Shop 200+ of the best Prime Day 2026 deals still available before the sale ends tonight - About Amazon: location failed — offline/local item lacks configured location match",
       "Pulkit Samrat recalls Salman Khan's blunt advice before his debut: 'Even I don't have guarantee of my next Friday': location failed — offline/local item lacks configured location match",
       "Here’s what everyone’s buying for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
       "It’s the Final Hours of Prime Day—Here Are the Travel Deals Worth Shopping - Condé Nast Traveler: location failed — offline/local item lacks configured location match",
       "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
+      "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre: futureValidity failed — expired display window",
+      "CPI(M) seeks CB-CID probe into deaths at Isha Yoga Centre: alertUrgency failed — alert expired",
+      "Early diagnosis improves long-term outcomes in scoliosis, says expert: futureValidity failed — expired display window",
+      "Early diagnosis improves long-term outcomes in scoliosis, says expert: alertUrgency failed — alert expired",
       "I found board games like Catan and Pictionary for up to 53% off for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-      "Chennai’s Dr Priya Selvaraj on surviving a crevasse fall and summiting Mount Everest: futureValidity failed — expired display window",
-      "Chennai’s Dr Priya Selvaraj on surviving a crevasse fall and summiting Mount Everest: alertUrgency failed — alert expired",
       "Classic Prime Day deals you don't want to miss: Sony headphones, Kindles, LifeStraw, AirPods, and more - Mashable: location failed — offline/local item lacks configured location match",
       "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match",
       "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
@@ -4215,10 +4328,7 @@
       "I Rarely Shop on Amazon, But When I Do, It’s for This - Vogue: location failed — offline/local item lacks configured location match",
       "The 11+ weirdest things we found on sale this Prime Day - NBC News: location failed — offline/local item lacks configured location match",
       "The best Prime Day deals on gaming laptop: Shop Acer, ASUS, and more starting at $1,099.99 - Mashable: location failed — offline/local item lacks configured location match",
-      "Who Cares About Prime Day? Skip Amazon and Get This E-Reader Instead - WIRED: location failed — offline/local item lacks configured location match",
-      "70+ Editor-Vetted Prime Day Deals That Are Actually Worth It - Esquire: location failed — offline/local item lacks configured location match",
-      "Now’s the time to get a new smartwatch — we found 29 on sale for Prime Day - NBC News: location failed — offline/local item lacks configured location match",
-      "The best Prime Day alternatives 2026: Best Buy, Target, Walmart, and more - Mashable: futureValidity failed — expired display window"
+      "Who Cares About Prime Day? Skip Amazon and Get This E-Reader Instead - WIRED: location failed — offline/local item lacks configured location match"
     ]
   }
 }
