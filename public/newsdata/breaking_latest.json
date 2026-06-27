@@ -1,70 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782543419026,
-  "contentHash": "09a227ac71b6",
+  "fetchedAt": 1782552447828,
+  "contentHash": "fc37e087c33a",
   "breaking": [
     {
-      "title": "West Asia war LIVE: Lebanon, Israel and U.S. sign trilateral framework pact",
-      "summary": "Iran’s Revolutionary Guards said that they had attacked U.S. sites in the Gulf region in retaliation to American strikes in Iran",
+      "title": "West Asia war LIVE: Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+      "summary": "Iran said it ‌struck targets linked ⁠to U.S. forces in response ‌to U.S. airstrikes ‌on ‌its ⁠southern coast",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-      "publishedAt": 1782542955000,
+      "publishedAt": 1782550303000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "ad1dbd2f394658fb",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.489,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 3,
-      "allSources": [
-        "bbc",
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1782514528000
-    },
-    {
-      "title": "2 Killed, 8 Injured After Roof Collapse During Muharram Procession In Lucknow",
-      "summary": "Senior police officers reached the spot and supervised the rescue operation.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/lucknow-news/2-boys-killed-8-injured-after-roof-collapse-during-muharram-procession-in-lucknow-11694031#publisher=newsstand",
-      "publishedAt": 1782537135000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "7ccd2f82490724a2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.355,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782537135000
-    },
-    {
-      "title": "Venezuela’s deadly history of earthquakes — and how they affected its politics",
-      "summary": "As the 1812 earthquake during the War of Independence illustrated, Venezuela is no stranger to natural disasters being bound up with moments of political upheaval",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/venezuela-history-earthquakes-bolivar-chavez-la-tragedia/article71144808.ece",
-      "publishedAt": 1782536284000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "88cb1964ffa8af32",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.335,
+      "breakingScore": 5.45,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -72,45 +24,22 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782536284000
-    },
-    {
-      "title": "Death, dust and desperation: Venezuela's twin earthquakes leave nearly 1,000 dead, trail of despair- watch",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132027578.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Venezuela reels from twin earthquakes, with the death toll tragically climbing to 920 and over 50,000 reported missing amidst widespread devastation. Rescue efforts are in full swing, with international aid pouring in from nations like the US and India, which launched Operation Amistad. The humanitarian crisis deepens, particularly for the millions of children affected, as the search for survivors continues under mountains of rubble.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/death-dust-and-desperation-venezuelas-twin-earthquakes-leave-nearly-1000-dead-trail-of-despair-watch/articleshow/132027578.cms",
-      "publishedAt": 1782528810000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "da481c960a06972d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.162,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1782528810000
+      "firstSeen": 1782550303000
     },
     {
       "title": "US strikes Iran after attack on cargo ship",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782528492000,
+      "publishedAt": 1782548743000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "fc9fb1e185cba7a9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.154,
+      "breakingScore": 3.914,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -118,22 +47,22 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782528492000
+      "firstSeen": 1782548743000
     },
     {
-      "title": "U.S., Iran trade strikes putting new strain on West Asia truce",
-      "summary": "The trading of fire raised questions about efforts to keep the crucial waterway open while Washington and Tehran negotiate a final settlement to a war that began on February 28 with U.S. and Israeli strikes on Iran",
-      "source": "The Hindu",
+      "title": "Magnitude 6.5 quake hits off southern Philippines",
+      "summary": "The 7.8-magnitude tremor that hit Mindanao on June 8 brought down buildings, triggered landslides and displaced thousands on the southern island, while also setting off tsunami warnings across the region",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/us-iran-trade-strikes-putting-new-strain-on-west-asia-truce/article71153556.ece",
-      "publishedAt": 1782541772000,
-      "category": "topStories",
+      "url": "https://www.thehindu.com/news/international/magnitude-65-quake-hits-off-southern-philippines/article71153214.ece",
+      "publishedAt": 1782546165000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "e427ac37b7f4d0b4",
+      "id": "756c5d04c56de94b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.962,
+      "breakingScore": 3.855,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -141,22 +70,93 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782527519000
+      "firstSeen": 1782546165000
     },
     {
-      "title": "Collapsed Buildings, Debris: Satellite Pics Show Impact Of Venezuela Earthquakes",
-      "summary": "Damaged apartment buildings in La Guaira. High res <a href=\"https://c.ndtvimg.com/2026-06/tbt0jjq8_venezuela-earthquake-satellite-image-6_625x300_26_June_26.png\">here</a>",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/collapsed-buildings-debris-satellite-pics-show-impact-of-venezuela-earthquakes-11690477#publisher=newsstand",
-      "publishedAt": 1782538310000,
+      "title": "Pune trekker murder: Police summon Siya Goyal's parents, brother for questioning",
+      "summary": "Siya's parents — Pravin and Puja Goyal — and brother Sahil arrived at the police station in the morning",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/pune-realtor-murder-police-summon-siya-goyals-parents-brother-for-questioning/article71153910.ece",
+      "publishedAt": 1782552017000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "8b37ec54d00c294a",
+      "id": "5cb3b831810a5363",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.882,
+      "breakingScore": 2.99,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782547763000
+    },
+    {
+      "title": "TET postponed in Maharashtra after suspicion of paper leak",
+      "summary": "Case registered, probe on, opposition demands inquiry",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/education/maharashtra-tet-2026-paper-leak-probe-exam-postponed-updates-latest/article71153926.ece",
+      "publishedAt": 1782551870000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "8db8cdd6aecfac64",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.987,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782548055000
+    },
+    {
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782550590000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "3abc4dd1321d988a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.457,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1782550590000
+    },
+    {
+      "title": "US-Iran War Live Updates: Iran Accuses US Of \"Blatant Violation\" Of Peace Deal",
+      "summary": "US-Iran War Live Updates: US, Iran signed a 14-point deal to end the war on June 17",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-donald-trump-us-iran-tehran-attack-each-other-violate-ceasefire-hormuz-jd-vance-11693760#publisher=newsstand",
+      "publishedAt": 1782547226000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "2bf966420644cb02",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.379,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -164,22 +164,22 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782538310000
+      "firstSeen": 1782547226000
     },
     {
-      "title": "How Trump’s posts on Iran zigzagged during the war",
-      "summary": "Ballistic missiles and drones targeted U.S. military bases across the Persian Gulf, while Tehran also announced the closure of the Strait of Hormuz, one of the world’s most important energy chokepoints",
+      "title": "Venezuela Earthquake: Survivors sleep in cars and under trees as they question where they’ll live after the earthquakes",
+      "summary": "Thousands of Venezuelans left suddenly homeless have since poured into parks, plazas and even the shoulders of blocked highways, looking for a place to lay their heads",
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/how-trumps-posts-on-iran-zigzagged-during-the-war/article71150861.ece",
-      "publishedAt": 1782533545000,
+      "url": "https://www.thehindu.com/news/international/venezuela-earthquake-survivors-sleep-in-cars-and-under-trees-as-they-question-where-theyll-live-after-the-earthquakes/article71152080.ece",
+      "publishedAt": 1782545377000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "2b369bd8716d66bd",
+      "id": "f57d6a5d5d5f5b66",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.771,
+      "breakingScore": 2.336,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -187,7 +187,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782533545000
+      "firstSeen": 1782545377000
     }
   ]
 }
