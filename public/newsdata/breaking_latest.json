@@ -1,8 +1,56 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782684856653,
-  "contentHash": "0e079b9cfd82",
+  "fetchedAt": 1782688748256,
+  "contentHash": "ae76027a26cf",
   "breaking": [
+    {
+      "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha on June 30, report says",
+      "summary": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+      "publishedAt": 1782686692000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f601ec9772e7a01d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 7.452,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "the_hindu",
+        "times_of_india"
+      ],
+      "firstSeen": 1782683896000
+    },
+    {
+      "title": "Russian attacks kill five in Ukraine, local officials say",
+      "summary": "Strikes on the southeastern city of Zaporizhzhia killed two people and injured ‌16, Regional Governor Ivan Fedorov said",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-death-toll-updates/article71159214.ece",
+      "publishedAt": 1782687683000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "313143f52de2743a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 6.975,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782687683000
+    },
     {
       "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
       "summary": "Pakistani forces carried out “calibrated strikes” against terrorist hideouts and safe havens in the border region",
@@ -16,7 +64,7 @@
       "id": "28f5fe9971e174e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.948,
+      "breakingScore": 5.858,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -41,7 +89,7 @@
       "id": "a83455c42f615f6c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.17,
+      "breakingScore": 5.08,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -64,7 +112,7 @@
       "id": "4269fda58444a2a6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.094,
+      "breakingScore": 5.004,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -73,29 +121,6 @@
         "ndtv"
       ],
       "firstSeen": 1782667332000
-    },
-    {
-      "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha this week, report says",
-      "summary": "The two sides anticipate meeting ‌on June 30 ​in Doha, ⁠Axios report said, to work ‌out their dispute over the Strait of Hormuz",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-      "publishedAt": 1782683680000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "f601ec9772e7a01d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.973,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782683680000
     },
     {
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
@@ -110,7 +135,7 @@
       "id": "eb968a65285fbfba",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.694,
+      "breakingScore": 3.604,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -133,7 +158,7 @@
       "id": "2bf966420644cb02",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.687,
+      "breakingScore": 3.597,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -156,7 +181,7 @@
       "id": "ef1005bb86e6dd87",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.782,
+      "breakingScore": 2.692,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -166,29 +191,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782670587000
-    },
-    {
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782683925000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "ba39bcdcf41e7a6b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.478,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782683925000
     }
   ]
 }
