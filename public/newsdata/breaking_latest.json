@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782666925055,
-  "contentHash": "c758266e6f5d",
+  "fetchedAt": 1782672113784,
+  "contentHash": "9e1aaede513e",
   "breaking": [
     {
       "title": "West Asia war LIVE: Iran warns challenge to Hormuz routes will spike West Asia tensions",
@@ -9,14 +9,14 @@
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-      "publishedAt": 1782666416000,
+      "publishedAt": 1782670711000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "f601ec9772e7a01d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.488,
+      "breakingScore": 5.468,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -24,46 +24,45 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782666416000
+      "firstSeen": 1782670711000
     },
     {
-      "title": "UAE condemns Iranian missile, drone attacks on Bahrain and Kuwait",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132050379.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-condemns-iranian-attacks-on-bahrain-kuwait-reiterates-full-solidarity-with-gulf-neighbours/articleshow/132050379.cms",
-      "publishedAt": 1782647951000,
-      "category": "india",
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782671647000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "b321ef24f6e33a7c",
+      "id": "eb968a65285fbfba",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.061,
+      "breakingScore": 3.989,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "the_hindu",
-        "times_of_india"
+        "bbc"
       ],
-      "firstSeen": 1782632381000
+      "firstSeen": 1782671647000
     },
     {
       "title": "Sonam Wangchuk begins hunger strike at Jantar Mantar, six students join",
       "summary": "Activist joins the CJP protest demanding the resignation of Education Minister Dharmendra Pradhan for multiple irregularities in the examination system",
-      "source": "The Hindu",
+      "source": "The Hindu National",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/sonam-wangchuk-joins-cjp-protest-begins-hunger-strike-at-jantar-mantar/article71157421.ece",
       "publishedAt": 1782666377000,
-      "category": "topStories",
+      "category": "india",
       "region": "in",
       "language": "en",
       "id": "7542e08eb5b40a4e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.987,
+      "breakingScore": 3.867,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -72,29 +71,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782666377000
-    },
-    {
-      "title": "Couple found dead at home in Mokila, police suspect financial distress",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/couple-found-dead-at-home-in-mokila-police-suspect-financial-distress/article71158707.ece",
-      "publishedAt": 1782665407000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d11ed117f0d92414",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.965,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782665407000
     },
     {
       "title": "British man held in Ecuador after woman's body found in suitcase",
@@ -109,7 +85,7 @@
       "id": "9dc09ba36b744e6c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.906,
+      "breakingScore": 3.786,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -117,31 +93,7 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782657005000
-    },
-    {
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782661879000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "eb968a65285fbfba",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.883,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "ndtv"
-      ],
-      "firstSeen": 1782650166000
+      "firstSeen": 1782662864000
     },
     {
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
@@ -156,17 +108,16 @@
       "id": "a102f60e4e20888e",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.87,
+      "breakingScore": 3.75,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "allSources": [
         "bbc",
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782649861000
+      "firstSeen": 1782649947000
     },
     {
       "title": "Putin vows to ensure Russia’s security amid Ukraine retaliatory strikes",
@@ -181,7 +132,7 @@
       "id": "f34aa367a2d40bb7",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.724,
+      "breakingScore": 3.604,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -190,6 +141,54 @@
         "the_hindu"
       ],
       "firstSeen": 1782655015000
+    },
+    {
+      "title": "Man found dead after mother refuses money for alcohol",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/man-found-dead-after-mother-refuses-money-for-alcohol/article71158747.ece",
+      "publishedAt": 1782670204000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "5430d5fa8d2aa5ce",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.456,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782657005000
+    },
+    {
+      "title": "Five-year-old girl, sleeping at home, found dead in a well in Ramanathapuram",
+      "summary": "Around 5.30 a.m. on Sunday, her mother woke up and found that her elder daughter, who had been sleeping beside her, was missing. On her complaint,  the police, along with Fire and Rescue Services, launched a search and found the body  the neighbour’s well. A case of suspicious death has been registered",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/Madurai/five-year-old-girl-sleeping-at-home-found-dead-in-a-well-in-ramanathapuram/article71157995.ece",
+      "publishedAt": 1782669003000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "172b4c502d8ab049",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.428,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782649175000
     }
   ]
 }
