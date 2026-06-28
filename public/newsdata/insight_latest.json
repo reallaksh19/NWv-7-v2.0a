@@ -1,11 +1,17 @@
 {
   "schemaVersion": 3,
-  "fetchedAt": 1782674445502,
-  "contentHash": "ee3bb733be2acaf4",
+  "fetchedAt": 1782679939628,
+  "contentHash": "ec1654f8c18f8824",
   "slotMeta": {
     "now": {
-      "fetchedAt": 1782674445502,
+      "fetchedAt": 1782679939628,
       "storyIds": [
+        "9b610fa257cfbf5c",
+        "83434aa27cb9900c",
+        "74465cf588e4a48f",
+        "8410c6d5401ef832",
+        "3706b06a18141ab7",
+        "e26e4f098d46f076",
         "d98a3367e63dcfb6",
         "45c9421ddce38ba0",
         "b815d30c5ac11fc7",
@@ -20,12 +26,6 @@
         "d66196440a32d1b3",
         "5b50d7d2754a49d2",
         "a962a1710de76f9e",
-        "ffd9654ebb03bc60",
-        "8229d4f4cfd97b5b",
-        "aa2640c43b8b88af",
-        "5430d5fa8d2aa5ce",
-        "1e4d5abe4e129af4",
-        "c01162ccfe0234ac",
         "80f3015be1b890f6",
         "0257556cd434efb9",
         "adb86a28e4320a8d",
@@ -50,46 +50,50 @@
         "0fcedbdb1367fc72",
         "55cf58dd032da79f",
         "c0b89c693126f623",
-        "94e4dc6c97b9a6d5",
         "4e33d1470de02967",
+        "94e4dc6c97b9a6d5",
         "6059fed96a28aa3b",
         "10daa869e506646c",
-        "d5135abcba359a91",
         "141200d04badc7f2",
+        "d5135abcba359a91",
         "d5696167a7d97c98",
         "2463d6cb782511a1",
-        "e67d48ba825fc881",
+        "584ed730de8531c2",
         "fff45325db82b942",
         "b78cd9291eea2a0c",
         "20656037b1b7e34c",
         "6a190a01e6364bd3",
+        "e67d48ba825fc881",
         "53a5aa29411af3d4",
-        "5196279dccd147f7",
         "85ff5e3920fa3ade"
       ]
     },
     "minus4h": {
-      "fetchedAt": 1782669529614,
+      "fetchedAt": 1782679939628,
       "storyIds": [
-        "c01162ccfe0234ac",
-        "172b4c502d8ab049",
-        "0b02d3b05c0ec68e",
-        "c946f2cf242f6835",
-        "bfb5a66c8fa9f4f4",
-        "60da2b0d27c88589",
-        "aa2640c43b8b88af",
-        "a6c011efbc9bdc4b",
-        "7542e08eb5b40a4e",
-        "377a6853e4d466b7",
-        "73cee8aa6b363e57",
-        "50740ec6b434a892",
-        "739a1574dcd03caa",
-        "d11ed117f0d92414",
-        "ccb86b473318a1f3",
-        "4f9b3f69ce23e5a1",
-        "f9fda229d0f3b6c7",
-        "e774ded10592a338",
-        "add85a5bc1bf1acd",
+        "9b610fa257cfbf5c",
+        "83434aa27cb9900c",
+        "74465cf588e4a48f",
+        "8410c6d5401ef832",
+        "3706b06a18141ab7",
+        "e26e4f098d46f076",
+        "d98a3367e63dcfb6",
+        "45c9421ddce38ba0",
+        "b815d30c5ac11fc7",
+        "a4036f771959e780",
+        "afedf67e7ca8d9b4",
+        "383ee02c90048724",
+        "8e9ec98ba737434c",
+        "e09f589a3ed5b26f",
+        "c3a26e540559bf15",
+        "9ad1d61863166c96",
+        "b6d780dd6b3c11ed",
+        "d66196440a32d1b3",
+        "5b50d7d2754a49d2",
+        "a962a1710de76f9e",
+        "b3b0c72a5d6b4b42",
+        "db4d64d070541b10",
+        "bc3218e5baceb6aa",
         "619ceb47847d3eeb",
         "68a4ed18081f6fcd",
         "bc8bd9639c4deb48",
@@ -106,10 +110,7 @@
         "4f7b2fd87096220a",
         "b321ef24f6e33a7c",
         "7f9d1b4210fb4a5c",
-        "69519b86c303c370",
-        "59dc80375d5542ee",
-        "11266c4f3daef760",
-        "d1f4c4f61c1661f8"
+        "69519b86c303c370"
       ]
     },
     "minus12h": {
@@ -459,757 +460,6 @@
       ]
     },
     {
-      "title": "Andhra Pradesh Pulse Polio drive from June 28 to cover 49.2 lakh children",
-      "summary": "Drops will be given at 29,873 booths on June 28, with house-to-house visits on June 29 and 30 to cover children missed at the booths",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-pulse-polio-drive-from-june-28-to-cover-492-lakh-children/article71153805.ece",
-      "publishedAt": 1782550196000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "c152564d04fbee4f",
-      "feedPosition": 6,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "cover",
-          "children",
-          "booths",
-          "andhra",
-          "pradesh",
-          "pulse",
-          "polio",
-          "drive",
-          "lakh",
-          "drops",
-          "given"
-        ],
-        "numbers": [
-          "28",
-          "49.2 lakh",
-          "29,873",
-          "29",
-          "30"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.89,
-            "matches": [
-              "\\blakh\\b",
-              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bandhra\\b"
-            ]
-          }
-        ],
-        "textLength": 206,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.89,
-          "matches": [
-            "\\blakh\\b",
-            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bandhra\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Some union leaders are misleading RTC employees: Ponnam Prabhakar",
-      "summary": "Unions agreed for elections before RTC employees merger into government",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/some-union-leaders-are-misleading-rtc-employees-ponnam-prabhakar/article71153817.ece",
-      "publishedAt": 1782549810000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "706519ffd1060648",
-      "feedPosition": 7,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "employees",
-          "some",
-          "union",
-          "leaders",
-          "misleading",
-          "ponnam",
-          "prabhakar",
-          "unions",
-          "agreed",
-          "elections",
-          "merger",
-          "government"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bgovernment\\b"
-            ]
-          }
-        ],
-        "textLength": 137,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bgovernment\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "K. Bhagyaraj: Tamil cinema’s master of screenplay and storytelling",
-      "summary": "The success formula of Bhagyaraj’s early hit movies was fundamentally simple. His films were structured around personal or situational conflicts arising in the lives of ordinary individuals, a screenplay moving toward the resolution of that conflict, good songs, and plenty of situational comedy sprinkled throughout",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/entertainment/movies/k-bhagyaraj-tamil-cinemas-master-of-screenplay-and-storytelling/article71153692.ece",
-      "publishedAt": 1782549501000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "862a898de38d7b69",
-      "feedPosition": 8,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "bhagyaraj",
-          "screenplay",
-          "situational",
-          "tamil",
-          "cinema",
-          "master",
-          "storytelling",
-          "success",
-          "formula",
-          "early",
-          "movies",
-          "fundamentally"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 383,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Ashok Gehlot questions ‘elusive’ justice in Kanhaiya Lal murder case, says BJP used issue for elections",
-      "summary": "The Congress leader stated that despite the NIA investigating and a special court hearing the case, there has been no significant progress under BJP governments at the Centre and State",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/ashok-gehlot-questions-elusive-justice-in-kanhaiya-lal-murder-case-says-bjp-used-issue-for-elections/article71153731.ece",
-      "publishedAt": 1782549495000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "fc3c082e10d557e7",
-      "feedPosition": 9,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "case",
-          "ashok",
-          "gehlot",
-          "questions",
-          "elusive",
-          "justice",
-          "kanhaiya",
-          "murder",
-          "used",
-          "issue",
-          "elections",
-          "congress"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsays\\b"
-            ]
-          }
-        ],
-        "textLength": 288,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsays\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Pulse Polio drive from June 28; 2.83 lakh children to get drops in Anantapur district",
-      "summary": "Drops will be given to children under five at 1,623 booths across the district from June 28 to July 1, with door-to-door visits on June 29 and 30",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/all-set-for-administering-polio-drops-on-sunday/article71153704.ece",
-      "publishedAt": 1782549351000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "adbb21746d0c7ce5",
-      "feedPosition": 10,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "children",
-          "drops",
-          "district",
-          "pulse",
-          "polio",
-          "drive",
-          "lakh",
-          "anantapur",
-          "given",
-          "five",
-          "booths"
-        ],
-        "numbers": [
-          "28",
-          "2.83 lakh",
-          "1,623",
-          "1",
-          "29",
-          "30"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.89,
-            "matches": [
-              "\\blakh\\b",
-              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bdistrict\\b"
-            ]
-          }
-        ],
-        "textLength": 231,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.89,
-          "matches": [
-            "\\blakh\\b",
-            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bdistrict\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "KMC Commissioner expresses ire over supervision teams of Anna Canteens",
-      "summary": "On a surprise visit, the Commissioner found three of the seven staff present and warned that he would complain to the Anna Canteen CEO if it continued",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kmc-commissioner-expresses-ire-over-supervision-teams-of-anna-canteens/article71153581.ece",
-      "publishedAt": 1782548543000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "1a524b73a3cabbce",
-      "feedPosition": 11,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "commissioner",
-          "anna",
-          "expresses",
-          "supervision",
-          "teams",
-          "canteens",
-          "surprise",
-          "visit",
-          "found",
-          "three",
-          "seven",
-          "staff"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bwarned\\b"
-            ]
-          }
-        ],
-        "textLength": 221,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bwarned\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Patna court extends Khan Sir's protection from arrest till June 30 in coaching firing case",
-      "summary": "The case relates to a firing incident that occurred in early June after Khan Sir's coaching institute was allegedly vandalised by a group of miscreants. His security guards are accused of opening fire during the incident.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/patna-court-extends-khan-sirs-protection-from-arrest-till-june-30-in-coaching-firing-case/article71153672.ece",
-      "publishedAt": 1782547833000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "be65509ceae25edb",
-      "feedPosition": 12,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "khan",
-          "june",
-          "coaching",
-          "firing",
-          "case",
-          "incident",
-          "patna",
-          "court",
-          "extends",
-          "protection",
-          "arrest",
-          "till"
-        ],
-        "numbers": [
-          "30"
-        ],
-        "angleHints": [
-          {
-            "angle": "investigative_detail",
-            "score": 0.89,
-            "matches": [
-              "\\barrest(?:ed|s)?\\b",
-              "\\ballegedly\\b"
-            ]
-          }
-        ],
-        "textLength": 312,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "investigative_detail",
-          "score": 0.89,
-          "matches": [
-            "\\barrest(?:ed|s)?\\b",
-            "\\ballegedly\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Politics: where the versatile Bhagyaraj could not make a dent",
-      "summary": "Actor-director K. Bhagyaraj passed away following a heart attack on Saturday; known for his versatility in the film world, Mr. Bhagyaraj, however, had a political stint that did not take off",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/politics-where-the-versatile-bhagyaraj-could-not-make-a-dent/article71153679.ece",
-      "publishedAt": 1782547545000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "c90186d5f4781419",
-      "feedPosition": 13,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "bhagyaraj",
-          "politics",
-          "versatile",
-          "make",
-          "dent",
-          "actor-director",
-          "passed",
-          "away",
-          "following",
-          "heart",
-          "attack",
-          "saturday"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 252,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "DGP Harish Kumar Gupta reviews Chittoor policing, calls for stronger tech-driven measures",
-      "summary": "The Director General of Police praised the district’s drone-assisted and CCTV-backed policing, and asked officers to keep it transparent and responsive",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/dgp-harish-kumar-gupta-reviews-chittoor-policing-calls-for-stronger-tech-driven-measures/article71151528.ece",
-      "publishedAt": 1782547152000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "9292a5db452546c0",
-      "feedPosition": 14,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "policing",
-          "harish",
-          "kumar",
-          "gupta",
-          "reviews",
-          "chittoor",
-          "calls",
-          "stronger",
-          "tech-driven",
-          "measures",
-          "director",
-          "general"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bpolice\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bdistrict\\b"
-            ]
-          }
-        ],
-        "textLength": 241,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bpolice\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bdistrict\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Watch: PM Modi leaves for Seychelles for National Day golden jubilee",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/shorts/watch-pm-modi-leaves-for-seychelles-for-national-day-golden-jubilee/article71153819.ece",
-      "publishedAt": 1782547038000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "4cb2da9493c7dbe7",
-      "feedPosition": 15,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h",
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "watch",
-          "modi",
-          "leaves",
-          "seychelles",
-          "national",
-          "golden",
-          "jubilee"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 68,
-        "hasSummary": false,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Sonia Gandhi hits out at Modi government’s ‘stony silence’ on Gaza ‘genocide’",
-      "summary": "Amidst the growing public backlash against Israel and the international community’s cognisance of the unjustifiable brutality unleashed on Gaza, India remains a lone voice of silence, says Congress leader Sonia Gandhi",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/sonia-gandhi-hits-out-at-modi-governments-stony-silence-on-gaza-genocide/article71153547.ece",
-      "publishedAt": 1782546033000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "51d8f9f208a09549",
-      "feedPosition": 16,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "sonia",
-          "gandhi",
-          "silence",
-          "gaza",
-          "hits",
-          "modi",
-          "government",
-          "stony",
-          "genocide",
-          "amidst",
-          "growing",
-          "public"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bgovernment\\b",
-              "\\bsays\\b"
-            ]
-          },
-          {
-            "angle": "reaction_public",
-            "score": 0.89,
-            "matches": [
-              "\\bpublic\\b",
-              "\\bbacklash\\b"
-            ]
-          }
-        ],
-        "textLength": 295,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bgovernment\\b",
-            "\\bsays\\b"
-          ]
-        },
-        {
-          "angle": "reaction_public",
-          "score": 0.89,
-          "matches": [
-            "\\bpublic\\b",
-            "\\bbacklash\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "‘Great loss to Indian cinema’: Condolences pour in for actor-director Bhagyaraj",
-      "summary": "Chief Minister C. Joseph Vijay said the veteran filmmaker and actor will be laid to rest with full State honours",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/entertainment/movies/great-loss-to-indian-cinema-condolences-pour-in-for-actor-director-bhagyaraj/article71153528.ece",
-      "publishedAt": 1782545925000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "12068ea343a12c6d",
-      "feedPosition": 17,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "great",
-          "loss",
-          "indian",
-          "cinema",
-          "condolences",
-          "pour",
-          "actor-director",
-          "bhagyaraj",
-          "chief",
-          "minister",
-          "joseph",
-          "vijay"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bminister\\b",
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 192,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bminister\\b",
-            "\\bsaid\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Rubio: Trump might visit India in early 2027 - Breakingthenews.net",
       "summary": "Rubio: Trump might visit India in early 2027 Breakingthenews.net",
       "source": "Google News",
@@ -1249,456 +499,6 @@
         "textLength": 131,
         "hasSummary": true,
         "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Chris Wood’s big warning: The specific risk that will finally trigger the end of AI trade",
-      "summary": "Jefferies strategist Chris Wood believes the AI boom will end not because of a chip glut, but when investors realise hyperscalers cannot generate adequate returns on massive AI investments. He warns that concerns over capital misallocation, rather than supply, could trigger a prolonged pause in the AI trade.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
-      "publishedAt": 1782548790000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "e3d9186fd2d4ed71",
-      "feedPosition": 0,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "chris",
-          "wood",
-          "that",
-          "trigger",
-          "trade",
-          "warning",
-          "specific",
-          "risk",
-          "finally",
-          "jefferies",
-          "strategist",
-          "believes"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 0.67,
-            "matches": [
-              "\\binvestors?\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bwarns?\\b"
-            ]
-          }
-        ],
-        "textLength": 399,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 0.67,
-          "matches": [
-            "\\binvestors?\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bwarns?\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition",
-      "summary": "Goldman Sachs’ India equity portfolio fell 6% in CY26 amid mixed stock performance. While 18 stocks declined sharply, eight delivered strong gains, led by GNG Electronics, TD Power Systems, and Inox India.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms",
-      "publishedAt": 1782545714000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "6823d634fce6bea5",
-      "feedPosition": 1,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "india",
-          "goldman",
-          "sachs",
-          "stocks",
-          "cy26",
-          "bets",
-          "rally",
-          "addition",
-          "equity",
-          "portfolio",
-          "fell",
-          "amid"
-        ],
-        "numbers": [
-          "8",
-          "85%",
-          "26",
-          "6%",
-          "18"
-        ],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 1.0,
-            "matches": [
-              "\\bstocks?\\b",
-              "\\bfell\\b",
-              "\\bstocks rally\\b",
-              "\\bgains?\\b",
-              "\\brally(?:ing|ies)?\\b"
-            ]
-          },
-          {
-            "angle": "reaction_public",
-            "score": 0.67,
-            "matches": [
-              "\\b(?:rally|march|demonstration|sit-in)\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bup\\b"
-            ]
-          }
-        ],
-        "textLength": 283,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 1.0,
-          "matches": [
-            "\\bstocks?\\b",
-            "\\bfell\\b",
-            "\\bstocks rally\\b",
-            "\\bgains?\\b",
-            "\\brally(?:ing|ies)?\\b"
-          ]
-        },
-        {
-          "angle": "reaction_public",
-          "score": 0.67,
-          "matches": [
-            "\\b(?:rally|march|demonstration|sit-in)\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bup\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "NSE IPO to value exchange at Rs 5 lakh crore? 2 scenarios every investor should watch",
-      "summary": "NSE's proposed IPO could value the exchange at around Rs 5 lakh crore, making it one of India's most valuable listed financial institutions. Centrum outlines two scenarios that could shape post-listing performance, with sustained earnings growth supporting premium valuations while regulatory changes and slower derivatives volumes pose key risks.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-to-value-exchange-at-rs-5-lakh-crore-2-scenarios-every-investor-should-watch/articleshow/132030714.cms",
-      "publishedAt": 1782545516000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "37ac1517baedba6a",
-      "feedPosition": 2,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "value",
-          "exchange",
-          "lakh",
-          "crore",
-          "scenarios",
-          "investor",
-          "should",
-          "watch",
-          "proposed",
-          "making",
-          "india",
-          "most"
-        ],
-        "numbers": [
-          "5 lakh",
-          "2"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 1.0,
-            "matches": [
-              "\\bcrore\\b",
-              "\\blakh\\b",
-              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-            ]
-          },
-          {
-            "angle": "market_reaction",
-            "score": 0.89,
-            "matches": [
-              "\\binvestors?\\b",
-              "\\bipo\\b"
-            ]
-          }
-        ],
-        "textLength": 433,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 1.0,
-          "matches": [
-            "\\bcrore\\b",
-            "\\blakh\\b",
-            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-          ]
-        },
-        {
-          "angle": "market_reaction",
-          "score": 0.89,
-          "matches": [
-            "\\binvestors?\\b",
-            "\\bipo\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Bitcoin struggles under $60,000 amid persistent ETF withdrawals. Here is what experts say",
-      "summary": "Bitcoin hovers below $60,000 as investors withdraw from spot ETFs, driven by concerns over rising US interest rates. Major altcoins saw mixed movements, with some gaining up to 4%. Analysts suggest a potential dip to $55,500-$56,000 if Bitcoin breaks key support. The overall market sentiment remains cautious, reflecting a broader decline in risk assets.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-struggles-under-60000-amid-persistent-etf-withdrawals-here-is-what-experts-say/articleshow/132030661.cms",
-      "publishedAt": 1782545138000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "ef6c5157aa981c57",
-      "feedPosition": 3,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "bitcoin",
-          "struggles",
-          "amid",
-          "persistent",
-          "withdrawals",
-          "here",
-          "what",
-          "experts",
-          "hovers",
-          "below",
-          "investors",
-          "withdraw"
-        ],
-        "numbers": [
-          "$60,000",
-          "4%",
-          "$55,500",
-          "$56,000"
-        ],
-        "angleHints": [
-          {
-            "angle": "expert_analysis",
-            "score": 0.89,
-            "matches": [
-              "\\banalysts?\\b",
-              "\\bexperts?\\b"
-            ]
-          },
-          {
-            "angle": "market_reaction",
-            "score": 0.89,
-            "matches": [
-              "\\binvestors?\\b",
-              "\\bmarket\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bup\\b"
-            ]
-          }
-        ],
-        "textLength": 445,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "expert_analysis",
-          "score": 0.89,
-          "matches": [
-            "\\banalysts?\\b",
-            "\\bexperts?\\b"
-          ]
-        },
-        {
-          "angle": "market_reaction",
-          "score": 0.89,
-          "matches": [
-            "\\binvestors?\\b",
-            "\\bmarket\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bup\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Xi's military purge widens: China strips 6 generals, ex-Politburo member of lawmaker posts",
-      "summary": "China has removed six top military officers, a former financial regulator, and a former Politburo member from their legislative posts, signaling President Xi Jinping's ongoing anti-corruption purge. This move targets the nation's political and military elite, with prominent figures like General Xu Xueqiang, head of military equipment development, among those dismissed. The campaign continues to reshape the highest echelons of power.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/china/xis-military-purge-widens-china-strips-six-generals-ex-politburo-member-of-lawmaker-posts/articleshow/132030668.cms",
-      "publishedAt": 1782547405000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "30b96a5133a0c9d2",
-      "feedPosition": 1,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "military",
-          "purge",
-          "china",
-          "member",
-          "posts",
-          "former",
-          "widens",
-          "strips",
-          "generals",
-          "ex-politburo",
-          "lawmaker",
-          "removed"
-        ],
-        "numbers": [
-          "6"
-        ],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bregulator\\b"
-            ]
-          }
-        ],
-        "textLength": 527,
-        "hasSummary": true,
-        "sourceGroup": "times_of_india"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bregulator\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Watch: Iran and Egypt, where homosexuality is criminalised, play FIFA Pride Match among rainbow flags and banners",
-      "summary": "",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/watch-rainbow-flags-fly-at-fifa-pride-match-despite-objections-by-iran-and-egypt-where-homosexuality-is-criminalised/articleshow/132030244.cms",
-      "publishedAt": 1782544941000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "ad20933a369fefb9",
-      "feedPosition": 2,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "watch",
-          "iran",
-          "egypt",
-          "homosexuality",
-          "criminalised",
-          "play",
-          "fifa",
-          "pride",
-          "match",
-          "rainbow",
-          "flags",
-          "banners"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 113,
-        "hasSummary": false,
-        "sourceGroup": "times_of_india"
       },
       "angleHints": [
         {
@@ -1757,437 +557,6 @@
           "angle": "base_report",
           "score": 0.35,
           "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Indonesian police arrest dozens in anti-government protest",
-      "summary": "Surabaya police chief Luthfie Sulistiawan told reporters late on June 26, that officers had taken “firm actions” to push back protesters after some threw projectiles",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/indonesian-police-arrest-dozens-in-anti-government-protest/article71153848.ece",
-      "publishedAt": 1782549979000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "3f17396f68f0b3ad",
-      "feedPosition": 2,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "police",
-          "indonesian",
-          "arrest",
-          "dozens",
-          "anti-government",
-          "protest",
-          "surabaya",
-          "chief",
-          "luthfie",
-          "sulistiawan",
-          "told",
-          "reporters"
-        ],
-        "numbers": [
-          "26"
-        ],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bgovernment\\b",
-              "\\bpolice\\b"
-            ]
-          },
-          {
-            "angle": "reaction_public",
-            "score": 0.89,
-            "matches": [
-              "\\bprotests?\\b",
-              "\\bprotesters?\\b"
-            ]
-          },
-          {
-            "angle": "investigative_detail",
-            "score": 0.67,
-            "matches": [
-              "\\barrest(?:ed|s)?\\b"
-            ]
-          }
-        ],
-        "textLength": 224,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bgovernment\\b",
-            "\\bpolice\\b"
-          ]
-        },
-        {
-          "angle": "reaction_public",
-          "score": 0.89,
-          "matches": [
-            "\\bprotests?\\b",
-            "\\bprotesters?\\b"
-          ]
-        },
-        {
-          "angle": "investigative_detail",
-          "score": 0.67,
-          "matches": [
-            "\\barrest(?:ed|s)?\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Seoul says Chinese, Russian military aircraft enter its air defence zone",
-      "summary": "The Joint Chiefs of Staff in Seoul said the Chinese and Russian aircraft had entered and then left the Korea Air Defence Identification Zone over East Sea and South Sea",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/seoul-says-chinese-russian-military-aircraft-enter-its-air-defence-zone/article71153721.ece",
-      "publishedAt": 1782548975000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "c36cb3ace7c2ac6e",
-      "feedPosition": 3,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "seoul",
-          "chinese",
-          "russian",
-          "aircraft",
-          "defence",
-          "zone",
-          "military",
-          "enter",
-          "joint",
-          "chiefs",
-          "staff",
-          "entered"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bsays\\b",
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 241,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bsays\\b",
-            "\\bsaid\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Netanyahu says Israel to remain in south Lebanon until Hezbollah disarms",
-      "summary": "“The most important thing is, first of all, that Israel remains in the security zone in southern Lebanon. This is a major achievement, and we will maintain it as long as Hezbollah has not disarmed,” says Mr. Netanyahu",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/netanyahu-declares-israel-will-stay-in-southern-lebanon-until-hezbollah-disarms/article71153556.ece",
-      "publishedAt": 1782548095000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "1fadd079deceb642",
-      "feedPosition": 4,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "netanyahu",
-          "israel",
-          "lebanon",
-          "hezbollah",
-          "remain",
-          "south",
-          "until",
-          "disarms",
-          "most",
-          "important",
-          "thing",
-          "that"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsays\\b"
-            ]
-          }
-        ],
-        "textLength": 290,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsays\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "U.S. allows limited access to Anthropic’s Mythos AI model",
-      "summary": "Access to Mythos 5 had been blocked by U.S. authorities due to concerns about national security",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/sci-tech/technology/us-allows-limited-access-to-anthropics-mythos-ai-model/article71153730.ece",
-      "publishedAt": 1782547750000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "70ef46a4eb3c72d9",
-      "feedPosition": 5,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "access",
-          "mythos",
-          "allows",
-          "limited",
-          "anthropic",
-          "model",
-          "been",
-          "blocked",
-          "authorities",
-          "concerns",
-          "national",
-          "security"
-        ],
-        "numbers": [
-          "5"
-        ],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bauthorit(?:y|ies)\\b"
-            ]
-          }
-        ],
-        "textLength": 153,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bauthorit(?:y|ies)\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "UN rights chief calls for investigations into U.S. deaths in immigration custody",
-      "summary": "The U.S. Department of Homeland Security’s ​inspector general is examining deaths of ‌people in U.S. Immigration and Customs Enforcement custody from October 2021 through March 2026",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/un-rights-chief-calls-for-investigations-into-us-deaths-in-immigration-custody/article71152081.ece",
-      "publishedAt": 1782545627000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "f91fb53b133525be",
-      "feedPosition": 12,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "deaths",
-          "immigration",
-          "custody",
-          "rights",
-          "chief",
-          "calls",
-          "investigations",
-          "department",
-          "homeland",
-          "security",
-          "inspector",
-          "general"
-        ],
-        "numbers": [
-          "2021",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "reaction_public",
-            "score": 0.67,
-            "matches": [
-              "\\b(?:rally|march|demonstration|sit-in)\\b"
-            ]
-          }
-        ],
-        "textLength": 262,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "reaction_public",
-          "score": 0.67,
-          "matches": [
-            "\\b(?:rally|march|demonstration|sit-in)\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Venezuela Earthquake: Survivors sleep in cars and under trees as they question where they’ll live after the earthquakes",
-      "summary": "Thousands of Venezuelans left suddenly homeless have since poured into parks, plazas and even the shoulders of blocked highways, looking for a place to lay their heads",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/venezuela-earthquake-survivors-sleep-in-cars-and-under-trees-as-they-question-where-theyll-live-after-the-earthquakes/article71152080.ece",
-      "publishedAt": 1782545377000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "f57d6a5d5d5f5b66",
-      "feedPosition": 13,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "they",
-          "venezuela",
-          "earthquake",
-          "survivors",
-          "sleep",
-          "cars",
-          "trees",
-          "question",
-          "live",
-          "earthquakes",
-          "thousands",
-          "venezuelans"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 287,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Trump threatens 100% tax on European imports if countries impose tax on digital services",
-      "summary": "Trump said the new tax would supersede any previously negotiated trade deals",
-      "source": "The Hindu Intl",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services/article71152030.ece",
-      "publishedAt": 1782545031000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "e14026e242da6667",
-      "feedPosition": 14,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "trump",
-          "threatens",
-          "european",
-          "imports",
-          "countries",
-          "impose",
-          "digital",
-          "services",
-          "supersede",
-          "previously",
-          "negotiated",
-          "trade"
-        ],
-        "numbers": [
-          "100%"
-        ],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 165,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsaid\\b"
-          ]
         }
       ]
     },
@@ -3648,118 +2017,6 @@
       ]
     },
     {
-      "title": "MDMK withdraws from DMK-led Secular Progressive Alliance; Party to decide on future ties at \"appropriate time\"",
-      "summary": "The party said its office-bearers and workers had expressed the view that the MDMK should no longer remain in the DMK-led alliance",
-      "source": "Business Line",
-      "sourceGroup": "business_line",
-      "url": "https://www.thehindubusinessline.com/news/mdmk-withdraws-from-dmk-led-secular-progressive-alliance-party-to-decide-on-future-ties-at-appropriate-time/article71153862.ece",
-      "publishedAt": 1782549260000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "71394adb4f28890e",
-      "feedPosition": 4,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus24h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "mdmk",
-          "dmk-led",
-          "alliance",
-          "party",
-          "withdraws",
-          "secular",
-          "progressive",
-          "decide",
-          "future",
-          "ties",
-          "appropriate",
-          "time"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 241,
-        "hasSummary": true,
-        "sourceGroup": "business_line"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsaid\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Trump likely to visit India early next year, Rubio tells India's IANS",
-      "summary": "“We’re ‌working ⁠towards sometime early next year ⁠to have the president come,” Rubio said, according to IAN",
-      "source": "Business Line",
-      "sourceGroup": "business_line",
-      "url": "https://www.thehindubusinessline.com/news/trump-likely-to-visit-india-early-next-year-rubio-tells-indias-ians/article71153749.ece",
-      "publishedAt": 1782546041000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "d072b2fea2d99cec",
-      "feedPosition": 5,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus24h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "india",
-          "early",
-          "next",
-          "year",
-          "rubio",
-          "trump",
-          "likely",
-          "visit",
-          "tells",
-          "ians",
-          "working",
-          "towards"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 178,
-        "hasSummary": true,
-        "sourceGroup": "business_line"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsaid\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Pakistan bat against Netherlands; bring in Eyman Fatima, Tuba Hassan",
       "summary": "Netherlands made one change with Heather Siegers replacing Myrthe van den Raad",
       "source": "ESPNcricinfo",
@@ -4852,61 +3109,6 @@
       ]
     },
     {
-      "title": "AIR INDIA LAUNCHES ‘EASY CONNECT’ FLIGHTS – BRINGING THE WORLD CLOSER TO EVERY INDIAN - Breaking Travel News",
-      "summary": "AIR INDIA LAUNCHES ‘EASY CONNECT’ FLIGHTS – BRINGING THE WORLD CLOSER TO EVERY INDIAN Breaking Travel News",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3NpM1hlaFBfMUJ0Y1A2dGVNY2lKY1ltZW1JYWczbVJXQnJIVkIydFJfZzF0YXhVOXVOX3VjVU1XbTkwUVV5UXgxTHdkTE5zbVhCRG8zbkZDdFB1c0JJZ3FobmN5MzlZQ1ZnU3laWWlSMkpRSVlHM1FYSzdJRkhrajlaOWNLbENRZHZ2QUxTeTZSbGZzT0dHM3NlajlRRzJ3MmZzbkcySHY4T2plRE43ODFUT3RTQURrYTNXcmg4MU0?oc=5",
-      "publishedAt": 1782545835000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "825d081d9e9b3a9c",
-      "feedPosition": 1,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "india",
-          "launches",
-          "easy",
-          "connect",
-          "flights",
-          "bringing",
-          "world",
-          "closer",
-          "indian",
-          "breaking",
-          "travel"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.67,
-            "matches": [
-              "\\bbreaking\\b"
-            ]
-          }
-        ],
-        "textLength": 215,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.67,
-          "matches": [
-            "\\bbreaking\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Britain boiling under record-breaking heat: Why London’s 35°C can feel more agonising than 45°C in Delhi? Exp - India.Com",
       "summary": "Britain boiling under record-breaking heat: Why London’s 35°C can feel more agonising than 45°C in Delhi? Exp India.Com",
       "source": "Google News",
@@ -4974,57 +3176,6 @@
           "matches": [
             "\\b(?:in|at|near) (?:mumbai|delhi|bengaluru|bangalore|hyderabad|kolkata|pune|ahmedabad|jaipur|lucknow|coimbatore|madurai)\\b"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Ireland make history with stunning T20 victory over world champions India - BreakingNews.ie",
-      "summary": "Ireland make history with stunning T20 victory over world champions India BreakingNews.ie",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1ZxYmJFVTZzMW1uZXM2TzgtRXYyRW5IdC04aXlONTFoZlZIMDliTVZJandwT1NyU3dtVlM4MVZlNWREeWQycDBpdXQyd2xla2pqdXNXTTNQZklzejF5d3hkSFhGb0h3Smd6V3dKVUFGbDV5OFhpdFpWSFBTaTJUWEhpNjdzeHAtMnNVLXFJTm5nY3pOT2VoamxTU0Y0SlJrZWl5dHlYU3lLZWxyZFZIR3U3ZFlDWG9aOGtWRw?oc=5",
-      "publishedAt": 1782547084000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "e5c1afee93c635c2",
-      "feedPosition": 19,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "ireland",
-          "make",
-          "history",
-          "stunning",
-          "victory",
-          "world",
-          "champions",
-          "india",
-          "breakingnews"
-        ],
-        "numbers": [
-          "20"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 181,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
         }
       ]
     },
@@ -6999,55 +5150,6 @@
           "matches": [
             "\\bcriticis(?:e|ed|es|ing|m)\\b"
           ]
-        }
-      ]
-    },
-    {
-      "title": "'Unprecedented Honour': Trump Thanks India After Hyderabad Road Named After Him - The Quint",
-      "summary": "'Unprecedented Honour': Trump Thanks India After Hyderabad Road Named After Him The Quint",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXFIeWlzR3ktVG9xSk9zamJKckxkeTNKa2pES0ZqbjRxSHZEZnRDT0lQUlNWQ3U1ZWVBX2N0b2diSE9qaEFCalFvVUtwSFhaZVpEN2RiVk5yem92RjVvVHpOTzY2Q2xMa2VkQUREX1laNTBESVpTX2hiOGEwbVdRWm5uVnAzNzdhdjU5SkRlaDlIakVyblBTVENEMkJGZ9IBqwFBVV95cUxPZVlaXzJRRUZmbHJhTjVzRG0yakpCOW9YS1lBVEFvRlY3VTByTFByZHBiYXdMeDR2dDA0TVBUUXNQbDRFQTE2QlpJVlg2MklVQWFBUXZlcFNjanhkQzZSbUsyc05yVGh3X2tySXRjMWpoQ0w1M0gzaGFGWnRkZTgzcGpFdG5wbzdVVnhFTEE4MkI5OTVMX05jUE9KWXcxMENhWHQ3RTljMDlvQXc?oc=5",
-      "publishedAt": 1782549752000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "80552aed174db933",
-      "feedPosition": 10,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "unprecedented",
-          "honour",
-          "trump",
-          "thanks",
-          "india",
-          "hyderabad",
-          "road",
-          "named",
-          "quint"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 181,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
         }
       ]
     },
@@ -27405,6 +25507,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30649,6 +28752,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30701,6 +28805,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30773,6 +28878,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30820,6 +28926,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30875,6 +28982,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30924,6 +29032,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -30971,6 +29080,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31020,6 +29130,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31086,6 +29197,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31146,6 +29258,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31193,6 +29306,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31243,6 +29357,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31332,6 +29447,7 @@
       "feedLength": 20,
       "suppressionReason": null,
       "fetchedForSlots": [
+        "minus4h",
         "now"
       ],
       "storySignals": {
@@ -31615,6 +29731,663 @@
       ]
     },
     {
+      "title": "🔴 LIVE | ସାଢେ ୫ଟାର ବଡ଼ ଖବର | 5.30PM Breaking News | 27th June 2026 | Odia News | Kanak News - Kanak News Odisha",
+      "summary": "🔴 LIVE | ସାଢେ ୫ଟାର ବଡ଼ ଖବର | 5.30PM Breaking News | 27th June 2026 | Odia News | Kanak News Kanak News Odisha",
+      "source": "Google News",
+      "sourceGroup": "google_news",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0syR051cW9RSWJUQlFRVDlYR2E4b1pwMVBsd21kSko5OEYtVHlENURWVWtMNWNza192NkkzZXVoZDBWdlNvZlRiTDRpdFZTaVQ4T1VKemhNV1B2d2R3dzF5SkpIWXpjZm1WUEJtMFZlM19neDFITEdVa2hETkF1VHFNYXd3OWVZVWhqZGxhZWthZ0ttdUdGY0JaSXhHT3BobmdEbmpLUjhtYTNNZ3ZxOWlVajFjNDFtT2ZHVjQtWU5TSUpZ0gHEAUFVX3lxTE5zSzJHTnVxb1FJYlRCUVFUOVhHYThvWnAxUGx3bWRKSjk4Ri1UeUQ1RFZVa0w1Y3NrX3Y2STNldWhkMFZ2U29mVGJMNGl0VlNpVDhPVUp6aE1XUHZ3ZHd3MXlKSkhZemNmbVZQQm0wVmUzX2d4MUhMR1VraEROQXVUcU1hd3c5ZVlVaGpkbGFla2FnS211R0ZjQlpJeEdPcGhuZ0RuaktSOG1hM01ndnE5aVVqMWM0MW1PZkdWNC1ZTlNJSlk?oc=5",
+      "publishedAt": 1782653560000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "10daa869e506646c",
+      "feedPosition": 7,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "kanak",
+          "live",
+          "30pm",
+          "breaking",
+          "27th",
+          "june",
+          "odia",
+          "odisha"
+        ],
+        "numbers": [
+          "୫",
+          "5.30",
+          "27",
+          "2026"
+        ],
+        "angleHints": [
+          {
+            "angle": "fact_update",
+            "score": 0.67,
+            "matches": [
+              "\\bbreaking\\b"
+            ]
+          }
+        ],
+        "textLength": 221,
+        "hasSummary": true,
+        "sourceGroup": "google_news"
+      },
+      "angleHints": [
+        {
+          "angle": "fact_update",
+          "score": 0.67,
+          "matches": [
+            "\\bbreaking\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Food delivery workers fear stigma amid drug link claims, police checks",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/food-delivery-personnel-fear-stigma-as-police-intensify-check-under-operation-toofan/article71158501.ece",
+      "publishedAt": 1782677362000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "9b610fa257cfbf5c",
+      "feedPosition": 0,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h",
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "food",
+          "delivery",
+          "workers",
+          "fear",
+          "stigma",
+          "amid",
+          "drug",
+          "link",
+          "claims",
+          "police",
+          "checks"
+        ],
+        "numbers": [],
+        "angleHints": [
+          {
+            "angle": "official_response",
+            "score": 0.67,
+            "matches": [
+              "\\bpolice\\b"
+            ]
+          }
+        ],
+        "textLength": 70,
+        "hasSummary": false,
+        "sourceGroup": "the_hindu"
+      },
+      "angleHints": [
+        {
+          "angle": "official_response",
+          "score": 0.67,
+          "matches": [
+            "\\bpolice\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Collector tells HC 85% of city canal desilting work completed",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/collector-tells-hc-85-of-city-canal-desilting-work-completed/article71158590.ece",
+      "publishedAt": 1782677276000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "74465cf588e4a48f",
+      "feedPosition": 2,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h",
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "collector",
+          "tells",
+          "city",
+          "canal",
+          "desilting",
+          "work",
+          "completed"
+        ],
+        "numbers": [
+          "85%"
+        ],
+        "angleHints": [
+          {
+            "angle": "regional_followup",
+            "score": 0.67,
+            "matches": [
+              "\\bcity\\b"
+            ]
+          }
+        ],
+        "textLength": 61,
+        "hasSummary": false,
+        "sourceGroup": "the_hindu"
+      },
+      "angleHints": [
+        {
+          "angle": "regional_followup",
+          "score": 0.67,
+          "matches": [
+            "\\bcity\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Operation Toofan: 175 NDPS cases registered in two days",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/operation-toofan-175-ndps-cases-registered-in-two-days/article71158090.ece",
+      "publishedAt": 1782677196000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "8410c6d5401ef832",
+      "feedPosition": 3,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h",
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "operation",
+          "toofan",
+          "ndps",
+          "cases",
+          "registered",
+          "days"
+        ],
+        "numbers": [
+          "175"
+        ],
+        "angleHints": [
+          {
+            "angle": "base_report",
+            "score": 0.35,
+            "matches": []
+          }
+        ],
+        "textLength": 55,
+        "hasSummary": false,
+        "sourceGroup": "the_hindu"
+      },
+      "angleHints": [
+        {
+          "angle": "base_report",
+          "score": 0.35,
+          "matches": []
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian rights in focus as city footpaths remain inaccessible",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/pedestrian-rights-in-focus-as-city-footpaths-remain-inaccessible/article71158534.ece",
+      "publishedAt": 1782677122000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "3706b06a18141ab7",
+      "feedPosition": 4,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h",
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "pedestrian",
+          "rights",
+          "focus",
+          "city",
+          "footpaths",
+          "remain",
+          "inaccessible"
+        ],
+        "numbers": [],
+        "angleHints": [
+          {
+            "angle": "regional_followup",
+            "score": 0.67,
+            "matches": [
+              "\\bcity\\b"
+            ]
+          }
+        ],
+        "textLength": 64,
+        "hasSummary": false,
+        "sourceGroup": "the_hindu"
+      },
+      "angleHints": [
+        {
+          "angle": "regional_followup",
+          "score": 0.67,
+          "matches": [
+            "\\bcity\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BJP a ‘factory of lies’, says Siddaramaiah in Mysuru",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bjp-a-factory-of-lies-says-siddaramaiah-in-mysuru/article71157656.ece",
+      "publishedAt": 1782674303000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "e26e4f098d46f076",
+      "feedPosition": 5,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h",
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "factory",
+          "lies",
+          "siddaramaiah",
+          "mysuru"
+        ],
+        "numbers": [],
+        "angleHints": [
+          {
+            "angle": "official_response",
+            "score": 0.67,
+            "matches": [
+              "\\bsays\\b"
+            ]
+          }
+        ],
+        "textLength": 52,
+        "hasSummary": false,
+        "sourceGroup": "the_hindu"
+      },
+      "angleHints": [
+        {
+          "angle": "official_response",
+          "score": 0.67,
+          "matches": [
+            "\\bsays\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chris Wood’s big warning: The specific risk that will finally trigger the end of AI trade",
+      "summary": "Jefferies strategist Chris Wood believes the AI boom will end not because of a chip glut, but when investors realise hyperscalers cannot generate adequate returns on massive AI investments. He warns that concerns over capital misallocation, rather than supply, could trigger a prolonged pause in the AI trade.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
+      "publishedAt": 1782548790000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "e3d9186fd2d4ed71",
+      "feedPosition": 15,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "chris",
+          "wood",
+          "that",
+          "trigger",
+          "trade",
+          "warning",
+          "specific",
+          "risk",
+          "finally",
+          "jefferies",
+          "strategist",
+          "believes"
+        ],
+        "numbers": [],
+        "angleHints": [
+          {
+            "angle": "market_reaction",
+            "score": 0.67,
+            "matches": [
+              "\\binvestors?\\b"
+            ]
+          },
+          {
+            "angle": "official_response",
+            "score": 0.67,
+            "matches": [
+              "\\bwarns?\\b"
+            ]
+          }
+        ],
+        "textLength": 399,
+        "hasSummary": true,
+        "sourceGroup": "economic_times"
+      },
+      "angleHints": [
+        {
+          "angle": "market_reaction",
+          "score": 0.67,
+          "matches": [
+            "\\binvestors?\\b"
+          ]
+        },
+        {
+          "angle": "official_response",
+          "score": 0.67,
+          "matches": [
+            "\\bwarns?\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition",
+      "summary": "Goldman Sachs’ India equity portfolio fell 6% in CY26 amid mixed stock performance. While 18 stocks declined sharply, eight delivered strong gains, led by GNG Electronics, TD Power Systems, and Inox India.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms",
+      "publishedAt": 1782545714000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "6823d634fce6bea5",
+      "feedPosition": 16,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "india",
+          "goldman",
+          "sachs",
+          "stocks",
+          "cy26",
+          "bets",
+          "rally",
+          "addition",
+          "equity",
+          "portfolio",
+          "fell",
+          "amid"
+        ],
+        "numbers": [
+          "8",
+          "85%",
+          "26",
+          "6%",
+          "18"
+        ],
+        "angleHints": [
+          {
+            "angle": "market_reaction",
+            "score": 1.0,
+            "matches": [
+              "\\bstocks?\\b",
+              "\\bfell\\b",
+              "\\bstocks rally\\b",
+              "\\bgains?\\b",
+              "\\brally(?:ing|ies)?\\b"
+            ]
+          },
+          {
+            "angle": "reaction_public",
+            "score": 0.67,
+            "matches": [
+              "\\b(?:rally|march|demonstration|sit-in)\\b"
+            ]
+          },
+          {
+            "angle": "regional_followup",
+            "score": 0.67,
+            "matches": [
+              "\\bup\\b"
+            ]
+          }
+        ],
+        "textLength": 283,
+        "hasSummary": true,
+        "sourceGroup": "economic_times"
+      },
+      "angleHints": [
+        {
+          "angle": "market_reaction",
+          "score": 1.0,
+          "matches": [
+            "\\bstocks?\\b",
+            "\\bfell\\b",
+            "\\bstocks rally\\b",
+            "\\bgains?\\b",
+            "\\brally(?:ing|ies)?\\b"
+          ]
+        },
+        {
+          "angle": "reaction_public",
+          "score": 0.67,
+          "matches": [
+            "\\b(?:rally|march|demonstration|sit-in)\\b"
+          ]
+        },
+        {
+          "angle": "regional_followup",
+          "score": 0.67,
+          "matches": [
+            "\\bup\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "NSE IPO to value exchange at Rs 5 lakh crore? 2 scenarios every investor should watch",
+      "summary": "NSE's proposed IPO could value the exchange at around Rs 5 lakh crore, making it one of India's most valuable listed financial institutions. Centrum outlines two scenarios that could shape post-listing performance, with sustained earnings growth supporting premium valuations while regulatory changes and slower derivatives volumes pose key risks.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-to-value-exchange-at-rs-5-lakh-crore-2-scenarios-every-investor-should-watch/articleshow/132030714.cms",
+      "publishedAt": 1782545516000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "37ac1517baedba6a",
+      "feedPosition": 17,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "value",
+          "exchange",
+          "lakh",
+          "crore",
+          "scenarios",
+          "investor",
+          "should",
+          "watch",
+          "proposed",
+          "making",
+          "india",
+          "most"
+        ],
+        "numbers": [
+          "5 lakh",
+          "2"
+        ],
+        "angleHints": [
+          {
+            "angle": "fact_update",
+            "score": 1.0,
+            "matches": [
+              "\\bcrore\\b",
+              "\\blakh\\b",
+              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
+            ]
+          },
+          {
+            "angle": "market_reaction",
+            "score": 0.89,
+            "matches": [
+              "\\binvestors?\\b",
+              "\\bipo\\b"
+            ]
+          }
+        ],
+        "textLength": 433,
+        "hasSummary": true,
+        "sourceGroup": "economic_times"
+      },
+      "angleHints": [
+        {
+          "angle": "fact_update",
+          "score": 1.0,
+          "matches": [
+            "\\bcrore\\b",
+            "\\blakh\\b",
+            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
+          ]
+        },
+        {
+          "angle": "market_reaction",
+          "score": 0.89,
+          "matches": [
+            "\\binvestors?\\b",
+            "\\bipo\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin struggles under $60,000 amid persistent ETF withdrawals. Here is what experts say",
+      "summary": "Bitcoin hovers below $60,000 as investors withdraw from spot ETFs, driven by concerns over rising US interest rates. Major altcoins saw mixed movements, with some gaining up to 4%. Analysts suggest a potential dip to $55,500-$56,000 if Bitcoin breaks key support. The overall market sentiment remains cautious, reflecting a broader decline in risk assets.",
+      "source": "Economic Times",
+      "sourceGroup": "economic_times",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-struggles-under-60000-amid-persistent-etf-withdrawals-here-is-what-experts-say/articleshow/132030661.cms",
+      "publishedAt": 1782545138000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "ef6c5157aa981c57",
+      "feedPosition": 18,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "now"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "bitcoin",
+          "struggles",
+          "amid",
+          "persistent",
+          "withdrawals",
+          "here",
+          "what",
+          "experts",
+          "hovers",
+          "below",
+          "investors",
+          "withdraw"
+        ],
+        "numbers": [
+          "$60,000",
+          "4%",
+          "$55,500",
+          "$56,000"
+        ],
+        "angleHints": [
+          {
+            "angle": "expert_analysis",
+            "score": 0.89,
+            "matches": [
+              "\\banalysts?\\b",
+              "\\bexperts?\\b"
+            ]
+          },
+          {
+            "angle": "market_reaction",
+            "score": 0.89,
+            "matches": [
+              "\\binvestors?\\b",
+              "\\bmarket\\b"
+            ]
+          },
+          {
+            "angle": "regional_followup",
+            "score": 0.67,
+            "matches": [
+              "\\bup\\b"
+            ]
+          }
+        ],
+        "textLength": 445,
+        "hasSummary": true,
+        "sourceGroup": "economic_times"
+      },
+      "angleHints": [
+        {
+          "angle": "expert_analysis",
+          "score": 0.89,
+          "matches": [
+            "\\banalysts?\\b",
+            "\\bexperts?\\b"
+          ]
+        },
+        {
+          "angle": "market_reaction",
+          "score": 0.89,
+          "matches": [
+            "\\binvestors?\\b",
+            "\\bmarket\\b"
+          ]
+        },
+        {
+          "angle": "regional_followup",
+          "score": 0.67,
+          "matches": [
+            "\\bup\\b"
+          ]
+        }
+      ]
+    },
+    {
       "title": "ETMarkets Smart Talk | AI and semiconductors remain the best global investment themes today: Niteen Dongare",
       "summary": "As Indian investors increasingly diversify globally, AI and semiconductors remain the most compelling long-term investment themes, according to Niteen Dongare of Anand Rathi International Ventures. He recommends allocating 20-30% of portfolios to global markets through ETFs, direct stocks and GIFT City funds to enhance diversification and returns.",
       "source": "Economic Times",
@@ -31873,63 +30646,6 @@
       ]
     },
     {
-      "title": "🔴 LIVE | ସାଢେ ୫ଟାର ବଡ଼ ଖବର | 5.30PM Breaking News | 27th June 2026 | Odia News | Kanak News - Kanak News Odisha",
-      "summary": "🔴 LIVE | ସାଢେ ୫ଟାର ବଡ଼ ଖବର | 5.30PM Breaking News | 27th June 2026 | Odia News | Kanak News Kanak News Odisha",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0syR051cW9RSWJUQlFRVDlYR2E4b1pwMVBsd21kSko5OEYtVHlENURWVWtMNWNza192NkkzZXVoZDBWdlNvZlRiTDRpdFZTaVQ4T1VKemhNV1B2d2R3dzF5SkpIWXpjZm1WUEJtMFZlM19neDFITEdVa2hETkF1VHFNYXd3OWVZVWhqZGxhZWthZ0ttdUdGY0JaSXhHT3BobmdEbmpLUjhtYTNNZ3ZxOWlVajFjNDFtT2ZHVjQtWU5TSUpZ0gHEAUFVX3lxTE5zSzJHTnVxb1FJYlRCUVFUOVhHYThvWnAxUGx3bWRKSjk4Ri1UeUQ1RFZVa0w1Y3NrX3Y2STNldWhkMFZ2U29mVGJMNGl0VlNpVDhPVUp6aE1XUHZ3ZHd3MXlKSkhZemNmbVZQQm0wVmUzX2d4MUhMR1VraEROQXVUcU1hd3c5ZVlVaGpkbGFla2FnS211R0ZjQlpJeEdPcGhuZ0RuaktSOG1hM01ndnE5aVVqMWM0MW1PZkdWNC1ZTlNJSlk?oc=5",
-      "publishedAt": 1782653560000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "10daa869e506646c",
-      "feedPosition": 7,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "kanak",
-          "live",
-          "30pm",
-          "breaking",
-          "27th",
-          "june",
-          "odia",
-          "odisha"
-        ],
-        "numbers": [
-          "୫",
-          "5.30",
-          "27",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.67,
-            "matches": [
-              "\\bbreaking\\b"
-            ]
-          }
-        ],
-        "textLength": 221,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.67,
-          "matches": [
-            "\\bbreaking\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Hundreds dead as twin quakes rock Venezuela; India resumes travel visas to Bangladeshis; and more on The Hindu’s top news of the day on June 25, 2026 - The Hindu",
       "summary": "Hundreds dead as twin quakes rock Venezuela; India resumes travel visas to Bangladeshis; and more on The Hindu’s top news of the day on June 25, 2026 The Hindu",
       "source": "Google News",
@@ -32137,10 +30853,187 @@
           "matches": []
         }
       ]
+    },
+    {
+      "title": "Trump ally tells migrants to seek permanent status or leave US: 'Fill out paperwork or...'",
+      "summary": "",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-ally-tells-migrants-to-seek-permanent-status-or-leave-us-either-fill-out-paperwork-or-well-help-you-get-back-/articleshow/132058429.cms",
+      "publishedAt": 1782679148000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "b3b0c72a5d6b4b42",
+      "feedPosition": 0,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "trump",
+          "ally",
+          "tells",
+          "migrants",
+          "seek",
+          "permanent",
+          "status",
+          "leave",
+          "fill",
+          "paperwork"
+        ],
+        "numbers": [],
+        "angleHints": [
+          {
+            "angle": "base_report",
+            "score": 0.35,
+            "matches": []
+          }
+        ],
+        "textLength": 90,
+        "hasSummary": false,
+        "sourceGroup": "times_of_india"
+      },
+      "angleHints": [
+        {
+          "angle": "base_report",
+          "score": 0.35,
+          "matches": []
+        }
+      ]
+    },
+    {
+      "title": "Pakistan carries out 'calibrated strikes' near Afghanistan border, 29 militants killed",
+      "summary": "",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-carries-out-calibrated-strikes-near-afghanistan-border-29-militants-killed/articleshow/132058492.cms",
+      "publishedAt": 1782678728000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "db4d64d070541b10",
+      "feedPosition": 1,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "pakistan",
+          "carries",
+          "calibrated",
+          "strikes",
+          "near",
+          "afghanistan",
+          "border",
+          "militants",
+          "killed"
+        ],
+        "numbers": [
+          "29"
+        ],
+        "angleHints": [
+          {
+            "angle": "fact_update",
+            "score": 0.67,
+            "matches": [
+              "\\bkilled\\b"
+            ]
+          }
+        ],
+        "textLength": 86,
+        "hasSummary": false,
+        "sourceGroup": "times_of_india"
+      },
+      "angleHints": [
+        {
+          "angle": "fact_update",
+          "score": 0.67,
+          "matches": [
+            "\\bkilled\\b"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "‘A man does not die alone’: Chilling messages left by Bangladeshi man before killing family",
+      "summary": "A haunting social media message has surfaced in connection with a horrific triple homicide in Rome, where a father, mother, and their young daughter were discovered lifeless. The primary suspect, 43-year-old Shahadat Hossain from Bangladesh, is the focus of an extensive manhunt by the police. His ominous post, stating, 'A man does not die alone,' is now pivotal to the ongoing investigation.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/europe/a-man-does-not-die-alone-chilling-messages-left-by-bangladeshi-man-before-killing-family-of-3-in-italy/articleshow/132056575.cms",
+      "publishedAt": 1782676367000,
+      "category": null,
+      "region": null,
+      "language": "en",
+      "id": "bc3218e5baceb6aa",
+      "feedPosition": 2,
+      "feedLength": 20,
+      "suppressionReason": null,
+      "fetchedForSlots": [
+        "minus4h"
+      ],
+      "storySignals": {
+        "topicTokens": [
+          "does",
+          "alone",
+          "chilling",
+          "messages",
+          "left",
+          "bangladeshi",
+          "killing",
+          "family",
+          "haunting",
+          "social",
+          "media",
+          "message"
+        ],
+        "numbers": [
+          "43"
+        ],
+        "angleHints": [
+          {
+            "angle": "investigative_detail",
+            "score": 0.67,
+            "matches": [
+              "\\binvestigation\\b"
+            ]
+          },
+          {
+            "angle": "official_response",
+            "score": 0.67,
+            "matches": [
+              "\\bpolice\\b"
+            ]
+          }
+        ],
+        "textLength": 485,
+        "hasSummary": true,
+        "sourceGroup": "times_of_india"
+      },
+      "angleHints": [
+        {
+          "angle": "investigative_detail",
+          "score": 0.67,
+          "matches": [
+            "\\binvestigation\\b"
+          ]
+        },
+        {
+          "angle": "official_response",
+          "score": 0.67,
+          "matches": [
+            "\\bpolice\\b"
+          ]
+        }
+      ]
     }
   ],
   "collectorVersion": "insight-collector-json-v4",
-  "generatedAt": 1782674445502,
+  "generatedAt": 1782679939628,
   "slotQuality": {
     "now": {
       "storyCount": 60,
@@ -32151,11 +31044,11 @@
           "count": 18
         },
         {
-          "angle": "fact_update",
-          "count": 15
+          "angle": "base_report",
+          "count": 14
         },
         {
-          "angle": "base_report",
+          "angle": "fact_update",
           "count": 14
         },
         {
@@ -32163,7 +31056,11 @@
           "count": 8
         },
         {
-          "angle": "investigative_detail",
+          "angle": "regional_followup",
+          "count": 2
+        },
+        {
+          "angle": "expert_analysis",
           "count": 2
         },
         {
@@ -32171,39 +31068,35 @@
           "count": 1
         },
         {
-          "angle": "regional_followup",
-          "count": 1
-        },
-        {
-          "angle": "expert_analysis",
+          "angle": "investigative_detail",
           "count": 1
         }
       ],
-      "fetchedAt": 1782674445502,
+      "fetchedAt": 1782679939628,
       "thin": false
     },
     "minus4h": {
-      "storyCount": 39,
+      "storyCount": 40,
       "sourceGroupCount": 2,
       "topAngles": [
         {
           "angle": "base_report",
-          "count": 13
+          "count": 14
         },
         {
           "angle": "official_response",
-          "count": 9
+          "count": 10
         },
         {
           "angle": "fact_update",
-          "count": 8
+          "count": 7
         },
         {
           "angle": "investigative_detail",
           "count": 4
         },
         {
-          "angle": "reaction_public",
+          "angle": "regional_followup",
           "count": 2
         },
         {
@@ -32211,11 +31104,11 @@
           "count": 2
         },
         {
-          "angle": "regional_followup",
+          "angle": "reaction_public",
           "count": 1
         }
       ],
-      "fetchedAt": 1782669529614,
+      "fetchedAt": 1782679939628,
       "thin": true
     },
     "minus12h": {
@@ -32296,19 +31189,19 @@
     "topSources": [
       {
         "sourceGroup": "the_hindu",
-        "count": 266
+        "count": 252
       },
       {
         "sourceGroup": "times_of_india",
-        "count": 55
+        "count": 56
       },
       {
         "sourceGroup": "business_line",
-        "count": 50
+        "count": 48
       },
       {
         "sourceGroup": "google_news",
-        "count": 40
+        "count": 37
       },
       {
         "sourceGroup": "espn",
@@ -32337,26 +31230,26 @@
     ]
   },
   "angleCoverage": {
-    "storyCount": 522,
-    "nonBaseStoryCount": 344,
-    "nonBaseRatio": 0.659,
+    "storyCount": 504,
+    "nonBaseStoryCount": 331,
+    "nonBaseRatio": 0.6567,
     "angleCount": 10,
     "topAngles": [
       {
         "angle": "base_report",
-        "count": 178
+        "count": 173
       },
       {
         "angle": "official_response",
-        "count": 139
+        "count": 127
       },
       {
         "angle": "fact_update",
-        "count": 81
+        "count": 79
       },
       {
         "angle": "regional_followup",
-        "count": 43
+        "count": 45
       },
       {
         "angle": "investigative_detail",
@@ -32368,7 +31261,7 @@
       },
       {
         "angle": "reaction_public",
-        "count": 14
+        "count": 13
       },
       {
         "angle": "expert_analysis",
@@ -32624,7 +31517,7 @@
     }
   ],
   "richnessSummary": {
-    "storyCount": 522,
+    "storyCount": 504,
     "eventSketchCount": 7,
     "multiSourceSketchCount": 2,
     "multiAngleSketchCount": 1,

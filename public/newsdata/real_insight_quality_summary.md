@@ -10,18 +10,18 @@
 - Base report share: `0.1`
 - Multi-angle parents: `6`
 - Weak parents: `0`
-- Story count: `522`
+- Story count: `504`
 - Source groups: `10`
-- Content hash: `ee3bb733be2acaf4`
+- Content hash: `ec1654f8c18f8824`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | Govt. to launch affordable digital health management system for small clinics across India | 2 | base_report, fact_update | NO | 0.6934967197849984 |
-| 2 | India rejects Pakistan’s allegations on Karachi attack | 2 | investigative_detail, official_response | NO | 0.6705800531183317 |
-| 3 | Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi | 2 | regional_followup, official_response | NO | 0.6774967197849983 |
-| 4 | Trump warns Iran ‘will no longer exist’ if U.S. decides to escalate | 2 | official_response, fact_update | NO | 0.61951 |
+| 2 | Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi | 2 | regional_followup, official_response | NO | 0.6774967197849983 |
+| 3 | Trump warns Iran ‘will no longer exist’ if U.S. decides to escalate | 2 | official_response, fact_update | NO | 0.61951 |
+| 4 | India rejects Pakistan’s allegations on Karachi attack | 2 | investigative_detail, official_response | NO | 0.6265800531183316 |
 | 5 | Trump likely to visit India in 2027: Rubio | 2 | base_report, official_response | NO | 0.6265800531183316 |
 | 6 | India News LIVE Updates, 27 June 2026: Strong earthquake jolts Jammu & Kashmir, tremors felt in Delhi-NCR - The Indian Express | 2 | regional_followup, fact_update | NO | 0.6135800531183317 |
 | 7 | Over 1.6 lakh children given polio vaccine in Kozhikode | 2 | fact_update | NO | 0.7111800531183317 |

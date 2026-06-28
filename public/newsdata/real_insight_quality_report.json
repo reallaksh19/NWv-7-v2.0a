@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782674505156,
-  "contentHash": "ee3bb733be2acaf4",
+  "generatedAt": 1782679991608,
+  "contentHash": "ec1654f8c18f8824",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 522,
+  "storyCount": 504,
   "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 56,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 476,
+      "storyCount": 463,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 6,
@@ -34,25 +34,25 @@
       "strongAngleCount": 0,
       "avgAngles": 1.6,
       "avgChildren": 2,
-      "avgScore": 0.6447190371828323,
+      "avgScore": 0.6403190371828322,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 3,
       "coverageLabel": "6/10",
       "warnings": [
         "4 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage.",
-        "461 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "7 cluster(s) have weak snapshot coverage.",
+        "411 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 57,
+      "signalScore": 56,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 476,
+      "storyCount": 463,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 6,
@@ -60,21 +60,21 @@
       "strongAngleCount": 0,
       "avgAngles": 1.6,
       "avgChildren": 2,
-      "avgScore": 0.6447190371828323,
+      "avgScore": 0.6403190371828322,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 3,
       "coverageLabel": "6/10",
       "warnings": [
         "4 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage.",
-        "461 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "7 cluster(s) have weak snapshot coverage.",
+        "411 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_344_f4d1cdc79b19fed0",
+      "parentId": "cluster_355_f4d1cdc79b19fed0",
       "headline": "Govt. to launch affordable digital health management system for small clinics across India",
       "score": 0.6934967197849984,
       "postTreeScore": 1.0735,
@@ -95,28 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_67_739a1574dcd03caa",
-      "headline": "India rejects Pakistan’s allegations on Karachi attack",
-      "score": 0.6705800531183317,
-      "postTreeScore": 1.0706,
-      "childCount": 2,
-      "angles": [
-        "investigative_detail",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_340_8c7b3f362aca27d1",
+      "parentId": "cluster_351_8c7b3f362aca27d1",
       "headline": "Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi",
       "score": 0.6774967197849983,
       "postTreeScore": 1.0575,
@@ -136,7 +115,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_222_f601ec9772e7a01d",
+      "parentId": "cluster_231_f601ec9772e7a01d",
       "headline": "Trump warns Iran ‘will no longer exist’ if U.S. decides to escalate",
       "score": 0.61951,
       "postTreeScore": 1.0195,
@@ -157,7 +136,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_389_6d1cfb19ba32ad2d",
+      "parentId": "cluster_75_739a1574dcd03caa",
+      "headline": "India rejects Pakistan’s allegations on Karachi attack",
+      "score": 0.6265800531183316,
+      "postTreeScore": 1.0066,
+      "childCount": 2,
+      "angles": [
+        "investigative_detail",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "developing"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_400_6d1cfb19ba32ad2d",
       "headline": "Trump likely to visit India in 2027: Rubio",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -178,7 +178,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_279_4e33d1470de02967",
+      "parentId": "cluster_289_4e33d1470de02967",
       "headline": "India News LIVE Updates, 27 June 2026: Strong earthquake jolts Jammu & Kashmir, tremors felt in Delhi-NCR - The Indian Express",
       "score": 0.6135800531183317,
       "postTreeScore": 0.9936,
@@ -199,7 +199,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_49_6bc2098a979974ac",
+      "parentId": "cluster_57_6bc2098a979974ac",
       "headline": "Over 1.6 lakh children given polio vaccine in Kozhikode",
       "score": 0.7111800531183317,
       "postTreeScore": 0.7812,
@@ -219,7 +219,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_230_e28c36fd72dce1fc",
+      "parentId": "cluster_239_e28c36fd72dce1fc",
       "headline": "Trump Taps Former Trooper Lance Schroyer To Lead Immigration Agency",
       "score": 0.6499967197849983,
       "postTreeScore": 0.72,
@@ -238,7 +238,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_37_74d773cb552ac5f6",
+      "parentId": "cluster_45_74d773cb552ac5f6",
       "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
       "score": 0.6092600000000001,
       "postTreeScore": 0.6993,
@@ -258,7 +258,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_48_8d5c69b271e737c6",
+      "parentId": "cluster_56_8d5c69b271e737c6",
       "headline": "Commerce Ministry convenes stakeholders' meet on June 30 on SEZ issues",
       "score": 0.5755100000000001,
       "postTreeScore": 0.6655,
@@ -358,7 +358,7 @@
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 522,
+      "storyCount": 504,
       "sourceGroupCount": 10
     }
   }
