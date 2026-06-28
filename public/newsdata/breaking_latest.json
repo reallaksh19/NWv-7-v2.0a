@@ -1,30 +1,32 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782676770163,
-  "contentHash": "f7d0f73fcd0f",
+  "fetchedAt": 1782680948256,
+  "contentHash": "0cc679b9374a",
   "breaking": [
     {
-      "title": "West Asia war LIVE: Iran warns challenge to Hormuz routes will spike West Asia tensions",
-      "summary": "The Israeli military said a soldier was killed in fighting in southern Lebanon and another injured",
+      "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
+      "summary": "Pakistani forces carried out “calibrated strikes” against terrorist hideouts and safe havens in the border region",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-      "publishedAt": 1782674035000,
+      "url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece",
+      "publishedAt": 1782679576000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "f601ec9772e7a01d",
+      "id": "28f5fe9971e174e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.437,
+      "breakingScore": 5.968,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "the_hindu"
+        "the_hindu",
+        "times_of_india"
       ],
-      "firstSeen": 1782674035000
+      "firstSeen": 1782678728000
     },
     {
       "title": "2 Killed, 2 Injured In Lightning Strikes In Jharkhand",
@@ -39,7 +41,7 @@
       "id": "a83455c42f615f6c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.358,
+      "breakingScore": 5.261,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -62,7 +64,7 @@
       "id": "4269fda58444a2a6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.282,
+      "breakingScore": 5.185,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -70,22 +72,22 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782660001000
+      "firstSeen": 1782667332000
     },
     {
-      "title": "Five devotees injured after van crashes into shops in Tirupattur",
-      "summary": "",
-      "source": "The Hindu National",
+      "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha this week, report says",
+      "summary": "The two sides anticipate meeting ‌on June 30 ​in Doha, ⁠Axios report said, to work ‌out their dispute over the Strait of Hormuz",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/five-devotees-injured-after-van-crashes-into-shops-in-tirupattur/article71157931.ece",
-      "publishedAt": 1782672562000,
-      "category": "india",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+      "publishedAt": 1782680120000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "b6d780dd6b3c11ed",
+      "id": "f601ec9772e7a01d",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.903,
+      "breakingScore": 3.981,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -93,30 +95,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782672562000
-    },
-    {
-      "title": "Landslide dams river in rain-battered Arunachal, warning for Assam downstream",
-      "summary": "Lower Siang district officials say the possibility of a powerful flash flood if the dam breaks could endanger homes along the Siji river, which becomes the Gai river in Assam",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/landslide-blocks-river-in-arunachal-rains-warning-for-assam-downstream/article71158922.ece",
-      "publishedAt": 1782672100000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "5b50d7d2754a49d2",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.892,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782672100000
+      "firstSeen": 1782680120000
     },
     {
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
@@ -131,7 +110,7 @@
       "id": "eb968a65285fbfba",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.881,
+      "breakingScore": 3.785,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -154,7 +133,7 @@
       "id": "2bf966420644cb02",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.874,
+      "breakingScore": 3.777,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -177,7 +156,7 @@
       "id": "9dc09ba36b744e6c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.678,
+      "breakingScore": 3.581,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -186,6 +165,29 @@
         "bbc"
       ],
       "firstSeen": 1782657005000
+    },
+    {
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782661321000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "a102f60e4e20888e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.546,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1782661321000
     }
   ]
 }
