@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782750410963,
+  "generatedAt": 1782754171523,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 638,
-    "usableStories36h": 600,
-    "sourceGroups": 11,
+    "totalStories": 600,
+    "usableStories36h": 592,
+    "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3095,
+    "rankingOverallScore": 0.3105,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3095,
+    "overallScore": 0.3105,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782750410231,
+    "generatedAt": 1782754170661,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3773,
+      "insight": 0.3811,
       "localTravel": 0,
       "upAhead": 0.8607
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3773,
+        "score": 0.3811,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 21,
+        "suppressedItemCount": 22,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -115,11 +115,11 @@
       "Best Prime Day DJI deals 2026: Save on drones, cameras, pocket mics - Mashable: location failed — offline/local item lacks configured location match",
       "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED: location failed — offline/local item lacks configured location match",
       "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
-      "Last-chance Prime Day drone deal: Save $60 on DJI Neo 4K drone - Mashable: location failed — offline/local item lacks configured location match",
-      "Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles, and Blink cameras - Mashable: location failed — offline/local item lacks configured location match"
+      "Fans and family bid a tearful farewell to Bhagyaraj, funeral held with full state honours: futureValidity failed — expired display window",
+      "Fans and family bid a tearful farewell to Bhagyaraj, funeral held with full state honours: alertUrgency failed — alert expired"
     ],
     "actionRequired": [
-      "21 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "22 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
       "ranked Up Ahead set is category-dominated",
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-29",
-      "generatedAt": 1782750410963,
+      "generatedAt": 1782754171523,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 638,
-      "usableStories36h": 600,
-      "sourceGroups": 11,
+      "totalStories": 600,
+      "usableStories36h": 592,
+      "sourceGroups": 10,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3095,
+      "rankingOverallScore": 0.3105,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,

@@ -10,9 +10,9 @@
 - Base report share: `0.15`
 - Multi-angle parents: `3`
 - Weak parents: `0`
-- Story count: `638`
-- Source groups: `11`
-- Content hash: `630c8d28bb0cf2f7`
+- Story count: `600`
+- Source groups: `10`
+- Content hash: `3b5ce6572978f868`
 
 ## Top parents
 
@@ -26,7 +26,7 @@
 | 6 | Rupee slips as tepid stocks dull boost from firmer Asian peers | 2 | market_reaction | NO | 0.6553266666666667 |
 | 7 | Commerce Ministry convenes stakeholders' meet on June 30 on SEZ issues | 2 | official_response | NO | 0.6514967197849983 |
 | 8 | Three firefighters die battling huge wildfires on Colorado-Utah border | 2 | fact_update | NO | 0.6292600000000002 |
-| 9 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6218933333333334 |
+| 9 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6018933333333334 |
 | 10 | Iran war developments, Fed rate path cues in focus for rupee and bonds | 2 | market_reaction | NO | 0.59626 |
 
 ## Real Snapshot Ratchet Gate
