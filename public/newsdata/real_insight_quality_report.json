@@ -1,19 +1,19 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782691353510,
-  "contentHash": "c4316dc0acf09e34",
+  "generatedAt": 1782714075727,
+  "contentHash": "bb2103030181ad51",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 524,
-  "sourceGroupCount": 10,
+  "storyCount": 542,
+  "sourceGroupCount": 11,
   "grade": "C",
   "parentCount": 10,
-  "avgAngles": 1.5,
-  "avgTemporalTiers": 1.8,
+  "avgAngles": 1.4,
+  "avgTemporalTiers": 1.9,
   "avgEvolutionRoles": 1.8,
-  "baseReportShare": 0,
-  "multiAngleCount": 5,
+  "baseReportShare": 0.1,
+  "multiAngleCount": 4,
   "weakParentCount": 0,
   "runtimeQualityGate": {
     "attempted": false,
@@ -23,78 +23,58 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 54,
+      "signalScore": 53,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 479,
+      "storyCount": 491,
       "risingCount": 0,
       "thinCount": 0,
-      "multiAngleCount": 5,
-      "lowAngleCount": 5,
+      "multiAngleCount": 4,
+      "lowAngleCount": 6,
       "strongAngleCount": 0,
-      "avgAngles": 1.5,
+      "avgAngles": 1.4,
       "avgChildren": 2,
-      "avgScore": 0.6244286985376657,
+      "avgScore": 0.6201313545806661,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
-      "coverageLabel": "5/10",
+      "snapshotCoverage": 5,
+      "coverageLabel": "4/10",
       "warnings": [
-        "5 cluster(s) have fewer than two visible child angles.",
+        "6 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage.",
-        "451 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "5 cluster(s) have weak snapshot coverage.",
+        "511 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 54,
+      "signalScore": 53,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 479,
+      "storyCount": 491,
       "risingCount": 0,
       "thinCount": 0,
-      "multiAngleCount": 5,
-      "lowAngleCount": 5,
+      "multiAngleCount": 4,
+      "lowAngleCount": 6,
       "strongAngleCount": 0,
-      "avgAngles": 1.5,
+      "avgAngles": 1.4,
       "avgChildren": 2,
-      "avgScore": 0.6244286985376657,
+      "avgScore": 0.6201313545806661,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
-      "coverageLabel": "5/10",
+      "snapshotCoverage": 5,
+      "coverageLabel": "4/10",
       "warnings": [
-        "5 cluster(s) have fewer than two visible child angles.",
+        "6 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage.",
-        "451 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "5 cluster(s) have weak snapshot coverage.",
+        "511 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_374_8c7b3f362aca27d1",
-      "headline": "Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi",
-      "score": 0.6774967197849983,
-      "postTreeScore": 1.0575,
-      "childCount": 2,
-      "angles": [
-        "regional_followup",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_253_f601ec9772e7a01d",
+      "parentId": "cluster_365_f601ec9772e7a01d",
       "headline": "Trump warns Iran ‘will no longer exist’ if U.S. decides to escalate",
       "score": 0.61951,
       "postTreeScore": 1.0195,
@@ -115,7 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_97_739a1574dcd03caa",
+      "parentId": "cluster_203_739a1574dcd03caa",
       "headline": "India rejects Pakistan’s allegations on Karachi attack",
       "score": 0.6265800531183316,
       "postTreeScore": 1.0066,
@@ -136,31 +116,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_311_4e33d1470de02967",
-      "headline": "India News LIVE Updates, 27 June 2026: Strong earthquake jolts Jammu & Kashmir, tremors felt in Delhi-NCR - The Indian Express",
-      "score": 0.6135800531183317,
-      "postTreeScore": 0.9936,
-      "childCount": 2,
-      "angles": [
-        "regional_followup",
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "corroboration"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_4_313143f52de2743a",
+      "parentId": "cluster_100_313143f52de2743a",
       "headline": "Russian attacks kill five in Ukraine, local officials say",
-      "score": 0.5445933333333333,
-      "postTreeScore": 0.9446,
+      "score": 0.5645933333333333,
+      "postTreeScore": 0.9646,
       "childCount": 2,
       "angles": [
         "fact_update",
@@ -178,7 +137,28 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_79_6bc2098a979974ac",
+      "parentId": "cluster_17_1a521dcb4549981a",
+      "headline": "Pakistan says carried out strikes along Afghanistan border, 29 militants killed",
+      "score": 0.5505933333333333,
+      "postTreeScore": 0.9506,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "first_report",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_185_6bc2098a979974ac",
       "headline": "Over 1.6 lakh children given polio vaccine in Kozhikode",
       "score": 0.7111800531183317,
       "postTreeScore": 0.7812,
@@ -198,7 +178,26 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_261_e28c36fd72dce1fc",
+      "parentId": "cluster_184_8d5c69b271e737c6",
+      "headline": "Commerce Ministry convenes stakeholders' meet on June 30 on SEZ issues",
+      "score": 0.6514967197849983,
+      "postTreeScore": 0.7215,
+      "childCount": 2,
+      "angles": [
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_373_e28c36fd72dce1fc",
       "headline": "Trump Taps Former Trooper Lance Schroyer To Lead Immigration Agency",
       "score": 0.6499967197849983,
       "postTreeScore": 0.72,
@@ -217,10 +216,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_67_74d773cb552ac5f6",
+      "parentId": "cluster_173_74d773cb552ac5f6",
       "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "score": 0.6092600000000001,
-      "postTreeScore": 0.6993,
+      "score": 0.6292600000000002,
+      "postTreeScore": 0.7193,
       "childCount": 2,
       "angles": [
         "fact_update"
@@ -237,7 +236,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_277_9e5ce0a6059f71c8",
+      "parentId": "cluster_389_9e5ce0a6059f71c8",
       "headline": "Trump warns Tehran as U.S. military strikes ‘multiple targets’ in Iran",
       "score": 0.6165800531183316,
       "postTreeScore": 0.6866,
@@ -256,22 +255,23 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_78_8d5c69b271e737c6",
-      "headline": "Commerce Ministry convenes stakeholders' meet on June 30 on SEZ issues",
-      "score": 0.5755100000000001,
-      "postTreeScore": 0.6655,
+      "parentId": "cluster_72_8c32eda3ef46844e",
+      "headline": "Indian humanitarian assistance reaches quake-hit Venezuela: Jaishankar",
+      "score": 0.5815232802150019,
+      "postTreeScore": 0.6715,
       "childCount": 2,
       "angles": [
-        "official_response"
+        "base_report"
       ],
       "temporalTiers": [
         "breaking",
         "established"
       ],
       "evolutionRoles": [
-        "official_response"
+        "first_report",
+        "corroboration"
       ],
-      "baseReportShare": 0,
+      "baseReportShare": 1,
       "weakTree": false
     }
   ],
@@ -298,13 +298,13 @@
       {
         "id": "avg-angle-count",
         "label": "Average visible angle count",
-        "actual": 1.5,
+        "actual": 1.4,
         "required": ">= 1.4"
       },
       {
         "id": "avg-temporal-tier-count",
         "label": "Average temporal tier count",
-        "actual": 1.8,
+        "actual": 1.9,
         "required": ">= 1.8"
       },
       {
@@ -316,13 +316,13 @@
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0,
+        "actual": 0.1,
         "required": "<= 0.55"
       },
       {
         "id": "multi-angle-parent-count",
         "label": "Multi-angle parent count",
-        "actual": 5,
+        "actual": 4,
         "required": ">= 1"
       },
       {
@@ -347,17 +347,17 @@
     "failed": [],
     "summary": {
       "parentCount": 10,
-      "avgAngles": 1.5,
-      "avgTemporalTiers": 1.8,
+      "avgAngles": 1.4,
+      "avgTemporalTiers": 1.9,
       "avgEvolutionRoles": 1.8,
-      "baseReportShare": 0,
-      "multiAngleCount": 5,
+      "baseReportShare": 0.1,
+      "multiAngleCount": 4,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 524,
-      "sourceGroupCount": 10
+      "storyCount": 542,
+      "sourceGroupCount": 11
     }
   }
 }
