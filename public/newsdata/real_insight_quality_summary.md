@@ -6,13 +6,13 @@
 - Parents: `10`
 - Average angles: `1.4`
 - Average temporal tiers: `1.9`
-- Average evolution roles: `1.6`
+- Average evolution roles: `1.7`
 - Base report share: `0.2`
 - Multi-angle parents: `4`
 - Weak parents: `0`
-- Story count: `620`
-- Source groups: `10`
-- Content hash: `d5ad03193d7aeb70`
+- Story count: `606`
+- Source groups: `11`
+- Content hash: `df3a60393b2855bd`
 
 ## Top parents
 
@@ -25,9 +25,9 @@
 | 5 | Indian humanitarian assistance reaches quake-hit Venezuela: Jaishankar | 2 | base_report | NO | 0.6814967197849984 |
 | 6 | Rupee slips as tepid stocks dull boost from firmer Asian peers | 2 | market_reaction | NO | 0.6553266666666667 |
 | 7 | Three firefighters die battling huge wildfires on Colorado-Utah border | 2 | fact_update | NO | 0.6732467197849983 |
-| 8 | Commerce Ministry convenes stakeholders' meet on June 30 on SEZ issues | 2 | official_response | NO | 0.6514967197849983 |
-| 9 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6218933333333334 |
-| 10 | Iran war developments, Fed rate path cues in focus for rupee and bonds | 2 | market_reaction | NO | 0.59626 |
+| 8 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6218933333333334 |
+| 9 | Iran war developments, Fed rate path cues in focus for rupee and bonds | 2 | market_reaction | NO | 0.59626 |
+| 10 | Zelenskyy condemns ’horrific attacks’ as Russian strikes kill 8, wound 35 in Ukraine | 2 | fact_update | NO | 0.5705933333333333 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -38,7 +38,7 @@
 - Parents: `10`
 - Average angles: `1.4`
 - Average temporal tiers: `1.9`
-- Average evolution roles: `1.6`
+- Average evolution roles: `1.7`
 - Base report share: `0.2`
 - Multi-angle parents: `4`
 - Top parent angles: `2`
@@ -54,7 +54,7 @@
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.4` / `>= 1.4`
 - Average temporal tier count: `1.9` / `>= 1.8`
-- Average evolution role count: `1.6` / `>= 1.6`
+- Average evolution role count: `1.7` / `>= 1.6`
 - Base report share: `0.2` / `<= 0.55`
 - Multi-angle parent count: `4` / `>= 1`
 - Top parent angle count: `2` / `>= 2`

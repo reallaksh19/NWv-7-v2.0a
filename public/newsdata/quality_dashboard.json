@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782762320877,
+  "generatedAt": 1782767915387,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 620,
-    "usableStories36h": 597,
-    "sourceGroups": 10,
+    "totalStories": 606,
+    "usableStories36h": 584,
+    "sourceGroups": 11,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3113,
+    "rankingOverallScore": 0.3077,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3113,
+    "overallScore": 0.3077,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782762319738,
+    "generatedAt": 1782767914601,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.387,
+      "insight": 0.373,
       "localTravel": 0,
       "upAhead": 0.858
     },
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.387,
+        "score": 0.373,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -78,7 +78,7 @@
         "strongParents": 8,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 2,
+        "baseReportHeavyParents": 1,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -130,7 +130,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted"
+      "1 base-report-heavy Insight parent(s) demoted"
     ]
   },
   "sourceHealth": {
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-06-29",
-      "generatedAt": 1782762320877,
+      "generatedAt": 1782767915387,
       "insightGrade": "C",
       "insightScore": 0,
-      "totalStories": 620,
-      "usableStories36h": 597,
-      "sourceGroups": 10,
+      "totalStories": 606,
+      "usableStories36h": 584,
+      "sourceGroups": 11,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3113,
+      "rankingOverallScore": 0.3077,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
