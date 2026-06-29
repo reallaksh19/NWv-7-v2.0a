@@ -2,19 +2,18 @@
   "categoryCounts": {
     "alerts": 28,
     "movies": 1,
-    "shopping": 24,
-    "weather_alerts": 1
+    "shopping": 25
   },
   "contentClassCounts": {
-    "upahead_alert": 29,
+    "upahead_alert": 28,
     "upahead_event": 1,
-    "upahead_offer": 24
+    "upahead_offer": 25
   },
-  "contentHash": "9a3f34479bc2",
+  "contentHash": "e1d14a1c8dfc",
   "contractVersion": "upahead-lifecycle-v1",
   "errors": [],
-  "fetchedAt": 1782709859750,
-  "generatedAt": 1782709875526,
+  "fetchedAt": 1782727637367,
+  "generatedAt": 1782727651787,
   "horizon": {
     "alertFallbackHours": 24,
     "eventPastGraceHours": 24,
@@ -27,13 +26,12 @@
     "categoryCounts": {
       "alerts": 28,
       "movies": 1,
-      "shopping": 24,
-      "weather_alerts": 1
+      "shopping": 25
     },
     "contentClassCounts": {
-      "upahead_alert": 29,
+      "upahead_alert": 28,
       "upahead_event": 1,
-      "upahead_offer": 24
+      "upahead_offer": 25
     },
     "horizonViolationCount": 0,
     "horizonViolationSample": [],
