@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782679994207,
+  "generatedAt": 1782691354900,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 504,
-    "usableStories36h": 492,
+    "totalStories": 524,
+    "usableStories36h": 468,
     "sourceGroups": 10,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3006,
+    "rankingOverallScore": 0.3002,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3006,
+    "overallScore": 0.3002,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782679992741,
+    "generatedAt": 1782691354209,
     "destinationScores": {
       "buzz": 0,
       "insight": 0.3806,
       "localTravel": 0,
-      "upAhead": 0.8219
+      "upAhead": 0.8202
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8219,
+        "score": 0.8202,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 34,
+        "suppressedItemCount": 36,
         "events": 0,
         "onlineOffers": 3,
         "offlineOffers": 9,
@@ -120,7 +120,7 @@
       "Disciplinary action initiated against 1,420 government doctors for failing to rejoin duty: Health Department: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "34 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "36 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
@@ -153,23 +153,6 @@
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-06-22",
-      "generatedAt": 1782165429946,
-      "insightGrade": "B",
-      "insightScore": 0,
-      "totalStories": 615,
-      "usableStories36h": 602,
-      "sourceGroups": 10,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3105,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-06-23",
       "generatedAt": 1782258652160,
@@ -267,6 +250,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3006,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-06-29",
+      "generatedAt": 1782691354900,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 524,
+      "usableStories36h": 468,
+      "sourceGroups": 10,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3002,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
