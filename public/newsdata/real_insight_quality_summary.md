@@ -10,9 +10,9 @@
 - Base report share: `0.15`
 - Multi-angle parents: `7`
 - Weak parents: `0`
-- Story count: `608`
+- Story count: `671`
 - Source groups: `10`
-- Content hash: `23f490f9495a7bf7`
+- Content hash: `d8d8726cb64d698a`
 
 ## Top parents
 
@@ -22,12 +22,12 @@
 | 2 | Chief Election Commissioner | 2 | base_report, official_response | NO | 0.6874967197849983 |
 | 3 | Naidu to launch welfare, development projects during five-day tour | 2 | regional_followup, base_report | NO | 0.6814967197849984 |
 | 4 | TVS Cheema Foundation to provide interest-free loans to Engineering, nursing and diploma students | 2 | regional_followup, base_report | NO | 0.6778967197849983 |
-| 5 | Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India | 2 | expert_analysis, market_reaction | NO | 0.6272599999999999 |
-| 6 | Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia | 2 | fact_update, official_response | NO | 0.5745100000000001 |
-| 7 | Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation | 2 | investigative_detail, official_response | NO | 0.5078566135483351 |
-| 8 | Rupee slips as tepid stocks dull boost from firmer Asian peers | 2 | market_reaction | NO | 0.699313386451665 |
-| 9 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6858800531183317 |
-| 10 | HDFC Bank shares in focus as lender appoints ex-finance secretary Rajiv Kumar as part-time chairman | 2 | official_response | NO | 0.6272599999999999 |
+| 5 | Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia | 2 | fact_update, official_response | NO | 0.6504967197849982 |
+| 6 | Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India | 2 | expert_analysis, market_reaction | NO | 0.6272599999999999 |
+| 7 | Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation | 2 | investigative_detail, official_response | NO | 0.5758433333333333 |
+| 8 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6858800531183317 |
+| 9 | Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0 | 2 | fact_update | NO | 0.6155766666666667 |
+| 10 | One dies, 20 injured after massive fire breaks out at Haldia Petrochemicals pipeline in Bengal | 2 | fact_update | NO | 0.6072732802150018 |
 
 ## Real Snapshot Ratchet Gate
 

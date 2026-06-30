@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782822732920,
-  "contentHash": "23f490f9495a7bf7",
+  "generatedAt": 1782835822633,
+  "contentHash": "d8d8726cb64d698a",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 608,
+  "storyCount": 671,
   "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 58,
+      "signalScore": 59,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 563,
+      "storyCount": 608,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -34,25 +34,25 @@
       "strongAngleCount": 0,
       "avgAngles": 1.7,
       "avgChildren": 2,
-      "avgScore": 0.6456466932258325,
+      "avgScore": 0.6496716932258325,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 3,
+      "snapshotCoverage": 4,
       "coverageLabel": "7/10",
       "warnings": [
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "451 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "6 cluster(s) have weak snapshot coverage.",
+        "631 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 58,
+      "signalScore": 59,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 563,
+      "storyCount": 608,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -60,21 +60,21 @@
       "strongAngleCount": 0,
       "avgAngles": 1.7,
       "avgChildren": 2,
-      "avgScore": 0.6456466932258325,
+      "avgScore": 0.6496716932258325,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 3,
+      "snapshotCoverage": 4,
       "coverageLabel": "7/10",
       "warnings": [
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "7 cluster(s) have weak snapshot coverage.",
-        "451 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "6 cluster(s) have weak snapshot coverage.",
+        "631 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_141_18860b379b58f09d",
+      "parentId": "cluster_224_18860b379b58f09d",
       "headline": "'Blatant act of aggression': India strongly condemns Pakistan air strikes on Afghan territory",
       "score": 0.6874967197849983,
       "postTreeScore": 1.0675,
@@ -95,7 +95,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_338_4d0740f57e7ac641",
+      "parentId": "cluster_423_4d0740f57e7ac641",
       "headline": "Chief Election Commissioner",
       "score": 0.6874967197849983,
       "postTreeScore": 1.0675,
@@ -116,7 +116,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_220_d59d9a6f3416fa22",
+      "parentId": "cluster_305_d59d9a6f3416fa22",
       "headline": "Naidu to launch welfare, development projects during five-day tour",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -137,7 +137,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_199_2bb5e0d8d98e67e5",
+      "parentId": "cluster_284_2bb5e0d8d98e67e5",
       "headline": "TVS Cheema Foundation to provide interest-free loans to Engineering, nursing and diploma students",
       "score": 0.6778967197849983,
       "postTreeScore": 1.0579,
@@ -158,7 +158,26 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_128_c76ea8ac8b857a66",
+      "parentId": "cluster_183_254ec413e9fe8b06",
+      "headline": "Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia",
+      "score": 0.6504967197849982,
+      "postTreeScore": 1.0305,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_210_c76ea8ac8b857a66",
       "headline": "Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India",
       "score": 0.6272599999999999,
       "postTreeScore": 1.0273,
@@ -179,29 +198,10 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_102_254ec413e9fe8b06",
-      "headline": "Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia",
-      "score": 0.5745100000000001,
-      "postTreeScore": 0.9745,
-      "childCount": 2,
-      "angles": [
-        "fact_update",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "fact_update"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_96_4720d7a5b31ef538",
+      "parentId": "cluster_177_4720d7a5b31ef538",
       "headline": "Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation",
-      "score": 0.5078566135483351,
-      "postTreeScore": 0.8879,
+      "score": 0.5758433333333333,
+      "postTreeScore": 0.9758,
       "childCount": 2,
       "angles": [
         "investigative_detail",
@@ -218,26 +218,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_359_64582eb564c797f9",
-      "headline": "Rupee slips as tepid stocks dull boost from firmer Asian peers",
-      "score": 0.699313386451665,
-      "postTreeScore": 0.7693,
-      "childCount": 2,
-      "angles": [
-        "market_reaction"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "market_reaction"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_264_e9acf58194f1f4e0",
+      "parentId": "cluster_349_e9acf58194f1f4e0",
       "headline": "₹1.10 crore donated to TTD for two schemes",
       "score": 0.6858800531183317,
       "postTreeScore": 0.7559,
@@ -256,21 +237,40 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_159_b598dd28daf43cfb",
-      "headline": "HDFC Bank shares in focus as lender appoints ex-finance secretary Rajiv Kumar as part-time chairman",
-      "score": 0.6272599999999999,
-      "postTreeScore": 0.7173,
+      "parentId": "cluster_59_fc642c0efe92b6ee",
+      "headline": "Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0",
+      "score": 0.6155766666666667,
+      "postTreeScore": 0.7056,
       "childCount": 2,
       "angles": [
-        "official_response"
+        "fact_update"
       ],
       "temporalTiers": [
         "breaking",
-        "established"
+        "developing"
+      ],
+      "evolutionRoles": [
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_14_2ea9e49a71f7b0ae",
+      "headline": "One dies, 20 injured after massive fire breaks out at Haldia Petrochemicals pipeline in Bengal",
+      "score": 0.6072732802150018,
+      "postTreeScore": 0.6973,
+      "childCount": 2,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "reaction"
       ],
       "evolutionRoles": [
         "first_report",
-        "market_reaction"
+        "fact_update"
       ],
       "baseReportShare": 0,
       "weakTree": false
@@ -357,7 +357,7 @@
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 608,
+      "storyCount": 671,
       "sourceGroupCount": 10
     }
   }
