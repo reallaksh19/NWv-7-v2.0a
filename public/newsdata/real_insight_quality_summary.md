@@ -10,9 +10,9 @@
 - Base report share: `0.15`
 - Multi-angle parents: `7`
 - Weak parents: `0`
-- Story count: `606`
-- Source groups: `11`
-- Content hash: `632cbabf4d1b394a`
+- Story count: `608`
+- Source groups: `10`
+- Content hash: `23f490f9495a7bf7`
 
 ## Top parents
 
@@ -27,7 +27,7 @@
 | 7 | Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation | 2 | investigative_detail, official_response | NO | 0.5078566135483351 |
 | 8 | Rupee slips as tepid stocks dull boost from firmer Asian peers | 2 | market_reaction | NO | 0.699313386451665 |
 | 9 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6858800531183317 |
-| 10 | Massive fire at Haldia Petrochemicals pipeline injures 10, disrupts rail service | 2 | fact_update | NO | 0.6012732802150018 |
+| 10 | HDFC Bank shares in focus as lender appoints ex-finance secretary Rajiv Kumar as part-time chairman | 2 | official_response | NO | 0.6272599999999999 |
 
 ## Real Snapshot Ratchet Gate
 
