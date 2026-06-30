@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782820658655,
-  "contentHash": "705e23c50959",
+  "fetchedAt": 1782829136666,
+  "contentHash": "44036fcc2dfe",
   "breaking": [
     {
       "title": "Attackers shoot dead two Guards members in Iran: state media",
@@ -16,7 +16,7 @@
       "id": "598f46381ccb7774",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.454,
+      "breakingScore": 5.257,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -39,7 +39,7 @@
       "id": "ea14bcccb06e6ba6",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.35,
+      "breakingScore": 5.154,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -50,50 +50,27 @@
       "firstSeen": 1782814184000
     },
     {
-      "title": "K.C. Venugopal moves privilege notice against Rajnath for ‘misleading’ Parliament about Operation Sindoor casualties",
-      "summary": "The Congress leader said that during the discussion held in July 2025 regarding the Pahalgam terror attack and subsequent Operation Sindoor, Rajnath Singh had told the House that no harm had come to Indian soldiers",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kc-venugopal-moves-privilege-notice-against-rajnath-for-misleading-parliament-about-operation-sindoor-casualties/article71165431.ece",
-      "publishedAt": 1782819462000,
+      "title": "Inter-Caste Teenage Couple Found Dead In Tamil Nadu, Police Suspect Suicide",
+      "summary": "The 19-year-old Dalit man and his 16-year-old girlfriend who were found dead in Tamil Nadu",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/inter-caste-teenage-couple-found-dead-in-tamil-nadu-police-suspect-suicide-11708180#publisher=newsstand",
+      "publishedAt": 1782828441000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "93fac05c2cbe9033",
+      "id": "0ba877ccb5ae75e4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.972,
+      "breakingScore": 3.984,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782819462000
-    },
-    {
-      "title": "West Asia war LIVE: Qatar says no direct U.S.-Iran talks to take place as U.S. envoys Witkoff, Kushner meet mediators in Doha",
-      "summary": "U.S., Iran pause strikes but disagree over next steps on talks; Pakistan, also a key mediator, had said talks between Iran and the U.S. would resume on June 30",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-30-june-2026-trump-israel-west-asia-war/article71164180.ece",
-      "publishedAt": 1782816827000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "ca48cfe4bf12346c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.911,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782816827000
+      "firstSeen": 1782828441000
     },
     {
       "title": "Explosion in Monaco injuries 3 including Ukrainian tycoon, and suspected attacker flees to France",
@@ -108,7 +85,7 @@
       "id": "bd82a43c12a462e9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.905,
+      "breakingScore": 3.709,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -119,66 +96,19 @@
       "firstSeen": 1782816569000
     },
     {
-      "title": "4 Killed, 27 Injured After Bus Rams Truck On Yamuna Expressway In UP",
-      "summary": "According to officials, most passengers were asleep when the accident occurred.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/4-killed-27-injured-after-bus-rams-truck-on-yamuna-expressway-in-ups-mathura-11706804#publisher=newsstand",
-      "publishedAt": 1782813119000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d2ab89d68b2c961b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.825,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782813119000
-    },
-    {
-      "title": "Market wrap: Sensex falls 250 points, Nifty closes below 23,900 on monthly expiry day",
-      "summary": "Indian equities ended lower for the second straight session as benchmarks slipped on expiry-day volatility, though broader markets advanced. IT stocks led declines amid rate worries, while auto and consumption names gained. Analysts expect sectoral rotation ahead of earnings, with banking, healthcare and power seen as resilient drivers of performance.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-falls-250-points-nifty-closes-below-23900-on-monthly-expiry-day/articleshow/132090449.cms",
-      "publishedAt": 1782814353000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "ab6053b7633ccdcb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.854,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "economic_times",
-        "ndtv"
-      ],
-      "firstSeen": 1782814216000
-    },
-    {
-      "title": "Man found dead inside public toilet in  Tiruchi",
-      "summary": "",
+      "title": "Banjaras urge State govt. to reconsider decision on internal reservation",
+      "summary": "Ensure justice or face a people’s movement in the next of couple of days, says Aurad MLA Prabhu Chavan",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/man-found-dead-inside-public-toilet-in-tiruchi/article71165505.ece",
-      "publishedAt": 1782819966000,
+      "url": "https://www.thehindu.com/news/national/karnataka/banjaras-urge-state-govt-to-reconsider-decision-on-internal-reservation/article71165544.ece",
+      "publishedAt": 1782828522000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "3e525b978c4efa5b",
+      "id": "a8bf4815fbe33746",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.484,
+      "breakingScore": 2.486,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -186,7 +116,76 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782819966000
+      "firstSeen": 1782828522000
+    },
+    {
+      "title": "‘What are they trying to hide?’ Congress attacks government over Ram Temple donation theft case",
+      "summary": "Stepping up its attack over the alleged embezzlement of donations to the Ram Temple in Ayodhya, the Congress described the episode as a ”maha paap“ (cardinal sin).",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/videos/what-are-they-trying-to-hide-congress-attack-government-over-ram-temple-donation-theft-case/article71166345.ece",
+      "publishedAt": 1782828393000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "2713ad4c46102ed2",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.483,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782828393000
+    },
+    {
+      "title": "Nurses continue strike in Thrissur as wage talks end in stalemate",
+      "summary": "UNA shifts protest to Collectorate after discussions fail",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/nurses-continue-strike-in-thrissur-as-wage-talks-end-in-stalemate/article71165985.ece",
+      "publishedAt": 1782828324000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "eeac7a32d77a3f5b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.481,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782828324000
+    },
+    {
+      "title": "CPI(M) urges Election Commission of India to extend SIR process by a month",
+      "summary": "Extension of the deadline is essential as voters have no adequate awareness about the process and BLOs are yet to distribute application forms to all households, say party leaders",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-urges-election-commission-of-india-to-extend-sir-process-by-a-month/article71165934.ece",
+      "publishedAt": 1782828182000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "354c95356f456a58",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.478,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782828182000
     }
   ]
 }
