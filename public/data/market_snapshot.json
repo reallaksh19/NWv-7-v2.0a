@@ -1,16 +1,16 @@
 {
   "schemaVersion": "2.0.0",
-  "generatedAt": "2026-06-29T12:16:14.047345Z",
-  "generated_at": "2026-06-29T12:16:14.047350Z",
-  "fetchedAt": 1782735374047,
+  "generatedAt": "2026-06-30T06:47:52.634922Z",
+  "generated_at": "2026-06-30T06:47:52.634928Z",
+  "fetchedAt": 1782802072634,
   "sourceMode": "snapshot-worker-v2",
   "indices": [
     {
       "name": "NIFTY 50",
       "symbol": "^NSEI",
-      "value": "23,946.25",
-      "change": "-109.75",
-      "changePercent": "-0.46",
+      "value": "23,931.80",
+      "change": "-14.45",
+      "changePercent": "-0.06",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -18,9 +18,9 @@
     {
       "name": "SENSEX",
       "symbol": "^BSESN",
-      "value": "76,728.37",
-      "change": "-372.10",
-      "changePercent": "-0.48",
+      "value": "76,693.15",
+      "change": "-35.22",
+      "changePercent": "-0.05",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -28,9 +28,9 @@
     {
       "name": "NIFTY BANK",
       "symbol": "^NSEBANK",
-      "value": "57,727.35",
-      "change": "-449.70",
-      "changePercent": "-0.77",
+      "value": "57,722.45",
+      "change": "-4.90",
+      "changePercent": "-0.01",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -38,9 +38,9 @@
     {
       "name": "NIFTY IT",
       "symbol": "^CNXIT",
-      "value": "27,038.50",
-      "change": "-292.35",
-      "changePercent": "-1.07",
+      "value": "26,448.10",
+      "change": "-590.40",
+      "changePercent": "-2.18",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -48,9 +48,9 @@
     {
       "name": "NIFTY AUTO",
       "symbol": "^CNXAUTO",
-      "value": "26,417.60",
-      "change": "-560.15",
-      "changePercent": "-2.08",
+      "value": "26,604.75",
+      "change": "-373.00",
+      "changePercent": "-1.38",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -58,9 +58,9 @@
     {
       "name": "NIFTY PHARMA",
       "symbol": "^CNXPHARMA",
-      "value": "25,227.90",
-      "change": "258.40",
-      "changePercent": "1.03",
+      "value": "25,357.15",
+      "change": "129.25",
+      "changePercent": "0.51",
       "direction": "up",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -70,45 +70,45 @@
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "value": "25,297.62",
-      "change": "-60.98",
-      "changePercent": "-0.24",
-      "direction": "down",
-      "sourceMode": "yahoo-yfinance"
-    },
-    {
-      "name": "NIKKEI 225",
-      "symbol": "^N225",
-      "value": "69,468.11",
-      "change": "107.23",
-      "changePercent": "0.15",
+      "value": "25,820.14",
+      "change": "522.52",
+      "changePercent": "2.07",
       "direction": "up",
       "sourceMode": "yahoo-yfinance"
     },
     {
       "name": "DOW JONES",
       "symbol": "^DJI",
-      "value": "51,876.11",
-      "change": "-44.51",
-      "changePercent": "-0.09",
+      "value": "52,182.74",
+      "change": "306.63",
+      "changePercent": "0.59",
+      "direction": "up",
+      "sourceMode": "yahoo-yfinance"
+    },
+    {
+      "name": "NIKKEI 225",
+      "symbol": "^N225",
+      "value": "70,062.32",
+      "change": "594.21",
+      "changePercent": "0.86",
+      "direction": "up",
+      "sourceMode": "yahoo-yfinance"
+    },
+    {
+      "name": "HANG SENG",
+      "symbol": "^HSI",
+      "value": "22,794.79",
+      "change": "-231.89",
+      "changePercent": "-1.01",
       "direction": "down",
       "sourceMode": "yahoo-yfinance"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,354.02",
-      "change": "-3.47",
-      "changePercent": "-0.05",
-      "direction": "down",
-      "sourceMode": "yahoo-yfinance"
-    },
-    {
-      "name": "HANG SENG",
-      "symbol": "^HSI",
-      "value": "23,026.68",
-      "change": "354.82",
-      "changePercent": "1.57",
+      "value": "7,440.43",
+      "change": "86.41",
+      "changePercent": "1.18",
       "direction": "up",
       "sourceMode": "yahoo-yfinance"
     }
@@ -116,84 +116,84 @@
   "movers": {
     "gainers": [
       {
-        "symbol": "SUNPHARMA",
-        "price": "1874.80",
-        "change": "12.00",
-        "changePercent": "0.64",
+        "symbol": "MARUTI",
+        "price": "14055.00",
+        "change": "643.00",
+        "changePercent": "4.79",
         "direction": "up",
         "sourceMode": "yahoo-yfinance"
       },
       {
-        "symbol": "HDFCBANK",
-        "price": "798.90",
-        "change": "2.60",
-        "changePercent": "0.33",
-        "direction": "up",
-        "sourceMode": "yahoo-yfinance"
-      },
-      {
-        "symbol": "WIPRO",
-        "price": "175.48",
-        "change": "0.48",
-        "changePercent": "0.27",
-        "direction": "up",
-        "sourceMode": "yahoo-yfinance"
-      },
-      {
-        "symbol": "ITC",
-        "price": "290.70",
-        "change": "0.70",
-        "changePercent": "0.24",
+        "symbol": "BHARTIARTL",
+        "price": "1867.80",
+        "change": "26.70",
+        "changePercent": "1.45",
         "direction": "up",
         "sourceMode": "yahoo-yfinance"
       },
       {
         "symbol": "BAJFINANCE",
-        "price": "982.05",
-        "change": "1.65",
-        "changePercent": "0.17",
+        "price": "995.05",
+        "change": "13.00",
+        "changePercent": "1.32",
+        "direction": "up",
+        "sourceMode": "yahoo-yfinance"
+      },
+      {
+        "symbol": "SBIN",
+        "price": "1038.25",
+        "change": "2.15",
+        "changePercent": "0.21",
+        "direction": "up",
+        "sourceMode": "yahoo-yfinance"
+      },
+      {
+        "symbol": "HDFCBANK",
+        "price": "800.30",
+        "change": "1.40",
+        "changePercent": "0.18",
         "direction": "up",
         "sourceMode": "yahoo-yfinance"
       }
     ],
     "losers": [
       {
-        "symbol": "KOTAKBANK",
-        "price": "395.50",
-        "change": "-13.50",
-        "changePercent": "-3.30",
+        "symbol": "TCS",
+        "price": "2040.00",
+        "change": "-57.90",
+        "changePercent": "-2.76",
         "direction": "down",
         "sourceMode": "yahoo-yfinance"
       },
       {
-        "symbol": "MARUTI",
-        "price": "13412.00",
-        "change": "-333.00",
-        "changePercent": "-2.42",
+        "symbol": "INFY",
+        "price": "1008.20",
+        "change": "-28.50",
+        "changePercent": "-2.75",
         "direction": "down",
         "sourceMode": "yahoo-yfinance"
       },
       {
-        "symbol": "AXISBANK",
-        "price": "1356.80",
-        "change": "-20.40",
-        "changePercent": "-1.48",
+        "symbol": "WIPRO",
+        "price": "171.36",
+        "change": "-4.12",
+        "changePercent": "-2.35",
         "direction": "down",
         "sourceMode": "yahoo-yfinance"
       },
       {
-        "symbol": "RELIANCE",
-        "price": "1301.00",
-        "change": "-17.10",
-        "changePercent": "-1.30",
+        "symbol": "HINDUNILVR",
+        "price": "2120.10",
+        "change": "-31.20",
+        "changePercent": "-1.45",
         "direction": "down",
         "sourceMode": "yahoo-yfinance"
       },
       {
-        "symbol": "LT",
-        "price": "4165.20",
-        "change": "-51.20",
-        "changePercent": "-1.21",
+        "symbol": "ITC",
+        "price": "287.65",
+        "change": "-3.05",
+        "changePercent": "-1.05",
         "direction": "down",
         "sourceMode": "yahoo-yfinance"
       }
@@ -204,9 +204,9 @@
     {
       "name": "NIFTY BANK",
       "symbol": "^NSEBANK",
-      "value": "57,727.35",
-      "change": "-449.70",
-      "changePercent": "-0.77",
+      "value": "57,722.45",
+      "change": "-4.90",
+      "changePercent": "-0.01",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -214,9 +214,9 @@
     {
       "name": "NIFTY IT",
       "symbol": "^CNXIT",
-      "value": "27,038.50",
-      "change": "-292.35",
-      "changePercent": "-1.07",
+      "value": "26,448.10",
+      "change": "-590.40",
+      "changePercent": "-2.18",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -224,9 +224,9 @@
     {
       "name": "NIFTY AUTO",
       "symbol": "^CNXAUTO",
-      "value": "26,417.60",
-      "change": "-560.15",
-      "changePercent": "-2.08",
+      "value": "26,604.75",
+      "change": "-373.00",
+      "changePercent": "-1.38",
       "direction": "down",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -234,9 +234,9 @@
     {
       "name": "NIFTY PHARMA",
       "symbol": "^CNXPHARMA",
-      "value": "25,227.90",
-      "change": "258.40",
-      "changePercent": "1.03",
+      "value": "25,357.15",
+      "change": "129.25",
+      "changePercent": "0.51",
       "direction": "up",
       "currency": "₹",
       "sourceMode": "yahoo-yfinance"
@@ -246,35 +246,87 @@
     {
       "name": "Silver",
       "symbol": "SI=F",
-      "value": "$58.87",
+      "value": "$59.76",
       "unit": "$/oz",
-      "change": "-0.35",
-      "changePercent": "-0.59",
-      "direction": "down",
+      "change": "1.58",
+      "changePercent": "2.72",
+      "direction": "up",
       "source": "yahoo-yfinance"
     },
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "value": "$69.99",
+      "value": "$69.95",
       "unit": "$/bbl",
-      "change": "0.76",
-      "changePercent": "1.10",
-      "direction": "up",
+      "change": "-0.80",
+      "changePercent": "-1.13",
+      "direction": "down",
       "source": "yahoo-yfinance"
     },
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "value": "$4060.50",
+      "value": "$4042.50",
       "unit": "$/oz",
-      "change": "-18.20",
-      "changePercent": "-0.45",
-      "direction": "down",
+      "change": "20.20",
+      "changePercent": "0.50",
+      "direction": "up",
       "source": "yahoo-yfinance"
     }
   ],
   "currencies": [
+    {
+      "name": "GBP/INR",
+      "pair": "GBPINR",
+      "symbol": "GBPINR=X",
+      "value": "₹125.2603",
+      "rate": 125.26029968261719,
+      "change": "0.7522",
+      "changePercent": "0.60",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-30T06:46:09.538921Z"
+    },
+    {
+      "name": "EUR/INR",
+      "pair": "EURINR",
+      "symbol": "EURINR=X",
+      "value": "₹107.8119",
+      "rate": 107.81189727783203,
+      "change": "0.4699",
+      "changePercent": "0.44",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-30T06:46:09.542098Z"
+    },
+    {
+      "name": "JPY/INR",
+      "pair": "JPYINR",
+      "symbol": "JPYINR=X",
+      "value": "₹0.5828",
+      "rate": 0.5827699899673462,
+      "change": "0.0196",
+      "changePercent": "3.48",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-30T06:46:09.624811Z"
+    },
+    {
+      "name": "USD/INR",
+      "pair": "USDINR",
+      "symbol": "USDINR=X",
+      "value": "₹94.6050",
+      "rate": 94.6050033569336,
+      "change": "0.2447",
+      "changePercent": "0.26",
+      "direction": "up",
+      "source": "yahoo-yfinance",
+      "mode": "fallback-intraday",
+      "asOf": "2026-06-30T06:46:09.630112Z"
+    },
     {
       "name": "OMR/INR",
       "pair": "OMRINR",
@@ -286,59 +338,7 @@
       "direction": "up",
       "source": "yahoo-yfinance",
       "mode": "fallback-intraday",
-      "asOf": "2026-06-29T12:14:32.693749Z"
-    },
-    {
-      "name": "JPY/INR",
-      "pair": "JPYINR",
-      "symbol": "JPYINR=X",
-      "value": "₹0.5839",
-      "rate": 0.5839499831199646,
-      "change": "0.0010",
-      "changePercent": "0.17",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-29T12:14:32.724111Z"
-    },
-    {
-      "name": "GBP/INR",
-      "pair": "GBPINR",
-      "symbol": "GBPINR=X",
-      "value": "₹125.0595",
-      "rate": 125.05950164794922,
-      "change": "-0.2696",
-      "changePercent": "-0.22",
-      "direction": "down",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-29T12:14:32.754782Z"
-    },
-    {
-      "name": "EUR/INR",
-      "pair": "EURINR",
-      "symbol": "EURINR=X",
-      "value": "₹107.8435",
-      "rate": 107.84349822998047,
-      "change": "0.6815",
-      "changePercent": "0.64",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-29T12:14:32.761344Z"
-    },
-    {
-      "name": "USD/INR",
-      "pair": "USDINR",
-      "symbol": "USDINR=X",
-      "value": "₹94.5300",
-      "rate": 94.52999877929688,
-      "change": "0.1296",
-      "changePercent": "0.14",
-      "direction": "up",
-      "source": "yahoo-yfinance",
-      "mode": "fallback-intraday",
-      "asOf": "2026-06-29T12:14:32.768991Z"
+      "asOf": "2026-06-30T06:46:09.647779Z"
     }
   ],
   "mutualFunds": [
@@ -348,12 +348,12 @@
       "isinGrowth": "INF205K01LE4",
       "isinDividendReinvestment": "-",
       "name": "Invesco India Contra Fund - Direct Plan - Growth",
-      "nav": 157.4,
-      "navDate": "25-Jun-2026",
+      "nav": 156.46,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.097795Z"
+        "fetchedAt": "2026-06-30T06:46:11.882501Z"
       },
       "extras": {},
       "fundType": "value",
@@ -366,12 +366,12 @@
       "isinGrowth": "INF174K01KZ9",
       "isinDividendReinvestment": "-",
       "name": "Kotak Contra Fund - Direct Plan - Growth",
-      "nav": 181.094,
-      "navDate": "25-Jun-2026",
+      "nav": 180.484,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.097816Z"
+        "fetchedAt": "2026-06-30T06:46:11.882521Z"
       },
       "extras": {},
       "fundType": "value",
@@ -384,12 +384,12 @@
       "isinGrowth": "INF247L01GW6",
       "isinDividendReinvestment": "-",
       "name": "Motilal Oswal Contra Fund - Direct â Growth",
-      "nav": 10.3027,
-      "navDate": "25-Jun-2026",
+      "nav": 10.3202,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.097854Z"
+        "fetchedAt": "2026-06-30T06:46:11.882543Z"
       },
       "extras": {},
       "fundType": "value",
@@ -402,12 +402,12 @@
       "isinGrowth": "INF200K01RA0",
       "isinDividendReinvestment": "-",
       "name": "SBI CONTRA FUND - DIRECT PLAN - GROWTH",
-      "nav": 410.2228,
-      "navDate": "25-Jun-2026",
+      "nav": 408.8761,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.097877Z"
+        "fetchedAt": "2026-06-30T06:46:11.882564Z"
       },
       "extras": {},
       "fundType": "value",
@@ -420,12 +420,12 @@
       "isinGrowth": "INF579M01AN2",
       "isinDividendReinvestment": "-",
       "name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - Growth",
-      "nav": 13.6516,
-      "navDate": "25-Jun-2026",
+      "nav": 13.5896,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098133Z"
+        "fetchedAt": "2026-06-30T06:46:11.882833Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -438,12 +438,12 @@
       "isinGrowth": "INF209K01UN8",
       "isinDividendReinvestment": "-",
       "name": "Aditya Birla Sun Life ELSS Tax Saver Fund - Growth - Direct Plan",
-      "nav": 68.79,
-      "navDate": "25-Jun-2026",
+      "nav": 68.45,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098152Z"
+        "fetchedAt": "2026-06-30T06:46:11.882854Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -456,12 +456,12 @@
       "isinGrowth": "INF846K01EW2",
       "isinDividendReinvestment": "-",
       "name": "Axis ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 108.3758,
-      "navDate": "25-Jun-2026",
+      "nav": 107.7804,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098174Z"
+        "fetchedAt": "2026-06-30T06:46:11.882875Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -474,12 +474,12 @@
       "isinGrowth": "INF0QA701AK0",
       "isinDividendReinvestment": "-",
       "name": "BAJAJ FINSERV ELSS TAX SAVER FUND - DIRECT - GROWTH",
-      "nav": 11.774,
-      "navDate": "25-Jun-2026",
+      "nav": 11.763,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098194Z"
+        "fetchedAt": "2026-06-30T06:46:11.882893Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -492,12 +492,12 @@
       "isinGrowth": "INF194K01Y29",
       "isinDividendReinvestment": "-",
       "name": "BANDHAN ELSS Tax Saver Fund - Direct Plan - Growth",
-      "nav": 179.048,
-      "navDate": "25-Jun-2026",
+      "nav": 177.968,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098212Z"
+        "fetchedAt": "2026-06-30T06:46:11.882913Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -510,12 +510,12 @@
       "isinGrowth": "INF761K01884",
       "isinDividendReinvestment": "-",
       "name": "BANK OF INDIA ELSS Tax Saver -Direct Plan- Growth",
-      "nav": 193.82,
-      "navDate": "25-Jun-2026",
+      "nav": 192.82,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098231Z"
+        "fetchedAt": "2026-06-30T06:46:11.882934Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -528,12 +528,12 @@
       "isinGrowth": "INF251K01HF3",
       "isinDividendReinvestment": "-",
       "name": "BARODA BNP PARIBAS ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 111.7956,
-      "navDate": "25-Jun-2026",
+      "nav": 111.4695,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098261Z"
+        "fetchedAt": "2026-06-30T06:46:11.882964Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -546,12 +546,12 @@
       "isinGrowth": "INF760K01EL8",
       "isinDividendReinvestment": "-",
       "name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - GROWTH OPTION",
-      "nav": 200.34,
-      "navDate": "25-Jun-2026",
+      "nav": 199.19,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098281Z"
+        "fetchedAt": "2026-06-30T06:46:11.882987Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -564,12 +564,12 @@
       "isinGrowth": "INF740K01OK1",
       "isinDividendReinvestment": "-",
       "name": "DSP ELSS Tax Saver Fund - Direct Plan - Growth",
-      "nav": 156.051,
-      "navDate": "25-Jun-2026",
+      "nav": 155.149,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098302Z"
+        "fetchedAt": "2026-06-30T06:46:11.883008Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -582,12 +582,12 @@
       "isinGrowth": "INF754K01CA8",
       "isinDividendReinvestment": "-",
       "name": "Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option",
-      "nav": 135.91,
-      "navDate": "25-Jun-2026",
+      "nav": 135.7,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098326Z"
+        "fetchedAt": "2026-06-30T06:46:11.883034Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -600,12 +600,12 @@
       "isinGrowth": "INF090I01JS8",
       "isinDividendReinvestment": "-",
       "name": "Franklin India ELSS Tax Saver Fund - Direct - Growth",
-      "nav": 1602.7807,
-      "navDate": "25-Jun-2026",
+      "nav": 1592.9894,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098340Z"
+        "fetchedAt": "2026-06-30T06:46:11.883047Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -618,12 +618,12 @@
       "isinGrowth": "INF666M01DK7",
       "isinDividendReinvestment": "-",
       "name": "Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Direct Plan- Growth Option",
-      "nav": 21.69,
-      "navDate": "25-Jun-2026",
+      "nav": 21.6,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098368Z"
+        "fetchedAt": "2026-06-30T06:46:11.883075Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -636,12 +636,12 @@
       "isinGrowth": "INF179K01YS4",
       "isinDividendReinvestment": "-",
       "name": "HDFC ELSS Tax saver - Growth Option - Direct Plan",
-      "nav": 1478.912,
-      "navDate": "25-Jun-2026",
+      "nav": 1466.208,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098383Z"
+        "fetchedAt": "2026-06-30T06:46:11.883090Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -654,12 +654,12 @@
       "isinGrowth": "INF917K01GP0",
       "isinDividendReinvestment": "-",
       "name": "HSBC ELSS Tax saver Fund - Direct Growth",
-      "nav": 152.917,
-      "navDate": "25-Jun-2026",
+      "nav": 152.2342,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098425Z"
+        "fetchedAt": "2026-06-30T06:46:11.883129Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -672,12 +672,12 @@
       "isinGrowth": "INF109K01Y31",
       "isinDividendReinvestment": "-",
       "name": "ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth",
-      "nav": 1040.57,
-      "navDate": "25-Jun-2026",
+      "nav": 1033.96,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098443Z"
+        "fetchedAt": "2026-06-30T06:46:11.883152Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -690,12 +690,12 @@
       "isinGrowth": "INF205K01NT8",
       "isinDividendReinvestment": "-",
       "name": "Invesco India ELSS Tax Saver Fund - Direct Plan - Growth",
-      "nav": 145.79,
-      "navDate": "25-Jun-2026",
+      "nav": 145.4,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098463Z"
+        "fetchedAt": "2026-06-30T06:46:11.883172Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -708,12 +708,12 @@
       "isinGrowth": "INF00XX01390",
       "isinDividendReinvestment": "-",
       "name": "ITI ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 28.3365,
-      "navDate": "25-Jun-2026",
+      "nav": 28.2418,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098483Z"
+        "fetchedAt": "2026-06-30T06:46:11.883205Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -726,12 +726,12 @@
       "isinGrowth": "INF192K01CE3",
       "isinDividendReinvestment": "-",
       "name": "JM ELSS Tax Saver Fund (Direct) - Growth Option",
-      "nav": 57.7304,
-      "navDate": "25-Jun-2026",
+      "nav": 57.3694,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098501Z"
+        "fetchedAt": "2026-06-30T06:46:11.883225Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -744,12 +744,12 @@
       "isinGrowth": "INF174K01LI3",
       "isinDividendReinvestment": "-",
       "name": "Kotak ELSS Tax Saver Fund-Growth - Direct",
-      "nav": 136.064,
-      "navDate": "25-Jun-2026",
+      "nav": 135.139,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098526Z"
+        "fetchedAt": "2026-06-30T06:46:11.883249Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -762,12 +762,12 @@
       "isinGrowth": "INF767K01EM1",
       "isinDividendReinvestment": "-",
       "name": "LIC MF ELSS Tax Saver-Direct Plan-Growth",
-      "nav": 169.7837,
-      "navDate": "25-Jun-2026",
+      "nav": 168.6485,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098553Z"
+        "fetchedAt": "2026-06-30T06:46:11.883263Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -780,12 +780,12 @@
       "isinGrowth": "INF174V01093",
       "isinDividendReinvestment": "-",
       "name": "Mahindra Manulife ELSS Tax Saver Fund - Direct Plan -Growth",
-      "nav": 32.4052,
-      "navDate": "25-Jun-2026",
+      "nav": 32.2156,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098756Z"
+        "fetchedAt": "2026-06-30T06:46:11.883472Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -798,12 +798,12 @@
       "isinGrowth": "INF769K01DM9",
       "isinDividendReinvestment": "-",
       "name": "Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth",
-      "nav": 57.014,
-      "navDate": "25-Jun-2026",
+      "nav": 56.882,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098776Z"
+        "fetchedAt": "2026-06-30T06:46:11.883490Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -816,12 +816,12 @@
       "isinGrowth": "INF247L01569",
       "isinDividendReinvestment": "-",
       "name": "Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 63.7207,
-      "navDate": "25-Jun-2026",
+      "nav": 63.7479,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098796Z"
+        "fetchedAt": "2026-06-30T06:46:11.883513Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -839,7 +839,7 @@
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098822Z"
+        "fetchedAt": "2026-06-30T06:46:11.883556Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -852,12 +852,12 @@
       "isinGrowth": "INF959L01GR6",
       "isinDividendReinvestment": "-",
       "name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN GROWTH",
-      "nav": 14.6011,
-      "navDate": "25-Jun-2026",
+      "nav": 14.5343,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098833Z"
+        "fetchedAt": "2026-06-30T06:46:11.883565Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -870,12 +870,12 @@
       "isinGrowth": "INF204K01L55",
       "isinDividendReinvestment": "-",
       "name": "Nippon India ELSS Tax Saver Fund - Direct Plan Growth Plan - Growth Option",
-      "nav": 144.9663,
-      "navDate": "25-Jun-2026",
+      "nav": 144.4808,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098871Z"
+        "fetchedAt": "2026-06-30T06:46:11.883598Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -888,12 +888,12 @@
       "isinGrowth": "INF0J8L01115",
       "isinDividendReinvestment": "-",
       "name": "NJ ELSS Tax Saver Scheme Direct Growth",
-      "nav": 14.52,
-      "navDate": "25-Jun-2026",
+      "nav": 14.41,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098885Z"
+        "fetchedAt": "2026-06-30T06:46:11.883614Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -906,12 +906,12 @@
       "isinGrowth": "INF663L01FN5",
       "isinDividendReinvestment": "-",
       "name": "PGIM India ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 39.49,
-      "navDate": "25-Jun-2026",
+      "nav": 39.32,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098909Z"
+        "fetchedAt": "2026-06-30T06:46:11.883640Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -924,12 +924,12 @@
       "isinGrowth": "INF879O01100",
       "isinDividendReinvestment": "-",
       "name": "Parag Parikh ELSS Tax Saver Fund- Direct Growth",
-      "nav": 31.8062,
-      "navDate": "25-Jun-2026",
+      "nav": 31.8099,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098923Z"
+        "fetchedAt": "2026-06-30T06:46:11.883653Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -942,12 +942,12 @@
       "isinGrowth": "INF966L01986",
       "isinDividendReinvestment": "-",
       "name": "quant ELSS Tax Saver Fund - Growth Option - Direct Plan",
-      "nav": 456.482,
-      "navDate": "25-Jun-2026",
+      "nav": 453.4776,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098932Z"
+        "fetchedAt": "2026-06-30T06:46:11.883663Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -960,12 +960,12 @@
       "isinGrowth": "INF082J01069",
       "isinDividendReinvestment": "-",
       "name": "Quantum ELSS Tax Saver Fund - Direct Plan Growth Option",
-      "nav": 124.63,
-      "navDate": "25-Jun-2026",
+      "nav": 124.25,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098954Z"
+        "fetchedAt": "2026-06-30T06:46:11.883687Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -978,12 +978,12 @@
       "isinGrowth": "INF0K1H01065",
       "isinDividendReinvestment": "-",
       "name": "Samco ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 13.23,
-      "navDate": "25-Jun-2026",
+      "nav": 13.22,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098972Z"
+        "fetchedAt": "2026-06-30T06:46:11.883705Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -996,12 +996,12 @@
       "isinGrowth": "INF200K01UM9",
       "isinDividendReinvestment": "-",
       "name": "SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH",
-      "nav": 474.7315,
-      "navDate": "25-Jun-2026",
+      "nav": 473.1359,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.098986Z"
+        "fetchedAt": "2026-06-30T06:46:11.883722Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1014,12 +1014,12 @@
       "isinGrowth": "INF680P01158",
       "isinDividendReinvestment": "-",
       "name": "Shriram ELSS Tax Saver Fund - Direct Growth",
-      "nav": 23.6524,
-      "navDate": "25-Jun-2026",
+      "nav": 23.556,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099002Z"
+        "fetchedAt": "2026-06-30T06:46:11.883738Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1032,12 +1032,12 @@
       "isinGrowth": "INF173K01HZ7",
       "isinDividendReinvestment": "-",
       "name": "Sundaram ELSS Tax Saver Fund Direct Plan Growth",
-      "nav": 533.9545,
-      "navDate": "25-Jun-2026",
+      "nav": 529.9381,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099042Z"
+        "fetchedAt": "2026-06-30T06:46:11.883763Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1050,12 +1050,12 @@
       "isinGrowth": "INF277K01I86",
       "isinDividendReinvestment": "-",
       "name": "Tata ELSS Fund-Growth-Direct Plan",
-      "nav": 53.2171,
-      "navDate": "25-Jun-2026",
+      "nav": 53.1013,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099071Z"
+        "fetchedAt": "2026-06-30T06:46:11.883790Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1068,12 +1068,12 @@
       "isinGrowth": "INF044D01CG6",
       "isinDividendReinvestment": "INF044D01AA3",
       "name": "Taurus ELSS Tax Saver Fund - Direct Plan - Growth",
-      "nav": 193.45,
-      "navDate": "25-Jun-2026",
+      "nav": 193.04,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099081Z"
+        "fetchedAt": "2026-06-30T06:46:11.883799Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1087,11 +1087,11 @@
       "isinDividendReinvestment": "-",
       "name": "Union ELSS Tax Saver Fund - Direct Plan - Growth Option",
       "nav": 70.89,
-      "navDate": "25-Jun-2026",
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099102Z"
+        "fetchedAt": "2026-06-30T06:46:11.883821Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1104,12 +1104,12 @@
       "isinGrowth": "INF789F01TF7",
       "isinDividendReinvestment": "-",
       "name": "UTI ELSS Tax Saver Fund - Direct Plan - Growth Option",
-      "nav": 226.7299,
-      "navDate": "25-Jun-2026",
+      "nav": 225.4076,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099122Z"
+        "fetchedAt": "2026-06-30T06:46:11.883841Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1122,12 +1122,12 @@
       "isinGrowth": "INF03VN01621",
       "isinDividendReinvestment": "-",
       "name": "WhiteOak Capital ELSS Tax Saver Fund Direct Plan Growth",
-      "nav": 18.509,
-      "navDate": "25-Jun-2026",
+      "nav": 18.476,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099140Z"
+        "fetchedAt": "2026-06-30T06:46:11.883859Z"
       },
       "extras": {},
       "fundType": "elss",
@@ -1140,12 +1140,12 @@
       "isinGrowth": "INF2JJD01136",
       "isinDividendReinvestment": "-",
       "name": "Abakkus Flexi Cap Fund - Direct - Growth",
-      "nav": 10.915,
-      "navDate": "25-Jun-2026",
+      "nav": 10.877,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099180Z"
+        "fetchedAt": "2026-06-30T06:46:11.883900Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1158,12 +1158,12 @@
       "isinGrowth": "INF209K01XX1",
       "isinDividendReinvestment": "-",
       "name": "Aditya Birla Sun Life Flexi Cap Fund - Growth - Direct Plan",
-      "nav": 2127.69,
-      "navDate": "25-Jun-2026",
+      "nav": 2117.56,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099200Z"
+        "fetchedAt": "2026-06-30T06:46:11.883923Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1176,12 +1176,12 @@
       "isinGrowth": "INF846K01B28",
       "isinDividendReinvestment": "-",
       "name": "Axis Flexi Cap Fund - Direct Plan - Growth",
-      "nav": 30.41,
-      "navDate": "25-Jun-2026",
+      "nav": 30.37,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099221Z"
+        "fetchedAt": "2026-06-30T06:46:11.883950Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1194,12 +1194,12 @@
       "isinGrowth": "INF0QA701342",
       "isinDividendReinvestment": "-",
       "name": "Bajaj Finserv Flexi Cap Fund-Direct Plan-Growth",
-      "nav": 15.924,
-      "navDate": "25-Jun-2026",
+      "nav": 15.876,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099243Z"
+        "fetchedAt": "2026-06-30T06:46:11.883972Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1212,12 +1212,12 @@
       "isinGrowth": "INF194K01W62",
       "isinDividendReinvestment": "-",
       "name": "BANDHAN Flexi Cap Fund-Direct Plan-Growth",
-      "nav": 229.948,
-      "navDate": "25-Jun-2026",
+      "nav": 229.089,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099270Z"
+        "fetchedAt": "2026-06-30T06:46:11.883996Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1230,12 +1230,12 @@
       "isinGrowth": "INF761K01FF5",
       "isinDividendReinvestment": "-",
       "name": "BANK OF INDIA Flexi Cap Fund Direct Plan -Growth",
-      "nav": 40.67,
-      "navDate": "25-Jun-2026",
+      "nav": 40.52,
+      "navDate": "29-Jun-2026",
       "source": {
         "provider": "amfi_navall",
         "mode": "official-daily",
-        "fetchedAt": "2026-06-29T12:14:35.099279Z"
+        "fetchedAt": "2026-06-30T06:46:11.884005Z"
       },
       "extras": {},
       "fundType": "flexi-cap",
@@ -1249,7 +1249,7 @@
     "recent": []
   },
   "nfo": [],
-  "ipoLastCheckedAt": "2026-06-29T12:14:38.499899+00:00",
+  "ipoLastCheckedAt": "2026-06-30T06:46:16.435859+00:00",
   "marketNews": [],
   "stockCategories": {
     "highs": [],
