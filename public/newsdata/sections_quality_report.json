@@ -1,8 +1,8 @@
 {
-  "contentHash": "cafd148f9592",
+  "contentHash": "c8b0b38923a3",
   "errors": [],
-  "fetchedAt": 1782835734352,
-  "generatedAt": 1782835749627,
+  "fetchedAt": 1782839043642,
+  "generatedAt": 1782839056780,
   "schemaVersion": 2,
   "sectionCount": 10,
   "sectionHealth": {
@@ -52,11 +52,11 @@
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
+          "count": 6,
           "sourceGroup": "ndtv"
         },
         {
-          "count": 2,
+          "count": 4,
           "sourceGroup": "times_of_india"
         }
       ]
@@ -90,11 +90,11 @@
           "sourceGroup": "bbc"
         },
         {
-          "count": 9,
+          "count": 11,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
+          "count": 6,
           "sourceGroup": "google_news"
         }
       ]
@@ -111,11 +111,11 @@
           "sourceGroup": "gadgets360"
         },
         {
-          "count": 8,
+          "count": 9,
           "sourceGroup": "google_news"
         },
         {
-          "count": 2,
+          "count": 1,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -128,11 +128,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 16,
+          "count": 17,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 14,
+          "count": 13,
           "sourceGroup": "google_news"
         }
       ]
@@ -187,11 +187,11 @@
       "thin": false,
       "topSources": [
         {
-          "count": 21,
+          "count": 20,
           "sourceGroup": "bbc"
         },
         {
-          "count": 9,
+          "count": 10,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -222,7 +222,7 @@
     "Section entertainment has weak source diversity: 1 source group(s)"
   ],
   "window": {
-    "cutoffAt": 1782706134352,
+    "cutoffAt": 1782709443642,
     "retainHours": 36
   }
 }

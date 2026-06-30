@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "fetchedAt": 1782835713697,
-  "contentHash": "d8d8726cb64d698a",
+  "fetchedAt": 1782839042115,
+  "contentHash": "6365dc9c9a2c18b0",
   "slotMeta": {
     "now": {
       "fetchedAt": 1782835713697,
@@ -30,22 +30,11 @@
         "977e9c0bd5b64aab",
         "ed2e6a1fe6fbb9ef",
         "30b122a0aeb4fa7d",
-        "471d982fffc3e276",
-        "5fb2720909a00f01",
         "f8cd0171e11e98c1",
-        "fff45325db82b942",
         "bd25101176b1696b",
         "c0ab7cfe0e513bdf",
         "090b9caff720a48a",
-        "10daa869e506646c",
-        "4a51fd91e947db1c",
-        "20656037b1b7e34c",
-        "6a190a01e6364bd3",
-        "bf952c0b99344c4d",
         "136725bbb8a0b452",
-        "799aa9b7edec72f4",
-        "1efb28cd448db91a",
-        "26dca4ff8a7ad564",
         "956c040c391d5c80",
         "2ba85f6a7fb098c7",
         "4d90b9871ea7f3c4",
@@ -147,14 +136,12 @@
         "83cc1e68664f6810",
         "d1faf859be39dea2",
         "c4a3a8b41fe84c55",
-        "e42b80b56b405c0f",
         "ac16bd4ac34b9cd5",
         "7f622a98afdc92a7",
         "c298340b17dad8fc",
         "b0a973eb006042aa",
         "07eedd82e4e11fca",
         "809eb886da27f966",
-        "a0cadfc895615dc3",
         "cf833e3b7a19f58c",
         "b58015bed7701c74",
         "ea4fec9f3fee9321",
@@ -187,14 +174,9 @@
         "bcc9e087426a8578",
         "13459fd2a47235d3",
         "e1b9e3c92765f782",
-        "659f7cf2df056255",
-        "04670887527a7494",
-        "1052edf4e22d5ee7",
         "c7f60f2e98121ce6",
         "4a9e966e0778b408",
-        "aafa6909dda8ebce",
         "fb4b400586c2cca1",
-        "d940d8feca6ff71b",
         "85cba411d1ea081e"
       ]
     },
@@ -854,575 +836,6 @@
       ]
     },
     {
-      "title": "SIT formed to probe Dudhwa tigress’ ‘sudden’ death; NTCA seeks report",
-      "summary": "The National Tiger Conservation Authority (NTCA), the apex body overseeing Project Tiger, has also sought a detailed report on the circumstances leading to the tigress' death",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/sit-formed-to-probe-dudhwa-tigress-sudden-death-ntca-seeks-report/article71160067.ece",
-      "publishedAt": 1782709374000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "702afe7541f15a7a",
-      "feedPosition": 11,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "tigress",
-          "death",
-          "ntca",
-          "report",
-          "tiger",
-          "formed",
-          "probe",
-          "dudhwa",
-          "sudden",
-          "seeks",
-          "national",
-          "conservation"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "investigative_detail",
-            "score": 0.67,
-            "matches": [
-              "\\bprobe\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bauthorit(?:y|ies)\\b"
-            ]
-          }
-        ],
-        "textLength": 244,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "investigative_detail",
-          "score": 0.67,
-          "matches": [
-            "\\bprobe\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bauthorit(?:y|ies)\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "SIR exercise must be monitored closely, says Asghar Chulbul",
-      "summary": "He advised citizens to fill up the enumeration form carefully, and obtain an official acknowledgement after submitting it, describing the receipt as an important record of submission",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/sir-exercise-must-be-monitored-closely-says-asghar-chulbul/article71157928.ece",
-      "publishedAt": 1782708857000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "5a077e8434c64168",
-      "feedPosition": 12,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "exercise",
-          "must",
-          "monitored",
-          "closely",
-          "asghar",
-          "chulbul",
-          "advised",
-          "citizens",
-          "fill",
-          "enumeration",
-          "form",
-          "carefully"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bofficials?\\b",
-              "\\bsays\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bup\\b"
-            ]
-          }
-        ],
-        "textLength": 242,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bofficials?\\b",
-            "\\bsays\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bup\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "AIDSO opposes vocational education in Karnataka Public Schools",
-      "summary": "AIDSO alleged that the proposal is an indirect attempt to implement the National Education Policy (NEP)-2020, which ‘has been rejected by the people of Karnataka’",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/aidso-opposes-vocational-education-in-karnataka-public-schools/article71158257.ece",
-      "publishedAt": 1782708448000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "a63984947d44e6f2",
-      "feedPosition": 13,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "aidso",
-          "education",
-          "karnataka",
-          "opposes",
-          "vocational",
-          "public",
-          "schools",
-          "alleged",
-          "that",
-          "proposal",
-          "indirect",
-          "attempt"
-        ],
-        "numbers": [
-          "2020"
-        ],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\brejected?\\b"
-            ]
-          },
-          {
-            "angle": "reaction_public",
-            "score": 0.67,
-            "matches": [
-              "\\bpublic\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bkarnataka\\b"
-            ]
-          }
-        ],
-        "textLength": 225,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\brejected?\\b"
-          ]
-        },
-        {
-          "angle": "reaction_public",
-          "score": 0.67,
-          "matches": [
-            "\\bpublic\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bkarnataka\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "CBSE’s move to make vocational education mandatory for class IX sparks concern among Bengaluru schools",
-      "summary": "CBSE, under its NCF-SE, has introduced Kaushal Vikas (Vocational education) as a mandatory subject for class IX students, rather than keeping it optional",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/cbses-move-to-make-vocational-education-mandatory-for-class-ix-sparks-concern-among-city-schools/article71146222.ece",
-      "publishedAt": 1782708114000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "d0335f921835e314",
-      "feedPosition": 14,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "cbse",
-          "vocational",
-          "education",
-          "mandatory",
-          "class",
-          "move",
-          "make",
-          "sparks",
-          "concern",
-          "bengaluru",
-          "schools",
-          "ncf-se"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 256,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "I don't have wings, so no question of anybody clipping them: Fadnavis, asserts support of BJP leaders",
-      "summary": "Devendra Fadnavis also dismissed the political buzz triggered after he and former ally-turned-rival, Uddhav Thackeray, travelled on the same flight from Mumbai to Nagpur",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/i-dont-have-wings-so-no-question-of-anybody-clipping-them-fadnavis-asserts-support-of-bjp-leaders/article71159965.ece",
-      "publishedAt": 1782707410000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "51556ce38b90d8d7",
-      "feedPosition": 15,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "fadnavis",
-          "wings",
-          "question",
-          "anybody",
-          "clipping",
-          "them",
-          "asserts",
-          "support",
-          "leaders",
-          "devendra",
-          "also",
-          "dismissed"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 271,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "After the split, mudslinging begins between the newly inducted Shiv Sena MPs and the Shiv Sena(UBT)",
-      "summary": "Sanjay Raut questioned Chief Minister Devendra Fadnavis regarding the law and order situation in the State, and dared Sanjay Dina Patil to face him without his police security cover",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/after-the-split-mudslinging-begins-between-the-newly-inducted-shiv-sena-mps-and-the-shiv-senaubt/article71138956.ece",
-      "publishedAt": 1782707363000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "e70430ffc6984283",
-      "feedPosition": 16,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "shiv",
-          "sena",
-          "sanjay",
-          "split",
-          "mudslinging",
-          "begins",
-          "newly",
-          "inducted",
-          "raut",
-          "questioned",
-          "chief",
-          "minister"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bminister\\b",
-              "\\bpolice\\b"
-            ]
-          }
-        ],
-        "textLength": 281,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bminister\\b",
-            "\\bpolice\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Uddhav calls for ‘BJP-mukt Ram’, breathes fire against the BJP over the Ram temple donations row",
-      "summary": "The Shiv Sena (UBT) chief slams BJP over its stand that a passport is not proof of citizenship, adding that voters need to question the defected MPs as well as the BJP, which wanted to finish off the Opposition",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/uddhav-calls-for-bjp-mukt-ram-breathes-fire-against-the-bjp-over-the-ram-temple-donations-row/article71154592.ece",
-      "publishedAt": 1782707327000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "a19ce59e07b26085",
-      "feedPosition": 17,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "that",
-          "uddhav",
-          "calls",
-          "bjp-mukt",
-          "breathes",
-          "fire",
-          "temple",
-          "donations",
-          "shiv",
-          "sena",
-          "chief",
-          "slams"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 307,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Uddhav Thackeray seeks disqualification of rebel MPs, says defections part of bigger conspiracy",
-      "summary": "MPs loyal to the Shiv Sena (UBT) had submitted a formal representation to Lok Sabha Speaker Om Birla, seeking an opportunity to present their side, Uddhav Thackeray said, noting that party MP Arvind Sawant had cut short an official visit to Kargil after the Speaker had advanced the date of the hearing",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/uddhav-thackeray-seeks-disqualification-of-rebel-mps-says-defections-part-of-bigger-conspiracy/article71158525.ece",
-      "publishedAt": 1782707260000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "4304df4d55c0223f",
-      "feedPosition": 18,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "uddhav",
-          "thackeray",
-          "speaker",
-          "seeks",
-          "disqualification",
-          "rebel",
-          "defections",
-          "part",
-          "bigger",
-          "conspiracy",
-          "loyal",
-          "shiv"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 1.0,
-            "matches": [
-              "\\bofficials?\\b",
-              "\\bsays\\b",
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 398,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 1.0,
-          "matches": [
-            "\\bofficials?\\b",
-            "\\bsays\\b",
-            "\\bsaid\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Pune fort murder: Siya’s ‘sitting down’ signal was also meant to ensure her safety, say police",
-      "summary": "Siya Goyal and her alleged lover had decided that she would sit down either to drink water or on the pretext of tying her shoelaces; sitting down was the signal, the official",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/pune-fort-murder-siyas-sitting-down-signal-was-also-meant-to-ensure-her-safety-say-police/article71160001.ece",
-      "publishedAt": 1782706214000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "ea002100bd8c2f55",
-      "feedPosition": 19,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h",
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "down",
-          "siya",
-          "sitting",
-          "signal",
-          "pune",
-          "fort",
-          "murder",
-          "also",
-          "meant",
-          "ensure",
-          "safety",
-          "police"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bofficials?\\b",
-              "\\bpolice\\b"
-            ]
-          }
-        ],
-        "textLength": 269,
-        "hasSummary": true,
-        "sourceGroup": "the_hindu"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bofficials?\\b",
-            "\\bpolice\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "US Stock Market: Warsh faces crucial week with court ruling, global debut in focus",
       "summary": "Federal Reserve Chair Kevin Warsh faces a crucial week. The Supreme Court's decision on Governor Lisa Cook's removal will test the central bank's independence. Simultaneously, Warsh will present his new communication strategy, shifting away from explicit forward guidance, at a major international forum in Portugal. This approach, emphasizing data-driven decisions, contrasts with other central banks and carries global implications due to the dollar's dominance.",
       "source": "Economic Times",
@@ -1893,497 +1306,6 @@
       ]
     },
     {
-      "title": "Capri Global eyes debut dollar debt sale, starts procedure, bankers say",
-      "summary": "Capri Global Capital is set to enter the foreign currency debt market, planning to raise funds through U.S. dollar denominated bonds. The non-banking finance company aims to secure around $300 million, potentially up to $500 million, with a maturity of three years and three months. This move aligns with their strategy to increase capital market borrowings, aiming for 40%-50% of total borrowings from this source.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/capri-global-eyes-debut-dollar-debt-sale-starts-procedure-bankers-say/articleshow/132063296.cms",
-      "publishedAt": 1782709241000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "f65d32266fbefd23",
-      "feedPosition": 7,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "capri",
-          "global",
-          "dollar",
-          "debt",
-          "capital",
-          "market",
-          "million",
-          "three",
-          "borrowings",
-          "eyes",
-          "debut",
-          "sale"
-        ],
-        "numbers": [
-          "$300 million",
-          "$500 million",
-          "40%",
-          "50%"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.89,
-            "matches": [
-              "\\bmillion\\b",
-              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-            ]
-          },
-          {
-            "angle": "market_reaction",
-            "score": 0.67,
-            "matches": [
-              "\\bmarket\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bup\\b"
-            ]
-          }
-        ],
-        "textLength": 487,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.89,
-          "matches": [
-            "\\bmillion\\b",
-            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-          ]
-        },
-        {
-          "angle": "market_reaction",
-          "score": 0.67,
-          "matches": [
-            "\\bmarket\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bup\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "JGB yields rise as inflation concerns grow on BOJ policy outlook",
-      "summary": "Japanese government bond yields climbed as inflation worries grew. Reports suggest the government might steer the Bank of Japan towards its pro-growth economic plans, potentially slowing interest rate hikes. This move, aimed at boosting annual real economic growth beyond 1%, has sparked concerns that the central bank could lag in tackling rising prices. The government's new economic framework is expected next month.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-rise-as-inflation-concerns-grow-on-boj-policy-outlook/articleshow/132063275.cms",
-      "publishedAt": 1782709076000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "ffbb1930b20ef404",
-      "feedPosition": 8,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "government",
-          "economic",
-          "yields",
-          "inflation",
-          "concerns",
-          "bank",
-          "rise",
-          "grow",
-          "policy",
-          "outlook",
-          "japanese",
-          "bond"
-        ],
-        "numbers": [
-          "1%"
-        ],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 0.67,
-            "matches": [
-              "\\bbond yields?\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bgovernment\\b"
-            ]
-          }
-        ],
-        "textLength": 484,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 0.67,
-          "matches": [
-            "\\bbond yields?\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bgovernment\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Kotak Mahindra Bank shares fall 3% after CEO's surprise exit. What Nomura, Jefferies said",
-      "summary": "Analysts at Nomura and Jefferies, however, maintain 'Buy' ratings, with Nomura highlighting Anup Kumar Saha as a strong internal candidate. Despite the leadership change, analysts believe the bank's strategic direction will remain consistent.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-fall-3-after-ceos-surprise-exit-what-nomura-jefferies-said/articleshow/132063129.cms",
-      "publishedAt": 1782708443000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "9aa53cfff2ab72eb",
-      "feedPosition": 9,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "nomura",
-          "bank",
-          "jefferies",
-          "analysts",
-          "kotak",
-          "mahindra",
-          "shares",
-          "fall",
-          "surprise",
-          "exit",
-          "what",
-          "however"
-        ],
-        "numbers": [
-          "3%"
-        ],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 0.89,
-            "matches": [
-              "\\bshares?\\b",
-              "\\bshares fall\\b"
-            ]
-          },
-          {
-            "angle": "expert_analysis",
-            "score": 0.67,
-            "matches": [
-              "\\banalysts?\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsaid\\b"
-            ]
-          }
-        ],
-        "textLength": 332,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 0.89,
-          "matches": [
-            "\\bshares?\\b",
-            "\\bshares fall\\b"
-          ]
-        },
-        {
-          "angle": "expert_analysis",
-          "score": 0.67,
-          "matches": [
-            "\\banalysts?\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsaid\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Astral shares drop 6% after demerger. What should investors do?",
-      "summary": "Astral shares fell nearly 6% on Monday after the company’s board approved the demerger of its chemicals business into a newly incorporated entity, Astral Chemie. According to an exchange filing, the Composite Scheme of Arrangement also includes Astral Limited and Al-Aziz Plastics. The stock hit a low of Rs 1,389 amid the development and approval process.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/astral-shares-drop-6-after-demerger-what-should-investors-do/articleshow/132063103.cms",
-      "publishedAt": 1782708248000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "364fd752cf7b935e",
-      "feedPosition": 10,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "astral",
-          "shares",
-          "demerger",
-          "drop",
-          "what",
-          "should",
-          "investors",
-          "fell",
-          "nearly",
-          "monday",
-          "company",
-          "board"
-        ],
-        "numbers": [
-          "6%",
-          "1,389"
-        ],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 1.0,
-            "matches": [
-              "\\bshares?\\b",
-              "\\bstocks?\\b",
-              "\\binvestors?\\b",
-              "\\bfell\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bapproved?\\b"
-            ]
-          }
-        ],
-        "textLength": 420,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 1.0,
-          "matches": [
-            "\\bshares?\\b",
-            "\\bstocks?\\b",
-            "\\binvestors?\\b",
-            "\\bfell\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bapproved?\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Global Market: China's central bank expands liquidity toolkit with first-ever overnight reverse repos",
-      "summary": "China's central bank has introduced overnight reverse repo operations for the first time, injecting 300 billion yuan to manage liquidity. This move expands the People's Bank of China's toolkit for short-term funding. An additional 157.5 billion yuan was injected via seven-day reverse repos at an unchanged rate. Policymakers are carefully balancing economic support with financial stability, with markets keenly watching future PBOC actions.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-central-bank-expands-liquidity-toolkit-with-first-ever-overnight-reverse-repos/articleshow/132062805.cms",
-      "publishedAt": 1782707020000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "7992f56fa4451ac6",
-      "feedPosition": 11,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "china",
-          "bank",
-          "reverse",
-          "central",
-          "expands",
-          "liquidity",
-          "toolkit",
-          "overnight",
-          "repos",
-          "billion",
-          "yuan",
-          "global"
-        ],
-        "numbers": [
-          "300 billion",
-          "157.5 billion"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.89,
-            "matches": [
-              "\\bbillion\\b",
-              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-            ]
-          },
-          {
-            "angle": "market_reaction",
-            "score": 0.67,
-            "matches": [
-              "\\bmarket\\b"
-            ]
-          }
-        ],
-        "textLength": 544,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.89,
-          "matches": [
-            "\\bbillion\\b",
-            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-          ]
-        },
-        {
-          "angle": "market_reaction",
-          "score": 0.67,
-          "matches": [
-            "\\bmarket\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Global Market: Japan govt urges BOJ policy coordination as it targets faster economic growth",
-      "summary": "Japan is aiming for over 1% real economic growth annually, a significant jump from its recent average. This ambitious plan, detailed in a draft policy, seeks to boost domestic growth through increased public-private investment and a focus on strategic industries. The government also intends to manage its debt while pursuing expansion, emphasizing close coordination with the Bank of Japan on monetary policy to maintain low borrowing costs.",
-      "source": "Economic Times",
-      "sourceGroup": "economic_times",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-govt-urges-boj-policy-coordination-as-it-targets-faster-economic-growth/articleshow/132062656.cms",
-      "publishedAt": 1782706204000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "bfc71037a493a42b",
-      "feedPosition": 12,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "japan",
-          "policy",
-          "growth",
-          "coordination",
-          "economic",
-          "global",
-          "market",
-          "govt",
-          "urges",
-          "targets",
-          "faster",
-          "aiming"
-        ],
-        "numbers": [
-          "1%"
-        ],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 0.67,
-            "matches": [
-              "\\bmarket\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bgovernment\\b"
-            ]
-          },
-          {
-            "angle": "reaction_public",
-            "score": 0.67,
-            "matches": [
-              "\\bpublic\\b"
-            ]
-          }
-        ],
-        "textLength": 535,
-        "hasSummary": true,
-        "sourceGroup": "economic_times"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 0.67,
-          "matches": [
-            "\\bmarket\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bgovernment\\b"
-          ]
-        },
-        {
-          "angle": "reaction_public",
-          "score": 0.67,
-          "matches": [
-            "\\bpublic\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "The Real Cost Of Glass Skin: Inside India's K-Beauty Obsession",
       "summary": "As rupees flow out of Indian bank accounts into Korean beauty, consumers are hitting a biological wall.",
       "source": "NDTV",
@@ -2487,217 +1409,6 @@
       ]
     },
     {
-      "title": "Invisible AI Tax: Is An Algorithm Secretly Deciding How Much You Pay?",
-      "summary": "AI is understanding not just what people want, but how much they are willing to spend.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/business-news/artificial-intelligence-product-pricing-online-shopping-consumer-profile-behaviour-tech-11700240#publisher=newsstand",
-      "publishedAt": 1782709244000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "f530c74dbbfcd59a",
-      "feedPosition": 2,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "much",
-          "invisible",
-          "algorithm",
-          "secretly",
-          "deciding",
-          "understanding",
-          "just",
-          "what",
-          "people",
-          "want",
-          "they",
-          "willing"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 156,
-        "hasSummary": true,
-        "sourceGroup": "ndtv"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Pregnant Telangana Woman Dies By Suicide After Husband Demands DNA Test",
-      "summary": "Pregnant Telangana woman dies by suicide following DNA test demand by husband.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/telangana-news/pregnant-telangana-woman-dies-by-suicide-after-husband-demands-dna-test-11700457#publisher=newsstand",
-      "publishedAt": 1782709157000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "eb4db78325ee3cae",
-      "feedPosition": 3,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "pregnant",
-          "telangana",
-          "woman",
-          "dies",
-          "suicide",
-          "husband",
-          "test",
-          "demands",
-          "following",
-          "demand"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\btelangana\\b"
-            ]
-          }
-        ],
-        "textLength": 150,
-        "hasSummary": true,
-        "sourceGroup": "ndtv"
-      },
-      "angleHints": [
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\btelangana\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Video: Argument Over Liquor Prices Turns Violent At Bengaluru Bar",
-      "summary": "Violence erupted at a Bengaluru bar over liquor prices.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/bangalore-news/video-argument-over-liquor-prices-turns-violent-at-bengaluru-bar-11700667#publisher=newsstand",
-      "publishedAt": 1782709067000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "0bdcb6ca66e46bfb",
-      "feedPosition": 4,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "liquor",
-          "prices",
-          "bengaluru",
-          "video",
-          "argument",
-          "turns",
-          "violent",
-          "violence",
-          "erupted"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\b(?:in|at|near) (?:mumbai|delhi|bengaluru|bangalore|hyderabad|kolkata|pune|ahmedabad|jaipur|lucknow|coimbatore|madurai)\\b"
-            ]
-          }
-        ],
-        "textLength": 121,
-        "hasSummary": true,
-        "sourceGroup": "ndtv"
-      },
-      "angleHints": [
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\b(?:in|at|near) (?:mumbai|delhi|bengaluru|bangalore|hyderabad|kolkata|pune|ahmedabad|jaipur|lucknow|coimbatore|madurai)\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "UPI Eases Provident Fund Access, But Don't Rush To Withdraw Yet. Here's Why",
-      "summary": "Provident Fund serves as a financial cushion during emergencies and other important life events.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/business-news/provident-fund-epfo-new-rules-upi-atm-withdrawal-emergency-fund-personal-finance-11700217#publisher=newsstand",
-      "publishedAt": 1782706377000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "60548debf0737548",
-      "feedPosition": 5,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "provident",
-          "fund",
-          "eases",
-          "access",
-          "rush",
-          "withdraw",
-          "here",
-          "serves",
-          "financial",
-          "cushion",
-          "emergencies",
-          "other"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 172,
-        "hasSummary": true,
-        "sourceGroup": "ndtv"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
       "title": "7 lakes created by meteor impacts around the world: From Lake Manicouagan to Clearwater Lakes",
       "summary": "",
       "source": "Times of India",
@@ -2738,247 +1449,6 @@
         "textLength": 93,
         "hasSummary": false,
         "sourceGroup": "times_of_india"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "‘You've made enough money, now give it away…’: How Warren Buffett, Bill Gates and MacKenzie Scott are inspiring billionaire heirs to donate sooner",
-      "summary": "",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/us/youve-made-enough-money-now-give-it-away-how-warren-buffett-bill-gates-and-mackenzie-scott-are-inspiring-billionaire-heirs-to-donate-sooner/articleshow/132063187.cms",
-      "publishedAt": 1782709099000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "77ce024ac49785b7",
-      "feedPosition": 1,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "made",
-          "enough",
-          "money",
-          "give",
-          "away",
-          "warren",
-          "buffett",
-          "bill",
-          "gates",
-          "mackenzie",
-          "scott",
-          "inspiring"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 146,
-        "hasSummary": false,
-        "sourceGroup": "times_of_india"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Who is Amanda Nguyen: Meet the rape survivor who became the first Vietnamese woman in space on Blue Origin's historic mission",
-      "summary": "",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/science/who-is-amanda-nguyen-meet-the-rape-survivor-who-became-the-first-vietnamese-woman-in-space-on-blue-origins-historic-mission/articleshow/132062910.cms",
-      "publishedAt": 1782707819000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "41fc713022d9ab91",
-      "feedPosition": 2,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "amanda",
-          "nguyen",
-          "meet",
-          "rape",
-          "survivor",
-          "became",
-          "vietnamese",
-          "woman",
-          "space",
-          "blue",
-          "origin",
-          "historic"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 125,
-        "hasSummary": false,
-        "sourceGroup": "times_of_india"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Kerala HSCAP Plus One Third Allotment Result 2026 Out, Here's How to Check?",
-      "summary": "Kerala HSCAP Plus One Third Allotment Result 2026 has been released on official website.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/education/kerala-hscap-plus-one-third-allotment-result-2026-out-heres-how-to-check-11700626#publisher=newsstand",
-      "publishedAt": 1782708991000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "35286cf83c98bd02",
-      "feedPosition": 2,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "kerala",
-          "hscap",
-          "plus",
-          "third",
-          "allotment",
-          "result",
-          "here",
-          "check",
-          "been",
-          "released",
-          "official",
-          "website"
-        ],
-        "numbers": [
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "expert_analysis",
-            "score": 0.67,
-            "matches": [
-              "\\bhow (?:to|it works|the)\\b"
-            ]
-          },
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bofficials?\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bkerala\\b"
-            ]
-          }
-        ],
-        "textLength": 164,
-        "hasSummary": true,
-        "sourceGroup": "ndtv"
-      },
-      "angleHints": [
-        {
-          "angle": "expert_analysis",
-          "score": 0.67,
-          "matches": [
-            "\\bhow (?:to|it works|the)\\b"
-          ]
-        },
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bofficials?\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bkerala\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "IIT Delhi Launches Special PhD Admission Drive 2026 For SC, ST Candidates, Check Key Dates",
-      "summary": "IIT Delhi opens special PhD admission drive for SC/ST candidates.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/education/iit-delhi-launches-special-phd-admission-drive-2026-for-sc-st-candidates-check-key-dates-11700504#publisher=newsstand",
-      "publishedAt": 1782706495000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "7330690a0f97c685",
-      "feedPosition": 3,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus4h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "delhi",
-          "special",
-          "admission",
-          "drive",
-          "candidates",
-          "launches",
-          "check",
-          "dates",
-          "opens"
-        ],
-        "numbers": [
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 156,
-        "hasSummary": true,
-        "sourceGroup": "ndtv"
       },
       "angleHints": [
         {
@@ -3236,64 +1706,6 @@
       ]
     },
     {
-      "title": "Pakistani strikes kill dozens in Afghanistan, Taliban officials say",
-      "summary": "Pakistan says its strikes were a response to \"terrorist attacks\". The Taliban labelled them \"cowardly\".",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782707945000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "e42b80b56b405c0f",
-      "feedPosition": 1,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "strikes",
-          "taliban",
-          "pakistani",
-          "kill",
-          "dozens",
-          "afghanistan",
-          "officials",
-          "pakistan",
-          "were",
-          "response",
-          "terrorist",
-          "attacks"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bofficials?\\b",
-              "\\bsays\\b"
-            ]
-          }
-        ],
-        "textLength": 171,
-        "hasSummary": true,
-        "sourceGroup": "bbc"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bofficials?\\b",
-            "\\bsays\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Apple Smart Glasses Said to Launch by End of 2027 as Rival to Meta's Smart Glasses",
       "summary": "Meta’s newest pairs start at $299",
       "source": "Gadgets 360",
@@ -3448,63 +1860,6 @@
           }
         ],
         "textLength": 146,
-        "hasSummary": true,
-        "sourceGroup": "gadgets360"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "iPhone 18 Series Launch Date Reportedly Surfaces as IDC Predicts Major Price Increase",
-      "summary": "Apple launched the iPhone 17 series on September 9, 2025",
-      "source": "Gadgets 360",
-      "sourceGroup": "gadgets360",
-      "url": "https://www.gadgets360.com/mobiles/news/iphone-18-pro-max-launch-date-september-9-mark-gurman-price-hike-idc-report-11700614",
-      "publishedAt": 1782707586000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "77c3fe19557259cf",
-      "feedPosition": 3,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "iphone",
-          "series",
-          "launch",
-          "date",
-          "reportedly",
-          "surfaces",
-          "predicts",
-          "major",
-          "price",
-          "increase",
-          "apple",
-          "launched"
-        ],
-        "numbers": [
-          "18",
-          "17",
-          "9",
-          "2025"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 142,
         "hasSummary": true,
         "sourceGroup": "gadgets360"
       },
@@ -3963,131 +2318,6 @@
           "score": 0.67,
           "matches": [
             "\\b(?:in|at|near) (?:mumbai|delhi|bengaluru|bangalore|hyderabad|kolkata|pune|ahmedabad|jaipur|lucknow|coimbatore|madurai)\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Heavy overnight showers drench Mumbai suburbs; over 100 mm rain recorded in several areas",
-      "summary": "According to the Brihanmumbai Municipal Corporation (BMC), Veena Nagar in Mulund received 160.4 mm of rain, and Versova recorded 156.8 mm",
-      "source": "Business Line",
-      "sourceGroup": "business_line",
-      "url": "https://www.thehindubusinessline.com/news/heavy-overnight-showers-drench-mumbai-suburbs-over-100-mm-rain-recorded-in-several-areas/article71160031.ece",
-      "publishedAt": 1782707387000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "90de4821b22acfc8",
-      "feedPosition": 6,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus24h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "rain",
-          "recorded",
-          "heavy",
-          "overnight",
-          "showers",
-          "drench",
-          "mumbai",
-          "suburbs",
-          "several",
-          "areas",
-          "according",
-          "brihanmumbai"
-        ],
-        "numbers": [
-          "100",
-          "160.4",
-          "156.8"
-        ],
-        "angleHints": [
-          {
-            "angle": "regional_followup",
-            "score": 0.89,
-            "matches": [
-              "\\bcorporation\\b",
-              "\\bmunicipal\\b"
-            ]
-          }
-        ],
-        "textLength": 227,
-        "hasSummary": true,
-        "sourceGroup": "business_line"
-      },
-      "angleHints": [
-        {
-          "angle": "regional_followup",
-          "score": 0.89,
-          "matches": [
-            "\\bcorporation\\b",
-            "\\bmunicipal\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shapoorji refinancing delays spur some bondholders to seek exit",
-      "summary": "An investment unit of the infrastructure conglomerate has recently been asking creditors to allow it to delay the repayment of the notes with ₹8,343 crore ($884 million) outstanding that mature this month",
-      "source": "Business Line",
-      "sourceGroup": "business_line",
-      "url": "https://www.thehindubusinessline.com/news/real-estate/shapoorji-refinancing-delays-spur-some-bondholders-to-seek-exit/article71160017.ece",
-      "publishedAt": 1782706533000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "915373b3d4d2ab0f",
-      "feedPosition": 7,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus24h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "shapoorji",
-          "refinancing",
-          "delays",
-          "spur",
-          "some",
-          "bondholders",
-          "seek",
-          "exit",
-          "investment",
-          "unit",
-          "infrastructure",
-          "conglomerate"
-        ],
-        "numbers": [
-          "₹8,343 crore",
-          "$884 million"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 1.0,
-            "matches": [
-              "\\bmillion\\b",
-              "\\bcrore\\b",
-              "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
-            ]
-          }
-        ],
-        "textLength": 268,
-        "hasSummary": true,
-        "sourceGroup": "business_line"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 1.0,
-          "matches": [
-            "\\bmillion\\b",
-            "\\bcrore\\b",
-            "\\b\\d+(?:[.,]\\d+)?\\s*(?:%|crore|lakh|million|billion|thousand|points?|basis points?)\\b"
           ]
         }
       ]
@@ -8115,62 +6345,6 @@
           "angle": "base_report",
           "score": 0.35,
           "matches": []
-        }
-      ]
-    },
-    {
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782708737000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "184fcdd92fd7c15a",
-      "feedPosition": 1,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "strikes",
-          "iran",
-          "agreed",
-          "stand",
-          "down",
-          "exchange",
-          "series",
-          "weekend",
-          "accuse",
-          "each",
-          "other",
-          "violating"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsays\\b"
-            ]
-          }
-        ],
-        "textLength": 186,
-        "hasSummary": true,
-        "sourceGroup": "bbc"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsays\\b"
-          ]
         }
       ]
     },
@@ -36900,113 +35074,6 @@
       ]
     },
     {
-      "title": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News | 28th June 2026 | Kanak News - Kanak News Odisha",
-      "summary": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News | 28th June 2026 | Kanak News Kanak News Odisha",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWhJYlBOY2JSVllFLTB6cmMybkpGbjZqekNlUmFJZG5jUWlHNWZzYm1yZks4UzU4YWxjWGFzV0wwRURVU0Y5Mmx4QlpaYnNUQkwwU3A0SndYUEp2WVpLR0NpSi0yZTFCQk55V3k1c0tOZHVhR2dwVEZSZkNIQlZpMTdQY2JYa0J4N3V6NHhTMlVfMjBkMVJmRHJrdW1yaDI3TnNxMElyQllNZVBqOEV2UDNnZmZnMHhuSEpmcnBPQXXSAcABQVVfeXFMT1VoSWJQTmNiUlZZRS0wenJjMm5KRm42anpDZVJhSWRuY1FpRzVmc2JtcmZLOFM1OGFsY1hhc1dMMEVEVVNGOTJseEJaWmJzVEJMMFNwNEp3WFBKdllaS0dDaUotMmUxQkJOeVd5NXNLTmR1YUdncFRGUmZDSEJWaTE3UGNiWGtCeDd1ejR4UzJVXzIwZDFSZkRya3VtcmgyN05zcTBJckJZTWVQajhFdlAzZ2ZmZzB4bkhKZnJwT0F1?oc=5",
-      "publishedAt": 1782664700000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "471d982fffc3e276",
-      "feedPosition": 4,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "kanak",
-          "live",
-          "bulletin",
-          "breaking",
-          "28th",
-          "june",
-          "odisha"
-        ],
-        "numbers": [
-          "୬",
-          "6",
-          "28",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.67,
-            "matches": [
-              "\\bbreaking\\b"
-            ]
-          }
-        ],
-        "textLength": 219,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.67,
-          "matches": [
-            "\\bbreaking\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "The Stringers Behind India’s Breaking News: No Contracts, Credit or Safety - معهد الجزيرة للإعلام",
-      "summary": "The Stringers Behind India’s Breaking News: No Contracts, Credit or Safety معهد الجزيرة للإعلام",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CS1FuX2RqbmdBV016bnJkQW5SZ0hMWmlmamQ0V2JzeXpzZzdmN1VWZzB5RkZsU250VV9kZXRiRnlyMnk0eElHOERIZHhlLWFDYUFiQVlSRGRGZHhPcFhTYw?oc=5",
-      "publishedAt": 1782543600000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "5fb2720909a00f01",
-      "feedPosition": 5,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "stringers",
-          "behind",
-          "india",
-          "breaking",
-          "contracts",
-          "credit",
-          "safety"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.67,
-            "matches": [
-              "\\bbreaking\\b"
-            ]
-          }
-        ],
-        "textLength": 193,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.67,
-          "matches": [
-            "\\bbreaking\\b"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance - News On AIR",
       "summary": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance News On AIR",
       "source": "Google News",
@@ -37060,51 +35127,6 @@
       ]
     },
     {
-      "title": "Top news of the day: June 7, 2026 - The Hindu",
-      "summary": "Top news of the day: June 7, 2026 The Hindu",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1FIcW1Ca01wazJBUUZ6cWswRXU4V19uMUlKbTZOTWJJREM0bHVtSzdpY2dLbzVLS2VKSEVBY2Vlb0EyRDNpWXVmRmdxSENRSHdVMEJaRlVSUlJSQk9vSW1NT0FaRkEwaU4xMEN0RDhmSlJwalM0Q3pUNTFoeEE3VDlhN3VSMHlG0gGPAUFVX3lxTE0xb1VaTGlzVmtDTF9yb1I3SG9jM2s4YjNHdmRpQ3JSVXRJbTBJMEJzSnVSVktxVjdPQUhITlM1NVpUTkdUUzdJWUJFMXlIekZFZ1lxZW84Q2xrRnpuY1JSRXlIdXpBXzlDZ051VmJqb0RpQVhGcExoSmNvS05WLTcyNkpid2lGaG0wRUpwTzQw?oc=5",
-      "publishedAt": 1780815600000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "fff45325db82b942",
-      "feedPosition": 7,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "hindu"
-        ],
-        "numbers": [
-          "7",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 89,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
       "title": "'Blatant Act of Aggression': India Slams Pakistan's Airstrikes in Afghanistan - The Quint",
       "summary": "'Blatant Act of Aggression': India Slams Pakistan's Airstrikes in Afghanistan The Quint",
       "source": "Google News",
@@ -37141,428 +35163,6 @@
           }
         ],
         "textLength": 177,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "🔴 LIVE | ସାଢେ ୫ଟାର ବଡ଼ ଖବର | 5.30PM Breaking News | 27th June 2026 | Odia News | Kanak News - Kanak News Odisha",
-      "summary": "🔴 LIVE | ସାଢେ ୫ଟାର ବଡ଼ ଖବର | 5.30PM Breaking News | 27th June 2026 | Odia News | Kanak News Kanak News Odisha",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0syR051cW9RSWJUQlFRVDlYR2E4b1pwMVBsd21kSko5OEYtVHlENURWVWtMNWNza192NkkzZXVoZDBWdlNvZlRiTDRpdFZTaVQ4T1VKemhNV1B2d2R3dzF5SkpIWXpjZm1WUEJtMFZlM19neDFITEdVa2hETkF1VHFNYXd3OWVZVWhqZGxhZWthZ0ttdUdGY0JaSXhHT3BobmdEbmpLUjhtYTNNZ3ZxOWlVajFjNDFtT2ZHVjQtWU5TSUpZ0gHEAUFVX3lxTE5zSzJHTnVxb1FJYlRCUVFUOVhHYThvWnAxUGx3bWRKSjk4Ri1UeUQ1RFZVa0w1Y3NrX3Y2STNldWhkMFZ2U29mVGJMNGl0VlNpVDhPVUp6aE1XUHZ3ZHd3MXlKSkhZemNmbVZQQm0wVmUzX2d4MUhMR1VraEROQXVUcU1hd3c5ZVlVaGpkbGFla2FnS211R0ZjQlpJeEdPcGhuZ0RuaktSOG1hM01ndnE5aVVqMWM0MW1PZkdWNC1ZTlNJSlk?oc=5",
-      "publishedAt": 1782653560000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "10daa869e506646c",
-      "feedPosition": 11,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "kanak",
-          "live",
-          "30pm",
-          "breaking",
-          "27th",
-          "june",
-          "odia",
-          "odisha"
-        ],
-        "numbers": [
-          "୫",
-          "5.30",
-          "27",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 0.67,
-            "matches": [
-              "\\bbreaking\\b"
-            ]
-          }
-        ],
-        "textLength": 221,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 0.67,
-          "matches": [
-            "\\bbreaking\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "India News LIVE Updates, 29 June 2026: India Slams Pakistan Over ‘Baseless’ Karachi Attack Claims, US-Iran Agree To Halt Attacks Ahead Of Doha Talks, Kerala Family Found Dead In River - The Indian Express",
-      "summary": "India News LIVE Updates, 29 June 2026: India Slams Pakistan Over ‘Baseless’ Karachi Attack Claims, US-Iran Agree To Halt Attacks Ahead Of Doha Talks, Kerala Family Found Dead In River The Indian Express",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY013a3hqNDBwTS02NlBZQ21nSEh1RTh0aXpjZ1RfaHBQbl9aaUlFc2tNUXlBd01kTlBWX2hZNWZzUWR1X205Umh3bTVyQlE2MHVzVUcyQ2p6ejRqMExlTDhsdmZacnNnVzlyMllZMEJmVVpjcm9KOF9DeDdrSUxSNGNOX2I2d3ZpNjhCTUV3ZXRyVld5RlR2T1ZHRG9zdDhjQkxWakFrVDRWd2s1WjhxLUNVYlNZNExPZUhMQlAxcnZTdkZrLTVxQkl3RUdGXzJFRlFvYTkydzdTMnNia3FNaUhn0gHiAUFVX3lxTE9jTXdreGo0MHBNLTY2UFlDbWdISHVFOHRpemNnVF9ocFBuX1ppSUVza01ReUF3TWROUFZfaFk1ZnNRZHVfbTlSaHdtNXJCUTYwdXNVRzJDanp6NGowTGVMOGx2Zlpyc2dXOXIyWVkwQmZVWmNyb0o4X0N4N2tJTFI0Y05fYjZ3dmk2OEJNRXdldHJWV3lGVHZPVkdEb3N0OGNCTFZqQWtUNFZ3azVaOHEtQ1ViU1k0TE9lSExCUDFydlN2RmstNXFCSXdFR0ZfMkVGUW9hOTJ3N1Myc2JrcU1pSGc?oc=5",
-      "publishedAt": 1782704878000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "4a51fd91e947db1c",
-      "feedPosition": 12,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "india",
-          "live",
-          "updates",
-          "june",
-          "slams",
-          "pakistan",
-          "baseless",
-          "karachi",
-          "attack",
-          "claims",
-          "us-iran",
-          "agree"
-        ],
-        "numbers": [
-          "29",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "fact_update",
-            "score": 1.0,
-            "matches": [
-              "\\b(?:updates?|updated|latest)\\b",
-              "\\bdead\\b",
-              "\\blive updates?\\b"
-            ]
-          },
-          {
-            "angle": "regional_followup",
-            "score": 0.67,
-            "matches": [
-              "\\bkerala\\b"
-            ]
-          }
-        ],
-        "textLength": 407,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "fact_update",
-          "score": 1.0,
-          "matches": [
-            "\\b(?:updates?|updated|latest)\\b",
-            "\\bdead\\b",
-            "\\blive updates?\\b"
-          ]
-        },
-        {
-          "angle": "regional_followup",
-          "score": 0.67,
-          "matches": [
-            "\\bkerala\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Top news of the day: DMK to skip INDIA meeting on June 8; Rahul Gandhi warns of ‘institutional revolt’ in Modi government, and more - The Hindu",
-      "summary": "Top news of the day: DMK to skip INDIA meeting on June 8; Rahul Gandhi warns of ‘institutional revolt’ in Modi government, and more The Hindu",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGNkM0k5U2owNzRfM2lUVVZiaWlJMlVQY1luUzAxWVgwSFFQbFJ5RFEwcWJReXY4eFo0NktVRFpuSVl3N1FGV21kUHVIZEhYT2t4M2JjMEF5bHV5Mnp5TkdQY2ROWlZvWmFITmhucXpqcFMxUVdhVllTWEppQ0w3Q2lIMU1HTWdCNXBmTNIBkwFBVV95cUxQNnp5RWdmSWNmZnZEM25LR3lTSHJhRzZLeVFTZkVqTWR3WlBxdTNfVHlGX3A5WXUtQy1za1IzOXZYN2UxWHhua1FLQU5KWWxzMHJDeU5yb3NMMHJpdUhGelQ4STFSa1RBdE9RdmkxejJVSW9lbXZlRlpOZUtUZXNqcHlOZ2YyV2h0OGNsZEJhakFoVUE?oc=5",
-      "publishedAt": 1780556400000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "20656037b1b7e34c",
-      "feedPosition": 13,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "skip",
-          "india",
-          "meeting",
-          "june",
-          "rahul",
-          "gandhi",
-          "warns",
-          "institutional",
-          "revolt",
-          "modi",
-          "government",
-          "hindu"
-        ],
-        "numbers": [
-          "8"
-        ],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.89,
-            "matches": [
-              "\\bgovernment\\b",
-              "\\bwarns?\\b"
-            ]
-          }
-        ],
-        "textLength": 285,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.89,
-          "matches": [
-            "\\bgovernment\\b",
-            "\\bwarns?\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Top news of the day: June 6, 2026 - The Hindu",
-      "summary": "Top news of the day: June 6, 2026 The Hindu",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNV25vM3hROTR4VW5qZnVRRy1leE9PV0dJU0hjeEsxWTZBdHdqeHlHOW1Rd3JNY1FvTjhncktNVTg1bVJnVW12V2ZPVkZIeEpCRVFPcm5OaFUxWWNSUmpoQ3pIYzJQWmwtUnZmdHJRRlFoM0ZxZEZfb3ZqbEJUN2JDN2RiYVdZOU5yOHlsYXppU1FrX2NNaXAtak1sNW5oVzJWRW9FQzBCc044RDJSMmF2dXBpdS1LWlM4d1EwX3RHZFVPN3llbHNjYjhaRlJRNi04UnJkS3NydGt0V3V1eC1kaXpkMXVvNFZRT2lCMWZiejMwOFBnbXF5ellPMl9NeVFQakxpNEpSdEhKSDRMYzRBUTRqMFZBZms0c3BRUm0yWFlTLWk1clBv0gGuAkFVX3lxTE5TOWxYVGNYSlA3ZDZaN3lUUTUyWXh6S0ZzclE3bTAxNndNM3JwVXlRQU0zWFBadktETG5hVE0xU2NTMklZb3BlVjEtQ09yU2JmeG1BTFFtbTZsMW50aEhVX29OMGJyQ2FDSkIxN2ZCdFVFdlBPcHZwTFA3eWNhSUFyOXlHVkdMWUgxWXktS1QyMjN5RDNVamhzTGtLUlcxbHJJSWRFLVM0aEI3eHQyTVZ1V2pETTVENXhScFVRMFB0d2ZmYzRSS2t1dktzYlNwOS1OazRBQW9vdU5DbzQtd3hvdmVtWi1WUU0tRWh1cHk1MnVnSktnT2x4UXhHRllycHNzWERvN2k2U2ZTV01PMFBFclBLS1pETG55eW93TUswZFBOWmlJa3U2eGd0WlJR?oc=5",
-      "publishedAt": 1780729200000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "6a190a01e6364bd3",
-      "feedPosition": 14,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "hindu"
-        ],
-        "numbers": [
-          "6",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 89,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Top news of the day | June 16, 2026 - The Hindu",
-      "summary": "Top news of the day | June 16, 2026 The Hindu",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXBSck0zUWg2YW5KZ3p0YjlBTEdia19HUVNzdTNUclNDSlF4bkZMSV9ybW15YWhMX2lHdHZLQXZuN3FFNTUzc3g3X1JfeDYxTDlJUzN0ZXprZVNOTFFmbVV3QVZPY1h3MlBjZUtRbHdOdVM0RVNrd0Iya2ptQXpqNFcxTkxQR3BwWGfSAZABQVVfeXFMUFNzMnZORmlZZUZZLTdJYlZ5VkwyQVFoSTFjUEQ3Q3RSR1VBaVJHZzdoZkNrMks2R3FZZGJ0dEc1Z0JFcFgzQW9DTzRxcEdqdV8zUFJCQ055U3A0ck5qYV85b2lyQ1hRREtlODVHUTZUUFdJWlkteHMzWWFjaUxvTkZKNUxJOGtJLTl0dF9yVi0z?oc=5",
-      "publishedAt": 1781593200000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "bf952c0b99344c4d",
-      "feedPosition": 15,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "hindu"
-        ],
-        "numbers": [
-          "16",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 93,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Top news of the day June 12, 2026 - The Hindu",
-      "summary": "Top news of the day June 12, 2026 The Hindu",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmxFRkZpVWRYNl9vbnZWNWI5dFUzeDZCSWlITFU2T0FZVjQtOFRkbUltU3o3TUlJbjdoeEtDTFVVekxDd1R6WlN1WDZZcE0yWGRmYlRydXlLdTdOa2daTERCOHlVazhtbTdFN0dORXNKVWJJem1qb1N0LXRvX0RXbGdJTlpUN2hU0gGPAUFVX3lxTE9maDNZNjZkTVREbGxleTI0Uml3dmhYQ0h5Q3BhUFZ2VXM2TGxxcmZVQW9qRUZPREhRVzMtam53SVhIR3JKcmx4R2RpVDNXUWFCM2dIcFJvOVZPcV93NFktNXJkYTVzMk5DRGZLZnN6bWJNTk5acG1mU3Ntc2tyOTJGZXk4b2NOZEVBNlNfeDEw?oc=5",
-      "publishedAt": 1781247600000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "799aa9b7edec72f4",
-      "feedPosition": 17,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "hindu"
-        ],
-        "numbers": [
-          "12",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 89,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "Top news of the day | June 3, 2026 - The Hindu",
-      "summary": "Top news of the day | June 3, 2026 The Hindu",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1dHSDl4c3Q4WEl4dVJMdlE4d0hGYldjNHdwc3hXNEJoNmNwZWVHVi1hb1E5Z21sa3ZJQ1lRRG1aWWdsUHVXdUpHUGc5OGdKb3lSQ0RCRlJXRlVQWUo3bS1HSERoOTItY1lVYl9JdzdFajhSbzhaVktVVE5Dd00tOTQzbDM5TlZk0gGPAUFVX3lxTFBSYkVCeGhZd2RvUGhlb0dMSWdSVGhsSDRVbGQyb0RiMWRfYmM4czAzWHJLMkJlTTVRLW9kRWtMNmo2TzJJbFRnQXFaMG1UYlM3RG51d0RycEpoZVlpZkFReTh6QVRsS3RsUFJtT1k1SzJXdHBwc0RJdV9yUTNha1ZsQ2hfR2plSHV2Q1NWeHlJ?oc=5",
-      "publishedAt": 1780470000000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "1efb28cd448db91a",
-      "feedPosition": 18,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "june",
-          "hindu"
-        ],
-        "numbers": [
-          "3",
-          "2026"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 91,
-        "hasSummary": true,
-        "sourceGroup": "google_news"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
-      "title": "How is AI Transforming Cricket Administration in 2024? - Analytics India Magazine",
-      "summary": "How is AI Transforming Cricket Administration in 2024? Analytics India Magazine",
-      "source": "Google News",
-      "sourceGroup": "google_news",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlJVMGFoUFJHekNCS0U0Z3lHNFJyNjA5SnFzTHhqR2h5QWR1NElfWXZDWk50RlYwdGFBSU9OaWRmZFpwWWR4NE1MQ1Y1bDJFZU5UdURrZmt0UVhLTXRTZER2NS1tVm90VUFuN0FhQk9fV3FMUzJnUkl2cEFSNjJwV1dPdllKdnd4RDhWd1RkYzhpRnJhTEVUbmpXeGY1Q1pPUVZLeUZqSHV2Z3F1T0Exc1lzejBmcmJOY0VXWDR3?oc=5",
-      "publishedAt": 1782630000000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "26dca4ff8a7ad564",
-      "feedPosition": 19,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "now"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "transforming",
-          "cricket",
-          "administration",
-          "analytics",
-          "india",
-          "magazine"
-        ],
-        "numbers": [
-          "2024"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 161,
         "hasSummary": true,
         "sourceGroup": "google_news"
       },
@@ -39368,58 +36968,6 @@
       ]
     },
     {
-      "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
-      "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782691364000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "a0cadfc895615dc3",
-      "feedPosition": 18,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "making",
-          "world",
-          "history",
-          "canadian",
-          "heroes",
-          "forgotten",
-          "hosts",
-          "canada",
-          "that",
-          "likely",
-          "change",
-          "face"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 197,
-        "hasSummary": true,
-        "sourceGroup": "bbc"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
       "title": "Assassin's Creed Black Flag Resynced Console Specs, PS5 Pro Enhancements Confirmed",
       "summary": "Assassin's Creed Black Flag Resynced is a full remake of Assassin's Creed 4: Black Flag",
       "source": "Gadgets 360",
@@ -40830,220 +38378,6 @@
       ]
     },
     {
-      "title": "Indian shares subdued after recent gains on monsoon worries - Reuters",
-      "summary": "Indian shares subdued after recent gains on monsoon worries Reuters",
-      "source": "Reuters India (Google)",
-      "sourceGroup": "reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXRSTW02UWtrLXFsRVFkZ1p6dUlQV3dGTzRiRHI4SWZaTXBSUmFKdl9ZbzV1MTgwajlFUDhXNzRvam5zNEwyT0J4Mk9iekRLV0NmTHNTSURBSU5STVlKSkk2U0RwZ1FvWkFQcVlIaHJuenNGRmFTY201WVVvVU5LajRKSzIwUDQwLWxsRzBKcERpeWNnWHFwYTZXaW9zckViWmRRYUJkaTNOUk5raW1yT1NFdGxNWFk?oc=5",
-      "publishedAt": 1782700980000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "659f7cf2df056255",
-      "feedPosition": 11,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "indian",
-          "shares",
-          "subdued",
-          "recent",
-          "gains",
-          "monsoon",
-          "worries",
-          "reuters"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 0.89,
-            "matches": [
-              "\\bshares?\\b",
-              "\\bgains?\\b"
-            ]
-          }
-        ],
-        "textLength": 137,
-        "hasSummary": true,
-        "sourceGroup": "reuters"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 0.89,
-          "matches": [
-            "\\bshares?\\b",
-            "\\bgains?\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Iran war developments, Fed rate path cues in focus for Indian rupee and bonds - Reuters",
-      "summary": "Iran war developments, Fed rate path cues in focus for Indian rupee and bonds Reuters",
-      "source": "Reuters India (Google)",
-      "sourceGroup": "reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0tnYmloaHpIVTVmYUZHSUljRy1XNHN2VU8wSDVxSk5DRmJFUkNDWjNzOXJ6ejd0a0hGWmoxMWJncnZOQm5taGpMU09TMjBTMEFkUWlTZXVDMXRoUkhoZGRTWVdUTnVzaXhoRHlQUmloSnpPUTVBYU9rbFV0ZE1VTUFnZGZ2RkRTTWRjQ1dqVE9Telg2c285TlBTRFYyVDNFc1pxcUExa0lkZ3ZUTy1MZEp0N2pOTzg4ZFo4?oc=5",
-      "publishedAt": 1782697166000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "04670887527a7494",
-      "feedPosition": 12,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "iran",
-          "developments",
-          "rate",
-          "path",
-          "cues",
-          "focus",
-          "indian",
-          "rupee",
-          "bonds",
-          "reuters"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "market_reaction",
-            "score": 0.67,
-            "matches": [
-              "\\brupee\\b"
-            ]
-          }
-        ],
-        "textLength": 173,
-        "hasSummary": true,
-        "sourceGroup": "reuters"
-      },
-      "angleHints": [
-        {
-          "angle": "market_reaction",
-          "score": 0.67,
-          "matches": [
-            "\\brupee\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "India's HDFC Bank says legal review finds no basis for ex-chair's claims - Reuters",
-      "summary": "India's HDFC Bank says legal review finds no basis for ex-chair's claims Reuters",
-      "source": "Reuters India (Google)",
-      "sourceGroup": "reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUhEcDBpTUREZWphOEtENERkRE1iRmRjbk82bTRLaWNnMVUyTjNJcDItdUktMDdUQWJrb1k4TmJUTko2UXRVUHpwQnZvc0pQSFhVT2M3US01QlM0Mkc2a1JobC0wUkZmYjJ5RzlUaFE4MzVJblhEa3hlbHVJZWh3d1YzZTJUT1lXblBDZTl2R3FFdnVmUlpuNWJCVzJKcHF0Z1pUd2gzNkVJMEw0NlFjZFRidmhWdw?oc=5",
-      "publishedAt": 1782564953000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "1052edf4e22d5ee7",
-      "feedPosition": 13,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "india",
-          "hdfc",
-          "bank",
-          "legal",
-          "review",
-          "finds",
-          "basis",
-          "ex-chair",
-          "claims",
-          "reuters"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "official_response",
-            "score": 0.67,
-            "matches": [
-              "\\bsays\\b"
-            ]
-          }
-        ],
-        "textLength": 163,
-        "hasSummary": true,
-        "sourceGroup": "reuters"
-      },
-      "angleHints": [
-        {
-          "angle": "official_response",
-          "score": 0.67,
-          "matches": [
-            "\\bsays\\b"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Byju's lenders seek 30% stake in Indian education group in settlement, sources say - Reuters",
-      "summary": "Byju's lenders seek 30% stake in Indian education group in settlement, sources say Reuters",
-      "source": "Reuters India (Google)",
-      "sourceGroup": "reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnQwSW9YNGw1RlpSU1V2Ni1CWmNLOG5pOVpCYmZSMTZWbHVHcGkwSEJ2SVFpRi04NmI5QVRDWG12NkNYd2tDWU5IY05aeE9LMFItQ0VVdEhnam1IclVHemNrS1JJeUZrS2JmRGFEa0tTbDJ4Z2Z6dTdjN2NvM0IzMjRIUWpUMXR0bHJOckJWWU1PaEZzMHRnWGxEMHp3ZWZjT0V5dDIzdGtIRktKTkpGQXkzQkZTa0EwOVNDRnFn?oc=5",
-      "publishedAt": 1782499350000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "aafa6909dda8ebce",
-      "feedPosition": 16,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "byju",
-          "lenders",
-          "seek",
-          "stake",
-          "indian",
-          "education",
-          "group",
-          "settlement",
-          "sources",
-          "reuters"
-        ],
-        "numbers": [
-          "30%"
-        ],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 183,
-        "hasSummary": true,
-        "sourceGroup": "reuters"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
-        }
-      ]
-    },
-    {
       "title": "TPG-backed digital lender Fibe files for India IPO - Reuters",
       "summary": "TPG-backed digital lender Fibe files for India IPO Reuters",
       "source": "Reuters India (Google)",
@@ -41091,56 +38425,6 @@
           "matches": [
             "\\bipo\\b"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Adani prosecutors must justify dropping criminal case, US judge rules - Reuters",
-      "summary": "Adani prosecutors must justify dropping criminal case, US judge rules Reuters",
-      "source": "Reuters India (Google)",
-      "sourceGroup": "reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZmMGxKVVBjSG5TNjFfd2draldUaXpXTTl1N21jQWVtNlExTjlPQzFPM05NZC1aOXpfSlJVMWRRRWtSa0cxOTZyRHJhLTBpM3M0SGFSVXhUS0piQl9qZk1fRE1KNFdRV0xKVWxHZlBPRUxBaXhyT2puYkxNM2hDYWJlRFNwRmJEeDBQWUJ0TFktMDBFUnZOTGdMYmVJUjdXN08yOFFGSUU3eW96T3d2ZDBnSQ?oc=5",
-      "publishedAt": 1782497880000,
-      "category": null,
-      "region": null,
-      "language": "en",
-      "id": "d940d8feca6ff71b",
-      "feedPosition": 18,
-      "feedLength": 20,
-      "suppressionReason": null,
-      "fetchedForSlots": [
-        "minus12h"
-      ],
-      "storySignals": {
-        "topicTokens": [
-          "adani",
-          "prosecutors",
-          "must",
-          "justify",
-          "dropping",
-          "criminal",
-          "case",
-          "judge",
-          "rules",
-          "reuters"
-        ],
-        "numbers": [],
-        "angleHints": [
-          {
-            "angle": "base_report",
-            "score": 0.35,
-            "matches": []
-          }
-        ],
-        "textLength": 157,
-        "hasSummary": true,
-        "sourceGroup": "reuters"
-      },
-      "angleHints": [
-        {
-          "angle": "base_report",
-          "score": 0.35,
-          "matches": []
         }
       ]
     },
@@ -42904,30 +40188,30 @@
     }
   ],
   "collectorVersion": "insight-collector-json-v4",
-  "generatedAt": 1782835713697,
+  "generatedAt": 1782839042115,
   "slotQuality": {
     "now": {
-      "storyCount": 60,
+      "storyCount": 49,
       "sourceGroupCount": 3,
       "topAngles": [
         {
           "angle": "official_response",
-          "count": 20
-        },
-        {
-          "angle": "base_report",
-          "count": 16
+          "count": 19
         },
         {
           "angle": "market_reaction",
           "count": 11
         },
         {
-          "angle": "fact_update",
-          "count": 8
+          "angle": "base_report",
+          "count": 10
         },
         {
           "angle": "regional_followup",
+          "count": 4
+        },
+        {
+          "angle": "fact_update",
           "count": 4
         },
         {
@@ -42971,16 +40255,16 @@
       "thin": true
     },
     "minus12h": {
-      "storyCount": 80,
+      "storyCount": 73,
       "sourceGroupCount": 4,
       "topAngles": [
         {
           "angle": "base_report",
-          "count": 29
+          "count": 26
         },
         {
           "angle": "official_response",
-          "count": 24
+          "count": 22
         },
         {
           "angle": "fact_update",
@@ -42991,11 +40275,11 @@
           "count": 5
         },
         {
-          "angle": "market_reaction",
-          "count": 5
+          "angle": "expert_analysis",
+          "count": 3
         },
         {
-          "angle": "expert_analysis",
+          "angle": "market_reaction",
           "count": 3
         },
         {
@@ -43044,79 +40328,79 @@
     "topSources": [
       {
         "sourceGroup": "the_hindu",
-        "count": 222
+        "count": 213
       },
       {
         "sourceGroup": "economic_times",
-        "count": 109
+        "count": 103
       },
       {
         "sourceGroup": "business_line",
-        "count": 94
+        "count": 92
       },
       {
         "sourceGroup": "gadgets360",
-        "count": 67
+        "count": 66
       },
       {
         "sourceGroup": "times_of_india",
-        "count": 59
-      },
-      {
-        "sourceGroup": "google_news",
-        "count": 35
+        "count": 57
       },
       {
         "sourceGroup": "bbc",
-        "count": 31
+        "count": 28
       },
       {
         "sourceGroup": "espn",
         "count": 24
       },
       {
+        "sourceGroup": "google_news",
+        "count": 24
+      },
+      {
         "sourceGroup": "reuters",
-        "count": 22
+        "count": 17
       },
       {
         "sourceGroup": "ndtv",
-        "count": 8
+        "count": 2
       }
     ]
   },
   "angleCoverage": {
-    "storyCount": 671,
-    "nonBaseStoryCount": 469,
-    "nonBaseRatio": 0.699,
+    "storyCount": 626,
+    "nonBaseStoryCount": 442,
+    "nonBaseRatio": 0.7061,
     "angleCount": 10,
     "topAngles": [
       {
         "angle": "base_report",
-        "count": 202
+        "count": 184
       },
       {
         "angle": "official_response",
-        "count": 180
+        "count": 171
       },
       {
         "angle": "fact_update",
-        "count": 108
+        "count": 101
       },
       {
         "angle": "market_reaction",
-        "count": 84
+        "count": 78
       },
       {
         "angle": "regional_followup",
-        "count": 51
+        "count": 48
       },
       {
         "angle": "investigative_detail",
-        "count": 24
+        "count": 23
       },
       {
         "angle": "expert_analysis",
-        "count": 9
+        "count": 8
       },
       {
         "angle": "reaction_public",
@@ -43133,72 +40417,6 @@
     ]
   },
   "eventSketches": [
-    {
-      "id": "sketch:c1c58008d6",
-      "topicKey": "june|hindu",
-      "storyCount": 5,
-      "sourceGroupCount": 1,
-      "slotCount": 1,
-      "angleCount": 1,
-      "storyIds": [
-        "bf952c0b99344c4d",
-        "799aa9b7edec72f4",
-        "fff45325db82b942",
-        "6a190a01e6364bd3",
-        "1efb28cd448db91a"
-      ],
-      "representativeId": "bf952c0b99344c4d",
-      "representativeTitle": "Top news of the day | June 16, 2026 - The Hindu",
-      "topTokens": [
-        "june",
-        "hindu"
-      ],
-      "topAngles": [
-        {
-          "angle": "base_report",
-          "count": 5
-        }
-      ],
-      "sourceGroups": [
-        "google_news"
-      ],
-      "slots": [
-        "now"
-      ]
-    },
-    {
-      "id": "sketch:768c327fc1",
-      "topicKey": "india|live|updates",
-      "storyCount": 3,
-      "sourceGroupCount": 1,
-      "slotCount": 1,
-      "angleCount": 1,
-      "storyIds": [
-        "7012a00d0ec76844",
-        "bd25101176b1696b",
-        "4a51fd91e947db1c"
-      ],
-      "representativeId": "7012a00d0ec76844",
-      "representativeTitle": "India news LIVE updates, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express",
-      "topTokens": [
-        "india",
-        "live",
-        "updates",
-        "june"
-      ],
-      "topAngles": [
-        {
-          "angle": "fact_update",
-          "count": 3
-        }
-      ],
-      "sourceGroups": [
-        "google_news"
-      ],
-      "slots": [
-        "now"
-      ]
-    },
     {
       "id": "sketch:96694b4083",
       "topicKey": "india|leads|major",
@@ -43305,43 +40523,6 @@
       "slots": [
         "minus12h",
         "minus24h"
-      ]
-    },
-    {
-      "id": "sketch:0e67008bc2",
-      "topicKey": "india|hdfc|bank",
-      "storyCount": 2,
-      "sourceGroupCount": 1,
-      "slotCount": 1,
-      "angleCount": 2,
-      "storyIds": [
-        "b864825577a280ff",
-        "1052edf4e22d5ee7"
-      ],
-      "representativeId": "b864825577a280ff",
-      "representativeTitle": "India's HDFC Bank names former finance secretary Rajiv Kumar as part-time chairman - Reuters",
-      "topTokens": [
-        "india",
-        "hdfc",
-        "bank",
-        "names",
-        "legal"
-      ],
-      "topAngles": [
-        {
-          "angle": "base_report",
-          "count": 1
-        },
-        {
-          "angle": "official_response",
-          "count": 1
-        }
-      ],
-      "sourceGroups": [
-        "reuters"
-      ],
-      "slots": [
-        "minus12h"
       ]
     },
     {
@@ -43480,6 +40661,38 @@
       ]
     },
     {
+      "id": "sketch:768c327fc1",
+      "topicKey": "india|live|updates",
+      "storyCount": 2,
+      "sourceGroupCount": 1,
+      "slotCount": 1,
+      "angleCount": 1,
+      "storyIds": [
+        "7012a00d0ec76844",
+        "bd25101176b1696b"
+      ],
+      "representativeId": "7012a00d0ec76844",
+      "representativeTitle": "India news LIVE updates, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express",
+      "topTokens": [
+        "india",
+        "live",
+        "updates",
+        "june"
+      ],
+      "topAngles": [
+        {
+          "angle": "fact_update",
+          "count": 2
+        }
+      ],
+      "sourceGroups": [
+        "google_news"
+      ],
+      "slots": [
+        "now"
+      ]
+    },
+    {
       "id": "sketch:446e097ddb",
       "topicKey": "jazeera|breaking|world",
       "storyCount": 2,
@@ -43542,13 +40755,77 @@
       "slots": [
         "now"
       ]
+    },
+    {
+      "id": "sketch:80b5a65d03",
+      "topicKey": "marathi|schools|mandatory",
+      "storyCount": 2,
+      "sourceGroupCount": 1,
+      "slotCount": 1,
+      "angleCount": 1,
+      "storyIds": [
+        "057f8acf40c4d6e3",
+        "03310987e9b82a1e"
+      ],
+      "representativeId": "057f8acf40c4d6e3",
+      "representativeTitle": "Marathi mandatory in Maharashtra schools; violators may face cancellation of recognition: Minister",
+      "topTokens": [
+        "marathi",
+        "schools",
+        "mandatory",
+        "maharashtra"
+      ],
+      "topAngles": [
+        {
+          "angle": "official_response",
+          "count": 2
+        }
+      ],
+      "sourceGroups": [
+        "business_line"
+      ],
+      "slots": [
+        "minus24h"
+      ]
+    },
+    {
+      "id": "sketch:191555801a",
+      "topicKey": "market|things|that",
+      "storyCount": 2,
+      "sourceGroupCount": 1,
+      "slotCount": 1,
+      "angleCount": 1,
+      "storyIds": [
+        "956c040c391d5c80",
+        "0078486ced246fc3"
+      ],
+      "representativeId": "956c040c391d5c80",
+      "representativeTitle": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "topTokens": [
+        "market",
+        "things",
+        "that",
+        "decide"
+      ],
+      "topAngles": [
+        {
+          "angle": "market_reaction",
+          "count": 2
+        }
+      ],
+      "sourceGroups": [
+        "economic_times"
+      ],
+      "slots": [
+        "now"
+      ]
     }
   ],
   "richnessSummary": {
-    "storyCount": 671,
+    "storyCount": 626,
     "eventSketchCount": 12,
     "multiSourceSketchCount": 3,
-    "multiAngleSketchCount": 3,
+    "multiAngleSketchCount": 2,
     "hasClusterablePool": true
   }
 }

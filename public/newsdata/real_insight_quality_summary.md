@@ -10,9 +10,9 @@
 - Base report share: `0.15`
 - Multi-angle parents: `7`
 - Weak parents: `0`
-- Story count: `671`
+- Story count: `626`
 - Source groups: `10`
-- Content hash: `d8d8726cb64d698a`
+- Content hash: `6365dc9c9a2c18b0`
 
 ## Top parents
 
@@ -25,9 +25,9 @@
 | 5 | Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia | 2 | fact_update, official_response | NO | 0.6504967197849982 |
 | 6 | Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India | 2 | expert_analysis, market_reaction | NO | 0.6272599999999999 |
 | 7 | Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation | 2 | investigative_detail, official_response | NO | 0.5758433333333333 |
-| 8 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6858800531183317 |
-| 9 | Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0 | 2 | fact_update | NO | 0.6155766666666667 |
-| 10 | One dies, 20 injured after massive fire breaks out at Haldia Petrochemicals pipeline in Bengal | 2 | fact_update | NO | 0.6072732802150018 |
+| 8 | HDFC Bank shares in focus as lender appoints ex-finance secretary Rajiv Kumar as part-time chairman | 2 | official_response | NO | 0.6952467197849983 |
+| 9 | ₹1.10 crore donated to TTD for two schemes | 2 | fact_update | NO | 0.6858800531183317 |
+| 10 | Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0 | 2 | fact_update | NO | 0.6155766666666667 |
 
 ## Real Snapshot Ratchet Gate
 
