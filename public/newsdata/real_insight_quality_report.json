@@ -1,18 +1,18 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782798640366,
-  "contentHash": "c1b132baf1ebd52e",
+  "generatedAt": 1782814291319,
+  "contentHash": "632cbabf4d1b394a",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 584,
+  "storyCount": 606,
   "sourceGroupCount": 11,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.7,
   "avgTemporalTiers": 1.9,
-  "avgEvolutionRoles": 1.7,
-  "baseReportShare": 0.25,
+  "avgEvolutionRoles": 1.6,
+  "baseReportShare": 0.15,
   "multiAngleCount": 7,
   "weakParentCount": 0,
   "runtimeQualityGate": {
@@ -23,10 +23,10 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 59,
+      "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 526,
+      "storyCount": 551,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -34,25 +34,25 @@
       "strongAngleCount": 0,
       "avgAngles": 1.7,
       "avgChildren": 2,
-      "avgScore": 0.6497466932258326,
+      "avgScore": 0.6430480212473327,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 3,
       "coverageLabel": "7/10",
       "warnings": [
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage.",
-        "580 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "7 cluster(s) have weak snapshot coverage.",
+        "551 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 59,
+      "signalScore": 58,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 526,
+      "storyCount": 551,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 7,
@@ -60,21 +60,42 @@
       "strongAngleCount": 0,
       "avgAngles": 1.7,
       "avgChildren": 2,
-      "avgScore": 0.6497466932258326,
+      "avgScore": 0.6430480212473327,
       "sourceDiversityCoverage": 10,
-      "snapshotCoverage": 4,
+      "snapshotCoverage": 3,
       "coverageLabel": "7/10",
       "warnings": [
         "3 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage.",
-        "580 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "7 cluster(s) have weak snapshot coverage.",
+        "551 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     }
   },
   "parents": [
     {
-      "parentId": "cluster_231_4d0740f57e7ac641",
+      "parentId": "cluster_109_18860b379b58f09d",
+      "headline": "'Blatant act of aggression': India strongly condemns Pakistan air strikes on Afghan territory",
+      "score": 0.6874967197849983,
+      "postTreeScore": 1.0675,
+      "childCount": 2,
+      "angles": [
+        "fact_update",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "established",
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update",
+        "official_response"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_306_4d0740f57e7ac641",
       "headline": "Chief Election Commissioner",
       "score": 0.6874967197849983,
       "postTreeScore": 1.0675,
@@ -95,7 +116,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_116_d59d9a6f3416fa22",
+      "parentId": "cluster_188_d59d9a6f3416fa22",
       "headline": "Naidu to launch welfare, development projects during five-day tour",
       "score": 0.6814967197849984,
       "postTreeScore": 1.0615,
@@ -116,7 +137,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_96_2bb5e0d8d98e67e5",
+      "parentId": "cluster_167_2bb5e0d8d98e67e5",
       "headline": "TVS Cheema Foundation to provide interest-free loans to Engineering, nursing and diploma students",
       "score": 0.6778967197849983,
       "postTreeScore": 1.0579,
@@ -137,7 +158,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_27_c76ea8ac8b857a66",
+      "parentId": "cluster_96_c76ea8ac8b857a66",
       "headline": "Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India",
       "score": 0.6272599999999999,
       "postTreeScore": 1.0273,
@@ -158,49 +179,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_341_1a521dcb4549981a",
-      "headline": "Pakistan says carried out strikes along Afghanistan border, 29 militants killed",
-      "score": 0.6385800531183317,
-      "postTreeScore": 1.0186,
-      "childCount": 2,
-      "angles": [
-        "fact_update",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "first_report",
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_41_18860b379b58f09d",
-      "headline": "'Blatant act of aggression': India strongly condemns Pakistan air strikes on Afghan territory",
-      "score": 0.5875232802150018,
-      "postTreeScore": 0.9875,
-      "childCount": 2,
-      "angles": [
-        "fact_update",
-        "official_response"
-      ],
-      "temporalTiers": [
-        "established",
-        "breaking"
-      ],
-      "evolutionRoles": [
-        "fact_update",
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_3_254ec413e9fe8b06",
+      "parentId": "cluster_72_254ec413e9fe8b06",
       "headline": "Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia",
       "score": 0.5745100000000001,
       "postTreeScore": 0.9745,
@@ -219,7 +198,46 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_159_e9acf58194f1f4e0",
+      "parentId": "cluster_66_4720d7a5b31ef538",
+      "headline": "Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation",
+      "score": 0.5078566135483351,
+      "postTreeScore": 0.8879,
+      "childCount": 2,
+      "angles": [
+        "investigative_detail",
+        "official_response"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "reaction"
+      ],
+      "evolutionRoles": [
+        "investigation"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_327_64582eb564c797f9",
+      "headline": "Rupee slips as tepid stocks dull boost from firmer Asian peers",
+      "score": 0.699313386451665,
+      "postTreeScore": 0.7693,
+      "childCount": 2,
+      "angles": [
+        "market_reaction"
+      ],
+      "temporalTiers": [
+        "breaking",
+        "established"
+      ],
+      "evolutionRoles": [
+        "market_reaction"
+      ],
+      "baseReportShare": 0,
+      "weakTree": false
+    },
+    {
+      "parentId": "cluster_232_e9acf58194f1f4e0",
       "headline": "₹1.10 crore donated to TTD for two schemes",
       "score": 0.6858800531183317,
       "postTreeScore": 0.7559,
@@ -238,40 +256,21 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_400_8c32eda3ef46844e",
-      "headline": "Indian humanitarian assistance reaches quake-hit Venezuela: Jaishankar",
-      "score": 0.6814967197849984,
-      "postTreeScore": 0.7515,
+      "parentId": "cluster_61_b92f39301e96e83a",
+      "headline": "Massive fire at Haldia Petrochemicals pipeline injures 10, disrupts rail service",
+      "score": 0.6012732802150018,
+      "postTreeScore": 0.6913,
       "childCount": 2,
       "angles": [
-        "base_report"
+        "fact_update"
       ],
       "temporalTiers": [
         "breaking",
-        "established"
+        "developing"
       ],
       "evolutionRoles": [
         "first_report",
         "corroboration"
-      ],
-      "baseReportShare": 1,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_252_64582eb564c797f9",
-      "headline": "Rupee slips as tepid stocks dull boost from firmer Asian peers",
-      "score": 0.6553266666666667,
-      "postTreeScore": 0.7453,
-      "childCount": 2,
-      "angles": [
-        "market_reaction"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "established"
-      ],
-      "evolutionRoles": [
-        "market_reaction"
       ],
       "baseReportShare": 0,
       "weakTree": false
@@ -312,13 +311,13 @@
       {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
-        "actual": 1.7,
+        "actual": 1.6,
         "required": ">= 1.6"
       },
       {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.25,
+        "actual": 0.15,
         "required": "<= 0.55"
       },
       {
@@ -351,14 +350,14 @@
       "parentCount": 10,
       "avgAngles": 1.7,
       "avgTemporalTiers": 1.9,
-      "avgEvolutionRoles": 1.7,
-      "baseReportShare": 0.25,
+      "avgEvolutionRoles": 1.6,
+      "baseReportShare": 0.15,
       "multiAngleCount": 7,
       "weakParentCount": 0,
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 584,
+      "storyCount": 606,
       "sourceGroupCount": 11
     }
   }
