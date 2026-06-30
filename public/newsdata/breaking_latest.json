@@ -1,55 +1,170 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782798912305,
-  "contentHash": "644103f5dc89",
+  "fetchedAt": 1782811390676,
+  "contentHash": "b46b75939400",
   "breaking": [
     {
-      "title": "Three people injured after explosion in Monaco",
-      "summary": "The blast at a residential building was \"very likely an attack\", Monaco's head of government tells AFP.",
+      "title": "British Prime Minister Keir Starmer resigns, fire in Lucknow building, Venezuela hit by two earthquakes, and more: The week in 5 charts",
+      "summary": "Last week, a fire in a commercial building in Lucknow killed at least 14 people, the British Prime Minister Keir Starmer resigned, and deadly earthquakes rocked Venezuela killing at least 1,400 people. Here are the previous week’s developments in charts and graphics.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/data/british-prime-minister-keir-starmer-resigns-fire-in-lucknow-building-venezuela-hit-by-two-earthquakes-and-more-the-week-in-5-charts/article71141125.ece",
+      "publishedAt": 1782810680000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "2e80dd44e49fb6bb",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 6.984,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782810680000
+    },
+    {
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
+      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782796346000,
+      "publishedAt": 1782810523000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "3d865e987ddb31b0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.941,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782796346000
-    },
-    {
-      "title": "Over 20 injured in fire at naphtha pipeline in West Bengal’s Haldia",
-      "summary": "The injured were rescued and taken to Haldia Sub-Divisional Hospital. Five of them were later shifted to Tamluk Medical College and Hospital, where two were reported to be in critical condition, a police officer said",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/naphtha-pipeline-fire-haldia-west-bengal-updates-june-30-2026/article71164512.ece",
-      "publishedAt": 1782798397000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "254ec413e9fe8b06",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 4.488,
+      "breakingScore": 4.48,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
-        "ndtv",
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1782806050000
+    },
+    {
+      "title": "Explosion in Monaco injuries 3 including Ukrainian tycoon, and suspected attacker flees to France",
+      "summary": "The explosion occurred around 9 p.m. at the entryway of a residence near the French border, injuring two adults and a child who were taken to hospitals in France, Monaco’s Minister of State said",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/explosion-in-monaco-ukrainian-tycoon-injured-suspected-attacker-flees-to-france/article71164734.ece",
+      "publishedAt": 1782810119000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "bd82a43c12a462e9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.971,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782793058000
+      "firstSeen": 1782810119000
+    },
+    {
+      "title": "20 injured in firecracker explosion during temple festival in Killai",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/20-injured-in-firecracker-explosion-during-temple-festival-in-killai/article71164909.ece",
+      "publishedAt": 1782810048000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "b5998a10a1c9d128",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.969,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782810048000
+    },
+    {
+      "title": "Hours After US Deportation, Over 100 Venezuelans Trapped In Deadly Earthquake",
+      "summary": "A deportation flight from Miami arrived in Venezuela hours before Wednesday's earthquakes.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquake-hours-after-us-deportation-over-100-venezuelans-trapped-in-deadly-earthquake-11706170#publisher=newsstand",
+      "publishedAt": 1782806119000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "80cd8f7cb14da5dd",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.878,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782806119000
+    },
+    {
+      "title": "NASA Satellite Images Show 58,000 Buildings Damaged In Venezuela Earthquakes",
+      "summary": "Some 1,700 people were killed and thousands remain missing",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/venezuela-earthquakes-news-nasa-satellite-images-show-58-000-buildings-damaged-in-venezuela-earthquakes-11706313#publisher=newsstand",
+      "publishedAt": 1782806000000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "894cf4c139ffd17b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.875,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782806000000
+    },
+    {
+      "title": "Villages Cut Off, Bridges Washed Away In Monsoon Fury In Arunachal, Assam",
+      "summary": "Heavy rains trigger flash floods and landslides across Arunachal Pradesh and Assam.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/villages-cut-off-bridges-washed-away-in-monsoon-fury-in-arunachal-assam-11706224#publisher=newsstand",
+      "publishedAt": 1782804140000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "454582b9ee7d758d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.832,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782804140000
     },
     {
       "title": "West Asia war LIVE: U.S. and Iran pause strikes but disagree over next steps on talks",
@@ -57,14 +172,14 @@
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-30-june-2026-trump-israel-west-asia-war/article71164180.ece",
-      "publishedAt": 1782786238000,
+      "publishedAt": 1782802560000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "ca48cfe4bf12346c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.707,
+      "breakingScore": 3.796,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -72,123 +187,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782782304000
-    },
-    {
-      "title": "\"Blatant Act Of Aggression\": India Slams Pak For Strikes In Afghanistan",
-      "summary": "Pakistan's information minister said air and ground operations killed 29 militants",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/blatant-act-of-aggression-india-slams-pakistan-for-strikes-in-afghanistan-11705181#publisher=newsstand",
-      "publishedAt": 1782785044000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "c66a02220993e82c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.679,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782785044000
-    },
-    {
-      "title": "'Will cut off those hands': Pakistan minister's stark warning to India over Indus Waters Treaty",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132082614.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/will-cut-off-those-hands-pakistan-ministers-stark-warning-to-india-over-indus-waters-treaty/articleshow/132082614.cms",
-      "publishedAt": 1782790911000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "e60c1275a087e0af",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.815,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "times_of_india"
-      ],
-      "firstSeen": 1782790858000
-    },
-    {
-      "title": "Myanmar jade mine landslide kills five, 15 missing",
-      "summary": "Hpakant has also witnessed vicious combat in recent months between the Myanmar military and opposition forces, vying for control of jade mining operations",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/myanmar-jade-mine-landslide-updates-june-30-2026/article71164485.ece",
-      "publishedAt": 1782796847000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9d4ae13800d4416c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.452,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782796847000
-    },
-    {
-      "title": "Supreme Court Lawyer Rescues Family Of 4 After Ganga Expressway Car Crash: 'People Were Trapped Inside'",
-      "summary": "Supreme Court lawyer helps victims trapped in a crash and transports them to ambulance.",
-      "source": "NDTV India",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/supreme-court-lawyer-rescues-family-of-4-after-ganga-expressway-car-crash-people-were-trapped-inside-11705571#publisher=newsstand",
-      "publishedAt": 1782793587000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "839c774468f8759b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.377,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782793587000
-    },
-    {
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782793318000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "039c698909e988fb",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.371,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782793318000
+      "firstSeen": 1782802560000
     }
   ]
 }
