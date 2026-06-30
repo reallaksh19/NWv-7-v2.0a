@@ -1,71 +1,24 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782837296138,
-  "contentHash": "60a6ac1c33fb",
+  "fetchedAt": 1782843816604,
+  "contentHash": "3ed036309853",
   "breaking": [
     {
-      "title": "West Asia war LIVE: Qatar says no direct U.S.-Iran talks to take place as U.S. envoys Witkoff, Kushner meet mediators in Doha",
+      "title": "West Asia war LIVE: In phone conversation with Iran Prez, PM Modi reiterates importance of freedom of navigation in Hormuz",
       "summary": "U.S., Iran pause strikes but disagree over next steps on talks; Pakistan, also a key mediator, had said talks between Iran and the U.S. would resume on June 30",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-30-june-2026-trump-israel-west-asia-war/article71164180.ece",
-      "publishedAt": 1782835995000,
-      "category": "topStories",
+      "publishedAt": 1782838681000,
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "ca48cfe4bf12346c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.97,
+      "breakingScore": 5.881,
       "breakingReasons": [
         "multi_source_velocity",
-        "severity_lexicon"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "bbc",
-        "the_hindu"
-      ],
-      "firstSeen": 1782834050000
-    },
-    {
-      "title": "Attackers shoot dead two Guards members in Iran: state media",
-      "summary": "It was not immediately clear who was behind the shooting but Tehran has frequently blamed Kurdish separatist groups in the area for previous violence",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/attackers-shoot-dead-two-guards-members-in-iran-state-media/article71165279.ece",
-      "publishedAt": 1782818650000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "598f46381ccb7774",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.068,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782818650000
-    },
-    {
-      "title": "Elderly couple found dead near Varkala",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/elderly-couple-found-dead-near-varkala/article71166244.ece",
-      "publishedAt": 1782835970000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9b0545c2970f7f56",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.969,
-      "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 2,
@@ -73,22 +26,22 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782828441000
+      "firstSeen": 1782837327000
     },
     {
-      "title": "Explosion in Monaco injuries 3 including Ukrainian tycoon, and suspected attacker flees to France",
-      "summary": "The explosion occurred around 9 p.m. at the entryway of a residence near the French border, injuring two adults and a child who were taken to hospitals in France, Monaco’s Minister of State said",
-      "source": "The Hindu International",
+      "title": "One dead, 17 injured as naphtha pipeline catches fire in Bengal",
+      "summary": "Locals say that during the early hours of the morning there was an explosion with a loud sound in the Haldia Petrochemicals pipeline.",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/explosion-in-monaco-ukrainian-tycoon-injured-suspected-attacker-flees-to-france/article71164734.ece",
-      "publishedAt": 1782816569000,
-      "category": "world",
+      "url": "https://www.thehindu.com/news/national/west-bengal/naphtha-pipeline-fire-haldia-west-bengal-updates-june-30-2026/article71164512.ece",
+      "publishedAt": 1782843399000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "bd82a43c12a462e9",
+      "id": "254ec413e9fe8b06",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.52,
+      "breakingScore": 5.49,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -96,100 +49,149 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782816569000
+      "firstSeen": 1782843399000
     },
     {
-      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
-      "summary": "It rules that states can ban transgender athletes from competing in women's and girls' sports.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782836083000,
+      "title": "WHO sounds alarm on disease outbreaks in quake-hit Venezuela",
+      "summary": "By the latest official count, some 1,700 are dead and 5,000 are injured, with no governmental word on the number of missing. Other estimates place these in the tens of thousands",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/who-sounds-alarm-on-disease-outbreaks-in-quake-hit-venezuela/article71167071.ece",
+      "publishedAt": 1782837658000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "9a24242e9affbf4f",
+      "id": "d63a4e6a0f54b3b9",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.972,
+      "breakingScore": 5.357,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782837658000
+    },
+    {
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782840069000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "113bf6e52ff3c94c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.413,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "ndtv"
+      ],
+      "firstSeen": 1782836608000
+    },
+    {
+      "title": "SP’s Chief Whip in U.P. Assembly resigns, says followed direction of party leadership",
+      "summary": "The resignation is seen as an attempt by the SP to make changes in the structure of the party",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/sps-chief-whip-in-up-assembly-resigns-says-followed-direction-of-party-leadership/article71166530.ece",
+      "publishedAt": 1782842794000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "f308d662be381211",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.976,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782842794000
+    },
+    {
+      "title": "Monsoon tracker updates: Monthly average rainfall over India expected to be below normal in July, says IMD",
+      "summary": "The flood situation worsened in Arunachal Pradesh, as one more person died, taking the toll to four, while 21 others were injured in the State, where 90,499 people were affected in almost all 28 districts, the authorities said on Tuesday.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/monsoon-tracker-live-updates-mumbai-rains-june-30-2026/article71164507.ece",
+      "publishedAt": 1782842142000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "94275ddd1814252a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.961,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "economic_times",
+        "the_hindu"
+      ],
+      "firstSeen": 1782815566000
+    },
+    {
+      "title": "Russia says shot down over 400 Ukrainian drones, baby killed outside Moscow",
+      "summary": "Kyiv has stepped up its long-range drone strike campaign against Russia in recent months, as Moscow's full-scale offensive against Ukraine drags on for almost 4.5 years",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/russia-says-shot-down-over-400-ukrainian-drones-baby-killed-outside-moscow/article71167097.ece",
+      "publishedAt": 1782838600000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "1641c2acf9040083",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.879,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782838600000
+    },
+    {
+      "title": "'No direct US-Iran talks': Top US envoys reach Doha for Qatar-mediated negotiations",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132096958.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />In Doha, US envoys Steve Witkoff and Jared Kushner engaged with Qatari mediators to discuss Iran negotiations. They learned from both Qatar and Iran that no direct meetings would take place between US and Iranian officials, contradicting President Trump's earlier assertions. Instead, the conversations, organized by Qatar, will prioritize implementing a memorandum of understanding, which includes addressing the release of Iran's frozen assets.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/no-direct-us-iran-talks-top-us-envoys-reach-doha-for-qatar-mediated-negotiations/articleshow/132096958.cms",
+      "publishedAt": 1782836193000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "4a66a10b862bb824",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.824,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
         "bbc",
-        "the_hindu"
+        "times_of_india"
       ],
-      "firstSeen": 1782833952000
-    },
-    {
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782837115000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "04511757276ca9d5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.496,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782837115000
-    },
-    {
-      "title": "Kenyan woman arrested at Chennai airport for smuggling ₹15 crore cocaine by swallowing capsules",
-      "summary": "",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/kenyan-woman-arrested-at-chennai-airport-for-smuggling-15-crore-cocaine-by-swallowing-capsules/article71166220.ece",
-      "publishedAt": 1782835894000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "f314ac49f348d778",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.468,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782835894000
-    },
-    {
-      "title": "Brother of TV star Caroline Flack dies",
-      "summary": "Paul Flack, 55, was pronounced dead at the Norfolk and Norwich Hospital on 21 June, an inquest hears.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gz85erywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782834699000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "a7352ad8d4428a8d",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.44,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782834699000
+      "firstSeen": 1782834050000
     }
   ]
 }
