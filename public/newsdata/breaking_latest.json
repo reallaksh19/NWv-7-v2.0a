@@ -1,47 +1,48 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782932266708,
-  "contentHash": "89b56e6f9842",
+  "fetchedAt": 1782938865413,
+  "contentHash": "bf2ebe927f80",
   "breaking": [
     {
-      "title": "Teachers in England to get 3.5% pay rise from September; unions warn of strike action",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132118186.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/uk/teachers-in-england-to-receive-3-5-pay-hike-from-september-unions-threaten-strike-over-funding-concerns/articleshow/132118186.cms",
-      "publishedAt": 1782919466000,
-      "category": "india",
+      "title": "U.S. service member missing after Seahawk helicopter goes down in Arabian Sea",
+      "summary": "No ‌indication ⁠the crash was caused ⁠by hostile action, U.S. military said",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-seahawk-helicopter-goes-down-in-arabian-sea-navy-missing/article71171709.ece",
+      "publishedAt": 1782934071000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "cb603f2506bfd941",
+      "id": "d7a57c0c7fd5bee8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.204,
+      "breakingScore": 5.389,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "allSources": [
-        "bbc",
+        "ndtv",
+        "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1782917678000
+      "firstSeen": 1782931926000
     },
     {
-      "title": "BMC forms panel to probe tree crash that killed student, suspends assistant garden superintendent",
-      "summary": "",
+      "title": "Jantar Mantar turns hunger strike junction",
+      "summary": "The triangle of strikers have a common demand, the resignation of the Union Education Minister; activist Sonam Wangchuk is on the CJP stage; six CPI(ML) students and nine unaffiliated protesters sit on either side",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/mumbai/chembur-tree-fall-incident-bmc-forms-committee-orders-report-in-eight-days/article71170555.ece",
-      "publishedAt": 1782931451000,
+      "url": "https://www.thehindu.com/news/national/hunger-strike-junctionat-jantar-mantar/article71170120.ece",
+      "publishedAt": 1782938082000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "5118573d21f46ca9",
+      "id": "f66f8c3b2d5f8daa",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.981,
+      "breakingScore": 3.982,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -49,7 +50,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782931451000
+      "firstSeen": 1782938082000
     },
     {
       "title": "Amnesty says RSF committed ethnic cleansing in Sudan",
@@ -64,7 +65,7 @@
       "id": "d2bf4675ebfaf439",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.874,
+      "breakingScore": 3.721,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -87,7 +88,7 @@
       "id": "99730a157ec45428",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.853,
+      "breakingScore": 3.7,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -110,7 +111,7 @@
       "id": "a61d184113499818",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.696,
+      "breakingScore": 3.544,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -121,21 +122,69 @@
       "firstSeen": 1782919153000
     },
     {
-      "title": "Two people hang banner about 'the power of love' on Empire State Building antenna",
+      "title": "West Asia war LIVE: U.S. had 'very good' meetings with Iran in Doha, Trump says",
+      "summary": "Iranian delegation chief said participants had agreed “a communication channel would be established by tomorrow”",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-1-2026-trump-israel-west-asia-war/article71168436.ece",
+      "publishedAt": 1782937877000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "11d8887a8a38742a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.477,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 3,
+      "allSources": [
+        "ndtv",
+        "the_hindu",
+        "times_of_india"
+      ],
+      "firstSeen": 1782917350000
+    },
+    {
+      "title": "Six tourists killed, three others missing after boat capsizes in Pakistan's Swat Valley",
+      "summary": "The incident took place at Saifullah Lake in the Kalam Valley of Upper Swat district, a popular tourist destination",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/six-tourists-killed-three-others-missing-after-boat-capsizes-in-pakistans-swat-valley/article71171763.ece",
+      "publishedAt": 1782936936000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d326135b6099ce5d",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.455,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782936936000
+    },
+    {
+      "title": "Two arrested for hanging banner about 'power of love' on Empire State Building antenna",
       "summary": "It wasn't clear how the pair gained access to the antenna, which rises well above public areas of the 102-storey building",
       "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/two-people-hang-banner-about-the-power-of-love-on-empire-state-building-antenna/article71171559.ece",
-      "publishedAt": 1782929306000,
+      "publishedAt": 1782935829000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "598cd1eb9495daf4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.931,
+      "breakingScore": 2.43,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
       "sourceCount": 2,
       "allSources": [
@@ -143,52 +192,6 @@
         "the_hindu"
       ],
       "firstSeen": 1782925736000
-    },
-    {
-      "title": "Greek politician's mother dies of wounds after arson attack",
-      "summary": "Three separate attacks involving petrol bombs and other improvised devices took place in Thessaloniki in the early hours of Wednesday.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782931942000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "2f4c92926c7a2175",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.492,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782931942000
-    },
-    {
-      "title": "Businessman Mubeen Shah’s property attached in Srinagar under UAPA",
-      "summary": "Shah was among the traders from Kashmir arrested on August 4, 2019, a day before the Centre revoked J&amp;K’s special status, and was later released by the court",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/businessman-mubeen-shahs-property-attached-in-srinagar-under-uapa/article71170140.ece",
-      "publishedAt": 1782931532000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "e8e5ff57df8e125a",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.483,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782931532000
     }
   ]
 }
