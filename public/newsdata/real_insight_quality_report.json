@@ -1,11 +1,11 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782934869715,
-  "contentHash": "e3839f2097ab53bf",
+  "generatedAt": 1782940831455,
+  "contentHash": "1badc6223a9d9e98",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 630,
+  "storyCount": 652,
   "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
@@ -26,7 +26,7 @@
       "signalScore": 50,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 583,
+      "storyCount": 600,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 3,
@@ -42,7 +42,7 @@
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
         "6 cluster(s) have weak snapshot coverage.",
-        "470 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "520 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
@@ -52,7 +52,7 @@
       "signalScore": 50,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 583,
+      "storyCount": 600,
       "risingCount": 0,
       "thinCount": 0,
       "multiAngleCount": 3,
@@ -81,7 +81,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_211_c47e4574c51b61b5",
+      "parentId": "cluster_243_c47e4574c51b61b5",
       "headline": "Price of commercial LPG, 5-kg FTL and domestic ATF reduced as conflict pressures ease",
       "score": 0.6874967197849983,
       "postTreeScore": 1.0675,
@@ -102,7 +102,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_55_5702ba20082b464e",
+      "parentId": "cluster_87_5702ba20082b464e",
       "headline": "Three held for bid to bribe TVK MLA to vote against Speaker in no-confidence motion",
       "score": 0.60551,
       "postTreeScore": 1.0055,
@@ -123,7 +123,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_218_f46504574f5f4eb1",
+      "parentId": "cluster_250_f46504574f5f4eb1",
       "headline": "ATF price cut by ₹5/litre to ₹110 on softer global oil prices",
       "score": 0.59551,
       "postTreeScore": 0.9955,
@@ -143,7 +143,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_203_db0dab3925a2db09",
+      "parentId": "cluster_235_db0dab3925a2db09",
       "headline": "TVS extends lead as India’s electric two-wheeler registrations surge 74% in June",
       "score": 0.7255600000000002,
       "postTreeScore": 0.8156,
@@ -162,7 +162,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_65_1265cc2844ff9c3e",
+      "parentId": "cluster_97_1265cc2844ff9c3e",
       "headline": "Starmer's defence investment plan leaves £5 billion funding gap for Burnham",
       "score": 0.680563386451665,
       "postTreeScore": 0.7706,
@@ -181,7 +181,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_363_04ce377470b99fe5",
+      "parentId": "cluster_395_04ce377470b99fe5",
       "headline": "Godrej Properties acquires 47-acre land parcel in South Chennai, eyes ₹500 crore revenue",
       "score": 0.6875300531183317,
       "postTreeScore": 0.7575,
@@ -200,7 +200,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_364_6f5f96754d709e7f",
+      "parentId": "cluster_396_6f5f96754d709e7f",
       "headline": "ICEYE chooses India for sovereign SAR mission; picks Agnikul Cosmos as launch partner",
       "score": 0.6823967197849983,
       "postTreeScore": 0.7524,
@@ -220,7 +220,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_454_fc642c0efe92b6ee",
+      "parentId": "cluster_486_fc642c0efe92b6ee",
       "headline": "Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0",
       "score": 0.6795633864516649,
       "postTreeScore": 0.7496,
@@ -239,7 +239,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_320_57e6f3d23a8d2222",
+      "parentId": "cluster_352_57e6f3d23a8d2222",
       "headline": "U.S. Supreme Court upholds State laws banning transgender girls, women from school athletic teams",
       "score": 0.6522467197849984,
       "postTreeScore": 0.7222,
@@ -258,7 +258,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_206_9a8cc9d6e0be5bf0",
+      "parentId": "cluster_238_9a8cc9d6e0be5bf0",
       "headline": "'Don't want to look like America': 5 reasons why Europe is against ACs despite melting summers",
       "score": 0.6098300531183317,
       "postTreeScore": 0.6798,
@@ -363,7 +363,7 @@
       "weakParentRatio": 0,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 630,
+      "storyCount": 652,
       "sourceGroupCount": 10
     }
   }
