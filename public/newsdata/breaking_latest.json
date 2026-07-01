@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782924962161,
-  "contentHash": "0fbd0f6046a7",
+  "fetchedAt": 1782932266708,
+  "contentHash": "89b56e6f9842",
   "breaking": [
     {
       "title": "Teachers in England to get 3.5% pay rise from September; unions warn of strike action",
@@ -16,7 +16,7 @@
       "id": "cb603f2506bfd941",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.373,
+      "breakingScore": 4.204,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -27,6 +27,75 @@
         "times_of_india"
       ],
       "firstSeen": 1782917678000
+    },
+    {
+      "title": "BMC forms panel to probe tree crash that killed student, suspends assistant garden superintendent",
+      "summary": "",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/chembur-tree-fall-incident-bmc-forms-committee-orders-report-in-eight-days/article71170555.ece",
+      "publishedAt": 1782931451000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "5118573d21f46ca9",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.981,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782931451000
+    },
+    {
+      "title": "Amnesty says RSF committed ethnic cleansing in Sudan",
+      "summary": "Sudan has been mired since April 2023 in a brutal war between the army and the RSF, which has killed tens of thousands and forced millions to flee, according to the United Nations",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/amnesty-says-rsf-committed-ethnic-cleansing-in-sudan/article71171486.ece",
+      "publishedAt": 1782926833000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "d2bf4675ebfaf439",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.874,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782926833000
+    },
+    {
+      "title": "Myanmar mourns as post-coup conflict death toll hits 1,00,000",
+      "summary": "Anti-putsch protests were put down by security forces, but activists quit cities to form pro-democracy guerrilla groups, fighting alongside ethnic minority armies that have long resisted central rule.",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/myanmar-mourns-as-post-coup-conflict-death-toll-hits-100000/article71171450.ece",
+      "publishedAt": 1782925922000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "99730a157ec45428",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.853,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782925922000
     },
     {
       "title": "Shutterstock shares crash 29% after Getty Images calls off $3.7 billion merger",
@@ -41,7 +110,7 @@
       "id": "a61d184113499818",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.866,
+      "breakingScore": 3.696,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -52,90 +121,66 @@
       "firstSeen": 1782919153000
     },
     {
-      "title": "Indian-origin truck driver killed in fuel tanker crash in Australia; wife says he was 25 years old",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132079044.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A heartbreaking incident unfolded on Victoria's Princes Freeway, taking the life of 25-year-old Ashwani Sharma, an Indian-origin truck driver. His fuel tanker overturned close to Warragul, leading to major road closures and a hazardous spill. In the wake of this tragedy, Sharma's wife has voiced her sorrow and is seeking community support to cope with the significant emotional and financial burdens following his unexpected demise.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-truck-driver-ashwani-sharma-killed-in-fuel-tanker-crash-in-australia-wife-says-he-was-just-25-years-old/articleshow/132079044.cms",
-      "publishedAt": 1782907532000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "170fb3a27f00761c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.597,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "times_of_india"
-      ],
-      "firstSeen": 1782907532000
-    },
-    {
-      "title": "Ram Temple embezzlement case: 15 days extension for SIT probe",
-      "summary": "The U.P. government granted an extension to broaden the scope of the investigation and ensure that no culpable individual escapes justice, says senior official; next hearing in the case posted for July 13",
-      "source": "The Hindu National",
+      "title": "Two people hang banner about 'the power of love' on Empire State Building antenna",
+      "summary": "It wasn't clear how the pair gained access to the antenna, which rises well above public areas of the 102-storey building",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-sit-probing-ram-temple-donation-matter-granted-15-day-extension/article71169388.ece",
-      "publishedAt": 1782923632000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "b40ab29459f23819",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.969,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782923225000
-    },
-    {
-      "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
-      "summary": "Conservative leader Kemi Badenoch criticised what she called a missing £5bn in the defence investment plan.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782917758000,
+      "url": "https://www.thehindu.com/news/international/two-people-hang-banner-about-the-power-of-love-on-empire-state-building-antenna/article71171559.ece",
+      "publishedAt": 1782929306000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "5d468e5a54d5c3b4",
+      "id": "598cd1eb9495daf4",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.833,
+      "breakingScore": 2.931,
       "breakingReasons": [
         "multi_source_velocity"
       ],
       "sourceCount": 2,
       "allSources": [
         "bbc",
-        "times_of_india"
+        "the_hindu"
       ],
-      "firstSeen": 1782916319000
+      "firstSeen": 1782925736000
     },
     {
-      "title": "Shipping companies, unions still consider Hormuz a warzone",
-      "summary": "The Strait of Hormuz was first designated a warlike operations area on March 5, after ships trying to cross the vital energy passageway were attacked",
+      "title": "Greek politician's mother dies of wounds after arson attack",
+      "summary": "Three separate attacks involving petrol bombs and other improvised devices took place in Thessaloniki in the early hours of Wednesday.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782931942000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "2f4c92926c7a2175",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.492,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1782931942000
+    },
+    {
+      "title": "Businessman Mubeen Shah’s property attached in Srinagar under UAPA",
+      "summary": "Shah was among the traders from Kashmir arrested on August 4, 2019, a day before the Centre revoked J&amp;K’s special status, and was later released by the court",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/shipping-companies-unions-still-consider-hormuz-a-warzone/article71171371.ece",
-      "publishedAt": 1782924159000,
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/businessman-mubeen-shahs-property-attached-in-srinagar-under-uapa/article71170140.ece",
+      "publishedAt": 1782931532000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "02a5c4a80132575e",
+      "id": "e8e5ff57df8e125a",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.481,
+      "breakingScore": 2.483,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -143,53 +188,7 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782924159000
-    },
-    {
-      "title": "Death toll in ammonia gas leak rises to 17",
-      "summary": "",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/death-toll-in-ammonia-gas-leak-rises-to-17/article71171037.ece",
-      "publishedAt": 1782924024000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "d332d416a41004c4",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.478,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782924024000
-    },
-    {
-      "title": "Mob throws eggs and stones at Mahua Moitra; Bengal BJP president calls for restraint",
-      "summary": "BJP president blames it on Trinamool factions; Mahua calls it ‘coordinated BJP attack’",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-directs-bengal-to-frame-guidelines-for-transporting-accused-persons/article71169243.ece",
-      "publishedAt": 1782923501000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "1048abfd3dc182a8",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.466,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782923501000
+      "firstSeen": 1782931532000
     }
   ]
 }
