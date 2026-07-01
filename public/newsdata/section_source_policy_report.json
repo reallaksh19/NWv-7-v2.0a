@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1782886119866,
+  "generatedAt": 1782901895239,
   "policyVersion": "section-source-policy-v1",
   "reportVersion": "section-source-policy-report-v1",
   "schemaVersion": 1,
@@ -31,17 +31,17 @@
     },
     "entertainment": {
       "sourceGroupCount": 1,
-      "storyCount": 17,
+      "storyCount": 19,
       "thin": true,
       "topCategories": [
         {
           "category": "entertainment",
-          "count": 17
+          "count": 19
         }
       ],
       "topSources": [
         {
-          "count": 17,
+          "count": 19,
           "sourceGroup": "google_news"
         }
       ]
@@ -104,11 +104,11 @@
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 12,
           "sourceGroup": "bbc"
         },
         {
-          "count": 8,
+          "count": 10,
           "sourceGroup": "the_hindu"
         },
         {
@@ -129,16 +129,16 @@
       ],
       "topSources": [
         {
-          "count": 11,
-          "sourceGroup": "google_news"
-        },
-        {
-          "count": 10,
-          "sourceGroup": "the_hindu"
+          "count": 14,
+          "sourceGroup": "gadgets360"
         },
         {
           "count": 9,
-          "sourceGroup": "gadgets360"
+          "sourceGroup": "the_hindu"
+        },
+        {
+          "count": 7,
+          "sourceGroup": "google_news"
         }
       ]
     },
@@ -154,11 +154,11 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 16,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 11,
+          "count": 14,
           "sourceGroup": "google_news"
         }
       ]
@@ -175,32 +175,32 @@
       ],
       "topSources": [
         {
-          "count": 18,
+          "count": 20,
           "sourceGroup": "the_hindu"
         },
         {
-          "count": 8,
-          "sourceGroup": "economic_times"
+          "count": 5,
+          "sourceGroup": "ndtv"
         },
         {
-          "count": 4,
-          "sourceGroup": "ndtv"
+          "count": 5,
+          "sourceGroup": "economic_times"
         }
       ]
     },
     "trichy": {
       "sourceGroupCount": 3,
-      "storyCount": 24,
+      "storyCount": 20,
       "thin": false,
       "topCategories": [
         {
           "category": "trichy",
-          "count": 24
+          "count": 20
         }
       ],
       "topSources": [
         {
-          "count": 14,
+          "count": 10,
           "sourceGroup": "google_news"
         },
         {
@@ -225,11 +225,11 @@
       ],
       "topSources": [
         {
-          "count": 19,
+          "count": 18,
           "sourceGroup": "bbc"
         },
         {
-          "count": 11,
+          "count": 12,
           "sourceGroup": "the_hindu"
         }
       ]
@@ -480,10 +480,9 @@
     {
       "configuredFeeds": 1,
       "health": {
-        "error": "415 Client Error: Unsupported Media Type for url: https://www.muscatdaily.com/feed",
         "feedUrl": "https://www.muscatdaily.com/feed",
         "items": 0,
-        "ok": false,
+        "ok": true,
         "section": "muscat"
       },
       "sections": [
@@ -587,7 +586,7 @@
       "configuredFeeds": 9,
       "health": {
         "feedUrl": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-        "items": 18,
+        "items": 19,
         "ok": true,
         "section": "entertainment"
       },

@@ -5,29 +5,29 @@
 - Grade: `C`
 - Parents: `10`
 - Average angles: `1.7`
-- Average temporal tiers: `1.9`
-- Average evolution roles: `1.8`
-- Base report share: `0.13636363636363635`
+- Average temporal tiers: `2`
+- Average evolution roles: `1.7`
+- Base report share: `0.045454545454545456`
 - Multi-angle parents: `6`
 - Weak parents: `0`
-- Story count: `575`
+- Story count: `612`
 - Source groups: `11`
-- Content hash: `08c6e3a3f6ceae83`
+- Content hash: `75ba4602e9a82e9a`
 
 ## Top parents
 
 | # | Headline | Children | Angles | Weak | Score |
 |---:|---|---:|---|---|---:|
 | 1 | Godrej Properties acquires 47-acre land parcel in South Chennai, eyes ₹500 crore revenue | 4 | official_response, regional_followup, fact_update | NO | 0.7339383461423297 |
-| 2 | Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia | 2 | fact_update, official_response | NO | 0.6504967197849982 |
-| 3 | Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India | 2 | expert_analysis, market_reaction | NO | 0.6272599999999999 |
+| 2 | Financial firms shift Asia expansion focus to South Korea, take cautious stance on China and India | 2 | expert_analysis, market_reaction | NO | 0.6952467197849983 |
+| 3 | Over 10 injured in fire at naphtha pipeline in West Bengal's Haldia | 2 | fact_update, official_response | NO | 0.6504967197849982 |
 | 4 | Price of commercial LPG, 5-kg FTL and domestic ATF reduced as conflict pressures ease | 2 | base_report, fact_update | NO | 0.62351 |
 | 5 | ATF price cut by ₹5/litre to ₹110 on softer global oil prices | 2 | fact_update, official_response | NO | 0.59551 |
 | 6 | Apple Accuses CCI of 'Copy-Pasting' Rivals' Claims in Antitrust Investigation | 2 | investigative_detail, official_response | NO | 0.5758433333333333 |
-| 7 | Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0 | 2 | fact_update | NO | 0.6795633864516649 |
-| 8 | Dayalu Ammal admitted to hospital | 2 | base_report | NO | 0.6792467197849983 |
-| 9 | Attempts to question FATF’s credibility often reflect fear of scrutiny: India at UN | 2 | official_response | NO | 0.6703967197849983 |
-| 10 | One dies, 20 injured after massive fire breaks out at Haldia Petrochemicals pipeline in Bengal | 2 | fact_update | NO | 0.6072732802150018 |
+| 7 | TVS extends lead as India’s electric two-wheeler registrations surge 74% in June | 2 | market_reaction | NO | 0.7255600000000002 |
+| 8 | One dies, 20 injured after massive fire breaks out at Haldia Petrochemicals pipeline in Bengal | 2 | fact_update | NO | 0.7072467197849983 |
+| 9 | ICEYE chooses India for sovereign SAR mission; picks Agnikul Cosmos as launch partner | 2 | regional_followup | NO | 0.6823967197849983 |
+| 10 | Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0 | 2 | fact_update | NO | 0.6795633864516649 |
 
 ## Real Snapshot Ratchet Gate
 
@@ -37,9 +37,9 @@
 - Score: `100`
 - Parents: `10`
 - Average angles: `1.7`
-- Average temporal tiers: `1.9`
-- Average evolution roles: `1.8`
-- Base report share: `0.136`
+- Average temporal tiers: `2`
+- Average evolution roles: `1.7`
+- Base report share: `0.045`
 - Multi-angle parents: `6`
 - Top parent angles: `3`
 - Top parent children: `4`
@@ -53,9 +53,9 @@
 - Real snapshot grade floor: `C` / `A/B/C`
 - Parent cluster count: `10` / `>= 3`
 - Average visible angle count: `1.7` / `>= 1.4`
-- Average temporal tier count: `1.9` / `>= 1.8`
-- Average evolution role count: `1.8` / `>= 1.6`
-- Base report share: `0.136` / `<= 0.55`
+- Average temporal tier count: `2` / `>= 1.8`
+- Average evolution role count: `1.7` / `>= 1.6`
+- Base report share: `0.045` / `<= 0.55`
 - Multi-angle parent count: `6` / `>= 1`
 - Top parent angle count: `3` / `>= 2`
 - Top parent child depth: `4` / `>= 2`
