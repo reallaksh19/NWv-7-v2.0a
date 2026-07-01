@@ -1,77 +1,99 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782906990852,
-  "contentHash": "ce92e2d89c6a",
+  "fetchedAt": 1782916149032,
+  "contentHash": "35dfc1f813d4",
   "breaking": [
     {
-      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
-      "summary": "Ukrainian officials describe the strikes as a campaign to pressure Moscow to end the war by undermining its military logistics and supply lines and weakening its ability to mount assaults along the front",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/ukrainian-drone-attacks-on-oil-refineries-plunge-russia-into-a-summer-fuel-crisis/article71168818.ece",
-      "publishedAt": 1782885582000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "cf553c70adc73ee5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.504,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782885582000
-    },
-    {
-      "title": "Two dead after plane crashed during flight experience",
-      "summary": "The two-seat Cessna plane comes down off Mill Lane in High Ongar at about 12:30 BST on Tuesday.",
-      "source": "BBC",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cn8k7p74z31o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782906649000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "61a83ae6777ea00b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.992,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782906649000
-    },
-    {
-      "title": "Delhi Gymkhana Club served show-cause notice in eviction proceedings; asked to explain why it should not be evicted by July 7",
-      "summary": "The Estate Officer has called upon the Delhi Gymkhana Club to show-cause on or before July 7, 2026, as to why an order of eviction should not be made against it under the provisions of the Public Premises Act.",
+      "title": "Hunger strike junction at Jantar Mantar",
+      "summary": "The triangle of strikers have a common demand, the resignation of the Union Education Minister; activist Sonam Wangchuk is on the CJP stage; six CPI(ML) students and nine unaffiliated protesters sit on either side",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-gymkhana-club-served-show-cause-notice-in-eviction-proceedings-asked-to-explain-why-it-should-not-be-evicted-by-july-7/article71169744.ece",
-      "publishedAt": 1782905894000,
+      "url": "https://www.thehindu.com/news/national/hunger-strike-junctionat-jantar-mantar/article71170120.ece",
+      "publishedAt": 1782915572000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "6e8f1c322206bf08",
+      "id": "f66f8c3b2d5f8daa",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.975,
+      "breakingScore": 3.987,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782902612000
+      "firstSeen": 1782915572000
+    },
+    {
+      "title": "\"We Are Half Dead\": Gurugram Family Seeks Justice For Son Run Over By Thar",
+      "summary": "The police said the man driving the car was arrested and is out on bail.",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/sarthak-mattoo-surender-mattoo-vasant-kunj-we-are-half-dead-son-killed-in-thar-hit-and-run-gurugram-familys-appeal-for-justice-11713570#publisher=newsstand",
+      "publishedAt": 1782915331000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "13c7726fe8447a8a",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.981,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782915331000
+    },
+    {
+      "title": "\"Cremated Him With His Cricket Ball\": Family Of Boy Killed In Mumbai Tree Collapse",
+      "summary": "Vihaan Srivastava, 11-year-old, killed in Mumbai tree collapse",
+      "source": "NDTV India",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/cremated-him-with-his-cricket-ball-family-of-boy-killed-in-mumbai-tree-collapse-11712985#publisher=newsstand",
+      "publishedAt": 1782913081000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "f8e5442e1780c5f2",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.929,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782913081000
+    },
+    {
+      "title": "Indian-origin truck driver killed in fuel tanker crash in Australia; wife says he was 25 years old",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132079044.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A heartbreaking incident unfolded on Victoria's Princes Freeway, taking the life of 25-year-old Ashwani Sharma, an Indian-origin truck driver. His fuel tanker overturned close to Warragul, leading to major road closures and a hazardous spill. In the wake of this tragedy, Sharma's wife has voiced her sorrow and is seeking community support to cope with the significant emotional and financial burdens following his unexpected demise.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-truck-driver-ashwani-sharma-killed-in-fuel-tanker-crash-in-australia-wife-says-he-was-just-25-years-old/articleshow/132079044.cms",
+      "publishedAt": 1782907532000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "170fb3a27f00761c",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.801,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1782907532000
     },
     {
       "title": "Two Hampshire officers face misconduct probe over treatment of teen stabbed by Sikh man Vickrum Digwa",
@@ -86,7 +108,7 @@
       "id": "d49823b7b2eb5961",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.926,
+      "breakingScore": 2.714,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -110,7 +132,7 @@
       "id": "e3638cfc249d9e2b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.923,
+      "breakingScore": 2.711,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -122,42 +144,19 @@
       "firstSeen": 1782902295000
     },
     {
-      "title": "At least five killed in fire at Antwerp apartment building, say police",
-      "summary": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782906595000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "61c8f73ecb529b1b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.491,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782906595000
-    },
-    {
-      "title": "T.N. Minister Nirmalkumar accuses DMK’s Senthilbalaji of attempting to lure TVK MLAs",
-      "summary": "Mr. Nirmalkumar claimed several TVK MLAs were approached by the DMK telling it intended to move a no-confidence motion against the Speaker in the next Assembly session and asked them to vote in support of it. One of the TVK MLAs lodged a complaint, based on which three persons were arrested.",
-      "source": "The Hindu National",
+      "title": "Tata Group honours war veteran for two decades of suicide prevention work",
+      "summary": "Presents him a car and makes 105-second video on his contribution",
+      "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-nirmalkumar-accuses-mk-stalin-udhayanidhi-of-tasking-senthilbalaji-to-lure-tvk-mlas-with-money-to-topple-govt/article71169559.ece",
-      "publishedAt": 1782906388000,
-      "category": "india",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/tata-group-honours-war-veteran-for-two-decades-of-suicide-prevention-work/article71169985.ece",
+      "publishedAt": 1782915710000,
+      "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "84708cfe84adca82",
+      "id": "af04fef981f84ab5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.486,
+      "breakingScore": 2.49,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -165,30 +164,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782906260000
+      "firstSeen": 1782915710000
     },
     {
-      "title": "Indian Techie, 33, Dies After Car Gets Swept Away In US Flash Floods",
-      "summary": "Eyewitnesses reported seeing a car submerged near a bridge with Doppalapudi still in it",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/indian-techie-venkatesh-doppalapudi-33-dies-after-car-gets-swept-away-in-us-kansas-flash-floods-11712712#publisher=newsstand",
-      "publishedAt": 1782906318000,
+      "title": "Three men arrested for bid to bribe TVK MLA for vote during no-confidence motion against T.N. Assembly Speaker",
+      "summary": "Investigation has revealed that V. Ashok Kumar, who is the brother of former DMK Minister and incumbent Coimbatore South MLA V. Senthilbalaji, met the accused, Naresh, in Chennai.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/three-men-arrested-for-bid-to-bribe-tvk-mla-for-vote-during-no-confidence-motion-against-tn-assembly-speaker/article71169921.ece",
+      "publishedAt": 1782915093000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "92befc3c1d57d087",
+      "id": "89ada2bd9c955943",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.484,
+      "breakingScore": 2.476,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "ndtv"
+        "the_hindu"
       ],
-      "firstSeen": 1782906318000
+      "firstSeen": 1782915093000
     }
   ]
 }
