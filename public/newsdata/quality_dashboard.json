@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782854643966,
+  "generatedAt": 1782864010228,
   "windowDays": 7,
   "latest": {
     "insightGrade": "C",
     "insightScore": 0,
-    "totalStories": 625,
-    "usableStories36h": 599,
-    "sourceGroups": 10,
+    "totalStories": 575,
+    "usableStories36h": 558,
+    "sourceGroups": 9,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3074,
+    "rankingOverallScore": 0.3049,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3074,
+    "overallScore": 0.3049,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782854643268,
+    "generatedAt": 1782864009528,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3799,
+      "insight": 0.3723,
       "localTravel": 0,
-      "upAhead": 0.8498
+      "upAhead": 0.8473
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3799,
+        "score": 0.3723,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8498,
+        "score": 0.8473,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,11 +74,11 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 12,
-        "strongParents": 12,
+        "parentClusters": 10,
+        "strongParents": 10,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
-        "baseReportHeavyParents": 4,
+        "baseReportHeavyParents": 3,
         "duplicateChildrenSuppressed": 0
       },
       "localTravel": {
@@ -92,11 +92,11 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 29,
+        "suppressedItemCount": 30,
         "events": 0,
         "onlineOffers": 0,
-        "offlineOffers": 3,
-        "alerts": 27,
+        "offlineOffers": 4,
+        "alerts": 26,
         "festivals": 0,
         "locationsCovered": [
           "chennai",
@@ -109,17 +109,17 @@
       "Amazon Prime Day 2026 Sale Announced: Check Date, Time, Top Smartphone & iPhone Deals, Bank Offers & Discounts - Goodreturns: location failed — offline/local item lacks configured location match",
       "Amazon Prime Day 2026: Top 5 smartphone deals worth looking out for - Business Today: location failed — offline/local item lacks configured location match",
       "OnePlus 15, OnePlus Pad 4, OnePlus Nord Buds 4 and More to Get Discounts During Amazon Prime Day Sale - Gadgets 360: location failed — offline/local item lacks configured location match",
+      "Good wind energy generation helps in evacuating power from T.N. to other States through power exchanges: futureValidity failed — expired display window",
+      "Good wind energy generation helps in evacuating power from T.N. to other States through power exchanges: alertUrgency failed — alert expired",
       "TVS Cheema Foundation to provide interest-free loans to Engineering, nursing and diploma students: futureValidity failed — expired display window",
       "TVS Cheema Foundation to provide interest-free loans to Engineering, nursing and diploma students: alertUrgency failed — alert expired",
       "Address issues faced by government doctors, association urges government: futureValidity failed — expired display window",
       "Address issues faced by government doctors, association urges government: alertUrgency failed — alert expired",
       "Employee arrested for staging fake robbery to misappropriate ₹5.56 lakh: futureValidity failed — expired display window",
-      "Employee arrested for staging fake robbery to misappropriate ₹5.56 lakh: alertUrgency failed — alert expired",
-      "Metrowater, Dr. Agarwal’s Eye Hospital organise eye camp: futureValidity failed — expired display window",
-      "Metrowater, Dr. Agarwal’s Eye Hospital organise eye camp: alertUrgency failed — alert expired"
+      "Employee arrested for staging fake robbery to misappropriate ₹5.56 lakh: alertUrgency failed — alert expired"
     ],
     "actionRequired": [
-      "29 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "30 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no ranked Up Ahead item for muscat",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
@@ -128,7 +128,7 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "4 base-report-heavy Insight parent(s) demoted",
+      "3 base-report-heavy Insight parent(s) demoted",
       "buzz: no local Buzz item in ranked set",
       "buzz: no travel Buzz item in ranked set"
     ]
@@ -152,23 +152,6 @@
     "avgRankingWeakDestinations7d": 4
   },
   "history": [
-    {
-      "date": "2026-06-24",
-      "generatedAt": 1782335913833,
-      "insightGrade": "B",
-      "insightScore": 0,
-      "totalStories": 667,
-      "usableStories36h": 635,
-      "sourceGroups": 10,
-      "angleHintCoverage": 1,
-      "sectionsTotalStories": 0,
-      "sectionsCount": 10,
-      "rankingOverallScore": 0.3041,
-      "rankingOverallStatus": "FAIL",
-      "sourceUptimePercent": 0,
-      "angleDiversityScore": 0,
-      "rankingWeakDestinationCount": 4
-    },
     {
       "date": "2026-06-25",
       "generatedAt": 1782422668136,
@@ -266,6 +249,23 @@
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
       "rankingOverallScore": 0.3074,
+      "rankingOverallStatus": "FAIL",
+      "sourceUptimePercent": 0,
+      "angleDiversityScore": 0,
+      "rankingWeakDestinationCount": 4
+    },
+    {
+      "date": "2026-07-01",
+      "generatedAt": 1782864010228,
+      "insightGrade": "C",
+      "insightScore": 0,
+      "totalStories": 575,
+      "usableStories36h": 558,
+      "sourceGroups": 9,
+      "angleHintCoverage": 1,
+      "sectionsTotalStories": 0,
+      "sectionsCount": 10,
+      "rankingOverallScore": 0.3049,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
