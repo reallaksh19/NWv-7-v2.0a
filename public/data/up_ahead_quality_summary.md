@@ -10,7 +10,7 @@
 
 ## Category counts
 
-- alerts: 35
+- alerts: 37
 - movies: 2
-- shopping: 34
+- shopping: 32
 - weather_alerts: 1
