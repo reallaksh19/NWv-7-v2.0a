@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782896143449,
-  "contentHash": "448cb1d0e46f",
+  "fetchedAt": 1782906990852,
+  "contentHash": "ce92e2d89c6a",
   "breaking": [
     {
       "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
@@ -16,7 +16,7 @@
       "id": "cf553c70adc73ee5",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.756,
+      "breakingScore": 6.504,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -27,114 +27,19 @@
       "firstSeen": 1782885582000
     },
     {
-      "title": "WHO sounds alarm on disease outbreaks in quake-hit Venezuela",
-      "summary": "By the latest official count, some 1,700 are dead and 5,000 are injured, with no governmental word on the number of missing. Other estimates place these in the tens of thousands",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/who-sounds-alarm-on-disease-outbreaks-in-quake-hit-venezuela/article71167071.ece",
-      "publishedAt": 1782881032000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "d63a4e6a0f54b3b9",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.15,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782881032000
-    },
-    {
-      "title": "Siya Goyal Kept Fiance Ketan Agarwal's Phone With Her After His Murder: Police",
-      "summary": "Siya and Ketan got engaged in February and were set to be married in November this year.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/siya-goyal-kept-fiance-ketan-agarwals-phone-with-her-after-his-murder-police-pune-fort-murder-lohagad-11711589#publisher=newsstand",
-      "publishedAt": 1782893582000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "ee969f274967bd51",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.941,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782892069000
-    },
-    {
-      "title": "Spain Recorded Over 1,000 Heat-Related Deaths In June",
-      "summary": "Tourists rest in the shade in the town hall square in Palma de Mallorca.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/spain-recorded-over-1-000-heat-related-deaths-in-june-11711330#publisher=newsstand",
-      "publishedAt": 1782893263000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "8ddb65061b174f9b",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.933,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782892886000
-    },
-    {
-      "title": "U.S. removes four Indian companies from Russia-related sanctions list",
-      "summary": "The companies have been deleted from the Office of Foreign Assets Control's (OFAC) Specially Designated Nationals and Blocked Persons (SDN) List",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/us-removes-four-indian-companies-from-russia-related-sanctions-list/article71169202.ece",
-      "publishedAt": 1782893207000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "9133da6dbe95c8e5",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.932,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782890945000
-    },
-    {
-      "title": "Chris Brown ordered to pay housekeeper $13m after dog attack",
-      "summary": "Maria Aliva was left with scarring, vision loss and nerve damage following the attack in December 2020.",
+      "title": "Two dead after plane crashed during flight experience",
+      "summary": "The two-seat Cessna plane comes down off Mill Lane in High Ongar at about 12:30 BST on Tuesday.",
       "source": "BBC",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c0myggx4y23o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782895507000,
+      "url": "https://www.bbc.co.uk/news/articles/cn8k7p74z31o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782906649000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "c629e042570e7224",
+      "id": "61a83ae6777ea00b",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.485,
+      "breakingScore": 3.992,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -142,22 +47,117 @@
       "allSources": [
         "bbc"
       ],
-      "firstSeen": 1782895507000
+      "firstSeen": 1782906649000
     },
     {
-      "title": "Calcutta HC directs Bengal to frame guidelines for transporting accused persons",
-      "summary": "There has been a spate of egg attacks on accused persons, particularly local Trinamool leaders, councillors and former MLAs after their arrest since the change of regime in West Bengal",
+      "title": "Delhi Gymkhana Club served show-cause notice in eviction proceedings; asked to explain why it should not be evicted by July 7",
+      "summary": "The Estate Officer has called upon the Delhi Gymkhana Club to show-cause on or before July 7, 2026, as to why an order of eviction should not be made against it under the provisions of the Public Premises Act.",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-directs-bengal-to-frame-guidelines-for-transporting-accused-persons/article71169243.ece",
-      "publishedAt": 1782895205000,
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-gymkhana-club-served-show-cause-notice-in-eviction-proceedings-asked-to-explain-why-it-should-not-be-evicted-by-july-7/article71169744.ece",
+      "publishedAt": 1782905894000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "1048abfd3dc182a8",
+      "id": "6e8f1c322206bf08",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.478,
+      "breakingScore": 2.975,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782902612000
+    },
+    {
+      "title": "Two Hampshire officers face misconduct probe over treatment of teen stabbed by Sikh man Vickrum Digwa",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132112986.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/uk/two-hampshire-officers-face-gross-misconduct-probe-after-handcuffing-teen-stabbed-by-sikh-man-vickrum-singh-digwa/articleshow/132112986.cms",
+      "publishedAt": 1782903813000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "d49823b7b2eb5961",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.926,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1782901432000
+    },
+    {
+      "title": "Three die in Mexico City World Cup celebrations",
+      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782903672000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "e3638cfc249d9e2b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.923,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "times_of_india"
+      ],
+      "firstSeen": 1782902295000
+    },
+    {
+      "title": "At least five killed in fire at Antwerp apartment building, say police",
+      "summary": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782906595000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "61c8f73ecb529b1b",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.491,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "bbc"
+      ],
+      "firstSeen": 1782906595000
+    },
+    {
+      "title": "T.N. Minister Nirmalkumar accuses DMK’s Senthilbalaji of attempting to lure TVK MLAs",
+      "summary": "Mr. Nirmalkumar claimed several TVK MLAs were approached by the DMK telling it intended to move a no-confidence motion against the Speaker in the next Assembly session and asked them to vote in support of it. One of the TVK MLAs lodged a complaint, based on which three persons were arrested.",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-nirmalkumar-accuses-mk-stalin-udhayanidhi-of-tasking-senthilbalaji-to-lure-tvk-mlas-with-money-to-topple-govt/article71169559.ece",
+      "publishedAt": 1782906388000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "84708cfe84adca82",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.486,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -165,30 +165,30 @@
       "allSources": [
         "the_hindu"
       ],
-      "firstSeen": 1782895205000
+      "firstSeen": 1782906260000
     },
     {
-      "title": "Bribery case: CBI arrests IPS officer Deepak Gahlawat",
-      "summary": "The case stems from a CBI trap operation conducted in June, during which a Delhi Police Crime Branch Inspector and an alleged middleman were arrested",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/bribery-case-cbi-arrests-ips-officer-deepak-gahlawat/article71169257.ece",
-      "publishedAt": 1782894710000,
+      "title": "Indian Techie, 33, Dies After Car Gets Swept Away In US Flash Floods",
+      "summary": "Eyewitnesses reported seeing a car submerged near a bridge with Doppalapudi still in it",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/indian-techie-venkatesh-doppalapudi-33-dies-after-car-gets-swept-away-in-us-kansas-flash-floods-11712712#publisher=newsstand",
+      "publishedAt": 1782906318000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "b150bfc32728a913",
+      "id": "92befc3c1d57d087",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.467,
+      "breakingScore": 2.484,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782894710000
+      "firstSeen": 1782906318000
     }
   ]
 }
