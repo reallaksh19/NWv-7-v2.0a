@@ -1,45 +1,22 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782971629230,
-  "contentHash": "8696e66c3f77",
+  "fetchedAt": 1782981980780,
+  "contentHash": "0b97daa57781",
   "breaking": [
     {
-      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782968457000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "380a5126748993cd",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 6.927,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782968457000
-    },
-    {
-      "title": "8 Killed, 11 Injured As Russia Launches Massive Drone Attack On Ukraine",
-      "summary": "The attack affected five districts of the wider Kyiv region",
+      "title": "7 Killed, 5 Injured As Boulder Collapses In Bengaluru Stone Quarry",
+      "summary": "During the operation, a large boulder became dislodged and crashed onto workers.",
       "source": "NDTV",
       "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-2-killed-11-injured-as-russia-launches-massive-drone-attack-on-ukraine-11715638#publisher=newsstand",
-      "publishedAt": 1782965263000,
+      "url": "https://www.ndtv.com/india-news/7-killed-5-injured-as-boulder-collapses-in-bengaluru-stone-quarry-11716562#publisher=newsstand",
+      "publishedAt": 1782976917000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ee3abddffc361203",
+      "id": "1910be44824db236",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.853,
+      "breakingScore": 6.883,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -47,68 +24,45 @@
       "allSources": [
         "ndtv"
       ],
-      "firstSeen": 1782965263000
+      "firstSeen": 1782976917000
     },
     {
-      "title": "Watch: 9-storey Kyiv apartment building partially collapses after Russian attack; residents trapped",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132127343.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Kyiv endured a devastating overnight missile and drone assault, with a residential building partially collapsing and multiple fires erupting. This follows Ukraine's own long-range strikes on Russian targets. The escalating conflict sees both sides intensifying attacks, as casualty figures in the war reportedly surpass two million. Russia, meanwhile, reiterates warnings against continued US military aid to Ukraine.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-9-storey-kyiv-apartment-building-partially-collapses-after-russian-attack-residents-trapped/articleshow/132127343.cms",
-      "publishedAt": 1782959685000,
-      "category": "india",
+      "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+      "source": "BBC World",
+      "sourceGroup": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782976308000,
+      "category": "world",
       "region": "in",
       "language": "en",
-      "id": "3c071d1e2e23a22c",
+      "id": "380a5126748993cd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.724,
+      "breakingScore": 6.869,
       "breakingReasons": [
         "severity_lexicon"
       ],
       "sourceCount": 1,
       "allSources": [
-        "times_of_india"
+        "bbc"
       ],
-      "firstSeen": 1782959685000
-    },
-    {
-      "title": "Seven killed as boulder collapses at stone quarry on outskirts of Bengaluru, death toll likely to rise",
-      "summary": "Police said several labourers were reported missing, raising fears that the death toll could increase",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/seven-killed-as-boulder-collapses-at-stone-quarry-on-outskirts-of-bengaluru-death-toll-likely-to-rise/article71173133.ece",
-      "publishedAt": 1782971498000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "04987bd31e1171fa",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.497,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782971498000
+      "firstSeen": 1782976308000
     },
     {
       "title": "Russian missiles and drones kill eight and cause damage across Ukraine capital",
       "summary": "“Kyiv is under attack from ballistic missiles and UAVs,” Kyiv Mayor Vitali Klitschko said on Telegram, adding that blasts could be heard across the city.",
-      "source": "The Hindu",
+      "source": "The Hindu International",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece",
       "publishedAt": 1782969855000,
-      "category": "topStories",
+      "category": "world",
       "region": "in",
       "language": "en",
       "id": "3145f2de5f65ffbd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 5.459,
+      "breakingScore": 5.219,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -131,7 +85,7 @@
       "id": "556aafd6fc788eed",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.925,
+      "breakingScore": 3.686,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -140,29 +94,6 @@
         "bbc"
       ],
       "firstSeen": 1782968395000
-    },
-    {
-      "title": "26-year-old arrested for grandmother’s murder in Shivamogga",
-      "summary": "Police claim that he attacked them in a bid to avoid arrest",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/26-year-old-arrested-for-grandmothers-murder-in-shivamogga/article71172984.ece",
-      "publishedAt": 1782966449000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "83a649c71aece608",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.88,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782966449000
     },
     {
       "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
@@ -177,17 +108,87 @@
       "id": "fa2a60d77918a187",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.864,
+      "breakingScore": 3.625,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "allSources": [
         "bbc",
-        "the_hindu",
         "times_of_india"
       ],
-      "firstSeen": 1782935829000
+      "firstSeen": 1782950856000
+    },
+    {
+      "title": "Congress-BRS confrontation escalates into showdown in Hyderabad; alleged scam at Telangana’s Gurukuls under spotlight",
+      "summary": "Leaders challenged each other to public debates over allegations of irregularities in the procurement of uniforms, shoes and school bags for students of Telangana’s residential educational institutions (Gurkulams)",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/congress-brs-confrontation-escalates-into-showdown-in-hyderabad/article71173318.ece",
+      "publishedAt": 1782980723000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "ecfad0b36f8d8cf7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.971,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782976822000
+    },
+    {
+      "title": "Monsoon tracker LIVE: Monsoon arrives in Delhi; Mumbai’s Juhu records 205 mm rainfall in 24 hours",
+      "summary": "The IMD said it is for the first time since 2021 that monsoon has arrived in Delhi in July",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-rain-news-traffic-delhi-ncr-punjab-kerala-tamil-nadu/article71173150.ece",
+      "publishedAt": 1782979467000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "83bbe110bae6a8ce",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.942,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "the_hindu"
+      ],
+      "firstSeen": 1782978085000
+    },
+    {
+      "title": "West Asia war LIVE: Pakistan says ‘positive progress’ made in U.S.-Iran talks",
+      "summary": "Parties have agreed to continue discussions over the coming period, with the next meeting to be set at the earliest possible time following the funeral processions of the former Iranian Supreme Leader, the Pakistan Foreign Office said in a statement.",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-2-2026-trump-israel-west-asia-war/article71172891.ece",
+      "publishedAt": 1782980700000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "df1a2e06b6eaf5a0",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.47,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "the_hindu"
+      ],
+      "firstSeen": 1782980700000
     }
   ]
 }
