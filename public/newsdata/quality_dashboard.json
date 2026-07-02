@@ -1,30 +1,30 @@
 {
   "schemaVersion": 2,
-  "generatedAt": 1782970696736,
+  "generatedAt": 1782985619067,
   "windowDays": 7,
   "latest": {
     "insightGrade": "D",
     "insightScore": 0,
-    "totalStories": 576,
-    "usableStories36h": 538,
+    "totalStories": 598,
+    "usableStories36h": 563,
     "sourceGroups": 11,
     "angleHintCoverage": 1,
     "sectionsTotalStories": 0,
     "sectionsCount": 10,
-    "rankingOverallScore": 0.3144,
+    "rankingOverallScore": 0.3154,
     "rankingOverallStatus": "FAIL"
   },
   "rankingAudit": {
     "status": "FAIL",
-    "overallScore": 0.3144,
+    "overallScore": 0.3154,
     "overallGrade": "F",
     "rankingVersion": "tab-specific-quality-ranking-v1",
-    "generatedAt": 1782970695605,
+    "generatedAt": 1782985617872,
     "destinationScores": {
       "buzz": 0,
-      "insight": 0.3967,
+      "insight": 0.401,
       "localTravel": 0,
-      "upAhead": 0.8607
+      "upAhead": 0.8605
     },
     "destinationStatuses": {
       "buzz": "FAIL",
@@ -48,7 +48,7 @@
       {
         "destination": "insight",
         "status": "WARN",
-        "score": 0.3967,
+        "score": 0.401,
         "profile": "insight-v2-event-angle-tree"
       },
       {
@@ -60,7 +60,7 @@
       {
         "destination": "upAhead",
         "status": "WARN",
-        "score": 0.8607,
+        "score": 0.8605,
         "profile": "upAhead-v2-lifecycle-location-category"
       }
     ],
@@ -74,8 +74,8 @@
         "oneSourceCappedCount": 0
       },
       "insight": {
-        "parentClusters": 7,
-        "strongParents": 7,
+        "parentClusters": 10,
+        "strongParents": 10,
         "weakParentsDemoted": 0,
         "avgAnglesPerParent": 0,
         "baseReportHeavyParents": 2,
@@ -92,7 +92,7 @@
       },
       "upAhead": {
         "rankedItemCount": 30,
-        "suppressedItemCount": 15,
+        "suppressedItemCount": 14,
         "events": 0,
         "onlineOffers": 0,
         "offlineOffers": 0,
@@ -113,16 +113,15 @@
       "Amazon to sell Echo speakers at up to 50 per cent off in Prime Day 2026 sale, details here - India Today: location failed — offline/local item lacks configured location match",
       "Lumio announces deals on Vision 9, Arc 5, Arc 7 for Amazon Prime day sale - 91mobiles.com: location failed — offline/local item lacks configured location match",
       "Best laptop deals for Amazon Prime Day sale (2026) - Sportskeeda Tech: location failed — offline/local item lacks configured location match",
-      "Mangaluru-Chennai Express train stopped at Avadi due to technical fault: futureValidity failed — expired display window",
-      "Mangaluru-Chennai Express train stopped at Avadi due to technical fault: alertUrgency failed — alert expired",
       "Best Amazon Prime Day Echo and Alexa deals 2026: Shop smart speakers, smart displays, and bedside clocks - Mashable: location failed — offline/local item lacks configured location match",
-      "Best portable speaker deal: Get two Bose portable speakers for their lowest prices ever - Mashable: location failed — offline/local item lacks configured location match"
+      "Best portable speaker deal: Get two Bose portable speakers for their lowest prices ever - Mashable: location failed — offline/local item lacks configured location match",
+      "Amazon Prime Day 2026 Sale Announced: Check Date, Time, Top Smartphone & iPhone Deals, Bank Offers & Discounts - Goodreturns: location failed — offline/local item lacks configured location match",
+      "Amazon Prime Day 2026: Top 5 smartphone deals worth looking out for - Business Today: futureValidity failed — expired display window"
     ],
     "actionRequired": [
-      "15 invalid/expired/duplicate Up Ahead item(s) suppressed",
+      "14 invalid/expired/duplicate Up Ahead item(s) suppressed",
       "no active offer items in ranked Up Ahead set",
       "no ranked Up Ahead item for muscat",
-      "ranked Up Ahead set is category-dominated",
       "no local Buzz item in ranked set",
       "no travel Buzz item in ranked set",
       "no active local/travel disruption item",
@@ -130,7 +129,8 @@
       "no ranked local/travel item for muscat",
       "no ranked local/travel item for chennai",
       "no ranked local/travel item for trichy",
-      "2 base-report-heavy Insight parent(s) demoted"
+      "2 base-report-heavy Insight parent(s) demoted",
+      "buzz: no local Buzz item in ranked set"
     ]
   },
   "sourceHealth": {
@@ -256,16 +256,16 @@
     },
     {
       "date": "2026-07-02",
-      "generatedAt": 1782970696736,
+      "generatedAt": 1782985619067,
       "insightGrade": "D",
       "insightScore": 0,
-      "totalStories": 576,
-      "usableStories36h": 538,
+      "totalStories": 598,
+      "usableStories36h": 563,
       "sourceGroups": 11,
       "angleHintCoverage": 1,
       "sectionsTotalStories": 0,
       "sectionsCount": 10,
-      "rankingOverallScore": 0.3144,
+      "rankingOverallScore": 0.3154,
       "rankingOverallStatus": "FAIL",
       "sourceUptimePercent": 0,
       "angleDiversityScore": 0,
