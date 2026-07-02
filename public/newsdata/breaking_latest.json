@@ -1,22 +1,45 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782991747168,
-  "contentHash": "d59422f22666",
+  "fetchedAt": 1782998322696,
+  "contentHash": "168568741910",
   "breaking": [
     {
-      "title": "Bomb threat email to ISRO, Bengaluru headquarters evacuated for thorough search",
-      "summary": "The email was received by the ISRO staff post-lunch",
-      "source": "The Hindu National",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bomb-threat-email-to-isro-bengaluru-headquarters-evacuated-for-thorough-search/article71173947.ece",
-      "publishedAt": 1782990306000,
+      "title": "More than 1,200 hectares burnt! Firefighters battle southern France wildfires after deadly heatwave",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132139464.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />On Thursday, southern France faced intense wildfires that scorched more than 1,200 hectares, ignited by strong winds and dry conditions following a severe heatwave. The most significant blaze occurred in Aude, close to Spain, devouring 900 hectares. Firefighters, supported by water-bombing aircraft, fought bravely to control the situation, and thankfully, no casualties have been reported.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/europe/more-than-1200-hectares-of-land-burnt-firefighters-battle-southern-france-wildfires-after-deadly-heatwave/articleshow/132139464.cms",
+      "publishedAt": 1782996141000,
       "category": "india",
       "region": "in",
       "language": "en",
-      "id": "6f8bf96e7539fac8",
+      "id": "c3526c863c8469bf",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.467,
+      "breakingScore": 6.949,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "times_of_india"
+      ],
+      "firstSeen": 1782996141000
+    },
+    {
+      "title": "Mumbai man dies falling into manhole, third rain-related incident",
+      "summary": "The man, identified as 55-year-old Aslam Esaf Shaikh, was taken to the Rajawadi Hospital in Ghatkopar, where the doctors declared him brought dead",
+      "source": "The Hindu",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-man-dies-falling-into-manhole-third-rain-related-incident/article71174023.ece",
+      "publishedAt": 1782996282000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "31f9478f51e7f467",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.453,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -26,7 +49,32 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782989332000
+      "firstSeen": 1782992778000
+    },
+    {
+      "title": "11-year-old boy driving pickup truck crashes into group of Thai monks, killing 9",
+      "summary": "The boy is in custody and will be questioned when state child protection officers arrive, police said",
+      "source": "The Hindu International",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/international/11-year-old-boy-driving-pickup-truck-crashes-into-group-of-thai-monks-in-thailand/article71174285.ece",
+      "publishedAt": 1782994595000,
+      "category": "world",
+      "region": "in",
+      "language": "en",
+      "id": "382346cafd7dbb0e",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.414,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "bbc",
+        "the_hindu"
+      ],
+      "firstSeen": 1782992620000
     },
     {
       "title": "'Wrote about ending his life': Pilot who hit Beijing's tallest building suffered from anxiety",
@@ -41,7 +89,7 @@
       "id": "375adef59652fbb0",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 4.435,
+      "breakingScore": 4.283,
       "breakingReasons": [
         "multi_source_velocity",
         "severity_lexicon"
@@ -54,28 +102,73 @@
       "firstSeen": 1782988185000
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "source": "BBC World",
+      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+      "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
+      "source": "BBC",
       "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782990712000,
+      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": 1782995822000,
       "category": "world",
       "region": "in",
       "language": "en",
-      "id": "380a5126748993cd",
+      "id": "a246c13c09bc4dae",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.976,
+      "breakingScore": 3.942,
       "breakingReasons": [
         "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "bbc",
+        "bbc"
+      ],
+      "firstSeen": 1782993209000
+    },
+    {
+      "title": "US pilot 'killed', plane torched in Papua; rebels call attack a 'message' to America &amp; Indonesia",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132138233.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Separatist rebels in Papua claim to have killed an American pilot and burned a civilian plane, alleging it ferried Indonesian military personnel. The West Papua National Liberation Army stated the attack was a message to the US and Indonesian governments. Authorities confirmed the aircraft was found burnt but could not immediately verify the rebels' claims or the pilot's death. This incident escalates the ongoing low-level insurgency in the region.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/us-pilot-killed-plane-torched-in-papua-rebels-call-attack-a-message-to-america-indonesia/articleshow/132138233.cms",
+      "publishedAt": 1782993791000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "e744a09a16e36519",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.895,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
         "times_of_india"
       ],
-      "firstSeen": 1782959685000
+      "firstSeen": 1782993791000
+    },
+    {
+      "title": "Man Attacks Wife With Axe After Dispute, Then Dies By Suicide In UP",
+      "summary": "The couple is survived by a 19-year-old son and a nine-year-old daughter.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/india-news/man-attacks-wife-with-axe-after-dispute-then-dies-by-suicide-in-ups-kannauj-11717998#publisher=newsstand",
+      "publishedAt": 1782993711000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "d63a8171abd4c8ca",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.893,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782993711000
     },
     {
       "title": "Hope To Find Survivors Fades As Venezuela Quake Death Count Nears 2,300",
@@ -90,7 +183,7 @@
       "id": "572cb3f2289a3e56",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 3.877,
+      "breakingScore": 3.725,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -99,101 +192,6 @@
         "ndtv"
       ],
       "firstSeen": 1782986426000
-    },
-    {
-      "title": "Who Is Vadym Yermolaiev? Sanctioned Ukrainian Tycoon Wounded In Monaco Parcel Bomb Attack",
-      "summary": "Yermolaiev built his fortune in Dnipro's construction sector",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/world-news/who-is-vadym-yermolaiev-sanctioned-ukrainian-tycoon-wounded-in-monaco-parcel-bomb-attack-11715418#publisher=newsstand",
-      "publishedAt": 1782982320000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "4460cb67a9247840",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.782,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "ndtv"
-      ],
-      "firstSeen": 1782982320000
-    },
-    {
-      "title": "Monsoon tracker LIVE: Man dies after falling into manhole amid heavy rains in Mumbai",
-      "summary": "The incident occurred in the Chandivali area, where waterlogging apparently concealed the uncovered manhole",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-rain-news-traffic-delhi-ncr-punjab-kerala-tamil-nadu/article71173150.ece",
-      "publishedAt": 1782991203000,
-      "category": "topStories",
-      "region": "in",
-      "language": "en",
-      "id": "83bbe110bae6a8ce",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.987,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "the_hindu"
-      ],
-      "firstSeen": 1782986706000
-    },
-    {
-      "title": "Proverb of the day: 'Look before you leap' – a lesson on careful judgement and why one pause can change everything",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132130327.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />The age-old saying 'Look before you leap' serves as a vital reminder to carefully ponder decisions prior to acting. This principle illustrates how rash choices in life can result in lasting repercussions. While embracing risk is part of growth, it insists on prioritizing strategic thought and preparation in our quick-paced, tech-savvy existence, guiding us to make wiser choices and avoid avoidable setbacks.",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/proverb-of-the-day-look-before-you-leap-a-lesson-on-careful-judgement-and-why-one-pause-can-change-everything/articleshow/132130327.cms",
-      "publishedAt": 1782990000000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "fe7b5a61c79d749c",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.96,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "ndtv",
-        "times_of_india"
-      ],
-      "firstSeen": 1782989141000
-    },
-    {
-      "title": "Unesco warns Pakistan over 'reconstructions' at Taxila, the Vedic-era city",
-      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132136578.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
-      "source": "Times of India",
-      "sourceGroup": "times_of_india",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/unesco-warns-pakistan-over-reconstructions-at-taxila-the-vedic-era-city/articleshow/132136578.cms",
-      "publishedAt": 1782989311000,
-      "category": "india",
-      "region": "in",
-      "language": "en",
-      "id": "8f94dc28c4a286f7",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 2.944,
-      "breakingReasons": [
-        "multi_source_velocity"
-      ],
-      "sourceCount": 2,
-      "allSources": [
-        "the_hindu",
-        "times_of_india"
-      ],
-      "firstSeen": 1782985125000
     }
   ]
 }
