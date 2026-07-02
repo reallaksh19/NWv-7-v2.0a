@@ -1,114 +1,72 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": 1782981980780,
-  "contentHash": "0b97daa57781",
+  "fetchedAt": 1782991747168,
+  "contentHash": "d59422f22666",
   "breaking": [
     {
-      "title": "7 Killed, 5 Injured As Boulder Collapses In Bengaluru Stone Quarry",
-      "summary": "During the operation, a large boulder became dislodged and crashed onto workers.",
-      "source": "NDTV",
-      "sourceGroup": "ndtv",
-      "url": "https://www.ndtv.com/india-news/7-killed-5-injured-as-boulder-collapses-in-bengaluru-stone-quarry-11716562#publisher=newsstand",
-      "publishedAt": 1782976917000,
-      "category": "topStories",
+      "title": "Bomb threat email to ISRO, Bengaluru headquarters evacuated for thorough search",
+      "summary": "The email was received by the ISRO staff post-lunch",
+      "source": "The Hindu National",
+      "sourceGroup": "the_hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bomb-threat-email-to-isro-bengaluru-headquarters-evacuated-for-thorough-search/article71173947.ece",
+      "publishedAt": 1782990306000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "1910be44824db236",
+      "id": "6f8bf96e7539fac8",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.883,
+      "breakingScore": 4.467,
       "breakingReasons": [
+        "multi_source_velocity",
         "severity_lexicon"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "ndtv"
+        "ndtv",
+        "the_hindu"
       ],
-      "firstSeen": 1782976917000
+      "firstSeen": 1782989332000
     },
     {
-      "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+      "title": "'Wrote about ending his life': Pilot who hit Beijing's tallest building suffered from anxiety",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132136590.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />A 66-year-old pilot named Liu faced a harrowing battle with anxiety and suicidal thoughts, culminating in a crash into the CITIC Group headquarters, the tallest building in Beijing. The aircraft, which took off after a routine flight, strayed off its intended path, resulting in injuries to 13 individuals. This alarming incident has ignited serious discussions about aviation security in a city known for its stringent controls.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/china/wrote-about-ending-his-life-pilot-who-hit-beijings-tallest-building-suffered-from-anxiety/articleshow/132136590.cms",
+      "publishedAt": 1782988944000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "375adef59652fbb0",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 4.435,
+      "breakingReasons": [
+        "multi_source_velocity",
+        "severity_lexicon"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "ndtv",
+        "times_of_india"
+      ],
+      "firstSeen": 1782988185000
+    },
+    {
+      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
+      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
       "source": "BBC World",
       "sourceGroup": "bbc",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782976308000,
+      "publishedAt": 1782990712000,
       "category": "world",
       "region": "in",
       "language": "en",
       "id": "380a5126748993cd",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 6.869,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782976308000
-    },
-    {
-      "title": "Russian missiles and drones kill eight and cause damage across Ukraine capital",
-      "summary": "“Kyiv is under attack from ballistic missiles and UAVs,” Kyiv Mayor Vitali Klitschko said on Telegram, adding that blasts could be heard across the city.",
-      "source": "The Hindu International",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece",
-      "publishedAt": 1782969855000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "3145f2de5f65ffbd",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 5.219,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "the_hindu"
-      ],
-      "firstSeen": 1782958564000
-    },
-    {
-      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782968395000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "556aafd6fc788eed",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.686,
-      "breakingReasons": [
-        "severity_lexicon"
-      ],
-      "sourceCount": 1,
-      "allSources": [
-        "bbc"
-      ],
-      "firstSeen": 1782968395000
-    },
-    {
-      "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
-      "summary": "The two were atop the 1,454 ft (443m) building for at least ten minutes and displayed a large banner before climbing down.",
-      "source": "BBC World",
-      "sourceGroup": "bbc",
-      "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": 1782965769000,
-      "category": "world",
-      "region": "in",
-      "language": "en",
-      "id": "fa2a60d77918a187",
-      "suppressionReason": null,
-      "isBreaking": true,
-      "breakingScore": 3.625,
+      "breakingScore": 3.976,
       "breakingReasons": [
         "severity_lexicon"
       ],
@@ -117,46 +75,68 @@
         "bbc",
         "times_of_india"
       ],
-      "firstSeen": 1782950856000
+      "firstSeen": 1782959685000
     },
     {
-      "title": "Congress-BRS confrontation escalates into showdown in Hyderabad; alleged scam at Telangana’s Gurukuls under spotlight",
-      "summary": "Leaders challenged each other to public debates over allegations of irregularities in the procurement of uniforms, shoes and school bags for students of Telangana’s residential educational institutions (Gurkulams)",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/congress-brs-confrontation-escalates-into-showdown-in-hyderabad/article71173318.ece",
-      "publishedAt": 1782980723000,
+      "title": "Hope To Find Survivors Fades As Venezuela Quake Death Count Nears 2,300",
+      "summary": "Rescue workers search rubble in La Guaira, Venezuela, a week after twin earthquakes killed nearly 2,300.",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/hope-to-find-survivors-fades-as-venezuela-quake-death-count-nears-2-300-11716635#publisher=newsstand",
+      "publishedAt": 1782986426000,
       "category": "topStories",
       "region": "in",
       "language": "en",
-      "id": "ecfad0b36f8d8cf7",
+      "id": "572cb3f2289a3e56",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.971,
+      "breakingScore": 3.877,
       "breakingReasons": [
-        "multi_source_velocity"
+        "severity_lexicon"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "allSources": [
-        "ndtv",
-        "the_hindu"
+        "ndtv"
       ],
-      "firstSeen": 1782976822000
+      "firstSeen": 1782986426000
     },
     {
-      "title": "Monsoon tracker LIVE: Monsoon arrives in Delhi; Mumbai’s Juhu records 205 mm rainfall in 24 hours",
-      "summary": "The IMD said it is for the first time since 2021 that monsoon has arrived in Delhi in July",
+      "title": "Who Is Vadym Yermolaiev? Sanctioned Ukrainian Tycoon Wounded In Monaco Parcel Bomb Attack",
+      "summary": "Yermolaiev built his fortune in Dnipro's construction sector",
+      "source": "NDTV",
+      "sourceGroup": "ndtv",
+      "url": "https://www.ndtv.com/world-news/who-is-vadym-yermolaiev-sanctioned-ukrainian-tycoon-wounded-in-monaco-parcel-bomb-attack-11715418#publisher=newsstand",
+      "publishedAt": 1782982320000,
+      "category": "topStories",
+      "region": "in",
+      "language": "en",
+      "id": "4460cb67a9247840",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 3.782,
+      "breakingReasons": [
+        "severity_lexicon"
+      ],
+      "sourceCount": 1,
+      "allSources": [
+        "ndtv"
+      ],
+      "firstSeen": 1782982320000
+    },
+    {
+      "title": "Monsoon tracker LIVE: Man dies after falling into manhole amid heavy rains in Mumbai",
+      "summary": "The incident occurred in the Chandivali area, where waterlogging apparently concealed the uncovered manhole",
       "source": "The Hindu",
       "sourceGroup": "the_hindu",
       "url": "https://www.thehindu.com/news/national/weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-rain-news-traffic-delhi-ncr-punjab-kerala-tamil-nadu/article71173150.ece",
-      "publishedAt": 1782979467000,
+      "publishedAt": 1782991203000,
       "category": "topStories",
       "region": "in",
       "language": "en",
       "id": "83bbe110bae6a8ce",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.942,
+      "breakingScore": 2.987,
       "breakingReasons": [
         "multi_source_velocity"
       ],
@@ -165,30 +145,55 @@
         "ndtv",
         "the_hindu"
       ],
-      "firstSeen": 1782978085000
+      "firstSeen": 1782986706000
     },
     {
-      "title": "West Asia war LIVE: Pakistan says ‘positive progress’ made in U.S.-Iran talks",
-      "summary": "Parties have agreed to continue discussions over the coming period, with the next meeting to be set at the earliest possible time following the funeral processions of the former Iranian Supreme Leader, the Pakistan Foreign Office said in a statement.",
-      "source": "The Hindu",
-      "sourceGroup": "the_hindu",
-      "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-2-2026-trump-israel-west-asia-war/article71172891.ece",
-      "publishedAt": 1782980700000,
-      "category": "topStories",
+      "title": "Proverb of the day: 'Look before you leap' – a lesson on careful judgement and why one pause can change everything",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132130327.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />The age-old saying 'Look before you leap' serves as a vital reminder to carefully ponder decisions prior to acting. This principle illustrates how rash choices in life can result in lasting repercussions. While embracing risk is part of growth, it insists on prioritizing strategic thought and preparation in our quick-paced, tech-savvy existence, guiding us to make wiser choices and avoid avoidable setbacks.",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/proverb-of-the-day-look-before-you-leap-a-lesson-on-careful-judgement-and-why-one-pause-can-change-everything/articleshow/132130327.cms",
+      "publishedAt": 1782990000000,
+      "category": "india",
       "region": "in",
       "language": "en",
-      "id": "df1a2e06b6eaf5a0",
+      "id": "fe7b5a61c79d749c",
       "suppressionReason": null,
       "isBreaking": true,
-      "breakingScore": 2.47,
+      "breakingScore": 2.96,
       "breakingReasons": [
-        "severity_lexicon"
+        "multi_source_velocity"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "allSources": [
-        "the_hindu"
+        "ndtv",
+        "times_of_india"
       ],
-      "firstSeen": 1782980700000
+      "firstSeen": 1782989141000
+    },
+    {
+      "title": "Unesco warns Pakistan over 'reconstructions' at Taxila, the Vedic-era city",
+      "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132136578.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+      "source": "Times of India",
+      "sourceGroup": "times_of_india",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/unesco-warns-pakistan-over-reconstructions-at-taxila-the-vedic-era-city/articleshow/132136578.cms",
+      "publishedAt": 1782989311000,
+      "category": "india",
+      "region": "in",
+      "language": "en",
+      "id": "8f94dc28c4a286f7",
+      "suppressionReason": null,
+      "isBreaking": true,
+      "breakingScore": 2.944,
+      "breakingReasons": [
+        "multi_source_velocity"
+      ],
+      "sourceCount": 2,
+      "allSources": [
+        "the_hindu",
+        "times_of_india"
+      ],
+      "firstSeen": 1782985125000
     }
   ]
 }
