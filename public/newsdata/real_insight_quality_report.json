@@ -1,20 +1,20 @@
 {
   "status": "PASS",
   "benchmarkVersion": "real-insight-snapshot-quality-v1",
-  "generatedAt": 1782940831455,
-  "contentHash": "1badc6223a9d9e98",
+  "generatedAt": 1782950541239,
+  "contentHash": "dc9d3383ff828f51",
   "schemaVersion": 3,
   "collectorVersion": "insight-collector-json-v4",
-  "storyCount": 652,
+  "storyCount": 585,
   "sourceGroupCount": 10,
   "grade": "C",
   "parentCount": 10,
   "avgAngles": 1.3,
-  "avgTemporalTiers": 1.8,
+  "avgTemporalTiers": 1.7,
   "avgEvolutionRoles": 1.5,
-  "baseReportShare": 0.2,
+  "baseReportShare": 0.21052631578947367,
   "multiAngleCount": 3,
-  "weakParentCount": 0,
+  "weakParentCount": 1,
   "runtimeQualityGate": {
     "attempted": true,
     "recovered": false,
@@ -23,51 +23,55 @@
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 50,
+      "signalScore": 47,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 600,
+      "storyCount": 545,
       "risingCount": 0,
-      "thinCount": 0,
+      "thinCount": 1,
       "multiAngleCount": 3,
       "lowAngleCount": 7,
       "strongAngleCount": 0,
       "avgAngles": 1.3,
-      "avgChildren": 2,
-      "avgScore": 0.6606207038494989,
-      "sourceDiversityCoverage": 10,
+      "avgChildren": 1.9,
+      "avgScore": 0.6649334813521639,
+      "sourceDiversityCoverage": 9,
       "snapshotCoverage": 4,
       "coverageLabel": "3/10",
       "warnings": [
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
+        "1 cluster(s) are below source-diversity target.",
         "6 cluster(s) have weak snapshot coverage.",
-        "520 duplicate/near-duplicate item(s) were hidden or downgraded."
+        "1 cluster(s) are marked thin.",
+        "400 duplicate/near-duplicate item(s) were hidden or downgraded."
       ]
     },
     "after": {
       "grade": "C",
       "tone": "warn",
       "title": "Thin but usable signal",
-      "signalScore": 50,
+      "signalScore": 47,
       "sourceLabel": "Live",
       "rankedCount": 10,
-      "storyCount": 600,
+      "storyCount": 545,
       "risingCount": 0,
-      "thinCount": 0,
+      "thinCount": 1,
       "multiAngleCount": 3,
       "lowAngleCount": 7,
       "strongAngleCount": 0,
       "avgAngles": 1.3,
-      "avgChildren": 2,
-      "avgScore": 0.6606207038494989,
-      "sourceDiversityCoverage": 10,
+      "avgChildren": 1.9,
+      "avgScore": 0.6649334813521639,
+      "sourceDiversityCoverage": 9,
       "snapshotCoverage": 4,
       "coverageLabel": "3/10",
       "warnings": [
         "7 cluster(s) have fewer than two visible child angles.",
         "No cluster currently exposes three or more visible child angles.",
-        "6 cluster(s) have weak snapshot coverage."
+        "1 cluster(s) are below source-diversity target.",
+        "6 cluster(s) have weak snapshot coverage.",
+        "1 cluster(s) are marked thin."
       ]
     },
     "recoveryConfig": {
@@ -81,7 +85,7 @@
   },
   "parents": [
     {
-      "parentId": "cluster_243_c47e4574c51b61b5",
+      "parentId": "cluster_248_c47e4574c51b61b5",
       "headline": "Price of commercial LPG, 5-kg FTL and domestic ATF reduced as conflict pressures ease",
       "score": 0.6874967197849983,
       "postTreeScore": 1.0675,
@@ -102,7 +106,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_87_5702ba20082b464e",
+      "parentId": "cluster_91_5702ba20082b464e",
       "headline": "Three held for bid to bribe TVK MLA to vote against Speaker in no-confidence motion",
       "score": 0.60551,
       "postTreeScore": 1.0055,
@@ -123,7 +127,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_250_f46504574f5f4eb1",
+      "parentId": "cluster_255_f46504574f5f4eb1",
       "headline": "ATF price cut by ₹5/litre to ₹110 on softer global oil prices",
       "score": 0.59551,
       "postTreeScore": 0.9955,
@@ -143,7 +147,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_235_db0dab3925a2db09",
+      "parentId": "cluster_240_db0dab3925a2db09",
       "headline": "TVS extends lead as India’s electric two-wheeler registrations surge 74% in June",
       "score": 0.7255600000000002,
       "postTreeScore": 0.8156,
@@ -162,7 +166,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_97_1265cc2844ff9c3e",
+      "parentId": "cluster_101_1265cc2844ff9c3e",
       "headline": "Starmer's defence investment plan leaves £5 billion funding gap for Burnham",
       "score": 0.680563386451665,
       "postTreeScore": 0.7706,
@@ -181,7 +185,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_395_04ce377470b99fe5",
+      "parentId": "cluster_402_04ce377470b99fe5",
       "headline": "Godrej Properties acquires 47-acre land parcel in South Chennai, eyes ₹500 crore revenue",
       "score": 0.6875300531183317,
       "postTreeScore": 0.7575,
@@ -200,7 +204,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_396_6f5f96754d709e7f",
+      "parentId": "cluster_403_6f5f96754d709e7f",
       "headline": "ICEYE chooses India for sovereign SAR mission; picks Agnikul Cosmos as launch partner",
       "score": 0.6823967197849983,
       "postTreeScore": 0.7524,
@@ -220,26 +224,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_486_fc642c0efe92b6ee",
-      "headline": "Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0",
-      "score": 0.6795633864516649,
-      "postTreeScore": 0.7496,
-      "childCount": 2,
-      "angles": [
-        "fact_update"
-      ],
-      "temporalTiers": [
-        "breaking",
-        "developing"
-      ],
-      "evolutionRoles": [
-        "official_response"
-      ],
-      "baseReportShare": 0,
-      "weakTree": false
-    },
-    {
-      "parentId": "cluster_352_57e6f3d23a8d2222",
+      "parentId": "cluster_358_57e6f3d23a8d2222",
       "headline": "U.S. Supreme Court upholds State laws banning transgender girls, women from school athletic teams",
       "score": 0.6522467197849984,
       "postTreeScore": 0.7222,
@@ -258,7 +243,7 @@
       "weakTree": false
     },
     {
-      "parentId": "cluster_238_9a8cc9d6e0be5bf0",
+      "parentId": "cluster_243_9a8cc9d6e0be5bf0",
       "headline": "'Don't want to look like America': 5 reasons why Europe is against ACs despite melting summers",
       "score": 0.6098300531183317,
       "postTreeScore": 0.6798,
@@ -275,6 +260,24 @@
       ],
       "baseReportShare": 1,
       "weakTree": false
+    },
+    {
+      "parentId": "cluster_98_a61d184113499818",
+      "headline": "Shutterstock shares crash 29% after Getty Images calls off $3.7 billion merger",
+      "score": 0.7226911614783158,
+      "postTreeScore": 0.4227,
+      "childCount": 1,
+      "angles": [
+        "fact_update"
+      ],
+      "temporalTiers": [
+        "breaking"
+      ],
+      "evolutionRoles": [
+        "fact_update"
+      ],
+      "baseReportShare": 0,
+      "weakTree": true
     }
   ],
   "warnings": [],
@@ -283,7 +286,7 @@
     "status": "FAIL",
     "gateVersion": "real-insight-snapshot-ratchet-v1",
     "grade": "C",
-    "score": 52,
+    "score": 28,
     "passed": [
       {
         "id": "grade-floor",
@@ -298,15 +301,9 @@
         "required": ">= 3"
       },
       {
-        "id": "avg-temporal-tier-count",
-        "label": "Average temporal tier count",
-        "actual": 1.8,
-        "required": ">= 1.8"
-      },
-      {
         "id": "base-report-share",
         "label": "Base report share",
-        "actual": 0.2,
+        "actual": 0.211,
         "required": "<= 0.55"
       },
       {
@@ -330,7 +327,7 @@
       {
         "id": "weak-parent-ratio",
         "label": "Weak parent ratio",
-        "actual": 0,
+        "actual": 0.1,
         "required": "<= 0.5"
       }
     ],
@@ -344,6 +341,14 @@
         "fix": "Angle-diverse child selection is not strong enough on real data."
       },
       {
+        "id": "avg-temporal-tier-count",
+        "label": "Average temporal tier count",
+        "actual": 1.7,
+        "required": ">= 1.8",
+        "severity": "fail",
+        "fix": "C+E output should cover multiple event-time tiers, not only source buckets."
+      },
+      {
         "id": "avg-evolution-role-count",
         "label": "Average evolution role count",
         "actual": 1.5,
@@ -355,15 +360,15 @@
     "summary": {
       "parentCount": 10,
       "avgAngles": 1.3,
-      "avgTemporalTiers": 1.8,
+      "avgTemporalTiers": 1.7,
       "avgEvolutionRoles": 1.5,
-      "baseReportShare": 0.2,
+      "baseReportShare": 0.211,
       "multiAngleCount": 3,
-      "weakParentCount": 0,
-      "weakParentRatio": 0,
+      "weakParentCount": 1,
+      "weakParentRatio": 0.1,
       "topParentAngles": 2,
       "topParentChildren": 2,
-      "storyCount": 652,
+      "storyCount": 585,
       "sourceGroupCount": 10
     }
   }
